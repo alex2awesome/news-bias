@@ -1,0 +1,221 @@
+WARC/1.0
+WARC-Type: response
+WARC-Date: 2020-08-05T13:40:37Z
+WARC-Record-ID: <urn:uuid:f4b5d18e-7246-45ba-bbb4-72298c71c742>
+Content-Length: 37445
+Content-Type: application/http; msgtype=response
+WARC-Warcinfo-ID: <urn:uuid:7ab50373-9626-4bdc-8713-fbb34103d098>
+WARC-Concurrent-To: <urn:uuid:4d4482b2-4711-4791-b055-9a42ef17b375>
+WARC-IP-Address: 54.157.174.158
+WARC-Target-URI: https://www.theflipside.io/archives/covid-relief-bill
+WARC-Payload-Digest: sha1:FSJQM42MP4KJCGCGNUNYNFKBHK6YJOQP
+WARC-Block-Digest: sha1:DYWNUPTNI6KOSRRPFK43HWYMXXN4DSKL
+WARC-Identified-Payload-Type: text/html
+
+HTTP/1.1 200 OK
+Server: openresty
+Date: Wed, 05 Aug 2020 13:40:37 GMT
+Content-Type: text/html
+X-Crawler-Content-Length: 12915
+Content-Length: 36837
+Connection: keep-alive
+X-Crawler-Content-Encoding: gzip
+Content-Security-Policy: frame-ancestors 'self'
+X-Frame-Options: SAMEORIGIN
+x-lambda-id: 7d1cedef-a929-435e-868f-8c8e26da7eac
+Via: 1.1 varnish
+Accept-Ranges: bytes
+Via: 1.1 varnish
+Age: 6703
+X-Served-By: cache-dca17771-DCA, cache-wdc5575-WDC
+X-Cache: HIT, MISS
+X-Cache-Hits: 1, 0
+X-Timer: S1596634837.441020,VS0,VE2
+Vary: Accept-Encoding
+X-Cluster-Name: us-east-1-prod-edge-eks-15
+
+<!DOCTYPE html><!-- Last Published: Wed Aug 05 2020 06:48:23 GMT+0000 (Coordinated Universal Time) --><html data-wf-domain="www.theflipside.io" data-wf-page="5c0affae2387a21ad549fb85" data-wf-site="5bfd76c121f9503755c665f9" lang="en"><head><meta charset="utf-8"/><title>COVID Relief Bill | The Flip Side</title><meta content="COVID Relief Bill" name="description"/><meta content="COVID Relief Bill | The Flip Side" property="og:title"/><meta content="Get the most intelligent quotes from both sides—in a free, 5-minute email a day." property="og:description"/><meta content="https://assets-global.website-files.com/5c01d9d275e85a6371ce6d1e/5c4e9148fe98b202812657bb_bears%20working%20together.png" property="og:image"/><meta content="COVID Relief Bill | The Flip Side" property="twitter:title"/><meta content="Get the most intelligent quotes from both sides—in a free, 5-minute email a day." property="twitter:description"/><meta content="https://assets-global.website-files.com/5c01d9d275e85a6371ce6d1e/5c4e9148fe98b202812657bb_bears%20working%20together.png" property="twitter:image"/><meta property="og:type" content="website"/><meta content="summary_large_image" name="twitter:card"/><meta content="width=device-width, initial-scale=1" name="viewport"/><link href="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/css/the-flipside.9720be48d.min.css" rel="stylesheet" type="text/css"/><script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript"></script><script type="text/javascript">WebFont.load({  google: {    families: ["Lato:100,100italic,300,300italic,400,400italic,700,700italic,900,900italic"]  }});</script><script src="https://use.typekit.net/ief5vbu.js" type="text/javascript"></script><script type="text/javascript">try{Typekit.load();}catch(e){}</script><!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js" type="text/javascript"></script><![endif]--><script type="text/javascript">!function(o,c){var n=c.documentElement,t=" w-mod-";n.className+=t+"js",("ontouchstart"in o||o.DocumentTouch&&c instanceof DocumentTouch)&&(n.className+=t+"touch")}(window,document);</script><link href="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5c03871b75e85a9d2ecf243a_favicon-32x32.png" rel="shortcut icon" type="image/x-icon"/><link href="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5c038790f4cf11a559cd3a57_webclip256.png" rel="apple-touch-icon"/><link href="rss.xml" rel="alternate" title="RSS Feed" type="application/rss+xml"/><script type="text/javascript">!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.agent='plwebflow';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');fbq('init', '420932135099202');fbq('track', 'PageView');</script><!-- Async Anti-Flicker Code -->
+
+<style>.async-hide { opacity: 0 !important} </style>
+<script>(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+(a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+})(window,document.documentElement,'async-hide','dataLayer',4000,
+{'GTM-58K3PC7':true});</script>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-58K3PC7');</script>
+<!-- End Google Tag Manager -->
+
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<!-- Memberstack --> 
+<script src="https://api.memberstack.io/static/memberstack.js?webflow" data-memberstack-id="dd4b66b62c37ef91c54289827c1f3114"> </script><style>
+@media (max-width: 479px) {
+  .paragraph-div a {
+  	  font-size: 17px;
+    	line-height: 24px; }
+      
+  .on-the-bright-side a {
+  	  font-size: 17px;
+    	line-height: 24px; }
+}
+@media (max-width: 767px) {
+	.div-block-38 a {
+  	  font-size: 17px; 
+    	line-height: 24px; 
+}	
+  .paragraph-div a {
+  	  font-size: 17px;
+    	line-height: 26px; }
+      
+.on-the-bright-side a {
+  	  font-size: 17px;
+    	line-height: 26px; }
+}
+.w-nav-overlay {
+    z-index: 1002 !important;
+}
+</style></head><body class="body"><div data-collapse="medium" data-animation="over-right" data-duration="400" role="banner" class="navbar w-nav"><nav role="navigation" class="nav-menu w-nav-menu"><div class="nav-open-menu-links"><a href="/latest-issue" class="nav-open-menu-item mobile latest-issue w-nav-link">Latest Issue</a><a href="/archives" class="nav-open-menu-item mobile w-nav-link">Archives</a><a href="/about-us" class="nav-open-menu-item mobile w-nav-link">About Us</a><a href="/faq" class="nav-open-menu-item mobile faq w-nav-link">FAQ</a></div><div class="nav-menu-newsletter"><div class="form-block mobile w-form"><form id="email-form" name="email-form" data-name="Email Form" redirect="/one-more-thing" data-redirect="/one-more-thing" action="https://theflipside.us15.list-manage.com/subscribe/post?u=281c839c990f42b374467ae5f&amp;amp;id=7566a2ca43&quot; method=&quot;post&quot; id=&quot;mc-embedded-subscribe-form&quot; name=&quot;mc-embedded-subscribe-form" method="post" class="form mobile"><div class="text-block">GET TROLL-FREE POLITICAL NEWS</div><input type="email" class="text-field mobile w-input" maxlength="256" name="email-2" data-name="Email 2" placeholder="your email address" id="email-2" required=""/><input type="submit" value="I want to keep up with both sides &gt;" data-wait="Please wait..." class="submit-button mobile w-button"/><div class="text-block-2">We never spam and only send awesome news digests. Unsubscribe any time.</div></form><div class="w-form-done"><div>Thank you! Your submission has been received!</div></div><div class="w-form-fail"><div>Oops! Something went wrong while submitting the form.</div></div></div></div></nav><div data-w-id="83b1dd7a-785a-0585-a0c0-e44f2b23d2b5" class="nav-bar navbarother"><a href="/home-2-0" class="nav-logo w-nav-brand"><img src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5c018cd0879ec8a3e5fc263b_TFS%20Logo-n.png" alt="Logo" width="125" class="image-22 logo"/></a><div class="div-right header w-hidden-medium w-hidden-small w-hidden-tiny"><div class="nav-menu-links flex"><a href="/latest-issue" class="nav-link small w-nav-link">LATEST ISSUE</a><a href="/archives" class="nav-link small w-nav-link">ARCHIVES</a><a href="/about-us" class="nav-link small w-nav-link">ABOUT US</a><a href="/faq" class="nav-link small faq w-nav-link">FAQ</a></div></div><div class="div-right header w-hidden-medium w-hidden-small w-hidden-tiny"><div class="header-form w-form"><form id="email-form-2" name="email-form-2" data-name="Email Form 2" method="post" action="https://theflipside.us15.list-manage.com/subscribe/post?u=281c839c990f42b374467ae5f&amp;amp;id=7566a2ca43&quot; method=&quot;post&quot; id=&quot;mc-embedded-subscribe-form&quot; name=&quot;mc-embedded-subscribe-form" redirect="/one-more-thing" data-redirect="/one-more-thing" class="form-3"><input type="email" class="email-address-field-grey header w-input" maxlength="256" name="hero-optin-2" data-name="Hero Optin 2" placeholder="your email address" id="hero-optin-2" required=""/><div class="w-embed"><input type="hidden" name="MMERGE1" value="desk-menu"/></div><input type="submit" value="Subscribe &gt;" data-wait="Please wait..." id="https-theflipside.us15.list-manage.com-subscribe-post-u-281c839c990f42b374467ae5f-id-a0c19d8bf4" class="submit-button hero header w-button"/></form><div class="w-form-done"><div>Thank you! Your submission has been received!</div></div><div class="w-form-fail"><div>Oops! Something went wrong while submitting the form.</div></div></div></div></div><div class="menu-button-nav w-nav-button" data-ix="hamburger-button"><div class="top-line"></div><div class="middle-line"></div><div class="bottom-line"></div></div></div><div class="section-3"><div><h1 class="heading-16">July 23, 2020</h1><h1 class="heading-17">COVID Relief Bill</h1><div class="container-8 w-container"><div class="rich-text-block-4 w-dyn-bind-empty w-richtext"></div><img src="" alt="" class="image-48 w-dyn-bind-empty"/><div class="paragraph-div"><div class="rich-text-block-2 w-richtext"><p>On Wednesday evening, “Senate Republicans and the White House reached tentative agreement for more testing funds in the next COVID-19 relief package, but <a href="https://theflipside.us15.list-manage.com/track/click?u=281c839c990f42b374467ae5f&amp;id=c18470ed1a&amp;e=6f16cb1c23" target="_blank">deep disagreements over the scope of the $1 trillion in federal aid remain</a>… Still unresolved is how to phase out the $600 weekly unemployment benefit boost that is expiring, starting Friday. Republicans appear to be settling on $200 a week that would ultimately be adjusted according to state jobless benefits rates.” <strong>Chicago Tribune</strong></p></div><a href="/archives" class="link-6">See past issues</a></div></div><img src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5bfee82d95c45605590f6387_bear-badge.png" width="114" alt="" class="image archives"/><div class="columns w-row"><div class="blue-divider w-col w-col-6 w-col-small-6 w-col-tiny-6"><div style="background-color:#453158" class="div-block-2"></div></div><div class="red-divider w-col w-col-6 w-col-small-6 w-col-tiny-6"><div style="background-color:#453158" class="div-block-3"></div></div></div><div class="div-block-38"><div class="columns-15 w-row"><div class="column-60 w-clearfix w-col w-col-6 w-col-small-6 w-col-tiny-tiny-stack"><h1 class="from-the-left-heading w-dyn-bind-empty"></h1><h1 class="from-the-left-heading sponsored">From the Right</h1><div style="border-color:#e20f22" class="paragraph-6 left intro w-richtext"><p>The right supports additional stimulus measures but argues that unemployment benefits should be limited so that they do not exceed employees’ prior salaries.</p></div><div class="paragraph-6 left bullet first w-dyn-bind-empty w-richtext"></div><div style="border-color:#e20f22" class="paragraph-6 left bullet first sponsored w-richtext"><p>“Congressional Democrats want to use the pandemic as an excuse to expand safety net programs even more, and Democrat-led states are using it to justify a lawsuit aimed at weakening existing work incentives for benefit recipients. Speaker Nancy Pelosi requested a 15 percent increase to the maximum SNAP benefit (formerly Food Stamps), even though Congress already passed legislation to increase benefits by an average of 40 percent in the fallout of the pandemic… <br/><br/>“[But] the safety net <a href="https://theflipside.us15.list-manage.com/track/click?u=281c839c990f42b374467ae5f&amp;id=8aba8385a3&amp;e=6f16cb1c23" target="_blank">discourages employment by ‘taxing’ away increased earnings</a>… A 2019 government study found that a low-income working mother would only be able to take home $1,300 from a $5,000 annual pay raise because the extra pay would cause her to lose childcare assistance… It is no wonder that four in 10 people in poverty believe that welfare benefits encourage people to stay poor (according to a 2016 AEI/LA Times survey), and only 8 percent feel the government has had a big impact on reducing poverty.”<br/><strong>Angela Rachidi, American Enterprise Institute</strong><br/><br/>“There’s no rationale for paying people more than 100 percent of their previous earnings (insurance companies don’t compensate people for more than 100 percent of their losses)... For those businesses still hanging on, consider the impact of having to increase wages to compete with the $600 benefit. Matching unemployment benefits would require a restaurant owner to raise wages from $10 per hour to $20.50 (unemployed workers would qualify for the equivalent of $20 per hour in unemployment benefits as well as lower taxes on unemployment)... <br/><br/>“According to the Congressional Budget Office, House Democrats’ proposal to continue <a href="https://theflipside.us15.list-manage.com/track/click?u=281c839c990f42b374467ae5f&amp;id=5309ca5ce5&amp;e=6f16cb1c23" target="_blank">the extra $600 weekly payment through January would reduce employment in 2020-2021</a>; cause economic output to be lower next year; and contribute to more business closures… it would also be unfair to current workers who continue to labor while some get paid less than those on unemployment.”<br/><strong>Rachel Greszler, NBC News Think</strong><br/><br/>“The Senate GOP can renew the unemployment benefits as part of their next relief bill, but include the phrase ‘<a href="https://theflipside.us15.list-manage.com/track/click?u=281c839c990f42b374467ae5f&amp;id=685858dca5&amp;e=6f16cb1c23" target="_blank">up to a maximum of 85% of the employee’s previous wages</a>.’ If you don’t like 85% you can substitute 80 or 90. Take your pick. That keeps all of the people who are unemployed through no fault of their own in a position where they’re still not going to be in terrible shape, but it removes the disincentive to return to work. It also lowers the total cost a bit… <br/><br/>“At that point, the GOP can dare the Democrats to shoot the bill down over such a thin alteration to the benefits for completely justifiable reasons. And if Nancy Pelosi and her crew are dumb enough to pick up that gauntlet, McConnell just flips the script and blames the Democrats for everyone not getting their enhanced unemployment benefits. This really doesn’t have to be all that hard.”<br/><strong>Jazz Shaw, Hot Air</strong><br/><br/>“The surest way for the GOP to seal its electoral fate would be to <a href="https://theflipside.us15.list-manage.com/track/click?u=281c839c990f42b374467ae5f&amp;id=4d3f695d04&amp;e=6f16cb1c23" target="_blank">cut funds for laid-off Americans as the pandemic continues to rage</a> across the south and California, putting lives and businesses at risk. It’d be gifting Democrats with the message, ‘We’re the only party that cares about you and your children.’… <br/><br/>“Fiscal responsibility at a moment like this would at least be intellectually defensible (although still politically suicidal) if Cruz and the rest of the congressional GOP had spent the past three years riding herd on Trump and McConnell, howling for spending cuts in a push to reduce the country’s already catastrophic debt. But they didn’t. They were blessed with three years of roaring economic growth, a perfect moment at which to restore fiscal sanity, and they still managed to run trillion-dollar deficits.”<br/><strong>Allahpundit, Hot Air</strong><br/><br/>“Rather than offering minimal one-time payouts and loans, many other countries directly subsidized wages to encourage companies to keep employees on the payroll. This is an improvement on the bureaucratic difficulties of the American PPP as well as the financial limitations of the one-time payment. This strategy also prevented the problem of paying unemployed workers more than they earned while they were working… Am I concerned about the deficit and effect of adding trillions more to the national debt? Absolutely. But the pandemic is a legitimate national emergency <a href="https://theflipside.us15.list-manage.com/track/click?u=281c839c990f42b374467ae5f&amp;id=5cd14ebb34&amp;e=6f16cb1c23" target="_blank">whose impact is likely to be much worse than the impact of running up the national debt</a>. If your house is on fire, you put it out before you worry about paying off credit card debt.”<br/><strong>David Thornton, The Resurgent</strong></p></div><div class="paragraph-6 left bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 left bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 left bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 left bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 left bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 left bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 left bullet w-dyn-bind-empty w-richtext"></div></div><div class="column-61 w-clearfix w-col w-col-6 w-col-small-6 w-col-tiny-tiny-stack"><h1 class="from-the-right-heading w-dyn-bind-empty"></h1><h1 class="from-the-right-heading sponsored">From the Left</h1><div style="border-color:#0050a7" class="paragraph-6 right intro w-hidden-tiny w-richtext"><p>The left supports continuing current unemployment benefits, arguing that it is unlikely people will choose temporary unemployment benefits over returning to work.</p></div><div class="paragraph-6 right intro w-hidden-main w-hidden-medium w-hidden-small w-richtext"><p>The left supports continuing current unemployment benefits, arguing that it is unlikely people will choose temporary unemployment benefits over returning to work.</p></div><div class="paragraph-6 right bullet first w-dyn-bind-empty w-richtext"></div><div style="border-color:#0050a7" class="paragraph-6 right bullet first sponsored w-richtext"><p>“While 4.8 million new jobs were added [in June], at least 17.8 million people remained unemployed… A June working paper from researchers Jose Maria Barrero, Nick Bloom, and Steven Davis put it a different way: <a href="https://theflipside.us15.list-manage.com/track/click?u=281c839c990f42b374467ae5f&amp;id=401d488751&amp;e=6f16cb1c23" target="_blank">For every three new jobs, there have been 10 layoffs</a>… Republicans [are] intent on including incentives that will motivate people to return to work. That approach, however, continues to overlook a fundamental reality of the current economic crisis.”<br/><strong>Li Zhou, Vox</strong><br/><br/>“Even Republicans’ star witness in a recent Senate hearing about whether benefits were too lavish — a small-business owner whose employees had grumbled because their laid-off colleagues were earning more on the dole — acknowledged that he had no trouble rehiring all his workers… Fatter though [the] benefit checks may be, workers know that they’re temporary. Most don’t want to burn a bridge by turning down a job offer when unemployment remains at its highest levels since the Great Depression. And federal and state rules already require people to lose their benefits if they refuse ‘suitable work.’… <br/><br/>“Look, the current benefit design shouldn’t continue as-is forever. At some point, as economic conditions normalize, jobless benefits greater than workers’ expected wages <em>will</em> disincentivize work. <a href="https://theflipside.us15.list-manage.com/track/click?u=281c839c990f42b374467ae5f&amp;id=d9eeebf1df&amp;e=6f16cb1c23" target="_blank">That’s why it’s a good idea to phase out the $600 bonus as the economy recovers</a>, and link benefit levels to state economic and public health conditions.”<br/><strong>Catherine Rampell, Washington Post</strong><br/><br/>“The 33 economists in our study collectively thought there was a 59 percent chance that either keeping the payment steady or increasing it to above $600 per week would be most beneficial to the economy… This makes sense considering that another recent IGM survey found that <a href="https://theflipside.us15.list-manage.com/track/click?u=281c839c990f42b374467ae5f&amp;id=6261219180&amp;e=6f16cb1c23" target="_blank">most economists blamed high unemployment on companies that weren’t hiring — not on people choosing not to work</a>… <br/><br/>“It was notable that the least popular response to the question above was an alternative to the $600-per-week payment that’s been floated by some Republicans, who have proposed a ‘back to work bonus’ for people who return to their jobs instead of continuing to supplement workers’ unemployment benefits. Economists thought there was only a 16 percent chance this would do the most to benefit the economy.”<br/><strong>Neil Paine and Amelia Thomson-DeVeaux, FiveThirtyEight</strong><br/><br/>“After having decided to lock down the economy to suppress the pandemic, <a href="https://theflipside.us15.list-manage.com/track/click?u=281c839c990f42b374467ae5f&amp;id=ad9d7e220b&amp;e=6f16cb1c23" target="_blank">a rational course of action</a> would enable businesses to pay their workers rather than forcing workers onto the unemployment rolls, along with the insecurity that comes with losing their jobs and their health insurance. A sensible government would guarantee universal health care, or at least universal paid care for any treatment or testing related to the pandemic… <br/><br/>“Clear protective measures and safety standards would be defined—negotiated industry by industry in sectoral bargaining between workers and employers and enforced by elected workplace monitors in every workplace. In exchange, businesses would be reimbursed for the cost of redesigning work and workplaces to make them safe. The return to work would be coordinated with the opening of universal day care and of public schools. Mortgage and rent moratoriums would be extended. Hazard pay would reward those ‘essential workers’ forced to work.”<br/><strong>Robert L. Borosage, The Nation</strong><br/><br/>Instead, “Exploiting the lax terms of the P.P.P., wealth managers, corporate restaurant chains, energy firms, exclusive private schools, and companies owned by billionaires received taxpayers’ money, alongside shuttered mom-and-pop stores… we also know that, under the terms of the Cares Act, many wealthy people and businesses, including real-estate developers like Trump and the Kushner family, stood to receive billions of dollars in tax breaks… <br/><br/>“Some people who are out of work do have somewhat higher incomes than when they were employed. But <a href="https://theflipside.us15.list-manage.com/track/click?u=281c839c990f42b374467ae5f&amp;id=d1b7456c91&amp;e=6f16cb1c23" target="_blank">this isn’t preventing them from returning to the workplace</a>… Ernie Tedeschi, an economist at Evercore ISI, estimated that ‘around 70% of the UI recipients who returned to work were making more on UI than their prior wage, and yet still returned to work.’… At a time when many well-to-do Americans are benefitting from the ability to work at home, or access to P.P.P. loans, or a bubbly stock market, it is unconscionable to punish those who happened to be working in businesses and industries that the pandemic impacted most adversely.”<br/><strong>John Cassidy, The New Yorker</strong></p></div><div class="paragraph-6 right bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 right bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 right bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 right bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 right bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 right bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 right bullet w-dyn-bind-empty w-richtext"></div></div></div><div class="w-row"><div class="column-60 w-col w-col-6 w-col-small-6 w-col-tiny-tiny-stack"></div><div class="column-61 w-col w-col-6 w-col-small-6 w-col-tiny-tiny-stack"></div></div><div class="w-layout-grid grid-7 w-clearfix"><div id="w-node-c9ca80732245-d549fb85" class="paragraph-6 wide center w-dyn-bind-empty w-richtext"></div><div id="w-node-c9ca80732246-d549fb85" class="paragraph-6 wide libertarian w-dyn-bind-empty w-richtext"></div></div></div><div class="additional-closing w-dyn-bind-empty w-richtext"></div><div style="border-color:#453158" class="on-the-bright-side"><h4 class="heading-18">On the bright side...</h4><div class="rich-text-block-3 w-richtext"><p><a href="https://theflipside.us15.list-manage.com/track/click?u=281c839c990f42b374467ae5f&amp;id=699eddfd28&amp;e=6f16cb1c23" target="_blank">Race to the bottom: curators in battle for best museum bum</a>.<br/><strong>The Guardian</strong></p></div></div></div></div><div class="trollcta archive w-row"><div class="w-col w-col-6 w-col-stack"><div class="div-block-26 archive"><img src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5bfee82bbe4cd8508983a309_bear-0.png" alt="" class="bearhead archive"/><h2 class="heading-cta archive">Get troll-free political news.</h2></div></div><div class="w-col w-col-6 w-col-stack"><div class="w-clearfix w-form"><form id="email-form-2" name="email-form-2" data-name="Email Form 2" class="newsletter-form-fields faq"><input type="email" class="email-address-field-grey hero faq archive w-input" maxlength="256" name="hero-optin-2" data-name="Hero Optin 2" placeholder="your email address" id="hero-optin-2" required=""/><input type="submit" value="I want the best points from both sides        &gt;" data-wait="Please wait..." class="submit-button hero home faq archive w-button"/></form><div class="w-form-done"><div>Thank you! Your submission has been received!</div></div><div class="w-form-fail"><div>Oops! Something went wrong while submitting the form.</div></div></div></div></div><footer class="footer"><div class="columns-6 top-footer w-row"><div class="column-11 w-col w-col-4"><img src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5c800f4179da156500bd15f4_TFS%20-%20logo.svg" width="125" alt="Logo of The Flip Side" class="image-22 logo"/></div><div class="column-12 top-footer w-col w-col-4"><a id="w-node-8ef170fc7709-70fc7704" href="/latest-issue" class="footer-link w-inline-block"><div>LATEST ISSUE</div></a><a id="w-node-8ef170fc770c-70fc7704" href="/archives" class="footer-link w-inline-block"><div>ARCHIVES</div></a><a id="w-node-8ef170fc770f-70fc7704" href="/about-us" class="footer-link w-inline-block"><div>ABOUT US</div></a><a id="w-node-8ef170fc7715-70fc7704" href="/media" class="footer-link w-inline-block"><div>MEDIA</div></a><a id="w-node-8ef170fc7712-70fc7704" href="/supporters" class="footer-link w-inline-block"><div>SUPPORTERS</div></a><a id="w-node-a3c8f39c81e0-70fc7704" href="/faq" class="footer-link w-inline-block"><div>FAQ</div></a></div><div class="column-13 top-footer w-col w-col-4"><a href="https://www.facebook.com/KnowTheFlipSide/" class="link-block w-inline-block"><img src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5ec52bd498978ddc3785cf6e_facebook.svg" width="30" height="30" alt="Facebook"/></a><a href="http://twitter.com/knowtheflipside" class="link-block-2 w-inline-block"><img src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5ec52bd48143fd994f2ed9d1_twitter.svg" width="30" height="30" alt="Twitter"/></a><a href="mailto:editor@theflipside.io?subject=%5BFlipSide%20Website%20Inquiry%5D" class="w-inline-block"><img src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5ec52bd493802b79cc062997_email.svg" width="30" height="30" alt="Email"/></a></div></div><div class="columns-6 bottom-footer w-row"><div class="column-11 bottom-footer w-col w-col-3"><div class="text-block-15">COPYRIGHT © 2020</div></div><div class="column-12 bottom-footer w-col w-col-5"></div><div class="column-13 bottom-footer w-col w-col-4"><a href="/terms" class="link-block-2 terms w-inline-block"><div class="text-block-31">PRIVACY POLICY</div></a><div class="link-block-2 terms divider">|</div><a href="https://www.functionlabs.com" class="link-block-2 terms function w-inline-block"><div class="text-block-32">WEBSITE BY FUNCTION LABS</div></a></div></div></footer><script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.4.1.min.220afd743d.js?site=5bfd76c121f9503755c665f9" type="text/javascript" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script><script src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/js/the-flipside.369c6577a.js" type="text/javascript"></script><!--[if lte IE 9]><script src="//cdnjs.cloudflare.com/ajax/libs/placeholders/3.0.2/placeholders.min.js"></script><![endif]--><!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-58K3PC7"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<!-- UTM Passthrough Javascript -->
+
+<script type="text/javascript" charset="utf-8">
+var UtmCookie, UtmForm, _uf;
+UtmCookie = class {
+    constructor(options = {}) {
+        this._cookieNamePrefix = "_uc_", this._domain = options.domain, this._sessionLength = options.sessionLength || 1, this._cookieExpiryDays = options.cookieExpiryDays || 365, this._additionalParams = options.additionalParams || [], this._utmParams = ["utm_source", "utm_medium", "utm_campaign", "utm_term", "utm_content"], this.writeInitialReferrer(), this.writeLastReferrer(), this.writeInitialLandingPageUrl(), this.setCurrentSession(), this.additionalParamsPresentInUrl() && this.writeAdditionalParams(), this.utmPresentInUrl() && this.writeUtmCookieFromParams()
+    }
+    createCookie(name, value, days, path, domain, secure) {
+        var cookieDomain, cookieExpire, cookiePath, cookieSecure, date, expireDate;
+        expireDate = null, days && ((date = new Date).setTime(date.getTime() + 24 * days * 60 * 60 * 1e3), expireDate = date), cookieExpire = null != expireDate ? "; expires=" + expireDate.toGMTString() : "", cookiePath = null != path ? "; path=" + path : "; path=/", cookieDomain = null != domain ? "; domain=" + domain : "", cookieSecure = null != secure ? "; secure" : "", document.cookie = this._cookieNamePrefix + name + "=" + escape(value) + cookieExpire + cookiePath + cookieDomain + cookieSecure
+    }
+    readCookie(name) {
+        var c, ca, i, nameEQ;
+        for (nameEQ = this._cookieNamePrefix + name + "=", ca = document.cookie.split(";"), i = 0; i < ca.length;) {
+            for (c = ca[i];
+                " " === c.charAt(0);) c = c.substring(1, c.length);
+            if (0 === c.indexOf(nameEQ)) return c.substring(nameEQ.length, c.length);
+            i++
+        }
+        return null
+    }
+    eraseCookie(name) {
+        this.createCookie(name, "", -1, null, this._domain)
+    }
+    getParameterByName(name) {
+        var results;
+        return name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]"), (results = new RegExp("[\\?&]" + name + "=([^&#]*)").exec(window.location.search)) ? decodeURIComponent(results[1].replace(/\+/g, " ")) : ""
+    }
+    additionalParamsPresentInUrl() {
+        var j, len, param, ref;
+        for (j = 0, len = (ref = this._additionalParams).length; j < len; j++)
+            if (param = ref[j], this.getParameterByName(param)) return !0;
+        return !1
+    }
+    utmPresentInUrl() {
+        var j, len, param, ref;
+        for (j = 0, len = (ref = this._utmParams).length; j < len; j++)
+            if (param = ref[j], this.getParameterByName(param)) return !0;
+        return !1
+    }
+    writeCookie(name, value) {
+        this.createCookie(name, value, this._cookieExpiryDays, null, this._domain)
+    }
+    writeAdditionalParams() {
+        var j, len, param, ref, value;
+        for (j = 0, len = (ref = this._additionalParams).length; j < len; j++) param = ref[j], value = this.getParameterByName(param), this.writeCookie(param, value)
+    }
+    writeUtmCookieFromParams() {
+        var j, len, param, ref, value;
+        for (j = 0, len = (ref = this._utmParams).length; j < len; j++) param = ref[j], value = this.getParameterByName(param), this.writeCookie(param, value)
+    }
+    writeCookieOnce(name, value) {
+        this.readCookie(name) || this.writeCookie(name, value)
+    }
+    _sameDomainReferrer(referrer) {
+        var hostname;
+        return hostname = document.location.hostname, referrer.indexOf(this._domain) > -1 || referrer.indexOf(hostname) > -1
+    }
+    _isInvalidReferrer(referrer) {
+        return "" === referrer || void 0 === referrer
+    }
+    writeInitialReferrer() {
+        var value;
+        value = document.referrer, this._isInvalidReferrer(value) && (value = "direct"), this.writeCookieOnce("referrer", value)
+    }
+    writeLastReferrer() {
+        var value;
+        value = document.referrer, this._sameDomainReferrer(value) || (this._isInvalidReferrer(value) && (value = "direct"), this.writeCookie("last_referrer", value))
+    }
+    writeInitialLandingPageUrl() {
+        var value;
+        (value = this.cleanUrl()) && this.writeCookieOnce("initial_landing_page", value)
+    }
+    initialReferrer() {
+        return this.readCookie("referrer")
+    }
+    lastReferrer() {
+        return this.readCookie("last_referrer")
+    }
+    initialLandingPageUrl() {
+        return this.readCookie("initial_landing_page")
+    }
+    incrementVisitCount() {
+        var existingValue, newValue;
+        existingValue = parseInt(this.readCookie("visits"), 10), newValue = 1, newValue = isNaN(existingValue) ? 1 : existingValue + 1, this.writeCookie("visits", newValue)
+    }
+    visits() {
+        return this.readCookie("visits")
+    }
+    setCurrentSession() {
+        this.readCookie("current_session") || (this.createCookie("current_session", "true", this._sessionLength / 24, null, this._domain), this.incrementVisitCount())
+    }
+    cleanUrl() {
+        var cleanSearch;
+        return cleanSearch = window.location.search.replace(/utm_[^&]+&?/g, "").replace(/&$/, "").replace(/^\?$/, ""), window.location.origin + window.location.pathname + cleanSearch + window.location.hash
+    }
+}, UtmForm = class {
+    constructor(options = {}) {
+        this._utmParamsMap = {}, this._utmParamsMap.utm_source = options.utm_source_field || "USOURCE", this._utmParamsMap.utm_medium = options.utm_medium_field || "UMEDIUM", this._utmParamsMap.utm_campaign = options.utm_campaign_field || "UCAMPAIGN", this._utmParamsMap.utm_content = options.utm_content_field || "UCONTENT", this._utmParamsMap.utm_term = options.utm_term_field || "UTERM", this._additionalParamsMap = options.additional_params_map || {}, this._initialReferrerField = options.initial_referrer_field || "IREFERRER", this._lastReferrerField = options.last_referrer_field || "LREFERRER", this._initialLandingPageField = options.initial_landing_page_field || "ILANDPAGE", this._visitsField = options.visits_field || "VISITS", this._addToForm = options.add_to_form || "all", this._formQuerySelector = options.form_query_selector || "form", this._decodeURIs = options.decode_uris || !1, this.utmCookie = new UtmCookie({
+            domain: options.domain,
+            sessionLength: options.sessionLength,
+            cookieExpiryDays: options.cookieExpiryDays,
+            additionalParams: Object.getOwnPropertyNames(this._additionalParamsMap)
+        }), this.addAllFields()
+    }
+    addAllFields() {
+        var allForms, i, len;
+        for (allForms = document.querySelectorAll(this._formQuerySelector), len = "none" === this._addToForm ? 0 : "first" === this._addToForm ? Math.min(1, allForms.length) : allForms.length, i = 0; i < len;) this.addAllFieldsToForm(allForms[i]), i++
+    }
+    addAllFieldsToForm(form) {
+        var fieldName, param, ref, ref1;
+        if (form && !form._utm_tagged) {
+            for (param in form._utm_tagged = !0, ref = this._utmParamsMap) fieldName = ref[param], this.addFormElem(form, fieldName, this.utmCookie.readCookie(param));
+            for (param in ref1 = this._additionalParamsMap) fieldName = ref1[param], this.addFormElem(form, fieldName, this.utmCookie.readCookie(param));
+            this.addFormElem(form, this._initialReferrerField, this.utmCookie.initialReferrer()), this.addFormElem(form, this._lastReferrerField, this.utmCookie.lastReferrer()), this.addFormElem(form, this._initialLandingPageField, this.utmCookie.initialLandingPageUrl()), this.addFormElem(form, this._visitsField, this.utmCookie.visits())
+        }
+    }
+    addFormElem(form, fieldName, fieldValue) {
+        this.insertAfter(this.getFieldEl(fieldName, fieldValue), form.lastChild)
+    }
+    getFieldEl(fieldName, fieldValue) {
+        var fieldEl;
+        return (fieldEl = document.createElement("input")).type = "hidden", fieldEl.name = fieldName, fieldEl.value = this._decodeURIs ? decodeURIComponent(fieldValue) : fieldValue, fieldEl
+    }
+    insertAfter(newNode, referenceNode) {
+        return referenceNode.parentNode.insertBefore(newNode, referenceNode.nextSibling)
+    }
+}, _uf = window._uf || {}, window.UtmForm = new UtmForm(_uf);
+  
+</script>
+<!-- End UTM Passthrough Javascript --></body></html>
+
+
+

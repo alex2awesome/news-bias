@@ -1,0 +1,221 @@
+WARC/1.0
+WARC-Type: response
+WARC-Date: 2020-09-29T16:31:58Z
+WARC-Record-ID: <urn:uuid:7f310e9b-39bf-427a-8e0c-561c14c8d017>
+Content-Length: 36605
+Content-Type: application/http; msgtype=response
+WARC-Warcinfo-ID: <urn:uuid:152c9dda-51e5-45d4-aeac-c7097ba022aa>
+WARC-Concurrent-To: <urn:uuid:6f5c1904-895d-4662-b4d3-3aaf0cbb50bb>
+WARC-IP-Address: 50.17.197.186
+WARC-Target-URI: https://www.theflipside.io/archives/navalny-poisoning-condemned
+WARC-Payload-Digest: sha1:WDQ3QRQHIWX6UDXV645NIHMYLPGWQSET
+WARC-Block-Digest: sha1:PXFSAZUTDSTY4VYBDUG27N35YP72CMGW
+WARC-Identified-Payload-Type: text/html
+
+HTTP/1.1 200 OK
+Server: openresty
+Date: Tue, 29 Sep 2020 16:31:58 GMT
+Content-Type: text/html
+X-Crawler-Content-Length: 12427
+Content-Length: 35997
+Connection: keep-alive
+X-Crawler-Content-Encoding: gzip
+content-security-policy: frame-ancestors 'self'
+x-frame-options: SAMEORIGIN
+x-lambda-id: f48a8bee-0bc1-4f6c-9811-18ba6207009e
+Via: 1.1 varnish
+Accept-Ranges: bytes
+Via: 1.1 varnish
+Age: 3406
+X-Served-By: cache-dca17723-DCA, cache-bwi5080-BWI
+X-Cache: HIT, MISS
+X-Cache-Hits: 1, 0
+X-Timer: S1601397118.445708,VS0,VE2
+Vary: Accept-Encoding
+X-Cluster-Name: us-east-1-prod-edge-eks-15
+
+<!DOCTYPE html><!-- Last Published: Mon Sep 28 2020 15:50:55 GMT+0000 (Coordinated Universal Time) --><html data-wf-domain="www.theflipside.io" data-wf-page="5c0affae2387a21ad549fb85" data-wf-site="5bfd76c121f9503755c665f9" lang="en"><head><meta charset="utf-8"/><title>Navalny Poisoning Condemned | The Flip Side</title><meta content="Navalny Poisoning Condemned" name="description"/><meta content="Navalny Poisoning Condemned | The Flip Side" property="og:title"/><meta content="Get the most intelligent quotes from both sides—in a free, 5-minute email a day." property="og:description"/><meta content="https://assets-global.website-files.com/5c01d9d275e85a6371ce6d1e/5c4e9148fe98b202812657bb_bears%20working%20together.png" property="og:image"/><meta content="Navalny Poisoning Condemned | The Flip Side" property="twitter:title"/><meta content="Get the most intelligent quotes from both sides—in a free, 5-minute email a day." property="twitter:description"/><meta content="https://assets-global.website-files.com/5c01d9d275e85a6371ce6d1e/5c4e9148fe98b202812657bb_bears%20working%20together.png" property="twitter:image"/><meta property="og:type" content="website"/><meta content="summary_large_image" name="twitter:card"/><meta content="width=device-width, initial-scale=1" name="viewport"/><link href="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/css/the-flipside.04d817fb9.min.css" rel="stylesheet" type="text/css"/><script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript"></script><script type="text/javascript">WebFont.load({  google: {    families: ["Lato:100,100italic,300,300italic,400,400italic,700,700italic,900,900italic"]  }});</script><script src="https://use.typekit.net/ief5vbu.js" type="text/javascript"></script><script type="text/javascript">try{Typekit.load();}catch(e){}</script><!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js" type="text/javascript"></script><![endif]--><script type="text/javascript">!function(o,c){var n=c.documentElement,t=" w-mod-";n.className+=t+"js",("ontouchstart"in o||o.DocumentTouch&&c instanceof DocumentTouch)&&(n.className+=t+"touch")}(window,document);</script><link href="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5c03871b75e85a9d2ecf243a_favicon-32x32.png" rel="shortcut icon" type="image/x-icon"/><link href="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5c038790f4cf11a559cd3a57_webclip256.png" rel="apple-touch-icon"/><link href="rss.xml" rel="alternate" title="RSS Feed" type="application/rss+xml"/><script type="text/javascript">!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.agent='plwebflow';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');fbq('init', '420932135099202');fbq('track', 'PageView');</script><!-- Async Anti-Flicker Code -->
+
+<style>.async-hide { opacity: 0 !important} </style>
+<script>(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+(a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+})(window,document.documentElement,'async-hide','dataLayer',4000,
+{'GTM-58K3PC7':true});</script>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-58K3PC7');</script>
+<!-- End Google Tag Manager -->
+
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<!-- Memberstack --> 
+<script src="https://api.memberstack.io/static/memberstack.js?webflow" data-memberstack-id="dd4b66b62c37ef91c54289827c1f3114"> </script><style>
+@media (max-width: 479px) {
+  .paragraph-div a {
+  	  font-size: 17px;
+    	line-height: 24px; }
+      
+  .on-the-bright-side a {
+  	  font-size: 17px;
+    	line-height: 24px; }
+}
+@media (max-width: 767px) {
+	.div-block-38 a {
+  	  font-size: 17px; 
+    	line-height: 24px; 
+}	
+  .paragraph-div a {
+  	  font-size: 17px;
+    	line-height: 26px; }
+      
+.on-the-bright-side a {
+  	  font-size: 17px;
+    	line-height: 26px; }
+}
+.w-nav-overlay {
+    z-index: 1002 !important;
+}
+</style></head><body class="body"><div data-collapse="medium" data-animation="over-right" data-duration="400" role="banner" class="navbar w-nav"><nav role="navigation" class="nav-menu w-nav-menu"><div class="nav-open-menu-links"><a href="/latest-issue" class="nav-open-menu-item mobile latest-issue w-nav-link">Latest Issue</a><a href="/archives" class="nav-open-menu-item mobile w-nav-link">Archives</a><a href="/about-us" class="nav-open-menu-item mobile w-nav-link">About Us</a><a href="/faq" class="nav-open-menu-item mobile faq w-nav-link">FAQ</a></div><div class="nav-menu-newsletter"><div class="form-block mobile w-form"><form id="email-form" name="email-form" data-name="Email Form" redirect="/one-more-thing" data-redirect="/one-more-thing" action="https://theflipside.us15.list-manage.com/subscribe/post?u=281c839c990f42b374467ae5f&amp;amp;id=7566a2ca43&quot; method=&quot;post&quot; id=&quot;mc-embedded-subscribe-form&quot; name=&quot;mc-embedded-subscribe-form" method="post" class="form mobile"><div class="text-block">GET TROLL-FREE POLITICAL NEWS</div><input type="email" class="text-field mobile w-input" maxlength="256" name="email-2" data-name="Email 2" placeholder="your email address" id="email-2" required=""/><input type="submit" value="I want to keep up with both sides &gt;" data-wait="Please wait..." class="submit-button mobile w-button"/><div class="text-block-2">We never spam and only send awesome news digests. Unsubscribe any time.</div></form><div class="w-form-done"><div>Thank you! Your submission has been received!</div></div><div class="w-form-fail"><div>Oops! Something went wrong while submitting the form.</div></div></div></div></nav><div data-w-id="83b1dd7a-785a-0585-a0c0-e44f2b23d2b5" class="nav-bar navbarother"><a href="/home-2-0" class="nav-logo w-nav-brand"><img src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5c018cd0879ec8a3e5fc263b_TFS%20Logo-n.png" alt="Logo" width="125" class="image-22 logo"/></a><div class="div-right header w-hidden-medium w-hidden-small w-hidden-tiny"><div class="nav-menu-links flex"><a href="/latest-issue" class="nav-link small w-nav-link">LATEST ISSUE</a><a href="/archives" class="nav-link small w-nav-link">ARCHIVES</a><a href="/about-us" class="nav-link small w-nav-link">ABOUT US</a><a href="/faq" class="nav-link small faq w-nav-link">FAQ</a></div></div><div class="div-right header w-hidden-medium w-hidden-small w-hidden-tiny"><div class="header-form w-form"><form id="email-form-2" name="email-form-2" data-name="Email Form 2" method="post" action="https://theflipside.us15.list-manage.com/subscribe/post?u=281c839c990f42b374467ae5f&amp;amp;id=7566a2ca43&quot; method=&quot;post&quot; id=&quot;mc-embedded-subscribe-form&quot; name=&quot;mc-embedded-subscribe-form" redirect="/one-more-thing" data-redirect="/one-more-thing" class="form-3"><input type="email" class="email-address-field-grey header w-input" maxlength="256" name="hero-optin-2" data-name="Hero Optin 2" placeholder="your email address" id="hero-optin-2" required=""/><div class="w-embed"><input type="hidden" name="MMERGE1" value="desk-menu"/></div><input type="submit" value="Subscribe &gt;" data-wait="Please wait..." id="https-theflipside.us15.list-manage.com-subscribe-post-u-281c839c990f42b374467ae5f-id-a0c19d8bf4" class="submit-button hero header w-button"/></form><div class="w-form-done"><div>Thank you! Your submission has been received!</div></div><div class="w-form-fail"><div>Oops! Something went wrong while submitting the form.</div></div></div></div></div><div class="menu-button-nav w-nav-button" data-ix="hamburger-button"><div class="top-line"></div><div class="middle-line"></div><div class="bottom-line"></div></div></div><div class="section-3"><div><h1 class="heading-16">September 9, 2020</h1><h1 class="heading-17">Navalny Poisoning Condemned</h1><div class="container-8 w-container"><div class="rich-text-block-4 w-dyn-bind-empty w-richtext"></div><img src="" alt="" class="image-48 w-dyn-bind-empty"/><div class="paragraph-div"><div class="rich-text-block-2 w-richtext"><p>“The Group of Seven foreign ministers on Tuesday <a href="https://theflipside.us15.list-manage.com/track/click?u=281c839c990f42b374467ae5f&amp;id=fb0e32f20b&amp;e=6f16cb1c23" target="_blank">condemned the ‘confirmed poisoning’ of Kremlin critic Alexei Navalny</a>… ‘We, the G7 foreign ministers of Canada, France, Germany, Italy, Japan, the United Kingdom and the United States of America and the High Representative of the European Union, are united in condemning, in the strongest possible terms, the confirmed poisoning of Alexei Navalny,’ said the statement.” <strong>Reuters</strong><br/><br/>“German Chancellor Angela Merkel and her economy minister on Tuesday played down the possibility of <a href="https://theflipside.us15.list-manage.com/track/click?u=281c839c990f42b374467ae5f&amp;id=4f169358b1&amp;e=6f16cb1c23" target="_blank">halting the Nord Stream 2 gas pipeline</a> from Russia to Germany as part of any sanctions imposed on Moscow due to the poisoning of Kremlin critic Alexei Navalny… [Nord Stream 2] will double the capacity of the existing Nord Stream 1 pipeline from Russia to Germany and is due to start operation next year. It is more than 90% complete.” <strong>Reuters</strong><br/><br/>“<a href="https://theflipside.us15.list-manage.com/track/click?u=281c839c990f42b374467ae5f&amp;id=c26cf58302&amp;e=6f16cb1c23" target="_blank">Russian opposition leader Alexei Navalny was poisoned</a> with the same type of Soviet-era nerve agent used in a 2018 attack on a former Russian spy, the German government said [last] Wednesday.” <strong>AP News</strong><br/><br/>See our <a href="https://theflipside.us15.list-manage.com/track/click?u=281c839c990f42b374467ae5f&amp;id=5dadeea719&amp;e=6f16cb1c23" target="_blank">previous coverage of Navalny’s poisoning</a>. <strong>The Flip Side</strong><br/><br/><strong><em>Both sides condemn Putin and call for tougher actions against Russia:</em></strong><br/><br/>“The [G-7] statement said Germany, where Mr. Navalny was treated in a Berlin hospital, has concluded that he was ‘the victim of an attack with a chemical nerve-agent of the ‘Novichok’ group, a substance developed by Russia.’ It called on Russia to investigate who is responsible, ‘bearing in mind Russia’s commitments under the Chemical Weapons Convention.’ All of this is nice sentiment, but as Sean Connery says in ‘The Untouchables,’ ‘what are you prepared to do?’ If it’s nothing, then Vladimir Putin will conclude <a href="https://theflipside.us15.list-manage.com/track/click?u=281c839c990f42b374467ae5f&amp;id=78a51a4bf8&amp;e=6f16cb1c23" target="_blank">he will pay no price when opponents turn up dead</a>.”<br/><strong>Editorial Board, Wall Street Journal</strong><br/><br/>“The wife of the British policeman who almost died after investigating the 2018 Salisbury poisonings gave a tart response to Boris Johnson’s denunciation: ‘<a href="https://theflipside.us15.list-manage.com/track/click?u=281c839c990f42b374467ae5f&amp;id=e88106d2a5&amp;e=6f16cb1c23" target="_blank">Actions speak louder than words</a>.’ The attack on defector Sergei Skripal and his daughter Yulia – which led to the death of a British woman, Dawn Sturgess – stirred the west to concerted diplomatic action, with 20 countries carrying out a mass expulsion of Russian diplomats alleged to be spies. But it had little discernible effect, and with fewer foreign diplomats left in Moscow, countries are more reluctant to lose them to tit-for-tat expulsions.”<br/><strong>Editorial Board, The Guardian</strong><br/><br/>“But there is a way to hit [Putin] where it hurts and it’s in the hands of Germany’s chancellor, Angela Merkel, who has been outspoken over the Navalny affair. As urged by Germany’s Greens and many in her ruling coalition, <a href="https://theflipside.us15.list-manage.com/track/click?u=281c839c990f42b374467ae5f&amp;id=aa5923d563&amp;e=6f16cb1c23" target="_blank">Merkel could and should scrap the Russia-to-Germany Nord Stream 2 gas pipeline</a>, which, if completed, will greatly enrich Putin and his larcenous henchmen. Cancellation could also reduce Russian leverage in Europe, sending a powerful message Putin could not ignore.”<br/><strong>Observer Editorial, The Guardian</strong><br/><br/>“Called Nord Stream 2 because it runs right alongside an existing pipeline, this project, led by the Kremlin-controlled energy giant Gazprom PJSC, has for years been a geopolitical and diplomatic disaster for Merkel. <a href="https://theflipside.us15.list-manage.com/track/click?u=281c839c990f42b374467ae5f&amp;id=e9dee8aad4&amp;e=6f16cb1c23" target="_blank">Almost all of Germany’s allies bitterly oppose it</a>, from the Poles and Balts in the east to the French and Americans in the west. It’s made Germany look like an unreliable and insensitive partner just as Merkel tries to keep the European Union and the transatlantic relationship from unraveling… <br/><br/>“The geopolitical case against Nord Stream 2 is stronger than ever, just as the economic case for it becomes ever weaker. In the coming days or weeks, Merkel therefore could — and should — seize this moment and end it.”<br/><strong>Andreas Kluth, Bloomberg</strong><br/><br/>“Attempting to murder Navalny, Putin has proved that he is willing to shred international norms as he sees fit. The idea that Putin can be relied upon for the coming decades of European energy security is as ludicrous as the Kremlin&#x27;s claims that it has nothing to do with Navalny&#x27;s predicament. If the EU is at all serious in its claims to <a href="https://theflipside.us15.list-manage.com/track/click?u=281c839c990f42b374467ae5f&amp;id=a1d1d6d9d0&amp;e=6f16cb1c23" target="_blank">stand for the defense of human rights and the democratic rule of law</a>, it must now act in that vein. Pompeo should make clear that if Europe is willing to stand up for these values, it will find resolute American support… What has happened to Navalny is a wake-up call. It&#x27;s time for Europe to close Russia&#x27;s poisoned energy valve.”<br/><strong>Tom Rogan, Washington Examiner</strong><br/><br/>“What’s the problem with Nord Stream 2? For one, it would increase European energy dependence on Moscow. It would also circumvent Ukraine, contributing to the country’s strategic encirclement by Russia. This is why Ukraine, Poland, and the Baltic States have vocally opposed the project, and it’s why the United States has implemented an aggressive sanctions regime that targets any entities involved in laying the pipeline, which is about 94 percent complete. The U.S. sanctions have over the past several months, however, prevented its completion… <br/><br/>“At best, Merkel and its other supporters, many of whom come from the left-wing SPD, can claim that Russia and the rest of Europe are interdependent, and that Moscow would only harm itself by using the pipeline for its political ends. Prior to Navalny’s poisoning this was an incredibly <a href="https://theflipside.us15.list-manage.com/track/click?u=281c839c990f42b374467ae5f&amp;id=6700d55bba&amp;e=6f16cb1c23" target="_blank">generous reading of Russian president Vladimir Putin’s intentions</a>, and it’s now even more difficult to make that case.”<br/><strong>Jimmy Quinn, National Review</strong><br/><br/>“During a White House press briefing on Friday, in response to a question about the poisoning of Russian opposition politician Alexei Navalny, President Trump said the US had no proof yet about what had happened… [But] a senior German security official told The New York Times that German military scientists ‘were 100 percent certain that it was Novichok.’… With his inaccurate statements, <a href="https://theflipside.us15.list-manage.com/track/click?u=281c839c990f42b374467ae5f&amp;id=fc1126bfc6&amp;e=6f16cb1c23" target="_blank">Trump is undercutting his own national security team</a>. That diminishes the chance they will be taken seriously on any issues as it&#x27;s clear they don&#x27;t speak on behalf of the President. Plus, he&#x27;s once again distancing himself from US allies.”<br/><strong>Samantha Vinograd, CNN</strong><br/><br/>“Trump has got to stop trying to find ways to bring Vladimir Putin back into the G-7 club, pretending that he is anyone’s garden variety tough ruler. Of course, the U.S. should continue to pursue talks on areas of mutual concern – nuclear and biological arms control, stopping Iran’s aggression, and surveillance and military activities in space. But treating Putin as a preferred source of information over the U.S. intelligence community and declining to condemn in telephone chats with him the Kremlin’s bounty on U.S. soldiers in Afghanistan and continued Russian meddling in U.S. elections only endangers U.S. national security by encouraging Putin’s growing recklessness. Trump is from Queens. He knows what to say to <a href="https://theflipside.us15.list-manage.com/track/click?u=281c839c990f42b374467ae5f&amp;id=535a1327a2&amp;e=6f16cb1c23" target="_blank">deliver a message that Putin will understand</a>.”<br/><strong>Judith Miller, Fox News</strong><br/><br/><strong><em>Other opinions below.</em></strong></p></div><a href="/archives" class="link-6">See past issues</a></div></div><img src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5bfee82d95c45605590f6387_bear-badge.png" width="114" alt="" class="image archives"/><div class="columns w-row"><div class="blue-divider w-col w-col-6 w-col-small-6 w-col-tiny-6"><div style="background-color:#453158" class="div-block-2"></div></div><div class="red-divider w-col w-col-6 w-col-small-6 w-col-tiny-6"><div style="background-color:#453158" class="div-block-3"></div></div></div><div class="div-block-38"><div class="columns-15 w-row"><div class="column-60 w-clearfix w-col w-col-6 w-col-small-6 w-col-tiny-tiny-stack"><h1 class="from-the-left-heading w-dyn-bind-empty"></h1><h1 class="from-the-left-heading sponsored">From the Right</h1><div style="border-color:#e20f22" class="paragraph-6 left intro w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 left bullet first w-dyn-bind-empty w-richtext"></div><div style="border-color:#e20f22" class="paragraph-6 left bullet first sponsored w-richtext"><p>“The widespread calls for a ‘transparent’ investigation are obviously hollow, when the chief suspect is the authoritarian leader of a rogue nation. Yes, Putin can go through the motions and even invite in foreign observers. He could put ‘suspects’ on a sham trial, after which they would disappear into prison. That’s the best Western critics can hope for – a whitewash and diversion of blame to minor operators…<br/><br/>“In the end, the only ‘proof’ will be the general understanding that the attempted murder of Navalny must be approved at the top, and that type of proof does not work in Western jurisprudence… <a href="https://theflipside.us15.list-manage.com/track/click?u=281c839c990f42b374467ae5f&amp;id=c78321b3ac&amp;e=6f16cb1c23" target="_blank">It seems that only the Russian people – somehow, some day – can find a solution</a>.”<br/><strong>Paul Roderick Gregory, The Hill</strong></p></div><div class="paragraph-6 left bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 left bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 left bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 left bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 left bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 left bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 left bullet w-dyn-bind-empty w-richtext"></div></div><div class="column-61 w-clearfix w-col w-col-6 w-col-small-6 w-col-tiny-tiny-stack"><h1 class="from-the-right-heading w-dyn-bind-empty"></h1><h1 class="from-the-right-heading sponsored">From the Left</h1><div style="border-color:#0050a7" class="paragraph-6 right intro w-hidden-tiny w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 right intro w-hidden-main w-hidden-medium w-hidden-small w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 right bullet first w-dyn-bind-empty w-richtext"></div><div style="border-color:#0050a7" class="paragraph-6 right bullet first sponsored w-richtext"><p>“President Donald <a href="https://theflipside.us15.list-manage.com/track/click?u=281c839c990f42b374467ae5f&amp;id=e1ab499972&amp;e=6f16cb1c23" target="_blank">Trump has demonstrated time and again a striking unwillingness to criticize Putin</a> for past transgressions, even when aimed at the US. With revelations about alleged payment of bounties by Russia to Taliban fighters for the bodies of US servicemen in Afghanistan remaining unpunished, Trump is unlikely to offer a bold denunciation in response to the Navalny poisoning…<br/><br/>“Until a US president who has zero tolerance towards state sponsors of terrorism is returned to the White House, don&#x27;t expect a compliant Russia. In the meantime, anyone regarded as a challenge or threat to the Kremlin has legitimate reasons to fear for their life.”<br/><strong>Michael Bociurkiw, CNN</strong></p></div><div class="paragraph-6 right bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 right bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 right bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 right bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 right bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 right bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 right bullet w-dyn-bind-empty w-richtext"></div></div></div><div class="w-row"><div class="column-60 w-col w-col-6 w-col-small-6 w-col-tiny-tiny-stack"></div><div class="column-61 w-col w-col-6 w-col-small-6 w-col-tiny-tiny-stack"></div></div><div class="w-layout-grid grid-7 w-clearfix"><div id="w-node-c9ca80732245-d549fb85" class="paragraph-6 wide center w-dyn-bind-empty w-richtext"></div><div id="w-node-c9ca80732246-d549fb85" class="paragraph-6 wide libertarian w-dyn-bind-empty w-richtext"></div></div></div><div class="additional-closing w-dyn-bind-empty w-richtext"></div><div style="border-color:#453158" class="on-the-bright-side"><h4 class="heading-18">On the bright side...</h4><div class="rich-text-block-3 w-richtext"><p><a href="https://theflipside.us15.list-manage.com/track/click?u=281c839c990f42b374467ae5f&amp;id=e0fc340ec1&amp;e=6f16cb1c23" target="_blank">The guy who helped invent Jelly Belly jelly beans is going full Gene Wilder in these dark times -- promising to give one lucky person their own candy factory if they play his game</a>.<br/><strong>TMZ</strong></p></div></div></div></div><div class="trollcta archive w-row"><div class="w-col w-col-6 w-col-stack"><div class="div-block-26 archive"><img src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5bfee82bbe4cd8508983a309_bear-0.png" alt="" class="bearhead archive"/><h2 class="heading-cta archive">Get troll-free political news.</h2></div></div><div class="w-col w-col-6 w-col-stack"><div class="w-clearfix w-form"><form id="email-form-2" name="email-form-2" data-name="Email Form 2" class="newsletter-form-fields faq"><input type="email" class="email-address-field-grey hero faq archive w-input" maxlength="256" name="hero-optin-2" data-name="Hero Optin 2" placeholder="your email address" id="hero-optin-2" required=""/><input type="submit" value="I want the best points from both sides        &gt;" data-wait="Please wait..." class="submit-button hero home faq archive w-button"/></form><div class="w-form-done"><div>Thank you! Your submission has been received!</div></div><div class="w-form-fail"><div>Oops! Something went wrong while submitting the form.</div></div></div></div></div><footer class="footer"><div class="columns-6 top-footer w-row"><div class="column-11 w-col w-col-4"><img src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5c800f4179da156500bd15f4_TFS%20-%20logo.svg" width="125" alt="Logo of The Flip Side" class="image-22 logo"/></div><div class="column-12 top-footer w-col w-col-4"><a id="w-node-8ef170fc7709-70fc7704" href="/latest-issue" class="footer-link w-inline-block"><div>LATEST ISSUE</div></a><a id="w-node-8ef170fc770c-70fc7704" href="/archives" class="footer-link w-inline-block"><div>ARCHIVES</div></a><a id="w-node-8ef170fc770f-70fc7704" href="/about-us" class="footer-link w-inline-block"><div>ABOUT US</div></a><a id="w-node-8ef170fc7715-70fc7704" href="/media" class="footer-link w-inline-block"><div>MEDIA</div></a><a id="w-node-8ef170fc7712-70fc7704" href="/supporters" class="footer-link w-inline-block"><div>SUPPORTERS</div></a><a id="w-node-a3c8f39c81e0-70fc7704" href="/faq" class="footer-link w-inline-block"><div>FAQ</div></a></div><div class="column-13 top-footer w-col w-col-4"><a href="https://www.facebook.com/KnowTheFlipSide/" class="link-block w-inline-block"><img src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5ec52bd498978ddc3785cf6e_facebook.svg" width="30" height="30" alt="Facebook"/></a><a href="http://twitter.com/knowtheflipside" class="link-block-2 w-inline-block"><img src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5ec52bd48143fd994f2ed9d1_twitter.svg" width="30" height="30" alt="Twitter"/></a><a href="mailto:editor@theflipside.io?subject=%5BFlipSide%20Website%20Inquiry%5D" class="w-inline-block"><img src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5ec52bd493802b79cc062997_email.svg" width="30" height="30" alt="Email"/></a></div></div><div class="columns-6 bottom-footer w-row"><div class="column-11 bottom-footer w-col w-col-3"><div class="text-block-15">COPYRIGHT © 2020</div></div><div class="column-12 bottom-footer w-col w-col-5"></div><div class="column-13 bottom-footer w-col w-col-4"><a href="/terms" class="link-block-2 terms w-inline-block"><div class="text-block-31">PRIVACY POLICY</div></a><div class="link-block-2 terms divider">|</div><a href="https://www.functionlabs.com" class="link-block-2 terms function w-inline-block"><div class="text-block-32">WEBSITE BY FUNCTION LABS</div></a></div></div></footer><script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=5bfd76c121f9503755c665f9" type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script><script src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/js/the-flipside.c2b2a285b.js" type="text/javascript"></script><!--[if lte IE 9]><script src="//cdnjs.cloudflare.com/ajax/libs/placeholders/3.0.2/placeholders.min.js"></script><![endif]--><!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-58K3PC7"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<!-- UTM Passthrough Javascript -->
+
+<script type="text/javascript" charset="utf-8">
+var UtmCookie, UtmForm, _uf;
+UtmCookie = class {
+    constructor(options = {}) {
+        this._cookieNamePrefix = "_uc_", this._domain = options.domain, this._sessionLength = options.sessionLength || 1, this._cookieExpiryDays = options.cookieExpiryDays || 365, this._additionalParams = options.additionalParams || [], this._utmParams = ["utm_source", "utm_medium", "utm_campaign", "utm_term", "utm_content"], this.writeInitialReferrer(), this.writeLastReferrer(), this.writeInitialLandingPageUrl(), this.setCurrentSession(), this.additionalParamsPresentInUrl() && this.writeAdditionalParams(), this.utmPresentInUrl() && this.writeUtmCookieFromParams()
+    }
+    createCookie(name, value, days, path, domain, secure) {
+        var cookieDomain, cookieExpire, cookiePath, cookieSecure, date, expireDate;
+        expireDate = null, days && ((date = new Date).setTime(date.getTime() + 24 * days * 60 * 60 * 1e3), expireDate = date), cookieExpire = null != expireDate ? "; expires=" + expireDate.toGMTString() : "", cookiePath = null != path ? "; path=" + path : "; path=/", cookieDomain = null != domain ? "; domain=" + domain : "", cookieSecure = null != secure ? "; secure" : "", document.cookie = this._cookieNamePrefix + name + "=" + escape(value) + cookieExpire + cookiePath + cookieDomain + cookieSecure
+    }
+    readCookie(name) {
+        var c, ca, i, nameEQ;
+        for (nameEQ = this._cookieNamePrefix + name + "=", ca = document.cookie.split(";"), i = 0; i < ca.length;) {
+            for (c = ca[i];
+                " " === c.charAt(0);) c = c.substring(1, c.length);
+            if (0 === c.indexOf(nameEQ)) return c.substring(nameEQ.length, c.length);
+            i++
+        }
+        return null
+    }
+    eraseCookie(name) {
+        this.createCookie(name, "", -1, null, this._domain)
+    }
+    getParameterByName(name) {
+        var results;
+        return name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]"), (results = new RegExp("[\\?&]" + name + "=([^&#]*)").exec(window.location.search)) ? decodeURIComponent(results[1].replace(/\+/g, " ")) : ""
+    }
+    additionalParamsPresentInUrl() {
+        var j, len, param, ref;
+        for (j = 0, len = (ref = this._additionalParams).length; j < len; j++)
+            if (param = ref[j], this.getParameterByName(param)) return !0;
+        return !1
+    }
+    utmPresentInUrl() {
+        var j, len, param, ref;
+        for (j = 0, len = (ref = this._utmParams).length; j < len; j++)
+            if (param = ref[j], this.getParameterByName(param)) return !0;
+        return !1
+    }
+    writeCookie(name, value) {
+        this.createCookie(name, value, this._cookieExpiryDays, null, this._domain)
+    }
+    writeAdditionalParams() {
+        var j, len, param, ref, value;
+        for (j = 0, len = (ref = this._additionalParams).length; j < len; j++) param = ref[j], value = this.getParameterByName(param), this.writeCookie(param, value)
+    }
+    writeUtmCookieFromParams() {
+        var j, len, param, ref, value;
+        for (j = 0, len = (ref = this._utmParams).length; j < len; j++) param = ref[j], value = this.getParameterByName(param), this.writeCookie(param, value)
+    }
+    writeCookieOnce(name, value) {
+        this.readCookie(name) || this.writeCookie(name, value)
+    }
+    _sameDomainReferrer(referrer) {
+        var hostname;
+        return hostname = document.location.hostname, referrer.indexOf(this._domain) > -1 || referrer.indexOf(hostname) > -1
+    }
+    _isInvalidReferrer(referrer) {
+        return "" === referrer || void 0 === referrer
+    }
+    writeInitialReferrer() {
+        var value;
+        value = document.referrer, this._isInvalidReferrer(value) && (value = "direct"), this.writeCookieOnce("referrer", value)
+    }
+    writeLastReferrer() {
+        var value;
+        value = document.referrer, this._sameDomainReferrer(value) || (this._isInvalidReferrer(value) && (value = "direct"), this.writeCookie("last_referrer", value))
+    }
+    writeInitialLandingPageUrl() {
+        var value;
+        (value = this.cleanUrl()) && this.writeCookieOnce("initial_landing_page", value)
+    }
+    initialReferrer() {
+        return this.readCookie("referrer")
+    }
+    lastReferrer() {
+        return this.readCookie("last_referrer")
+    }
+    initialLandingPageUrl() {
+        return this.readCookie("initial_landing_page")
+    }
+    incrementVisitCount() {
+        var existingValue, newValue;
+        existingValue = parseInt(this.readCookie("visits"), 10), newValue = 1, newValue = isNaN(existingValue) ? 1 : existingValue + 1, this.writeCookie("visits", newValue)
+    }
+    visits() {
+        return this.readCookie("visits")
+    }
+    setCurrentSession() {
+        this.readCookie("current_session") || (this.createCookie("current_session", "true", this._sessionLength / 24, null, this._domain), this.incrementVisitCount())
+    }
+    cleanUrl() {
+        var cleanSearch;
+        return cleanSearch = window.location.search.replace(/utm_[^&]+&?/g, "").replace(/&$/, "").replace(/^\?$/, ""), window.location.origin + window.location.pathname + cleanSearch + window.location.hash
+    }
+}, UtmForm = class {
+    constructor(options = {}) {
+        this._utmParamsMap = {}, this._utmParamsMap.utm_source = options.utm_source_field || "USOURCE", this._utmParamsMap.utm_medium = options.utm_medium_field || "UMEDIUM", this._utmParamsMap.utm_campaign = options.utm_campaign_field || "UCAMPAIGN", this._utmParamsMap.utm_content = options.utm_content_field || "UCONTENT", this._utmParamsMap.utm_term = options.utm_term_field || "UTERM", this._additionalParamsMap = options.additional_params_map || {}, this._initialReferrerField = options.initial_referrer_field || "IREFERRER", this._lastReferrerField = options.last_referrer_field || "LREFERRER", this._initialLandingPageField = options.initial_landing_page_field || "ILANDPAGE", this._visitsField = options.visits_field || "VISITS", this._addToForm = options.add_to_form || "all", this._formQuerySelector = options.form_query_selector || "form", this._decodeURIs = options.decode_uris || !1, this.utmCookie = new UtmCookie({
+            domain: options.domain,
+            sessionLength: options.sessionLength,
+            cookieExpiryDays: options.cookieExpiryDays,
+            additionalParams: Object.getOwnPropertyNames(this._additionalParamsMap)
+        }), this.addAllFields()
+    }
+    addAllFields() {
+        var allForms, i, len;
+        for (allForms = document.querySelectorAll(this._formQuerySelector), len = "none" === this._addToForm ? 0 : "first" === this._addToForm ? Math.min(1, allForms.length) : allForms.length, i = 0; i < len;) this.addAllFieldsToForm(allForms[i]), i++
+    }
+    addAllFieldsToForm(form) {
+        var fieldName, param, ref, ref1;
+        if (form && !form._utm_tagged) {
+            for (param in form._utm_tagged = !0, ref = this._utmParamsMap) fieldName = ref[param], this.addFormElem(form, fieldName, this.utmCookie.readCookie(param));
+            for (param in ref1 = this._additionalParamsMap) fieldName = ref1[param], this.addFormElem(form, fieldName, this.utmCookie.readCookie(param));
+            this.addFormElem(form, this._initialReferrerField, this.utmCookie.initialReferrer()), this.addFormElem(form, this._lastReferrerField, this.utmCookie.lastReferrer()), this.addFormElem(form, this._initialLandingPageField, this.utmCookie.initialLandingPageUrl()), this.addFormElem(form, this._visitsField, this.utmCookie.visits())
+        }
+    }
+    addFormElem(form, fieldName, fieldValue) {
+        this.insertAfter(this.getFieldEl(fieldName, fieldValue), form.lastChild)
+    }
+    getFieldEl(fieldName, fieldValue) {
+        var fieldEl;
+        return (fieldEl = document.createElement("input")).type = "hidden", fieldEl.name = fieldName, fieldEl.value = this._decodeURIs ? decodeURIComponent(fieldValue) : fieldValue, fieldEl
+    }
+    insertAfter(newNode, referenceNode) {
+        return referenceNode.parentNode.insertBefore(newNode, referenceNode.nextSibling)
+    }
+}, _uf = window._uf || {}, window.UtmForm = new UtmForm(_uf);
+  
+</script>
+<!-- End UTM Passthrough Javascript --></body></html>
+
+
+

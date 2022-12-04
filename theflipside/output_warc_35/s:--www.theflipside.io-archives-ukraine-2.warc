@@ -1,0 +1,221 @@
+WARC/1.0
+WARC-Type: response
+WARC-Date: 2022-05-20T22:38:17Z
+WARC-Record-ID: <urn:uuid:643d7e3b-0dbf-48df-9f00-568af33de87e>
+Content-Length: 36733
+Content-Type: application/http; msgtype=response
+WARC-Warcinfo-ID: <urn:uuid:bcd716dc-6d99-46bb-9144-4a7d332a3bc2>
+WARC-Concurrent-To: <urn:uuid:4f21a995-2eee-4a85-bff9-0408b7018ee7>
+WARC-IP-Address: 184.73.183.75
+WARC-Target-URI: https://www.theflipside.io/archives/ukraine-2
+WARC-Payload-Digest: sha1:XBNWKPNDHNLS2SCKSN45XC2CD3VRVXU2
+WARC-Block-Digest: sha1:V2F55PJ3IDV5I5G4GHCPK5KSWRQZM2EB
+WARC-Identified-Payload-Type: text/html
+
+HTTP/1.1 200 OK
+Server: openresty
+Date: Fri, 20 May 2022 22:38:17 GMT
+Content-Type: text/html
+X-Crawler-Content-Length: 13142
+Content-Length: 36141
+Connection: keep-alive
+X-Crawler-Content-Encoding: gzip
+Content-Security-Policy: frame-ancestors 'self'
+X-Frame-Options: SAMEORIGIN
+X-Lambda-Id: 0aec35c3-ff15-43c0-9827-9090f5e3384d
+Accept-Ranges: bytes
+Via: 1.1 varnish
+Age: 61158
+X-Served-By: cache-iad-kjyo7100156-IAD
+X-Cache: HIT
+X-Cache-Hits: 1
+X-Timer: S1653086297.052453,VS0,VE2
+Vary: x-wf-forwarded-proto, Accept-Encoding
+X-Cluster-Name: us-east-1-prod-edge-eks-15
+
+<!DOCTYPE html><!-- Last Published: Fri May 20 2022 05:31:41 GMT+0000 (Coordinated Universal Time) --><html data-wf-domain="www.theflipside.io" data-wf-page="5c0affae2387a21ad549fb85" data-wf-site="5bfd76c121f9503755c665f9" lang="en"><head><meta charset="utf-8"/><title>Ukraine | The Flip Side</title><meta content="Ukraine" name="description"/><meta content="Ukraine | The Flip Side" property="og:title"/><meta content="Get the most intelligent quotes from both sides—in a free, 5-minute email a day." property="og:description"/><meta content="https://assets-global.website-files.com/5c01d9d275e85a6371ce6d1e/5c4e9148fe98b202812657bb_bears%20working%20together.png" property="og:image"/><meta content="Ukraine | The Flip Side" property="twitter:title"/><meta content="Get the most intelligent quotes from both sides—in a free, 5-minute email a day." property="twitter:description"/><meta content="https://assets-global.website-files.com/5c01d9d275e85a6371ce6d1e/5c4e9148fe98b202812657bb_bears%20working%20together.png" property="twitter:image"/><meta property="og:type" content="website"/><meta content="summary_large_image" name="twitter:card"/><meta content="width=device-width, initial-scale=1" name="viewport"/><link href="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/css/the-flipside.68be6b856.min.css" rel="stylesheet" type="text/css"/><script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript"></script><script type="text/javascript">WebFont.load({  google: {    families: ["Lato:100,100italic,300,300italic,400,400italic,700,700italic,900,900italic"]  }});</script><script src="https://use.typekit.net/ief5vbu.js" type="text/javascript"></script><script type="text/javascript">try{Typekit.load();}catch(e){}</script><!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js" type="text/javascript"></script><![endif]--><script type="text/javascript">!function(o,c){var n=c.documentElement,t=" w-mod-";n.className+=t+"js",("ontouchstart"in o||o.DocumentTouch&&c instanceof DocumentTouch)&&(n.className+=t+"touch")}(window,document);</script><link href="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5c03871b75e85a9d2ecf243a_favicon-32x32.png" rel="shortcut icon" type="image/x-icon"/><link href="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5c038790f4cf11a559cd3a57_webclip256.png" rel="apple-touch-icon"/><link href="rss.xml" rel="alternate" title="RSS Feed" type="application/rss+xml"/><script type="text/javascript">!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.agent='plwebflow';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');fbq('init', '420932135099202');fbq('track', 'PageView');</script><!-- Async Anti-Flicker Code -->
+
+<style>.async-hide { opacity: 0 !important} </style>
+<script>(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+(a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+})(window,document.documentElement,'async-hide','dataLayer',4000,
+{'GTM-58K3PC7':true});</script>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-58K3PC7');</script>
+<!-- End Google Tag Manager -->
+
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<!-- Memberstack --> 
+<script src="https://api.memberstack.io/static/memberstack.js?webflow" data-memberstack-id="dd4b66b62c37ef91c54289827c1f3114"> </script>
+<meta name="facebook-domain-verification" content="iwu96sl48x7iyi5jym4ncc45zdaz8e" /><style>
+@media (max-width: 479px) {
+  .paragraph-div a {
+  	  font-size: 17px;
+    	line-height: 24px; }
+      
+  .on-the-bright-side a {
+  	  font-size: 17px;
+    	line-height: 24px; }
+}
+@media (max-width: 767px) {
+	.div-block-38 a {
+  	  font-size: 17px; 
+    	line-height: 24px; 
+}	
+  .paragraph-div a {
+  	  font-size: 17px;
+    	line-height: 26px; }
+      
+.on-the-bright-side a {
+  	  font-size: 17px;
+    	line-height: 26px; }
+}
+.w-nav-overlay {
+    z-index: 1002 !important;
+}
+</style></head><body class="body"><div data-collapse="medium" data-animation="over-right" data-duration="400" data-easing="ease" data-easing2="ease" data-no-scroll="1" role="banner" class="navbar w-nav"><nav role="navigation" class="nav-menu w-nav-menu"><div class="nav-open-menu-links"><a href="/latest-issue" class="nav-open-menu-item mobile latest-issue w-nav-link">Latest Issue</a><a href="/archives" class="nav-open-menu-item mobile w-nav-link">Archives</a><a href="/about-us" class="nav-open-menu-item mobile w-nav-link">About Us</a><a href="/faq" class="nav-open-menu-item mobile faq w-nav-link">FAQ</a></div><div class="nav-menu-newsletter"><div class="form-block mobile w-form"><form id="email-form" name="email-form" data-name="Email Form" redirect="/one-more-thing" data-redirect="/one-more-thing" action="https://theflipside.us15.list-manage.com/subscribe/post?u=281c839c990f42b374467ae5f&amp;amp;id=7566a2ca43&quot; method=&quot;post&quot; id=&quot;mc-embedded-subscribe-form&quot; name=&quot;mc-embedded-subscribe-form" method="post" class="form mobile"><div class="text-block">GET TROLL-FREE POLITICAL NEWS</div><input type="email" class="text-field mobile w-input" maxlength="256" name="email-2" data-name="Email 2" placeholder="your email address" id="email-2" required=""/><input type="submit" value="I want to keep up with both sides &gt;" data-wait="Please wait..." class="submit-button mobile w-button"/><div class="text-block-2">We never spam and only send awesome news digests. Unsubscribe any time.</div></form><div class="w-form-done"><div>Thank you! Your submission has been received!</div></div><div class="w-form-fail"><div>Oops! Something went wrong while submitting the form.</div></div></div></div></nav><div data-w-id="83b1dd7a-785a-0585-a0c0-e44f2b23d2b5" class="nav-bar navbarother"><a href="/home-2-0" class="nav-logo w-nav-brand"><img src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5c018cd0879ec8a3e5fc263b_TFS%20Logo-n.png" alt="Logo" width="125" class="image-22 logo"/></a><div class="div-right header w-hidden-medium w-hidden-small w-hidden-tiny"><div class="nav-menu-links flex"><a href="/latest-issue" class="nav-link small w-nav-link">LATEST ISSUE</a><a href="/archives" class="nav-link small w-nav-link">ARCHIVES</a><a href="/about-us" class="nav-link small w-nav-link">ABOUT US</a><a href="/faq" class="nav-link small faq w-nav-link">FAQ</a></div></div><div class="div-right header w-hidden-medium w-hidden-small w-hidden-tiny"><div class="header-form w-form"><form id="email-form-2" name="email-form-2" data-name="Email Form 2" method="post" action="https://theflipside.us15.list-manage.com/subscribe/post?u=281c839c990f42b374467ae5f&amp;amp;id=7566a2ca43&quot; method=&quot;post&quot; id=&quot;mc-embedded-subscribe-form&quot; name=&quot;mc-embedded-subscribe-form" redirect="/one-more-thing" data-redirect="/one-more-thing" class="form-3"><input type="email" class="email-address-field-grey header w-input" maxlength="256" name="hero-optin-2" data-name="Hero Optin 2" placeholder="your email address" id="hero-optin-2" required=""/><div class="w-embed"><input type="hidden" name="MMERGE1" value="desk-menu"/></div><input type="submit" value="Subscribe &gt;" data-wait="Please wait..." id="https-theflipside.us15.list-manage.com-subscribe-post-u-281c839c990f42b374467ae5f-id-a0c19d8bf4" class="submit-button hero header w-button"/></form><div class="w-form-done"><div>Thank you! Your submission has been received!</div></div><div class="w-form-fail"><div>Oops! Something went wrong while submitting the form.</div></div></div></div></div><div class="menu-button-nav w-nav-button" data-ix="hamburger-button"><div class="top-line"></div><div class="middle-line"></div><div class="bottom-line"></div></div></div><div class="section-3 wf-section"><div><h1 class="heading-16">December 21, 2021</h1><h1 class="heading-17">Ukraine</h1><div class="container-8 w-container"><div class="rich-text-block-4 w-richtext"><p><strong><em>Editor&#x27;s Note:</em></strong> This is our final edition of 2021; we’ll be back in full swing on January 5th. Thank you so much for sticking with us! We wish you all a joyful and restful holiday. Merry Christmas to those celebrating, and Happy New Year!</p></div><img src="https://assets-global.website-files.com" alt="" class="image-48 w-dyn-bind-empty"/><div class="paragraph-div"><div class="rich-text-block-2 w-richtext"><p>“Russia on Friday <a href="https://apnews.com/article/business-europe-russia-ukraine-moscow-6f0b3cf18eba2bfa8ec4ee6d209eee74">published draft security demands</a> that NATO deny membership to Ukraine and other former Soviet countries and roll back the alliance’s military deployments in Central and Eastern Europe — bold ultimatums that are almost certain to be rejected by the U.S. and its allies. The proposals, which were submitted to the U.S. and its allies earlier this week, also call for a ban on sending U.S. and Russian warships and aircraft to areas from where they can strike each other’s territory, along with a halt to NATO military drills near Russia… <br/><br/>“The publication of the demands — contained in a proposed Russia-U.S. security treaty and a security agreement between Moscow and NATO — comes amid soaring tensions over a Russian troop buildup near Ukraine that has raised fears of an invasion.” <strong>AP News</strong><br/><br/>Here’s our <a href="https://www.theflipside.io/archives/ukraine">recent coverage of Ukraine</a>. <strong>The Flip Side</strong></p></div><a href="/archives" class="link-6">See past issues</a></div></div><img src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5bfee82d95c45605590f6387_bear-badge.png" width="114" alt="" class="image archives"/><div class="columns w-row"><div class="blue-divider w-col w-col-6 w-col-small-6 w-col-tiny-6"><div style="background-color:#453158" class="div-block-2"></div></div><div class="red-divider w-col w-col-6 w-col-small-6 w-col-tiny-6"><div style="background-color:#453158" class="div-block-3"></div></div></div><div class="div-block-38"><div class="columns-15 w-row"><div class="column-60 w-clearfix w-col w-col-6 w-col-small-6 w-col-tiny-tiny-stack"><h1 class="from-the-left-heading w-dyn-bind-empty"></h1><h1 class="from-the-left-heading sponsored">From the Right</h1><div style="border-color:#e20f22" class="paragraph-6 left intro w-richtext"><p>The right criticizes the Biden administration for not taking a harder line against Russia.</p></div><div class="paragraph-6 left bullet first w-dyn-bind-empty w-richtext"></div><div style="border-color:#e20f22" class="paragraph-6 left bullet first sponsored w-richtext"><p>“Putin, like every autocrat, knows that <a href="https://newsletters.theatlantic.com/peacefield/61a65b180b037b002073cae9/russia-and-ukraine/">democracy anywhere is a threat to his own regime</a>, because people making their own decisions and running their own lives gives his own citizens some unhealthy ideas. And when it’s being practiced by former Soviet subjects—and especially by other Slavs—right on his doorstep, he gets especially itchy. As McFaul put it smartly and succinctly, Putin is not threatened by NATO expansion into Ukraine but by the existence of democracy in Ukraine… <br/><br/>“You can see where some sort of cockamamie Russian version of Operation Ukrainian Freedom would appeal to Putin. The United States and NATO would have to stand by helplessly while Russian troops bolt across the border and Kyiv falls into chaos. If all goes well for Vladimir Vladimirovich, Ukraine becomes a Russian satrapy, the West looks like a collection of feckless talking heads, and the Russian people celebrate the greatest leader since Peter the Great.”<br/><strong>Tom Nichols, The Atlantic</strong><br/><br/>“In 2020, Putin&#x27;s approval rating in Russia dropped to 59%. Still considerably high compared to the typical approval ratings of American presidents. However, for Putin, this was a historic low going back to his ascent as prime minister in 1999… There&#x27;s plenty of evidence suggesting Putin feels his reign of power is on unstable ground… <br/><br/>“In 2013, Putin&#x27;s approval rating fell to 62%, the second-lowest of his tenure. However, the following year after Putin plunged Russian forces into Ukraine and seized Crimea, public support surged to nearly 86%, making him the world&#x27;s most popular politician at the time. Perhaps more pressing than repelling the West, Putin likely sees providing Russians with a common enemy and invading Ukraine as a <a href="https://www.washingtonexaminer.com/opinion/how-vladimir-putins-unpopularity-at-home-might-be-fueling-the-crisis-in-ukraine">means of drumming up popular support</a>.”<br/><strong>Tim McMillan, Washington Examiner</strong><br/><br/>“Poland and Lithuania on Monday openly broke ranks with the Biden administration over Ukraine… [Polish President Andrzej] Duda declared that he is ‘categorically against making any concessions to Russia. It’s clear that it’s Russia which must step back.’… Contrast Duda&#x27;s words with what the Biden administration is saying. On Friday, a senior administration official said that when it comes to Russia&#x27;s demands, ‘there are other things that we are prepared [to] work with and that merit some discussion.’… <br/><br/>“In Kyiv, Warsaw, and Vilnius, <a href="https://www.washingtonexaminer.com/opinion/signaling-deep-concern-poland-and-lithuania-break-from-us-on-ukraine">the absence of U.S. resolution against Russia is obvious and alarming</a>. Ukraine has been shocked by President Joe Biden&#x27;s willingness to adopt Russian negotiating protocols over the conflict. The Poles were particularly disheartened in November when the U.S. failed to join Britain in sending troops to guard its Belorussian border in face of a Russian orchestrated migrant wave… <br/><br/>“The Polish, Lithuanians, and Ukrainians recognize something that the French and Germans don&#x27;t really care about and that Biden has apparently forgotten. Namely, that history proves you cannot negotiate with Russia from a position of weakness. Only from a position of clarity, respect, and resolve.”<br/><strong>Tom Rogan, Washington Examiner</strong><br/><br/>“Biden still hasn’t used his congressionally mandated authority to <a href="https://www.bloomberg.com/opinion/articles/2021-12-17/who-s-appeasing-putin-now-biden-policy-on-ukraine-shows-weakness">send up to $200 million in military aid to Ukraine</a>, an authority that exists for just this type of an emergency. Last week a group of Democratic House lawmakers urged the White House to tap this fund. The Biden administration has also declined to enforce significant sanctions against the Nord Stream 2 pipeline, which would bypass Ukraine and provide natural gas directly to Germany, depriving the struggling Ukrainian country of a critical source of revenue and a hedge against Russian belligerence… <br/><br/>“For four years, Democrats portrayed themselves as a party of Russia hawks, in contrast to a president they saw as Putin’s lackey. But since Biden came into office, his administration has stopped enforcing major sanctions on Russia’s pipeline to Germany, held off on punishing Russian hacks of critical infrastructure [in the US] and now seeks to deter a Russian invasion of Ukraine with threats alone.”<br/><strong>Eli Lake, Bloomberg</strong></p></div><div class="paragraph-6 left bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 left bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 left bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 left bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 left bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 left bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 left bullet w-dyn-bind-empty w-richtext"></div></div><div class="column-61 w-clearfix w-col w-col-6 w-col-small-6 w-col-tiny-tiny-stack"><h1 class="from-the-right-heading w-dyn-bind-empty"></h1><h1 class="from-the-right-heading sponsored">From the Left</h1><div style="border-color:#0050a7" class="paragraph-6 right intro w-hidden-tiny w-richtext"><p>The left urges the Biden administration to take a hard line against Russia while also retaining diplomatic options.</p></div><div class="paragraph-6 right intro w-hidden-main w-hidden-medium w-hidden-small w-richtext"><p>The left urges the Biden administration to take a hard line against Russia while also retaining diplomatic options.</p></div><div class="paragraph-6 right bullet first w-dyn-bind-empty w-richtext"></div><div style="border-color:#0050a7" class="paragraph-6 right bullet first sponsored w-richtext"><p>“The Defense Department could begin airlifting [requested] defensive systems and supplies to Kyiv tomorrow. The administration has held off for fear of provoking Putin, but we should not give an aggressor a veto over aid to his victims… <br/><br/>“The United States and its NATO allies should let the Kremlin know that, in the event of a Russian occupation, they will keep supplying Ukrainian freedom fighters with potent weapons, including Javelin antitank missiles and Stinger antiaircraft missiles. U.S. officials should point out to their Russian counterparts that Ukraine shares a lengthy border — nearly 900 miles in total — with NATO members Romania, Slovakia, Hungary and Poland. Good luck controlling that frontier. <a href="https://www.washingtonpost.com/opinions/2021/12/15/ukraine-russia-putin-aggression-nato/">The threat of guerrilla warfare is the most potent deterrent</a> to a Russian invasion of Ukraine, and it is one that Ukraine and its supporters in the West need to play up.”<br/><strong>Max Boot, Washington Post</strong><br/><br/>“In military terms, the Ukrainian army isn’t a match for Russian troops, but it’s 50 percent larger than the force Ukraine had in 2014, when Russia seized Crimea. In addition, sources said that about 500,000 Ukrainians have had some militia training since 2014, and that at least a million weapons are in private hands. These would be among the building blocks for an insurgency… <br/><br/>“A small number of U.S. Special Operations forces have been advising the Ukrainians, as part of a U.S. military team of about 150 people there now. The CIA also has a paramilitary branch with experience in organizing insurgencies in Afghanistan and Syria. When U.S. troops were poised on the border of Iraq in 2003, U.S. officials didn’t consider the grinding, enervating war of counterinsurgency that lay ahead. The Biden administration believes that Putin may be on the verge of making a similar mistake in Ukraine. They hope he doesn’t make the wrong choice, but <a href="https://www.washingtonpost.com/opinions/2021/12/19/biden-ukraine-insurgents-russia/">if he does invade, they want to make it hurt</a>.”<br/><strong>David Ignatius, Washington Post</strong><br/><br/>Some argue that “It ought to be possible to say forthrightly what everyone in the West knows to be true: NATO has no plan, short or long term, for bringing Ukraine and Georgia into the alliance. [President] Bush did not have a plan in 2008, and no administration has developed such a plan in the years since. If Putin needs assurance that no such plan exists, what’s the harm in giving it to him?… <br/><br/>“Biden is right to threaten severe economic consequences for Russia should Putin further invade Ukraine. (He has already annexed Crimea and is fighting a war in the Donbas.) This should include a promise to ramp up U.S. natural gas production to supply Europe’s needs and gut the gas-exporting economy of Russia. And it should include a credible threat to impound Putin’s estimated billions in the West. At the same time, the United States and its allies must recognize Russia’s interest in a neutral Ukraine. A mechanism of formal and informal talks should be created to <a href="https://www.washingtonpost.com/opinions/2021/12/17/russia-ukraine-nato-putin-truth-in-diplomacy/">pursue the joint interests of East and West in a stable, neutral frontier</a>.”<br/><strong>David Von Drehle, Washington Post</strong><br/><br/>“The current brinkmanship between Moscow and Washington is reminiscent of innumerable close-call incidents during the Cold War. The most dire of these was the Cuban Missile Crisis of October 1962. That crisis was resolved when Nikita Khrushchev, facing a U.S. naval blockade, turned around ships carrying nuclear missiles to Cuba. In return, President Kennedy made a secret deal to remove U.S. missiles from Turkey. The analogy is some kind of deal in which Russia stands down from its threat to invade Ukraine, and in return the U.S. quietly rescinds its offer to bring Ukraine into NATO… <br/><br/>“There is a <a href="https://prospect.org/world/narrow-path-to-averting-war-over-ukraine/">very narrow path to a mutual stand-down, and it may well lead through Brussels or Berlin</a>… The Europeans, even more than the U.S., need to avert the twin perils of either a capitulation to Putin or a shooting war over Ukraine. Angela Merkel, who speaks fluent Russian, has a good diplomatic relationship with Putin. She is recently unemployed. Merkel for special envoy?”<br/><strong>Robert Kuttner, American Prospect</strong></p></div><div class="paragraph-6 right bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 right bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 right bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 right bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 right bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 right bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 right bullet w-dyn-bind-empty w-richtext"></div></div></div><div class="w-row"><div class="column-60 w-col w-col-6 w-col-small-6 w-col-tiny-tiny-stack"></div><div class="column-61 w-col w-col-6 w-col-small-6 w-col-tiny-tiny-stack"></div></div><div class="w-layout-grid grid-7 w-clearfix"><div id="w-node-c982ddb1-5ced-6b21-8419-c9ca80732245-d549fb85" class="paragraph-6 wide center w-dyn-bind-empty w-richtext"></div><div id="w-node-c982ddb1-5ced-6b21-8419-c9ca80732246-d549fb85" class="paragraph-6 wide libertarian w-dyn-bind-empty w-richtext"></div></div></div><div class="additional-closing w-dyn-bind-empty w-richtext"></div><div style="border-color:#453158" class="on-the-bright-side"><h4 class="heading-18">On the bright side...</h4><div class="rich-text-block-3 w-richtext"><p><a href="https://nerdist.com/article/the-best-weird-news-stories-of-2021/" target="_blank">The best weird stories of 2021</a>.<br/><strong>Nerdist</strong></p></div></div></div></div><div class="trollcta archive w-row"><div class="w-col w-col-6 w-col-stack"><div class="div-block-26 archive"><img src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5bfee82bbe4cd8508983a309_bear-0.png" alt="" class="bearhead archive"/><h2 class="heading-cta archive">Get troll-free political news.</h2></div></div><div class="w-col w-col-6 w-col-stack"><div class="w-clearfix w-form"><form id="email-form-2" name="email-form-2" data-name="Email Form 2" method="get" class="newsletter-form-fields faq"><input type="email" class="email-address-field-grey hero faq archive w-input" maxlength="256" name="hero-optin-2" data-name="Hero Optin 2" placeholder="your email address" id="hero-optin-2" required=""/><input type="submit" value="I want the best points from both sides        &gt;" data-wait="Please wait..." class="submit-button hero home faq archive w-button"/></form><div class="w-form-done"><div>Thank you! Your submission has been received!</div></div><div class="w-form-fail"><div>Oops! Something went wrong while submitting the form.</div></div></div></div></div><footer class="footer wf-section"><div class="columns-6 top-footer w-row"><div class="column-11 w-col w-col-4"><img src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5c800f4179da156500bd15f4_TFS%20-%20logo.svg" width="125" alt="Logo of The Flip Side" class="image-22 logo"/></div><div class="column-12 top-footer w-col w-col-4"><a id="w-node-f2f82e10-1a31-eb5f-ca00-8ef170fc7709-70fc7704" href="/latest-issue" class="footer-link w-inline-block"><div>LATEST ISSUE</div></a><a id="w-node-f2f82e10-1a31-eb5f-ca00-8ef170fc770c-70fc7704" href="/archives" class="footer-link w-inline-block"><div>ARCHIVES</div></a><a id="w-node-f2f82e10-1a31-eb5f-ca00-8ef170fc770f-70fc7704" href="/about-us" class="footer-link w-inline-block"><div>ABOUT US</div></a><a id="w-node-f2f82e10-1a31-eb5f-ca00-8ef170fc7715-70fc7704" href="/media" class="footer-link w-inline-block"><div>MEDIA</div></a><a id="w-node-f2f82e10-1a31-eb5f-ca00-8ef170fc7712-70fc7704" href="/supporters" class="footer-link w-inline-block"><div>SUPPORTERS</div></a><a id="w-node-_87649ec8-d9e2-88e8-e2f7-a3c8f39c81e0-70fc7704" href="/faq" class="footer-link w-inline-block"><div>FAQ</div></a></div><div class="column-13 top-footer w-col w-col-4"><a href="https://www.facebook.com/KnowTheFlipSide/" class="link-block w-inline-block"><img src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5ec52bd498978ddc3785cf6e_facebook.svg" width="30" height="30" alt="Facebook"/></a><a href="http://twitter.com/knowtheflipside" class="link-block-2 w-inline-block"><img src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5ec52bd48143fd994f2ed9d1_twitter.svg" width="30" height="30" alt="Twitter"/></a><a href="mailto:editor@theflipside.io?subject=%5BFlipSide%20Website%20Inquiry%5D" class="w-inline-block"><img src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5ec52bd493802b79cc062997_email.svg" width="30" height="30" alt="Email"/></a></div></div><div class="columns-6 bottom-footer w-row"><div class="column-11 bottom-footer w-col w-col-3"><div class="text-block-15">COPYRIGHT © 2020</div></div><div class="column-12 bottom-footer w-col w-col-5"></div><div class="column-13 bottom-footer w-col w-col-4"><a href="/terms" class="link-block-2 terms w-inline-block"><div class="text-block-31">PRIVACY POLICY</div></a><div class="link-block-2 terms divider">|</div><a href="https://www.functionlabs.com" class="link-block-2 terms function w-inline-block"><div class="text-block-32">WEBSITE BY FUNCTION LABS</div></a></div></div></footer><script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=5bfd76c121f9503755c665f9" type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script><script src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/js/the-flipside.3ef628c7c.js" type="text/javascript"></script><!--[if lte IE 9]><script src="//cdnjs.cloudflare.com/ajax/libs/placeholders/3.0.2/placeholders.min.js"></script><![endif]--><!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-58K3PC7"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<!-- UTM Passthrough Javascript -->
+
+<script type="text/javascript" charset="utf-8">
+var UtmCookie, UtmForm, _uf;
+UtmCookie = class {
+    constructor(options = {}) {
+        this._cookieNamePrefix = "_uc_", this._domain = options.domain, this._sessionLength = options.sessionLength || 1, this._cookieExpiryDays = options.cookieExpiryDays || 365, this._additionalParams = options.additionalParams || [], this._utmParams = ["utm_source", "utm_medium", "utm_campaign", "utm_term", "utm_content"], this.writeInitialReferrer(), this.writeLastReferrer(), this.writeInitialLandingPageUrl(), this.setCurrentSession(), this.additionalParamsPresentInUrl() && this.writeAdditionalParams(), this.utmPresentInUrl() && this.writeUtmCookieFromParams()
+    }
+    createCookie(name, value, days, path, domain, secure) {
+        var cookieDomain, cookieExpire, cookiePath, cookieSecure, date, expireDate;
+        expireDate = null, days && ((date = new Date).setTime(date.getTime() + 24 * days * 60 * 60 * 1e3), expireDate = date), cookieExpire = null != expireDate ? "; expires=" + expireDate.toGMTString() : "", cookiePath = null != path ? "; path=" + path : "; path=/", cookieDomain = null != domain ? "; domain=" + domain : "", cookieSecure = null != secure ? "; secure" : "", document.cookie = this._cookieNamePrefix + name + "=" + escape(value) + cookieExpire + cookiePath + cookieDomain + cookieSecure
+    }
+    readCookie(name) {
+        var c, ca, i, nameEQ;
+        for (nameEQ = this._cookieNamePrefix + name + "=", ca = document.cookie.split(";"), i = 0; i < ca.length;) {
+            for (c = ca[i];
+                " " === c.charAt(0);) c = c.substring(1, c.length);
+            if (0 === c.indexOf(nameEQ)) return c.substring(nameEQ.length, c.length);
+            i++
+        }
+        return null
+    }
+    eraseCookie(name) {
+        this.createCookie(name, "", -1, null, this._domain)
+    }
+    getParameterByName(name) {
+        var results;
+        return name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]"), (results = new RegExp("[\\?&]" + name + "=([^&#]*)").exec(window.location.search)) ? decodeURIComponent(results[1].replace(/\+/g, " ")) : ""
+    }
+    additionalParamsPresentInUrl() {
+        var j, len, param, ref;
+        for (j = 0, len = (ref = this._additionalParams).length; j < len; j++)
+            if (param = ref[j], this.getParameterByName(param)) return !0;
+        return !1
+    }
+    utmPresentInUrl() {
+        var j, len, param, ref;
+        for (j = 0, len = (ref = this._utmParams).length; j < len; j++)
+            if (param = ref[j], this.getParameterByName(param)) return !0;
+        return !1
+    }
+    writeCookie(name, value) {
+        this.createCookie(name, value, this._cookieExpiryDays, null, this._domain)
+    }
+    writeAdditionalParams() {
+        var j, len, param, ref, value;
+        for (j = 0, len = (ref = this._additionalParams).length; j < len; j++) param = ref[j], value = this.getParameterByName(param), this.writeCookie(param, value)
+    }
+    writeUtmCookieFromParams() {
+        var j, len, param, ref, value;
+        for (j = 0, len = (ref = this._utmParams).length; j < len; j++) param = ref[j], value = this.getParameterByName(param), this.writeCookie(param, value)
+    }
+    writeCookieOnce(name, value) {
+        this.readCookie(name) || this.writeCookie(name, value)
+    }
+    _sameDomainReferrer(referrer) {
+        var hostname;
+        return hostname = document.location.hostname, referrer.indexOf(this._domain) > -1 || referrer.indexOf(hostname) > -1
+    }
+    _isInvalidReferrer(referrer) {
+        return "" === referrer || void 0 === referrer
+    }
+    writeInitialReferrer() {
+        var value;
+        value = document.referrer, this._isInvalidReferrer(value) && (value = "direct"), this.writeCookieOnce("referrer", value)
+    }
+    writeLastReferrer() {
+        var value;
+        value = document.referrer, this._sameDomainReferrer(value) || (this._isInvalidReferrer(value) && (value = "direct"), this.writeCookie("last_referrer", value))
+    }
+    writeInitialLandingPageUrl() {
+        var value;
+        (value = this.cleanUrl()) && this.writeCookieOnce("initial_landing_page", value)
+    }
+    initialReferrer() {
+        return this.readCookie("referrer")
+    }
+    lastReferrer() {
+        return this.readCookie("last_referrer")
+    }
+    initialLandingPageUrl() {
+        return this.readCookie("initial_landing_page")
+    }
+    incrementVisitCount() {
+        var existingValue, newValue;
+        existingValue = parseInt(this.readCookie("visits"), 10), newValue = 1, newValue = isNaN(existingValue) ? 1 : existingValue + 1, this.writeCookie("visits", newValue)
+    }
+    visits() {
+        return this.readCookie("visits")
+    }
+    setCurrentSession() {
+        this.readCookie("current_session") || (this.createCookie("current_session", "true", this._sessionLength / 24, null, this._domain), this.incrementVisitCount())
+    }
+    cleanUrl() {
+        var cleanSearch;
+        return cleanSearch = window.location.search.replace(/utm_[^&]+&?/g, "").replace(/&$/, "").replace(/^\?$/, ""), window.location.origin + window.location.pathname + cleanSearch + window.location.hash
+    }
+}, UtmForm = class {
+    constructor(options = {}) {
+        this._utmParamsMap = {}, this._utmParamsMap.utm_source = options.utm_source_field || "USOURCE", this._utmParamsMap.utm_medium = options.utm_medium_field || "UMEDIUM", this._utmParamsMap.utm_campaign = options.utm_campaign_field || "UCAMPAIGN", this._utmParamsMap.utm_content = options.utm_content_field || "UCONTENT", this._utmParamsMap.utm_term = options.utm_term_field || "UTERM", this._additionalParamsMap = options.additional_params_map || {}, this._initialReferrerField = options.initial_referrer_field || "IREFERRER", this._lastReferrerField = options.last_referrer_field || "LREFERRER", this._initialLandingPageField = options.initial_landing_page_field || "ILANDPAGE", this._visitsField = options.visits_field || "VISITS", this._addToForm = options.add_to_form || "all", this._formQuerySelector = options.form_query_selector || "form", this._decodeURIs = options.decode_uris || !1, this.utmCookie = new UtmCookie({
+            domain: options.domain,
+            sessionLength: options.sessionLength,
+            cookieExpiryDays: options.cookieExpiryDays,
+            additionalParams: Object.getOwnPropertyNames(this._additionalParamsMap)
+        }), this.addAllFields()
+    }
+    addAllFields() {
+        var allForms, i, len;
+        for (allForms = document.querySelectorAll(this._formQuerySelector), len = "none" === this._addToForm ? 0 : "first" === this._addToForm ? Math.min(1, allForms.length) : allForms.length, i = 0; i < len;) this.addAllFieldsToForm(allForms[i]), i++
+    }
+    addAllFieldsToForm(form) {
+        var fieldName, param, ref, ref1;
+        if (form && !form._utm_tagged) {
+            for (param in form._utm_tagged = !0, ref = this._utmParamsMap) fieldName = ref[param], this.addFormElem(form, fieldName, this.utmCookie.readCookie(param));
+            for (param in ref1 = this._additionalParamsMap) fieldName = ref1[param], this.addFormElem(form, fieldName, this.utmCookie.readCookie(param));
+            this.addFormElem(form, this._initialReferrerField, this.utmCookie.initialReferrer()), this.addFormElem(form, this._lastReferrerField, this.utmCookie.lastReferrer()), this.addFormElem(form, this._initialLandingPageField, this.utmCookie.initialLandingPageUrl()), this.addFormElem(form, this._visitsField, this.utmCookie.visits())
+        }
+    }
+    addFormElem(form, fieldName, fieldValue) {
+        this.insertAfter(this.getFieldEl(fieldName, fieldValue), form.lastChild)
+    }
+    getFieldEl(fieldName, fieldValue) {
+        var fieldEl;
+        return (fieldEl = document.createElement("input")).type = "hidden", fieldEl.name = fieldName, fieldEl.value = this._decodeURIs ? decodeURIComponent(fieldValue) : fieldValue, fieldEl
+    }
+    insertAfter(newNode, referenceNode) {
+        return referenceNode.parentNode.insertBefore(newNode, referenceNode.nextSibling)
+    }
+}, _uf = window._uf || {}, window.UtmForm = new UtmForm(_uf);
+  
+</script>
+<!-- End UTM Passthrough Javascript --></body></html>
+
+
+

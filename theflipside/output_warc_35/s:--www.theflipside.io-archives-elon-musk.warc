@@ -1,0 +1,221 @@
+WARC/1.0
+WARC-Type: response
+WARC-Date: 2020-08-05T13:12:33Z
+WARC-Record-ID: <urn:uuid:9343b552-b2b3-4f36-9475-5330b54ad359>
+Content-Length: 36841
+Content-Type: application/http; msgtype=response
+WARC-Warcinfo-ID: <urn:uuid:2b026988-f7c2-4bff-922f-26f1398905e1>
+WARC-Concurrent-To: <urn:uuid:671471a3-66b0-489c-b015-8fb0ff778797>
+WARC-IP-Address: 54.157.174.158
+WARC-Target-URI: https://www.theflipside.io/archives/elon-musk
+WARC-Payload-Digest: sha1:2LDV6FNKRHQ34ASRLSMRQPYKIJBUMRER
+WARC-Block-Digest: sha1:YE7YOVYAFIWNBL25VTWAV5SEJ2YLSGEP
+WARC-Identified-Payload-Type: text/html
+
+HTTP/1.1 200 OK
+Server: openresty
+Date: Wed, 05 Aug 2020 13:12:33 GMT
+Content-Type: text/html
+X-Crawler-Content-Length: 13297
+Content-Length: 36233
+Connection: keep-alive
+X-Crawler-Content-Encoding: gzip
+Content-Security-Policy: frame-ancestors 'self'
+X-Frame-Options: SAMEORIGIN
+x-lambda-id: 60aec661-e196-4ce6-acb1-4e48c4949409
+Via: 1.1 varnish
+Accept-Ranges: bytes
+Via: 1.1 varnish
+Age: 0
+X-Served-By: cache-dca17770-DCA, cache-bwi5035-BWI
+X-Cache: MISS, MISS
+X-Cache-Hits: 0, 0
+X-Timer: S1596633152.224526,VS0,VE964
+Vary: Accept-Encoding
+X-Cluster-Name: us-east-1-prod-edge-eks-15
+
+<!DOCTYPE html><!-- Last Published: Wed Aug 05 2020 06:48:23 GMT+0000 (Coordinated Universal Time) --><html data-wf-domain="www.theflipside.io" data-wf-page="5c0affae2387a21ad549fb85" data-wf-site="5bfd76c121f9503755c665f9" lang="en"><head><meta charset="utf-8"/><title>Elon Musk | The Flip Side</title><meta content="Elon Musk" name="description"/><meta content="Elon Musk | The Flip Side" property="og:title"/><meta content="Get the most intelligent quotes from both sides—in a free, 5-minute email a day." property="og:description"/><meta content="https://assets-global.website-files.com/5c01d9d275e85a6371ce6d1e/5c4e9148fe98b202812657bb_bears%20working%20together.png" property="og:image"/><meta content="Elon Musk | The Flip Side" property="twitter:title"/><meta content="Get the most intelligent quotes from both sides—in a free, 5-minute email a day." property="twitter:description"/><meta content="https://assets-global.website-files.com/5c01d9d275e85a6371ce6d1e/5c4e9148fe98b202812657bb_bears%20working%20together.png" property="twitter:image"/><meta property="og:type" content="website"/><meta content="summary_large_image" name="twitter:card"/><meta content="width=device-width, initial-scale=1" name="viewport"/><link href="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/css/the-flipside.9720be48d.min.css" rel="stylesheet" type="text/css"/><script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript"></script><script type="text/javascript">WebFont.load({  google: {    families: ["Lato:100,100italic,300,300italic,400,400italic,700,700italic,900,900italic"]  }});</script><script src="https://use.typekit.net/ief5vbu.js" type="text/javascript"></script><script type="text/javascript">try{Typekit.load();}catch(e){}</script><!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js" type="text/javascript"></script><![endif]--><script type="text/javascript">!function(o,c){var n=c.documentElement,t=" w-mod-";n.className+=t+"js",("ontouchstart"in o||o.DocumentTouch&&c instanceof DocumentTouch)&&(n.className+=t+"touch")}(window,document);</script><link href="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5c03871b75e85a9d2ecf243a_favicon-32x32.png" rel="shortcut icon" type="image/x-icon"/><link href="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5c038790f4cf11a559cd3a57_webclip256.png" rel="apple-touch-icon"/><link href="rss.xml" rel="alternate" title="RSS Feed" type="application/rss+xml"/><script type="text/javascript">!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.agent='plwebflow';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');fbq('init', '420932135099202');fbq('track', 'PageView');</script><!-- Async Anti-Flicker Code -->
+
+<style>.async-hide { opacity: 0 !important} </style>
+<script>(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+(a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+})(window,document.documentElement,'async-hide','dataLayer',4000,
+{'GTM-58K3PC7':true});</script>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-58K3PC7');</script>
+<!-- End Google Tag Manager -->
+
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<!-- Memberstack --> 
+<script src="https://api.memberstack.io/static/memberstack.js?webflow" data-memberstack-id="dd4b66b62c37ef91c54289827c1f3114"> </script><style>
+@media (max-width: 479px) {
+  .paragraph-div a {
+  	  font-size: 17px;
+    	line-height: 24px; }
+      
+  .on-the-bright-side a {
+  	  font-size: 17px;
+    	line-height: 24px; }
+}
+@media (max-width: 767px) {
+	.div-block-38 a {
+  	  font-size: 17px; 
+    	line-height: 24px; 
+}	
+  .paragraph-div a {
+  	  font-size: 17px;
+    	line-height: 26px; }
+      
+.on-the-bright-side a {
+  	  font-size: 17px;
+    	line-height: 26px; }
+}
+.w-nav-overlay {
+    z-index: 1002 !important;
+}
+</style></head><body class="body"><div data-collapse="medium" data-animation="over-right" data-duration="400" role="banner" class="navbar w-nav"><nav role="navigation" class="nav-menu w-nav-menu"><div class="nav-open-menu-links"><a href="/latest-issue" class="nav-open-menu-item mobile latest-issue w-nav-link">Latest Issue</a><a href="/archives" class="nav-open-menu-item mobile w-nav-link">Archives</a><a href="/about-us" class="nav-open-menu-item mobile w-nav-link">About Us</a><a href="/faq" class="nav-open-menu-item mobile faq w-nav-link">FAQ</a></div><div class="nav-menu-newsletter"><div class="form-block mobile w-form"><form id="email-form" name="email-form" data-name="Email Form" redirect="/one-more-thing" data-redirect="/one-more-thing" action="https://theflipside.us15.list-manage.com/subscribe/post?u=281c839c990f42b374467ae5f&amp;amp;id=7566a2ca43&quot; method=&quot;post&quot; id=&quot;mc-embedded-subscribe-form&quot; name=&quot;mc-embedded-subscribe-form" method="post" class="form mobile"><div class="text-block">GET TROLL-FREE POLITICAL NEWS</div><input type="email" class="text-field mobile w-input" maxlength="256" name="email-2" data-name="Email 2" placeholder="your email address" id="email-2" required=""/><input type="submit" value="I want to keep up with both sides &gt;" data-wait="Please wait..." class="submit-button mobile w-button"/><div class="text-block-2">We never spam and only send awesome news digests. Unsubscribe any time.</div></form><div class="w-form-done"><div>Thank you! Your submission has been received!</div></div><div class="w-form-fail"><div>Oops! Something went wrong while submitting the form.</div></div></div></div></nav><div data-w-id="83b1dd7a-785a-0585-a0c0-e44f2b23d2b5" class="nav-bar navbarother"><a href="/home-2-0" class="nav-logo w-nav-brand"><img src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5c018cd0879ec8a3e5fc263b_TFS%20Logo-n.png" alt="Logo" width="125" class="image-22 logo"/></a><div class="div-right header w-hidden-medium w-hidden-small w-hidden-tiny"><div class="nav-menu-links flex"><a href="/latest-issue" class="nav-link small w-nav-link">LATEST ISSUE</a><a href="/archives" class="nav-link small w-nav-link">ARCHIVES</a><a href="/about-us" class="nav-link small w-nav-link">ABOUT US</a><a href="/faq" class="nav-link small faq w-nav-link">FAQ</a></div></div><div class="div-right header w-hidden-medium w-hidden-small w-hidden-tiny"><div class="header-form w-form"><form id="email-form-2" name="email-form-2" data-name="Email Form 2" method="post" action="https://theflipside.us15.list-manage.com/subscribe/post?u=281c839c990f42b374467ae5f&amp;amp;id=7566a2ca43&quot; method=&quot;post&quot; id=&quot;mc-embedded-subscribe-form&quot; name=&quot;mc-embedded-subscribe-form" redirect="/one-more-thing" data-redirect="/one-more-thing" class="form-3"><input type="email" class="email-address-field-grey header w-input" maxlength="256" name="hero-optin-2" data-name="Hero Optin 2" placeholder="your email address" id="hero-optin-2" required=""/><div class="w-embed"><input type="hidden" name="MMERGE1" value="desk-menu"/></div><input type="submit" value="Subscribe &gt;" data-wait="Please wait..." id="https-theflipside.us15.list-manage.com-subscribe-post-u-281c839c990f42b374467ae5f-id-a0c19d8bf4" class="submit-button hero header w-button"/></form><div class="w-form-done"><div>Thank you! Your submission has been received!</div></div><div class="w-form-fail"><div>Oops! Something went wrong while submitting the form.</div></div></div></div></div><div class="menu-button-nav w-nav-button" data-ix="hamburger-button"><div class="top-line"></div><div class="middle-line"></div><div class="bottom-line"></div></div></div><div class="section-3"><div><h1 class="heading-16">May 13, 2020</h1><h1 class="heading-17">Elon Musk</h1><div class="container-8 w-container"><div class="rich-text-block-4 w-dyn-bind-empty w-richtext"></div><img src="" alt="" class="image-48 w-dyn-bind-empty"/><div class="paragraph-div"><div class="rich-text-block-2 w-richtext"><p>“Tesla Inc Chief Executive Elon Musk on Monday said <a href="https://www.reuters.com/article/us-health-coronavirus-tesla-california/teslas-musk-says-ready-for-arrest-as-he-reopens-california-plant-against-local-order-idUSKBN22N2EY" target="_blank">production was resuming at the automaker’s sole U.S. vehicle factory</a>, in California, defying an order to stay closed and saying if anyone had to be arrested it should be him… Musk over the weekend threatened to leave California for Texas or Nevada over his factory’s closure.” <strong>Reuters</strong><br/><br/>On Monday Musk tweeted, “Tesla is restarting production today against Alameda County rules. I will be on the line with everyone else. <a href="https://twitter.com/elonmusk/status/1259945593805221891" target="_blank">If anyone is arrested, I ask that it only be me</a>.” <strong>Twitter</strong></p></div><a href="/archives" class="link-6">See past issues</a></div></div><img src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5bfee82d95c45605590f6387_bear-badge.png" width="114" alt="" class="image archives"/><div class="columns w-row"><div class="blue-divider w-col w-col-6 w-col-small-6 w-col-tiny-6"><div class="div-block-2"></div></div><div class="red-divider w-col w-col-6 w-col-small-6 w-col-tiny-6"><div class="div-block-3"></div></div></div><div class="div-block-38"><div class="columns-15 w-row"><div class="column-60 w-clearfix w-col w-col-6 w-col-small-6 w-col-tiny-tiny-stack"><h1 class="from-the-left-heading">From the Left</h1><h1 class="from-the-left-heading sponsored w-dyn-bind-empty"></h1><div class="paragraph-6 left intro w-richtext"><p>The left criticizes Musk’s decision to reopen the factory.</p></div><div class="paragraph-6 left bullet first w-richtext"><p>“The workers who spoke to <em>The Verge</em> described <a href="https://www.theverge.com/2020/5/11/21254871/tesla-fremont-shutdown-factory-production-model-3-y-elon-musk" target="_blank">difficult decisions they made about whether or not they should report in this week</a>… Since they are both hourly workers, they won’t be paid if they stay home. If they do go in, they will make less than they used to thanks to recent company-wide pay cuts. And while Tesla previously told its employees that they can use paid time off (PTO) days to stay home if they feel uncomfortable coming in, the company recently cashed out many of those workers’ remaining PTO days… [The workers] also said they wouldn’t feel safe assembling cars right now because it requires such close-quarters work.”<br/><strong>Sean O&#x27;Kane, The Verge</strong></p></div><div class="paragraph-6 left bullet first sponsored w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 left bullet w-richtext"><p>“Musk’s complaint about other American automotive factories being given the green light to reopen is not incorrect. However, these factories are in other states… The Trump administration has made it clear that decisions about reopening local business are up to the state and local governments. [And] As public officials have repeatedly made clear, reopening the country will not be a uniform process… <br/><br/>“How local officials, who maintain they’re still negotiating with Tesla on how to reopen safely, ultimately respond will reveal how much power they really have in enforcing social distancing and stay-at-home measures… Tesla is not the only company eager to push back against local officials and return to work, though it’s the most high-profile company to do so. At least two meatpacking facilities have been pushed to reopen, despite the concerns and warnings of local officials. But that should be very, very concerning when <a href="https://www.vox.com/recode/2020/5/12/21255812/elon-musk-tesla-factory-coronavirus-reopening" target="_blank">we’re relying on our local government officials to set the benchmarks</a> — and enforce public health rules — for returning to work safely.”<br/><strong>Rebecca Heilweil, Vox</strong></p></div><div class="paragraph-6 left bullet w-richtext"><p>“It should go without saying that it would create a <a href="https://www.bloomberg.com/opinion/articles/2020-05-12/elon-musk-tesla-sue-alameda-county-to-reopen-and-it-s-weird" target="_blank">truly terrible precedent if corporations could just ignore laws that they consider to be in violation of their corporate interests</a>…<br/><br/>“Corporations aren’t supposed to engage in unlawful disobedience… The idea isn’t just that corporations, like everybody else, should be held to account for violating the law. It’s that corporations are themselves creatures of the law, created by legal norms and existing only at the sufferance of the legal system. Corporations aren’t natural persons. They’re legal persons. It’s wrong for a corporation created by law to be empowered to break the law intentionally and consciously and with no credible claim that the law or the legal system is inherently unjust.”<br/><strong>Noah Feldman, Bloomberg</strong></p></div><div class="paragraph-6 left bullet w-richtext"><p>“Even if law enforcement were to make an example out of Musk, it would be smaller than a small slap on the wrist. <a href="https://www.salon.com/2020/05/12/elon-musk-wants-his-workers-to-die-so-rich-people-can-buy-more-teslas/" target="_blank">The billionaire can easily afford a $1,000-a-day fine</a>, and given his wealth and access to lawyers, is unlikely to go to jail… <br/><br/>“When I saw Musk&#x27;s tweets, I thought of the thousands of small businesses who don&#x27;t have the privilege of defying the law — like the San Francisco restaurateur who emptied her 401(k) and life insurance to keep her business afloat while waiting for the Paycheck Protection Program to come to her rescue. I thought of the small Asian businesses around the country who are suffering due to a newfound xenophobia among Americans… Much ink has been spilled considering how the post-coronavirus world might be different from pre-pandemic existence… But what seems clear is that billionaires will still think they&#x27;re above the law.”<br/><strong>Nicole Karlis, Salon</strong></p></div><div class="paragraph-6 left bullet w-richtext"><p>“Getting back to the pre-coronavirus status quo won’t be easy, given the risk that the pandemic will flare up again and force more lockdowns. That’s why the decisions on which businesses and activities resume when <a href="https://www.latimes.com/opinion/story/2020-05-11/elon-musk-tesla-reopen-threat" target="_blank">need to be made by people who are accountable to the public, not billionaire CEOs who threaten to pull up stakes when they don’t get their way</a>. Or any business owners who, like Musk, consider themselves better judges of the public good than the government.”<br/><strong>Editorial Board, Los Angeles Times</strong></p></div><div class="paragraph-6 left bullet w-richtext"><p>“This, of course, is the same guy whose rocket company is due to send astronauts into space from the Kennedy Space Center at the end of this month. If Florida authorities have a specific health or safety request that he doesn’t like, <a href="https://www.nbcnews.com/think/opinion/elon-musk-reopening-his-tesla-factory-game-him-he-s-ncna1204611" target="_blank">will he throw another fit and take his astronauts elsewhere</a> — to a place that bows down to his business demands over the guidance of public health or safety experts?”<br/><strong>David R. Wheeler, NBC News Think</strong></p></div><div class="paragraph-6 left bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 left bullet w-dyn-bind-empty w-richtext"></div></div><div class="column-61 w-clearfix w-col w-col-6 w-col-small-6 w-col-tiny-tiny-stack"><h1 class="from-the-right-heading">From the Right</h1><h1 class="from-the-right-heading sponsored w-dyn-bind-empty"></h1><div class="paragraph-6 right intro w-hidden-tiny w-richtext"><p>The right criticizes the government of California for inconsistent orders and hostility to businesses.</p></div><div class="paragraph-6 right intro w-hidden-main w-hidden-medium w-hidden-small w-richtext"><p>The right criticizes the government of California for inconsistent orders and hostility to businesses.</p></div><div class="paragraph-6 right bullet first w-richtext"><p>“Arbitrary government distinctions about which businesses can stay open often seem to be <a href="https://www.wsj.com/articles/elon-musk-isnt-taking-it-anymore-11589325984" target="_blank">based on politics rather than public health or science</a>. You can understand Mr. Musk’s frustration when Alameda County officials have allowed pot shops to stay open while shuttering his Tesla plant though the company has developed protocols to protect workers. Other governors including Michigan’s Gretchen Whitmer have given the green light to auto plants run by Tesla’s competitors… <br/><br/>“‘This disparate treatment is arbitrary and without a rational basis,’ Tesla states in a lawsuit against Alameda County, pointing out that the infection and fatality rates in Alameda and San Joaquin counties are similar… [San Joaquin county is] where another Tesla factory has been allowed to operate amid California’s shutdown because it is classified as essential… We don’t encourage lawbreaking, but a legal test of disparate lockdown treatment might rein in the inner dictators who are appearing in many places in America in these pandemic days.”<br/><strong>Editorial Board, Wall Street Journal</strong></p></div><div class="paragraph-6 right bullet first sponsored w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 right bullet w-richtext"><p>“In the wake of Musk’s decision to reopen his plant today without county approval today, assemblywoman Gonzalez said it proved her point about tech companies and billionaires breaking the rules set up by county and state officials. She wants to see consequences. For all his faults, Gov. Newsom isn’t quite as eager to see Tesla, one of the state’s largest, most high profile employers, pack up and leave for Texas. So today, when he was asked about the situation, Newsom made a point of praising Tesla and Musk… <br/><br/>“My guess is that Newsom will step in to prevent the county from over-reacting… If that doesn’t work and Musk does wind up getting arrested, then I suspect he’ll be a lot more likely to follow through on this threat to move his operation to a more business-friendly state. In the meantime, assemblywoman Gonzalez has elevated herself as San Diego’s own AOC. If <a href="https://hotair.com/archives/john-s-2/2020/05/11/elon-musk-reopens-tesla-plant-county-shut-orders/" target="_blank">14,000 jobs get moved out of state after her viral attack on Musk</a>, I’m sure she’ll consider that a victory.”<br/><strong>John Sexton, Hot Air</strong></p></div><div class="paragraph-6 right bullet w-richtext"><p>“With California’s higher taxes, greater red tape compliance costs, higher labor and land costs, and more litigious environment, business analysts estimate that companies can save 32 percent of their operating costs by moving out of California to states such as Texas… [Business relocation expert Joe Vranich] published a study last year showing 13,000 businesses left California over the past eight years… <a href="https://www.foxnews.com/opinion/elon-musk-tesla-texas-california-business-exodus-chuck-devore" target="_blank">California can ill-afford to chase away more jobs</a> in the wake of the coronavirus crisis.”<br/><strong>Chuck DeVore, Fox News</strong></p></div><div class="paragraph-6 right bullet w-richtext"><p>“California’s progressive politicians beware: <a href="https://issuesinsights.com/2020/05/12/elon-musks-threat-to-leave-is-a-symptom-of-californias-disease-and-no-it-isnt-covid-19/" target="_blank">You can’t spend money if you have no companies left to tax</a>. California has gone through waves of corporate out-migration as local regulatory burdens, high tax rates and a generally unfriendly business environment spur disgusted owners and CEOs to head for more-business-friendly states, including Nevada, Idaho, Utah, Colorado and Texas… <br/><br/>“Musk’s legal gambit is no game. He’s desperately trying to save a high-risk business that right now can’t operate. Meanwhile, California’s trendy-lefty political class, the same one that brought the nation Nancy Pelosi and Adam Schiff, seems to relish treating successful, job-creating businesses as serfs, not vital parts of the state economy. Before more leave this hostile environment, California’s public officials should wise up and open up. Like or not, Musk and Tesla mark the possible start of another surge of business defections from a state that can ill afford them.”<br/><strong>Editorial Board, Issues &amp; Insights</strong></p></div><div class="paragraph-6 right bullet w-richtext"><p>Some note, “Musk must be going stir-crazy, because he also tweeted that he was giving up all his material possessions, including his residence — that’s one way to be free from quarantine… Tesla shareholders, are you alarmed yet? Does this seem like the behavior of a stable, sober-as-a-judge CEO?... <br/><br/>“Like the greatest con artists, Musk is adept at moving eyeballs where he wants them… What’s that — debt, you say? A history of over-promising and under-producing? Tesla on the verge, again as ever? No — look over here, fellow Americans. <a href="https://nypost.com/2020/05/12/do-not-fall-for-elon-musks-latest-ego-driven-marketing-ploy/" target="_blank">Elon Musk wants us to believe he’s a warrior for our liberty and our rights, not an overleveraged Silicon Valley billionaire</a> who, like the smallest of us, may be totally undone by a virus that cares not about who you are. Or, in this case, want so badly to be.”<br/><strong>Maureen Callahan, New York Post</strong></p></div><div class="paragraph-6 right bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 right bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 right bullet w-dyn-bind-empty w-richtext"></div></div></div><div class="w-row"><div class="column-60 w-col w-col-6 w-col-small-6 w-col-tiny-tiny-stack"></div><div class="column-61 w-col w-col-6 w-col-small-6 w-col-tiny-tiny-stack"></div></div><div class="w-layout-grid grid-7 w-clearfix"><div id="w-node-c9ca80732245-d549fb85" class="paragraph-6 wide center w-dyn-bind-empty w-richtext"></div><div id="w-node-c9ca80732246-d549fb85" class="paragraph-6 wide libertarian w-dyn-bind-empty w-richtext"></div></div></div><div class="additional-closing w-dyn-bind-empty w-richtext"></div><div style="border-color:#453158" class="on-the-bright-side"><h4 class="heading-18">On the bright side...</h4><div class="rich-text-block-3 w-richtext"><p><a href="https://www.boredpanda.com/rats-art-toogoods-tiny-paws/" target="_blank">These Adorable Rats Create Miniature Paintings And Their Work Is Sold Out</a>.<br/><strong>Bored Panda</strong></p></div></div></div></div><div class="trollcta archive w-row"><div class="w-col w-col-6 w-col-stack"><div class="div-block-26 archive"><img src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5bfee82bbe4cd8508983a309_bear-0.png" alt="" class="bearhead archive"/><h2 class="heading-cta archive">Get troll-free political news.</h2></div></div><div class="w-col w-col-6 w-col-stack"><div class="w-clearfix w-form"><form id="email-form-2" name="email-form-2" data-name="Email Form 2" class="newsletter-form-fields faq"><input type="email" class="email-address-field-grey hero faq archive w-input" maxlength="256" name="hero-optin-2" data-name="Hero Optin 2" placeholder="your email address" id="hero-optin-2" required=""/><input type="submit" value="I want the best points from both sides        &gt;" data-wait="Please wait..." class="submit-button hero home faq archive w-button"/></form><div class="w-form-done"><div>Thank you! Your submission has been received!</div></div><div class="w-form-fail"><div>Oops! Something went wrong while submitting the form.</div></div></div></div></div><footer class="footer"><div class="columns-6 top-footer w-row"><div class="column-11 w-col w-col-4"><img src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5c800f4179da156500bd15f4_TFS%20-%20logo.svg" width="125" alt="Logo of The Flip Side" class="image-22 logo"/></div><div class="column-12 top-footer w-col w-col-4"><a id="w-node-8ef170fc7709-70fc7704" href="/latest-issue" class="footer-link w-inline-block"><div>LATEST ISSUE</div></a><a id="w-node-8ef170fc770c-70fc7704" href="/archives" class="footer-link w-inline-block"><div>ARCHIVES</div></a><a id="w-node-8ef170fc770f-70fc7704" href="/about-us" class="footer-link w-inline-block"><div>ABOUT US</div></a><a id="w-node-8ef170fc7715-70fc7704" href="/media" class="footer-link w-inline-block"><div>MEDIA</div></a><a id="w-node-8ef170fc7712-70fc7704" href="/supporters" class="footer-link w-inline-block"><div>SUPPORTERS</div></a><a id="w-node-a3c8f39c81e0-70fc7704" href="/faq" class="footer-link w-inline-block"><div>FAQ</div></a></div><div class="column-13 top-footer w-col w-col-4"><a href="https://www.facebook.com/KnowTheFlipSide/" class="link-block w-inline-block"><img src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5ec52bd498978ddc3785cf6e_facebook.svg" width="30" height="30" alt="Facebook"/></a><a href="http://twitter.com/knowtheflipside" class="link-block-2 w-inline-block"><img src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5ec52bd48143fd994f2ed9d1_twitter.svg" width="30" height="30" alt="Twitter"/></a><a href="mailto:editor@theflipside.io?subject=%5BFlipSide%20Website%20Inquiry%5D" class="w-inline-block"><img src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5ec52bd493802b79cc062997_email.svg" width="30" height="30" alt="Email"/></a></div></div><div class="columns-6 bottom-footer w-row"><div class="column-11 bottom-footer w-col w-col-3"><div class="text-block-15">COPYRIGHT © 2020</div></div><div class="column-12 bottom-footer w-col w-col-5"></div><div class="column-13 bottom-footer w-col w-col-4"><a href="/terms" class="link-block-2 terms w-inline-block"><div class="text-block-31">PRIVACY POLICY</div></a><div class="link-block-2 terms divider">|</div><a href="https://www.functionlabs.com" class="link-block-2 terms function w-inline-block"><div class="text-block-32">WEBSITE BY FUNCTION LABS</div></a></div></div></footer><script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.4.1.min.220afd743d.js?site=5bfd76c121f9503755c665f9" type="text/javascript" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script><script src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/js/the-flipside.369c6577a.js" type="text/javascript"></script><!--[if lte IE 9]><script src="//cdnjs.cloudflare.com/ajax/libs/placeholders/3.0.2/placeholders.min.js"></script><![endif]--><!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-58K3PC7"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<!-- UTM Passthrough Javascript -->
+
+<script type="text/javascript" charset="utf-8">
+var UtmCookie, UtmForm, _uf;
+UtmCookie = class {
+    constructor(options = {}) {
+        this._cookieNamePrefix = "_uc_", this._domain = options.domain, this._sessionLength = options.sessionLength || 1, this._cookieExpiryDays = options.cookieExpiryDays || 365, this._additionalParams = options.additionalParams || [], this._utmParams = ["utm_source", "utm_medium", "utm_campaign", "utm_term", "utm_content"], this.writeInitialReferrer(), this.writeLastReferrer(), this.writeInitialLandingPageUrl(), this.setCurrentSession(), this.additionalParamsPresentInUrl() && this.writeAdditionalParams(), this.utmPresentInUrl() && this.writeUtmCookieFromParams()
+    }
+    createCookie(name, value, days, path, domain, secure) {
+        var cookieDomain, cookieExpire, cookiePath, cookieSecure, date, expireDate;
+        expireDate = null, days && ((date = new Date).setTime(date.getTime() + 24 * days * 60 * 60 * 1e3), expireDate = date), cookieExpire = null != expireDate ? "; expires=" + expireDate.toGMTString() : "", cookiePath = null != path ? "; path=" + path : "; path=/", cookieDomain = null != domain ? "; domain=" + domain : "", cookieSecure = null != secure ? "; secure" : "", document.cookie = this._cookieNamePrefix + name + "=" + escape(value) + cookieExpire + cookiePath + cookieDomain + cookieSecure
+    }
+    readCookie(name) {
+        var c, ca, i, nameEQ;
+        for (nameEQ = this._cookieNamePrefix + name + "=", ca = document.cookie.split(";"), i = 0; i < ca.length;) {
+            for (c = ca[i];
+                " " === c.charAt(0);) c = c.substring(1, c.length);
+            if (0 === c.indexOf(nameEQ)) return c.substring(nameEQ.length, c.length);
+            i++
+        }
+        return null
+    }
+    eraseCookie(name) {
+        this.createCookie(name, "", -1, null, this._domain)
+    }
+    getParameterByName(name) {
+        var results;
+        return name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]"), (results = new RegExp("[\\?&]" + name + "=([^&#]*)").exec(window.location.search)) ? decodeURIComponent(results[1].replace(/\+/g, " ")) : ""
+    }
+    additionalParamsPresentInUrl() {
+        var j, len, param, ref;
+        for (j = 0, len = (ref = this._additionalParams).length; j < len; j++)
+            if (param = ref[j], this.getParameterByName(param)) return !0;
+        return !1
+    }
+    utmPresentInUrl() {
+        var j, len, param, ref;
+        for (j = 0, len = (ref = this._utmParams).length; j < len; j++)
+            if (param = ref[j], this.getParameterByName(param)) return !0;
+        return !1
+    }
+    writeCookie(name, value) {
+        this.createCookie(name, value, this._cookieExpiryDays, null, this._domain)
+    }
+    writeAdditionalParams() {
+        var j, len, param, ref, value;
+        for (j = 0, len = (ref = this._additionalParams).length; j < len; j++) param = ref[j], value = this.getParameterByName(param), this.writeCookie(param, value)
+    }
+    writeUtmCookieFromParams() {
+        var j, len, param, ref, value;
+        for (j = 0, len = (ref = this._utmParams).length; j < len; j++) param = ref[j], value = this.getParameterByName(param), this.writeCookie(param, value)
+    }
+    writeCookieOnce(name, value) {
+        this.readCookie(name) || this.writeCookie(name, value)
+    }
+    _sameDomainReferrer(referrer) {
+        var hostname;
+        return hostname = document.location.hostname, referrer.indexOf(this._domain) > -1 || referrer.indexOf(hostname) > -1
+    }
+    _isInvalidReferrer(referrer) {
+        return "" === referrer || void 0 === referrer
+    }
+    writeInitialReferrer() {
+        var value;
+        value = document.referrer, this._isInvalidReferrer(value) && (value = "direct"), this.writeCookieOnce("referrer", value)
+    }
+    writeLastReferrer() {
+        var value;
+        value = document.referrer, this._sameDomainReferrer(value) || (this._isInvalidReferrer(value) && (value = "direct"), this.writeCookie("last_referrer", value))
+    }
+    writeInitialLandingPageUrl() {
+        var value;
+        (value = this.cleanUrl()) && this.writeCookieOnce("initial_landing_page", value)
+    }
+    initialReferrer() {
+        return this.readCookie("referrer")
+    }
+    lastReferrer() {
+        return this.readCookie("last_referrer")
+    }
+    initialLandingPageUrl() {
+        return this.readCookie("initial_landing_page")
+    }
+    incrementVisitCount() {
+        var existingValue, newValue;
+        existingValue = parseInt(this.readCookie("visits"), 10), newValue = 1, newValue = isNaN(existingValue) ? 1 : existingValue + 1, this.writeCookie("visits", newValue)
+    }
+    visits() {
+        return this.readCookie("visits")
+    }
+    setCurrentSession() {
+        this.readCookie("current_session") || (this.createCookie("current_session", "true", this._sessionLength / 24, null, this._domain), this.incrementVisitCount())
+    }
+    cleanUrl() {
+        var cleanSearch;
+        return cleanSearch = window.location.search.replace(/utm_[^&]+&?/g, "").replace(/&$/, "").replace(/^\?$/, ""), window.location.origin + window.location.pathname + cleanSearch + window.location.hash
+    }
+}, UtmForm = class {
+    constructor(options = {}) {
+        this._utmParamsMap = {}, this._utmParamsMap.utm_source = options.utm_source_field || "USOURCE", this._utmParamsMap.utm_medium = options.utm_medium_field || "UMEDIUM", this._utmParamsMap.utm_campaign = options.utm_campaign_field || "UCAMPAIGN", this._utmParamsMap.utm_content = options.utm_content_field || "UCONTENT", this._utmParamsMap.utm_term = options.utm_term_field || "UTERM", this._additionalParamsMap = options.additional_params_map || {}, this._initialReferrerField = options.initial_referrer_field || "IREFERRER", this._lastReferrerField = options.last_referrer_field || "LREFERRER", this._initialLandingPageField = options.initial_landing_page_field || "ILANDPAGE", this._visitsField = options.visits_field || "VISITS", this._addToForm = options.add_to_form || "all", this._formQuerySelector = options.form_query_selector || "form", this._decodeURIs = options.decode_uris || !1, this.utmCookie = new UtmCookie({
+            domain: options.domain,
+            sessionLength: options.sessionLength,
+            cookieExpiryDays: options.cookieExpiryDays,
+            additionalParams: Object.getOwnPropertyNames(this._additionalParamsMap)
+        }), this.addAllFields()
+    }
+    addAllFields() {
+        var allForms, i, len;
+        for (allForms = document.querySelectorAll(this._formQuerySelector), len = "none" === this._addToForm ? 0 : "first" === this._addToForm ? Math.min(1, allForms.length) : allForms.length, i = 0; i < len;) this.addAllFieldsToForm(allForms[i]), i++
+    }
+    addAllFieldsToForm(form) {
+        var fieldName, param, ref, ref1;
+        if (form && !form._utm_tagged) {
+            for (param in form._utm_tagged = !0, ref = this._utmParamsMap) fieldName = ref[param], this.addFormElem(form, fieldName, this.utmCookie.readCookie(param));
+            for (param in ref1 = this._additionalParamsMap) fieldName = ref1[param], this.addFormElem(form, fieldName, this.utmCookie.readCookie(param));
+            this.addFormElem(form, this._initialReferrerField, this.utmCookie.initialReferrer()), this.addFormElem(form, this._lastReferrerField, this.utmCookie.lastReferrer()), this.addFormElem(form, this._initialLandingPageField, this.utmCookie.initialLandingPageUrl()), this.addFormElem(form, this._visitsField, this.utmCookie.visits())
+        }
+    }
+    addFormElem(form, fieldName, fieldValue) {
+        this.insertAfter(this.getFieldEl(fieldName, fieldValue), form.lastChild)
+    }
+    getFieldEl(fieldName, fieldValue) {
+        var fieldEl;
+        return (fieldEl = document.createElement("input")).type = "hidden", fieldEl.name = fieldName, fieldEl.value = this._decodeURIs ? decodeURIComponent(fieldValue) : fieldValue, fieldEl
+    }
+    insertAfter(newNode, referenceNode) {
+        return referenceNode.parentNode.insertBefore(newNode, referenceNode.nextSibling)
+    }
+}, _uf = window._uf || {}, window.UtmForm = new UtmForm(_uf);
+  
+</script>
+<!-- End UTM Passthrough Javascript --></body></html>
+
+
+

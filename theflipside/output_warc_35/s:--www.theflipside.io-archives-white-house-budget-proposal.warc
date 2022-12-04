@@ -1,0 +1,220 @@
+WARC/1.0
+WARC-Type: response
+WARC-Date: 2020-10-01T07:17:47Z
+WARC-Record-ID: <urn:uuid:a788b04d-23c8-4e9d-a0aa-b624d91e1984>
+Content-Length: 36173
+Content-Type: application/http; msgtype=response
+WARC-Warcinfo-ID: <urn:uuid:c8aa07f0-323d-4e96-adbc-529173aed054>
+WARC-Concurrent-To: <urn:uuid:8ddcf5ca-6527-46e7-8f26-7aa93f0820a1>
+WARC-IP-Address: 50.17.197.186
+WARC-Target-URI: https://www.theflipside.io/archives/white-house-budget-proposal
+WARC-Payload-Digest: sha1:Y5LGQRGEDCZ52EBO6JBZMT6MFNRFWXIN
+WARC-Block-Digest: sha1:2GEBSKITP46N43RNRY3VWMTH3T6IB5FE
+WARC-Identified-Payload-Type: text/html
+
+HTTP/1.1 200 OK
+Server: openresty
+Date: Thu, 01 Oct 2020 07:17:47 GMT
+Content-Type: text/html
+X-Crawler-Content-Length: 12437
+Content-Length: 35611
+Connection: keep-alive
+X-Crawler-Content-Encoding: gzip
+content-security-policy: frame-ancestors 'self'
+x-frame-options: SAMEORIGIN
+x-lambda-id: 53f009bc-da3f-4d5a-a456-7357e52b2662
+Accept-Ranges: bytes
+Via: 1.1 varnish
+Age: 1202
+X-Served-By: cache-dca17754-DCA
+X-Cache: HIT
+X-Cache-Hits: 1
+X-Timer: S1601536667.149648,VS0,VE1
+Vary: Accept-Encoding
+X-Cluster-Name: us-east-1-prod-edge-eks-15
+
+<!DOCTYPE html><!-- Last Published: Thu Oct 01 2020 06:06:36 GMT+0000 (Coordinated Universal Time) --><html data-wf-domain="www.theflipside.io" data-wf-page="5c0affae2387a21ad549fb85" data-wf-site="5bfd76c121f9503755c665f9" lang="en"><head><meta charset="utf-8"/><title>White House Budget Proposal | The Flip Side</title><meta content="White House Budget Proposal" name="description"/><meta content="White House Budget Proposal | The Flip Side" property="og:title"/><meta content="Get the most intelligent quotes from both sides—in a free, 5-minute email a day." property="og:description"/><meta content="https://assets-global.website-files.com/5c01d9d275e85a6371ce6d1e/5c4e9148fe98b202812657bb_bears%20working%20together.png" property="og:image"/><meta content="White House Budget Proposal | The Flip Side" property="twitter:title"/><meta content="Get the most intelligent quotes from both sides—in a free, 5-minute email a day." property="twitter:description"/><meta content="https://assets-global.website-files.com/5c01d9d275e85a6371ce6d1e/5c4e9148fe98b202812657bb_bears%20working%20together.png" property="twitter:image"/><meta property="og:type" content="website"/><meta content="summary_large_image" name="twitter:card"/><meta content="width=device-width, initial-scale=1" name="viewport"/><link href="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/css/the-flipside.8babebe51.min.css" rel="stylesheet" type="text/css"/><script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript"></script><script type="text/javascript">WebFont.load({  google: {    families: ["Lato:100,100italic,300,300italic,400,400italic,700,700italic,900,900italic"]  }});</script><script src="https://use.typekit.net/ief5vbu.js" type="text/javascript"></script><script type="text/javascript">try{Typekit.load();}catch(e){}</script><!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js" type="text/javascript"></script><![endif]--><script type="text/javascript">!function(o,c){var n=c.documentElement,t=" w-mod-";n.className+=t+"js",("ontouchstart"in o||o.DocumentTouch&&c instanceof DocumentTouch)&&(n.className+=t+"touch")}(window,document);</script><link href="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5c03871b75e85a9d2ecf243a_favicon-32x32.png" rel="shortcut icon" type="image/x-icon"/><link href="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5c038790f4cf11a559cd3a57_webclip256.png" rel="apple-touch-icon"/><link href="rss.xml" rel="alternate" title="RSS Feed" type="application/rss+xml"/><script type="text/javascript">!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.agent='plwebflow';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');fbq('init', '420932135099202');fbq('track', 'PageView');</script><!-- Async Anti-Flicker Code -->
+
+<style>.async-hide { opacity: 0 !important} </style>
+<script>(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+(a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+})(window,document.documentElement,'async-hide','dataLayer',4000,
+{'GTM-58K3PC7':true});</script>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-58K3PC7');</script>
+<!-- End Google Tag Manager -->
+
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<!-- Memberstack --> 
+<script src="https://api.memberstack.io/static/memberstack.js?webflow" data-memberstack-id="dd4b66b62c37ef91c54289827c1f3114"> </script><style>
+@media (max-width: 479px) {
+  .paragraph-div a {
+  	  font-size: 17px;
+    	line-height: 24px; }
+      
+  .on-the-bright-side a {
+  	  font-size: 17px;
+    	line-height: 24px; }
+}
+@media (max-width: 767px) {
+	.div-block-38 a {
+  	  font-size: 17px; 
+    	line-height: 24px; 
+}	
+  .paragraph-div a {
+  	  font-size: 17px;
+    	line-height: 26px; }
+      
+.on-the-bright-side a {
+  	  font-size: 17px;
+    	line-height: 26px; }
+}
+.w-nav-overlay {
+    z-index: 1002 !important;
+}
+</style></head><body class="body"><div data-collapse="medium" data-animation="over-right" data-duration="400" role="banner" class="navbar w-nav"><nav role="navigation" class="nav-menu w-nav-menu"><div class="nav-open-menu-links"><a href="/latest-issue" class="nav-open-menu-item mobile latest-issue w-nav-link">Latest Issue</a><a href="/archives" class="nav-open-menu-item mobile w-nav-link">Archives</a><a href="/about-us" class="nav-open-menu-item mobile w-nav-link">About Us</a><a href="/faq" class="nav-open-menu-item mobile faq w-nav-link">FAQ</a></div><div class="nav-menu-newsletter"><div class="form-block mobile w-form"><form id="email-form" name="email-form" data-name="Email Form" redirect="/one-more-thing" data-redirect="/one-more-thing" action="https://theflipside.us15.list-manage.com/subscribe/post?u=281c839c990f42b374467ae5f&amp;amp;id=7566a2ca43&quot; method=&quot;post&quot; id=&quot;mc-embedded-subscribe-form&quot; name=&quot;mc-embedded-subscribe-form" method="post" class="form mobile"><div class="text-block">GET TROLL-FREE POLITICAL NEWS</div><input type="email" class="text-field mobile w-input" maxlength="256" name="email-2" data-name="Email 2" placeholder="your email address" id="email-2" required=""/><input type="submit" value="I want to keep up with both sides &gt;" data-wait="Please wait..." class="submit-button mobile w-button"/><div class="text-block-2">We never spam and only send awesome news digests. Unsubscribe any time.</div></form><div class="w-form-done"><div>Thank you! Your submission has been received!</div></div><div class="w-form-fail"><div>Oops! Something went wrong while submitting the form.</div></div></div></div></nav><div data-w-id="83b1dd7a-785a-0585-a0c0-e44f2b23d2b5" class="nav-bar navbarother"><a href="/home-2-0" class="nav-logo w-nav-brand"><img src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5c018cd0879ec8a3e5fc263b_TFS%20Logo-n.png" alt="Logo" width="125" class="image-22 logo"/></a><div class="div-right header w-hidden-medium w-hidden-small w-hidden-tiny"><div class="nav-menu-links flex"><a href="/latest-issue" class="nav-link small w-nav-link">LATEST ISSUE</a><a href="/archives" class="nav-link small w-nav-link">ARCHIVES</a><a href="/about-us" class="nav-link small w-nav-link">ABOUT US</a><a href="/faq" class="nav-link small faq w-nav-link">FAQ</a></div></div><div class="div-right header w-hidden-medium w-hidden-small w-hidden-tiny"><div class="header-form w-form"><form id="email-form-2" name="email-form-2" data-name="Email Form 2" method="post" action="https://theflipside.us15.list-manage.com/subscribe/post?u=281c839c990f42b374467ae5f&amp;amp;id=7566a2ca43&quot; method=&quot;post&quot; id=&quot;mc-embedded-subscribe-form&quot; name=&quot;mc-embedded-subscribe-form" redirect="/one-more-thing" data-redirect="/one-more-thing" class="form-3"><input type="email" class="email-address-field-grey header w-input" maxlength="256" name="hero-optin-2" data-name="Hero Optin 2" placeholder="your email address" id="hero-optin-2" required=""/><div class="w-embed"><input type="hidden" name="MMERGE1" value="desk-menu"/></div><input type="submit" value="Subscribe &gt;" data-wait="Please wait..." id="https-theflipside.us15.list-manage.com-subscribe-post-u-281c839c990f42b374467ae5f-id-a0c19d8bf4" class="submit-button hero header w-button"/></form><div class="w-form-done"><div>Thank you! Your submission has been received!</div></div><div class="w-form-fail"><div>Oops! Something went wrong while submitting the form.</div></div></div></div></div><div class="menu-button-nav w-nav-button" data-ix="hamburger-button"><div class="top-line"></div><div class="middle-line"></div><div class="bottom-line"></div></div></div><div class="section-3"><div><h1 class="heading-16">February 11, 2020</h1><h1 class="heading-17">White House Budget Proposal</h1><div class="container-8 w-container"><div class="rich-text-block-4 w-dyn-bind-empty w-richtext"></div><img src="" alt="" class="image-48 w-dyn-bind-empty"/><div class="paragraph-div"><div class="rich-text-block-2 w-richtext"><p>“President Trump released a <a href="https://theflipside.us15.list-manage.com/track/click?u=281c839c990f42b374467ae5f&amp;id=66019de2f2&amp;e=6f16cb1c23" target="_blank">$4.8 trillion budget proposal</a> on Monday that includes a familiar list of deep cuts to student loan assistance, affordable housing efforts, food stamps and Medicaid… [and] includes additional spending for the military, national defense and border enforcement, along with money for veterans, Mr. Trump’s Space Force initiative and an extension of the individual income tax cuts that were set to expire in 2025.” <strong>New York Times</strong><br/><br/>You can read the budget proposal <a href="https://theflipside.us15.list-manage.com/track/click?u=281c839c990f42b374467ae5f&amp;id=75a3edf36a&amp;e=6f16cb1c23" target="_blank">here</a>. <strong>White House</strong></p></div><a href="/archives" class="link-6">See past issues</a></div></div><img src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5bfee82d95c45605590f6387_bear-badge.png" width="114" alt="" class="image archives"/><div class="columns w-row"><div class="blue-divider w-col w-col-6 w-col-small-6 w-col-tiny-6"><div class="div-block-2"></div></div><div class="red-divider w-col w-col-6 w-col-small-6 w-col-tiny-6"><div class="div-block-3"></div></div></div><div class="div-block-38"><div class="columns-15 w-row"><div class="column-60 w-clearfix w-col w-col-6 w-col-small-6 w-col-tiny-tiny-stack"><h1 class="from-the-left-heading">From the Left</h1><h1 class="from-the-left-heading sponsored w-dyn-bind-empty"></h1><div class="paragraph-6 left intro w-richtext"><p>The left is critical of the budget’s cuts to domestic spending, in particular those to healthcare programs.</p></div><div class="paragraph-6 left bullet first w-richtext"><p>“<a href="https://theflipside.us15.list-manage.com/track/click?u=281c839c990f42b374467ae5f&amp;id=f572941f41&amp;e=6f16cb1c23" target="_blank">Recall [Trump’s] repeated promises not to ‘touch’ Social Security and Medicare?</a> Even as the elderly population swells, his budget calls for removing half a trillion dollars of funding from the Medicare program over 10 years, including $135 billion from Medicare prescription drugs, and tens of billions from [disability benefits provided by] the Social Security program. In 2015, he promised not to touch Medicaid, either. Now he wants to cut it by $920 billion… <br/><br/>“He was going to give Americans health care ‘much better’ than Obamacare. But he has proposed no such thing and now his budget calls for cutting spending on the program by $844 billion… This budget is a clear articulation of what Trump would do if given the chance. Democrats should be shouting this warning from the mountaintops. Instead, they’re bickering over who has the purest form of Medicare-for-all.”<br/><strong>Dana Milbank, Washington Post</strong></p></div><div class="paragraph-6 left bullet first sponsored w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 left bullet w-richtext"><p>“The shift of voters that drove the Democratic takeover of the House came after an outpouring of anger at Trump and Republicans over their effort to repeal the ACA. What’s more, in 2019, Democrats won governor’s races in deep red Kentucky and Louisiana, and seized total control of Virginia state government, in no small part due to the Trump/GOP record on health care. Democrats won in part by advocating for the Medicaid expansion… <br/><br/>“It’s one of the stranger subplots of this presidency that <a href="https://theflipside.us15.list-manage.com/track/click?u=281c839c990f42b374467ae5f&amp;id=f13d2da1c9&amp;e=6f16cb1c23" target="_blank">Trump and Republicans keep gunning for health care</a>, despite the deep unpopularity of those efforts… Trump is giving Democrats a big weapon to wield against him, and they should seize it, just as they did in 2018.”<br/><strong>Greg Sargent, Washington Post</strong></p></div><div class="paragraph-6 left bullet w-richtext"><p>“The budget for the Health and Human Services Department would be lopped off by 9%. Crucially, <a href="https://theflipside.us15.list-manage.com/track/click?u=281c839c990f42b374467ae5f&amp;id=5edcc538d8&amp;e=6f16cb1c23" target="_blank">HHS includes the National Institutes of Health and the Centers for Disease Control and Protection</a>, the latter of which we’re hoping will help prevent the spread of the coronavirus, which has killed at least 910 people, a stat the World Health Organization has warned may just be the ‘tip of the iceberg.’ (Officials have claimed that funding aimed at combating the virus would be protected, but Trump has said a lot of things in the past that turned out to be lies.)”<br/><strong>Bess Levin, Vanity Fair</strong></p></div><div class="paragraph-6 left bullet w-richtext"><p>“There are some other interesting bits in the new budget. In particular, it includes proposed efforts to bargain down drug prices — an unusual instance in which Trump would help out average Americans while forcing powerful pharmaceutical companies to eat the cost of the budget savings. But for the most part, the basic math of the budget emerges from the <a href="https://theflipside.us15.list-manage.com/track/click?u=281c839c990f42b374467ae5f&amp;id=4b443412cb&amp;e=6f16cb1c23" target="_blank">Republicans&#x27; determination to protect their constituencies</a> and primary ideological commitments — i.e. older voters, the wealthy, and the Pentagon — while foisting the costs of their extraordinarily ambitious deficit-reduction goals on everyone else.”<br/><strong>Jeff Spross, The Week</strong></p></div><div class="paragraph-6 left bullet w-richtext"><p>Finally, “The Trump administration has long been hostile to foreign aid… The problem, however, is that this <a href="https://theflipside.us15.list-manage.com/track/click?u=281c839c990f42b374467ae5f&amp;id=b8373bb8b6&amp;e=6f16cb1c23" target="_blank">foreign aid funding isn’t just charity</a>: Taking nearly $12 billion out of the foreign aid budget would severely harm US diplomatic efforts. For one, giving nations money they need to keep volatile situations stable enhances global security, and could actually prove cost-effective to the US if the money helps prevent catastrophe at home or abroad down the line… <br/><br/>“Aid could help with one of Trump’s top priorities: immigration. Trump last April froze $450 million in support to El Salvador, Guatemala, and Honduras. That took away needed direct support for people living in extreme poverty and danger in those nations, leading them to seek better opportunities in the United States… In years past, Republicans and Democrats have pushed back against these draconian slashes to foreign aid, and they are likely to do so again. But the president’s insistence on tearing down America’s assistance programs to bare bones — even though they hover at only around 1 percent of the federal budget — shows how misguided he is about their outsize impact.”<br/><strong>Alex Ward, Vox</strong></p></div><div class="paragraph-6 left bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 left bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 left bullet w-dyn-bind-empty w-richtext"></div></div><div class="column-61 w-clearfix w-col w-col-6 w-col-small-6 w-col-tiny-tiny-stack"><h1 class="from-the-right-heading">From the Right</h1><h1 class="from-the-right-heading sponsored w-dyn-bind-empty"></h1><div class="paragraph-6 right intro w-hidden-tiny w-richtext"><p>The right supports many parts of the budget, but argues that even deeper spending cuts are needed.</p></div><div class="paragraph-6 right intro w-hidden-main w-hidden-medium w-hidden-small w-richtext"><p>The right supports many parts of the budget, but argues that even deeper spending cuts are needed.</p></div><div class="paragraph-6 right bullet first w-richtext"><p>“Trump’s budget moves in the right direction by eliminating and cutting federal programs that perform functions that should be left to the people, states, and localities… Yet much more is needed to drain the swamp and <a href="https://theflipside.us15.list-manage.com/track/click?u=281c839c990f42b374467ae5f&amp;id=45735e7240&amp;e=6f16cb1c23" target="_blank">limit Washington’s spending addiction</a>… <br/><br/>“Without spending restraint, low taxes are in immediate danger of being reversed. High deficits and debt also threaten economic progress, dragging down growth and putting the country at risk of a future fiscal crisis during which interest rates would rise, and the federal government would find it difficult to fund even core constitutional functions, such as providing for our nation’s defense. Moreover, profligacy today also means less fiscal space when the next recession hits. Now is the time to build up reserves.”<br/><strong>Romina Boccia, Washington Examiner</strong></p></div><div class="paragraph-6 right bullet first sponsored w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 right bullet w-richtext"><p>“Entitlement spending is projected to rise by 54% over the next decade—more than twice as fast as inflation—while discretionary spending stays essentially flat… Defense spending would fall as a share of GDP to 2.2% in 2030 from 3.2% this year. This is close to the 2% that NATO requires member countries to spend and not enough to replace the Pentagon’s aging weapons amid rising threats in multiple theaters… <br/><br/>“The larger picture is that revenues have continued to rise despite the tax cut… The problem is that outlays are rising faster—to 21.6% of GDP this fiscal year, the most since 2012 and well above the Bush and late Clinton years. Democrats and their media friends are complaining that the Trump Administration still has no plans to balance the budget, but that will require <a href="https://theflipside.us15.list-manage.com/track/click?u=281c839c990f42b374467ae5f&amp;id=88810ef9bf&amp;e=6f16cb1c23" target="_blank">addressing entitlements that are on autopilot</a>. Neither Democrats nor Mr. Trump are offering to do that.”<br/><strong>Editorial Board, Wall Street Journal</strong></p></div><div class="paragraph-6 right bullet w-richtext"><p>“Today’s deficits were pretty much baked into the cake long before Donald Trump entered the Oval Office… We’ve known for decades that due to the impending retirement of some 80 million baby boomers, the Titanic was headed toward [a] fiscal iceberg. Neither party did anything about it. The Trump strategy was to rapidly grow the economy and jobs so that more tax revenue would come into the government. That part has mostly worked… <br/><br/>“Since we passed the Trump tax cuts at the end of 2017, federal tax revenue is up from $3.316 trillion to $3.632 trillion — or $316 billion. The problem is federal spending has soared much faster, up by $665 billion in three years. Democrats want more for social programs. Republicans and Trump want more for the military, and so everything keeps rising. To rebalance the budget and contain our spiraling debt, a good first step is to recognize the problem: <a href="https://theflipside.us15.list-manage.com/track/click?u=281c839c990f42b374467ae5f&amp;id=e07b07da7b&amp;e=6f16cb1c23" target="_blank">It’s the spending, stupid</a>!”<br/><strong>Stephen Moore, USA Today</strong></p></div><div class="paragraph-6 right bullet w-richtext"><p>It’s worth noting that “President Trump is proposing to modify the outdated Institutions for Mental Disease payment exclusion, the long-standing Medicaid policy that prohibits federal reimbursement for many Medicaid-eligible patients who receive care in certain inpatient facilities dedicated to mental disease. These important changes will <a href="https://theflipside.us15.list-manage.com/track/click?u=281c839c990f42b374467ae5f&amp;id=dda39b2a99&amp;e=6f16cb1c23" target="_blank">provide more than $5 billion in new federal funding</a> to states that ensure a full continuum of care is in place to assist in getting people with serious mental illness the care they need and, in many cases, off the streets and out of prisons… Americans have failed people with mental illness. Trump’s new budget will change that.”<br/><strong>Joe Grogan, Washington Post</strong></p></div><div class="paragraph-6 right bullet w-richtext"><p>Still, “Trump’s budget reflects the political reality that neither he nor congressional Republicans have the appetite for large-scale changes to entitlements along the lines of what was proposed by Paul Ryan. At the same time, they want to keep increasing military spending and, if anything, cut taxes further. Trying to narrow the deficit within these parameters requires substantial cuts to nondefense discretionary spending that are just as unlikely to be adopted and sustained by Congress as any serious reforms to entitlements… [the budget is] a demonstration of why <a href="https://theflipside.us15.list-manage.com/track/click?u=281c839c990f42b374467ae5f&amp;id=41e3bd43d3&amp;e=6f16cb1c23" target="_blank">the United States is fiscally doomed</a>.”<br/><strong>Philip Klein, Washington Examiner</strong></p></div><div class="paragraph-6 right bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 right bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 right bullet w-dyn-bind-empty w-richtext"></div></div></div><div class="w-row"><div class="column-60 w-col w-col-6 w-col-small-6 w-col-tiny-tiny-stack"></div><div class="column-61 w-col w-col-6 w-col-small-6 w-col-tiny-tiny-stack"></div></div><div class="w-layout-grid grid-7 w-clearfix"><div id="w-node-c9ca80732245-d549fb85" class="paragraph-6 wide center w-dyn-bind-empty w-richtext"></div><div id="w-node-c9ca80732246-d549fb85" class="paragraph-6 wide libertarian w-dyn-bind-empty w-richtext"></div></div></div><div class="additional-closing w-dyn-bind-empty w-richtext"></div><div class="on-the-bright-side"><h4 class="heading-18 w-dyn-bind-empty"></h4><div class="rich-text-block-3 w-richtext"><p><a href="https://theflipside.us15.list-manage.com/track/click?u=281c839c990f42b374467ae5f&amp;id=cc382d6aad&amp;e=6f16cb1c23" target="_blank">Twiggy the water-skiing squirrel is performing illegally in Vancouver</a>.<br/><strong>Calgary Sun</strong></p></div></div></div></div><div class="trollcta archive w-row"><div class="w-col w-col-6 w-col-stack"><div class="div-block-26 archive"><img src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5bfee82bbe4cd8508983a309_bear-0.png" alt="" class="bearhead archive"/><h2 class="heading-cta archive">Get troll-free political news.</h2></div></div><div class="w-col w-col-6 w-col-stack"><div class="w-clearfix w-form"><form id="email-form-2" name="email-form-2" data-name="Email Form 2" class="newsletter-form-fields faq"><input type="email" class="email-address-field-grey hero faq archive w-input" maxlength="256" name="hero-optin-2" data-name="Hero Optin 2" placeholder="your email address" id="hero-optin-2" required=""/><input type="submit" value="I want the best points from both sides        &gt;" data-wait="Please wait..." class="submit-button hero home faq archive w-button"/></form><div class="w-form-done"><div>Thank you! Your submission has been received!</div></div><div class="w-form-fail"><div>Oops! Something went wrong while submitting the form.</div></div></div></div></div><footer class="footer"><div class="columns-6 top-footer w-row"><div class="column-11 w-col w-col-4"><img src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5c800f4179da156500bd15f4_TFS%20-%20logo.svg" width="125" alt="Logo of The Flip Side" class="image-22 logo"/></div><div class="column-12 top-footer w-col w-col-4"><a id="w-node-8ef170fc7709-70fc7704" href="/latest-issue" class="footer-link w-inline-block"><div>LATEST ISSUE</div></a><a id="w-node-8ef170fc770c-70fc7704" href="/archives" class="footer-link w-inline-block"><div>ARCHIVES</div></a><a id="w-node-8ef170fc770f-70fc7704" href="/about-us" class="footer-link w-inline-block"><div>ABOUT US</div></a><a id="w-node-8ef170fc7715-70fc7704" href="/media" class="footer-link w-inline-block"><div>MEDIA</div></a><a id="w-node-8ef170fc7712-70fc7704" href="/supporters" class="footer-link w-inline-block"><div>SUPPORTERS</div></a><a id="w-node-a3c8f39c81e0-70fc7704" href="/faq" class="footer-link w-inline-block"><div>FAQ</div></a></div><div class="column-13 top-footer w-col w-col-4"><a href="https://www.facebook.com/KnowTheFlipSide/" class="link-block w-inline-block"><img src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5ec52bd498978ddc3785cf6e_facebook.svg" width="30" height="30" alt="Facebook"/></a><a href="http://twitter.com/knowtheflipside" class="link-block-2 w-inline-block"><img src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5ec52bd48143fd994f2ed9d1_twitter.svg" width="30" height="30" alt="Twitter"/></a><a href="mailto:editor@theflipside.io?subject=%5BFlipSide%20Website%20Inquiry%5D" class="w-inline-block"><img src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5ec52bd493802b79cc062997_email.svg" width="30" height="30" alt="Email"/></a></div></div><div class="columns-6 bottom-footer w-row"><div class="column-11 bottom-footer w-col w-col-3"><div class="text-block-15">COPYRIGHT © 2020</div></div><div class="column-12 bottom-footer w-col w-col-5"></div><div class="column-13 bottom-footer w-col w-col-4"><a href="/terms" class="link-block-2 terms w-inline-block"><div class="text-block-31">PRIVACY POLICY</div></a><div class="link-block-2 terms divider">|</div><a href="https://www.functionlabs.com" class="link-block-2 terms function w-inline-block"><div class="text-block-32">WEBSITE BY FUNCTION LABS</div></a></div></div></footer><script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=5bfd76c121f9503755c665f9" type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script><script src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/js/the-flipside.e7203e97d.js" type="text/javascript"></script><!--[if lte IE 9]><script src="//cdnjs.cloudflare.com/ajax/libs/placeholders/3.0.2/placeholders.min.js"></script><![endif]--><!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-58K3PC7"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<!-- UTM Passthrough Javascript -->
+
+<script type="text/javascript" charset="utf-8">
+var UtmCookie, UtmForm, _uf;
+UtmCookie = class {
+    constructor(options = {}) {
+        this._cookieNamePrefix = "_uc_", this._domain = options.domain, this._sessionLength = options.sessionLength || 1, this._cookieExpiryDays = options.cookieExpiryDays || 365, this._additionalParams = options.additionalParams || [], this._utmParams = ["utm_source", "utm_medium", "utm_campaign", "utm_term", "utm_content"], this.writeInitialReferrer(), this.writeLastReferrer(), this.writeInitialLandingPageUrl(), this.setCurrentSession(), this.additionalParamsPresentInUrl() && this.writeAdditionalParams(), this.utmPresentInUrl() && this.writeUtmCookieFromParams()
+    }
+    createCookie(name, value, days, path, domain, secure) {
+        var cookieDomain, cookieExpire, cookiePath, cookieSecure, date, expireDate;
+        expireDate = null, days && ((date = new Date).setTime(date.getTime() + 24 * days * 60 * 60 * 1e3), expireDate = date), cookieExpire = null != expireDate ? "; expires=" + expireDate.toGMTString() : "", cookiePath = null != path ? "; path=" + path : "; path=/", cookieDomain = null != domain ? "; domain=" + domain : "", cookieSecure = null != secure ? "; secure" : "", document.cookie = this._cookieNamePrefix + name + "=" + escape(value) + cookieExpire + cookiePath + cookieDomain + cookieSecure
+    }
+    readCookie(name) {
+        var c, ca, i, nameEQ;
+        for (nameEQ = this._cookieNamePrefix + name + "=", ca = document.cookie.split(";"), i = 0; i < ca.length;) {
+            for (c = ca[i];
+                " " === c.charAt(0);) c = c.substring(1, c.length);
+            if (0 === c.indexOf(nameEQ)) return c.substring(nameEQ.length, c.length);
+            i++
+        }
+        return null
+    }
+    eraseCookie(name) {
+        this.createCookie(name, "", -1, null, this._domain)
+    }
+    getParameterByName(name) {
+        var results;
+        return name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]"), (results = new RegExp("[\\?&]" + name + "=([^&#]*)").exec(window.location.search)) ? decodeURIComponent(results[1].replace(/\+/g, " ")) : ""
+    }
+    additionalParamsPresentInUrl() {
+        var j, len, param, ref;
+        for (j = 0, len = (ref = this._additionalParams).length; j < len; j++)
+            if (param = ref[j], this.getParameterByName(param)) return !0;
+        return !1
+    }
+    utmPresentInUrl() {
+        var j, len, param, ref;
+        for (j = 0, len = (ref = this._utmParams).length; j < len; j++)
+            if (param = ref[j], this.getParameterByName(param)) return !0;
+        return !1
+    }
+    writeCookie(name, value) {
+        this.createCookie(name, value, this._cookieExpiryDays, null, this._domain)
+    }
+    writeAdditionalParams() {
+        var j, len, param, ref, value;
+        for (j = 0, len = (ref = this._additionalParams).length; j < len; j++) param = ref[j], value = this.getParameterByName(param), this.writeCookie(param, value)
+    }
+    writeUtmCookieFromParams() {
+        var j, len, param, ref, value;
+        for (j = 0, len = (ref = this._utmParams).length; j < len; j++) param = ref[j], value = this.getParameterByName(param), this.writeCookie(param, value)
+    }
+    writeCookieOnce(name, value) {
+        this.readCookie(name) || this.writeCookie(name, value)
+    }
+    _sameDomainReferrer(referrer) {
+        var hostname;
+        return hostname = document.location.hostname, referrer.indexOf(this._domain) > -1 || referrer.indexOf(hostname) > -1
+    }
+    _isInvalidReferrer(referrer) {
+        return "" === referrer || void 0 === referrer
+    }
+    writeInitialReferrer() {
+        var value;
+        value = document.referrer, this._isInvalidReferrer(value) && (value = "direct"), this.writeCookieOnce("referrer", value)
+    }
+    writeLastReferrer() {
+        var value;
+        value = document.referrer, this._sameDomainReferrer(value) || (this._isInvalidReferrer(value) && (value = "direct"), this.writeCookie("last_referrer", value))
+    }
+    writeInitialLandingPageUrl() {
+        var value;
+        (value = this.cleanUrl()) && this.writeCookieOnce("initial_landing_page", value)
+    }
+    initialReferrer() {
+        return this.readCookie("referrer")
+    }
+    lastReferrer() {
+        return this.readCookie("last_referrer")
+    }
+    initialLandingPageUrl() {
+        return this.readCookie("initial_landing_page")
+    }
+    incrementVisitCount() {
+        var existingValue, newValue;
+        existingValue = parseInt(this.readCookie("visits"), 10), newValue = 1, newValue = isNaN(existingValue) ? 1 : existingValue + 1, this.writeCookie("visits", newValue)
+    }
+    visits() {
+        return this.readCookie("visits")
+    }
+    setCurrentSession() {
+        this.readCookie("current_session") || (this.createCookie("current_session", "true", this._sessionLength / 24, null, this._domain), this.incrementVisitCount())
+    }
+    cleanUrl() {
+        var cleanSearch;
+        return cleanSearch = window.location.search.replace(/utm_[^&]+&?/g, "").replace(/&$/, "").replace(/^\?$/, ""), window.location.origin + window.location.pathname + cleanSearch + window.location.hash
+    }
+}, UtmForm = class {
+    constructor(options = {}) {
+        this._utmParamsMap = {}, this._utmParamsMap.utm_source = options.utm_source_field || "USOURCE", this._utmParamsMap.utm_medium = options.utm_medium_field || "UMEDIUM", this._utmParamsMap.utm_campaign = options.utm_campaign_field || "UCAMPAIGN", this._utmParamsMap.utm_content = options.utm_content_field || "UCONTENT", this._utmParamsMap.utm_term = options.utm_term_field || "UTERM", this._additionalParamsMap = options.additional_params_map || {}, this._initialReferrerField = options.initial_referrer_field || "IREFERRER", this._lastReferrerField = options.last_referrer_field || "LREFERRER", this._initialLandingPageField = options.initial_landing_page_field || "ILANDPAGE", this._visitsField = options.visits_field || "VISITS", this._addToForm = options.add_to_form || "all", this._formQuerySelector = options.form_query_selector || "form", this._decodeURIs = options.decode_uris || !1, this.utmCookie = new UtmCookie({
+            domain: options.domain,
+            sessionLength: options.sessionLength,
+            cookieExpiryDays: options.cookieExpiryDays,
+            additionalParams: Object.getOwnPropertyNames(this._additionalParamsMap)
+        }), this.addAllFields()
+    }
+    addAllFields() {
+        var allForms, i, len;
+        for (allForms = document.querySelectorAll(this._formQuerySelector), len = "none" === this._addToForm ? 0 : "first" === this._addToForm ? Math.min(1, allForms.length) : allForms.length, i = 0; i < len;) this.addAllFieldsToForm(allForms[i]), i++
+    }
+    addAllFieldsToForm(form) {
+        var fieldName, param, ref, ref1;
+        if (form && !form._utm_tagged) {
+            for (param in form._utm_tagged = !0, ref = this._utmParamsMap) fieldName = ref[param], this.addFormElem(form, fieldName, this.utmCookie.readCookie(param));
+            for (param in ref1 = this._additionalParamsMap) fieldName = ref1[param], this.addFormElem(form, fieldName, this.utmCookie.readCookie(param));
+            this.addFormElem(form, this._initialReferrerField, this.utmCookie.initialReferrer()), this.addFormElem(form, this._lastReferrerField, this.utmCookie.lastReferrer()), this.addFormElem(form, this._initialLandingPageField, this.utmCookie.initialLandingPageUrl()), this.addFormElem(form, this._visitsField, this.utmCookie.visits())
+        }
+    }
+    addFormElem(form, fieldName, fieldValue) {
+        this.insertAfter(this.getFieldEl(fieldName, fieldValue), form.lastChild)
+    }
+    getFieldEl(fieldName, fieldValue) {
+        var fieldEl;
+        return (fieldEl = document.createElement("input")).type = "hidden", fieldEl.name = fieldName, fieldEl.value = this._decodeURIs ? decodeURIComponent(fieldValue) : fieldValue, fieldEl
+    }
+    insertAfter(newNode, referenceNode) {
+        return referenceNode.parentNode.insertBefore(newNode, referenceNode.nextSibling)
+    }
+}, _uf = window._uf || {}, window.UtmForm = new UtmForm(_uf);
+  
+</script>
+<!-- End UTM Passthrough Javascript --></body></html>
+
+
+

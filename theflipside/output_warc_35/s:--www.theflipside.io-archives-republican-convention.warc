@@ -1,0 +1,220 @@
+WARC/1.0
+WARC-Type: response
+WARC-Date: 2020-09-29T17:02:17Z
+WARC-Record-ID: <urn:uuid:ea763cc7-345f-49b0-a0d8-714c6c913137>
+Content-Length: 37650
+Content-Type: application/http; msgtype=response
+WARC-Warcinfo-ID: <urn:uuid:5aac9714-2150-4cac-b105-2dcb8ef237c5>
+WARC-Concurrent-To: <urn:uuid:5b0fd707-b811-4fcf-8d1e-8e625b46c951>
+WARC-IP-Address: 54.157.174.158
+WARC-Target-URI: https://www.theflipside.io/archives/republican-convention
+WARC-Payload-Digest: sha1:HCQLCIF2X65FWDI7CXAO2ZZSSNXFCNRJ
+WARC-Block-Digest: sha1:IRSIMEPQ7RPCZRNPTUDUIQERD2W74YJB
+WARC-Identified-Payload-Type: text/html
+
+HTTP/1.1 200 OK
+Server: openresty
+Date: Tue, 29 Sep 2020 17:02:17 GMT
+Content-Type: text/html
+X-Crawler-Content-Length: 13091
+Content-Length: 37088
+Connection: keep-alive
+X-Crawler-Content-Encoding: gzip
+content-security-policy: frame-ancestors 'self'
+x-frame-options: SAMEORIGIN
+x-lambda-id: 458e92c8-ce80-450d-af8b-597f7724d5cd
+Accept-Ranges: bytes
+Via: 1.1 varnish
+Age: 0
+X-Served-By: cache-dca17776-DCA
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1601398937.607269,VS0,VE488
+Vary: Accept-Encoding
+X-Cluster-Name: us-east-1-prod-edge-eks-15
+
+<!DOCTYPE html><!-- Last Published: Mon Sep 28 2020 15:50:55 GMT+0000 (Coordinated Universal Time) --><html data-wf-domain="www.theflipside.io" data-wf-page="5c0affae2387a21ad549fb85" data-wf-site="5bfd76c121f9503755c665f9" lang="en"><head><meta charset="utf-8"/><title>Republican Convention | The Flip Side</title><meta content="Republican Convention" name="description"/><meta content="Republican Convention | The Flip Side" property="og:title"/><meta content="Get the most intelligent quotes from both sides—in a free, 5-minute email a day." property="og:description"/><meta content="https://assets-global.website-files.com/5c01d9d275e85a6371ce6d1e/5c4e9148fe98b202812657bb_bears%20working%20together.png" property="og:image"/><meta content="Republican Convention | The Flip Side" property="twitter:title"/><meta content="Get the most intelligent quotes from both sides—in a free, 5-minute email a day." property="twitter:description"/><meta content="https://assets-global.website-files.com/5c01d9d275e85a6371ce6d1e/5c4e9148fe98b202812657bb_bears%20working%20together.png" property="twitter:image"/><meta property="og:type" content="website"/><meta content="summary_large_image" name="twitter:card"/><meta content="width=device-width, initial-scale=1" name="viewport"/><link href="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/css/the-flipside.04d817fb9.min.css" rel="stylesheet" type="text/css"/><script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript"></script><script type="text/javascript">WebFont.load({  google: {    families: ["Lato:100,100italic,300,300italic,400,400italic,700,700italic,900,900italic"]  }});</script><script src="https://use.typekit.net/ief5vbu.js" type="text/javascript"></script><script type="text/javascript">try{Typekit.load();}catch(e){}</script><!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js" type="text/javascript"></script><![endif]--><script type="text/javascript">!function(o,c){var n=c.documentElement,t=" w-mod-";n.className+=t+"js",("ontouchstart"in o||o.DocumentTouch&&c instanceof DocumentTouch)&&(n.className+=t+"touch")}(window,document);</script><link href="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5c03871b75e85a9d2ecf243a_favicon-32x32.png" rel="shortcut icon" type="image/x-icon"/><link href="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5c038790f4cf11a559cd3a57_webclip256.png" rel="apple-touch-icon"/><link href="rss.xml" rel="alternate" title="RSS Feed" type="application/rss+xml"/><script type="text/javascript">!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.agent='plwebflow';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');fbq('init', '420932135099202');fbq('track', 'PageView');</script><!-- Async Anti-Flicker Code -->
+
+<style>.async-hide { opacity: 0 !important} </style>
+<script>(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+(a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+})(window,document.documentElement,'async-hide','dataLayer',4000,
+{'GTM-58K3PC7':true});</script>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-58K3PC7');</script>
+<!-- End Google Tag Manager -->
+
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<!-- Memberstack --> 
+<script src="https://api.memberstack.io/static/memberstack.js?webflow" data-memberstack-id="dd4b66b62c37ef91c54289827c1f3114"> </script><style>
+@media (max-width: 479px) {
+  .paragraph-div a {
+  	  font-size: 17px;
+    	line-height: 24px; }
+      
+  .on-the-bright-side a {
+  	  font-size: 17px;
+    	line-height: 24px; }
+}
+@media (max-width: 767px) {
+	.div-block-38 a {
+  	  font-size: 17px; 
+    	line-height: 24px; 
+}	
+  .paragraph-div a {
+  	  font-size: 17px;
+    	line-height: 26px; }
+      
+.on-the-bright-side a {
+  	  font-size: 17px;
+    	line-height: 26px; }
+}
+.w-nav-overlay {
+    z-index: 1002 !important;
+}
+</style></head><body class="body"><div data-collapse="medium" data-animation="over-right" data-duration="400" role="banner" class="navbar w-nav"><nav role="navigation" class="nav-menu w-nav-menu"><div class="nav-open-menu-links"><a href="/latest-issue" class="nav-open-menu-item mobile latest-issue w-nav-link">Latest Issue</a><a href="/archives" class="nav-open-menu-item mobile w-nav-link">Archives</a><a href="/about-us" class="nav-open-menu-item mobile w-nav-link">About Us</a><a href="/faq" class="nav-open-menu-item mobile faq w-nav-link">FAQ</a></div><div class="nav-menu-newsletter"><div class="form-block mobile w-form"><form id="email-form" name="email-form" data-name="Email Form" redirect="/one-more-thing" data-redirect="/one-more-thing" action="https://theflipside.us15.list-manage.com/subscribe/post?u=281c839c990f42b374467ae5f&amp;amp;id=7566a2ca43&quot; method=&quot;post&quot; id=&quot;mc-embedded-subscribe-form&quot; name=&quot;mc-embedded-subscribe-form" method="post" class="form mobile"><div class="text-block">GET TROLL-FREE POLITICAL NEWS</div><input type="email" class="text-field mobile w-input" maxlength="256" name="email-2" data-name="Email 2" placeholder="your email address" id="email-2" required=""/><input type="submit" value="I want to keep up with both sides &gt;" data-wait="Please wait..." class="submit-button mobile w-button"/><div class="text-block-2">We never spam and only send awesome news digests. Unsubscribe any time.</div></form><div class="w-form-done"><div>Thank you! Your submission has been received!</div></div><div class="w-form-fail"><div>Oops! Something went wrong while submitting the form.</div></div></div></div></nav><div data-w-id="83b1dd7a-785a-0585-a0c0-e44f2b23d2b5" class="nav-bar navbarother"><a href="/home-2-0" class="nav-logo w-nav-brand"><img src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5c018cd0879ec8a3e5fc263b_TFS%20Logo-n.png" alt="Logo" width="125" class="image-22 logo"/></a><div class="div-right header w-hidden-medium w-hidden-small w-hidden-tiny"><div class="nav-menu-links flex"><a href="/latest-issue" class="nav-link small w-nav-link">LATEST ISSUE</a><a href="/archives" class="nav-link small w-nav-link">ARCHIVES</a><a href="/about-us" class="nav-link small w-nav-link">ABOUT US</a><a href="/faq" class="nav-link small faq w-nav-link">FAQ</a></div></div><div class="div-right header w-hidden-medium w-hidden-small w-hidden-tiny"><div class="header-form w-form"><form id="email-form-2" name="email-form-2" data-name="Email Form 2" method="post" action="https://theflipside.us15.list-manage.com/subscribe/post?u=281c839c990f42b374467ae5f&amp;amp;id=7566a2ca43&quot; method=&quot;post&quot; id=&quot;mc-embedded-subscribe-form&quot; name=&quot;mc-embedded-subscribe-form" redirect="/one-more-thing" data-redirect="/one-more-thing" class="form-3"><input type="email" class="email-address-field-grey header w-input" maxlength="256" name="hero-optin-2" data-name="Hero Optin 2" placeholder="your email address" id="hero-optin-2" required=""/><div class="w-embed"><input type="hidden" name="MMERGE1" value="desk-menu"/></div><input type="submit" value="Subscribe &gt;" data-wait="Please wait..." id="https-theflipside.us15.list-manage.com-subscribe-post-u-281c839c990f42b374467ae5f-id-a0c19d8bf4" class="submit-button hero header w-button"/></form><div class="w-form-done"><div>Thank you! Your submission has been received!</div></div><div class="w-form-fail"><div>Oops! Something went wrong while submitting the form.</div></div></div></div></div><div class="menu-button-nav w-nav-button" data-ix="hamburger-button"><div class="top-line"></div><div class="middle-line"></div><div class="bottom-line"></div></div></div><div class="section-3"><div><h1 class="heading-16">August 26, 2020</h1><h1 class="heading-17">Republican Convention</h1><div class="container-8 w-container"><div class="rich-text-block-4 w-dyn-bind-empty w-richtext"></div><img src="" alt="" class="image-48 w-dyn-bind-empty"/><div class="paragraph-div"><div class="rich-text-block-2 w-richtext"><p>“Republicans <a href="https://theflipside.us15.list-manage.com/track/click?u=281c839c990f42b374467ae5f&amp;id=673c172e50&amp;e=6f16cb1c23" target="_blank">nominated President Trump as their candidate</a> at a scaled-back convention in North Carolina and Washington.” <strong>Wall Street Journal</strong><br/><br/>You can watch speeches from the <a href="https://theflipside.us15.list-manage.com/track/click?u=281c839c990f42b374467ae5f&amp;id=dc0cf80686&amp;e=6f16cb1c23" target="_blank">first two nights of the Republican convention here</a>. <strong>WBTV</strong></p></div><a href="/archives" class="link-6">See past issues</a></div></div><img src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5bfee82d95c45605590f6387_bear-badge.png" width="114" alt="" class="image archives"/><div class="columns w-row"><div class="blue-divider w-col w-col-6 w-col-small-6 w-col-tiny-6"><div style="background-color:#453158" class="div-block-2"></div></div><div class="red-divider w-col w-col-6 w-col-small-6 w-col-tiny-6"><div style="background-color:#453158" class="div-block-3"></div></div></div><div class="div-block-38"><div class="columns-15 w-row"><div class="column-60 w-clearfix w-col w-col-6 w-col-small-6 w-col-tiny-tiny-stack"><h1 class="from-the-left-heading w-dyn-bind-empty"></h1><h1 class="from-the-left-heading sponsored">From the Right</h1><div style="border-color:#e20f22" class="paragraph-6 left intro w-richtext"><p>The right praises the convention.</p></div><div class="paragraph-6 left bullet first w-dyn-bind-empty w-richtext"></div><div style="border-color:#e20f22" class="paragraph-6 left bullet first sponsored w-richtext"><p>“The real stars [of the second night] were President Trump and the cast of Americans who had been selected to illustrate aspects of his multi-front war on the political and media elite. We heard from a Maine lobsterman, a Wisconsin dairy farmer, a truck driver from Ohio, and a police officer from New Mexico who adopted the child of a woman addicted to opiates… <br/><br/>“Trump sent many reporters and commentators into a fury when he pardoned a former convict and presided over a naturalization ceremony in the middle of the convention. But the whole thing worked, both as political theater and as campaign strategy. <a href="https://theflipside.us15.list-manage.com/track/click?u=281c839c990f42b374467ae5f&amp;id=e0f7f14274&amp;e=6f16cb1c23" target="_blank">Trump&#x27;s interactions with normal Americans humanize him</a> and allow him to display rarely seen compassion and to utilize his self-deprecating sense of humor. And the men and women highlighted in these two segments are living rebukes to the critical narratives surrounding Trump on race and immigration.”<br/><strong>Matthew Continetti, Washington Free Beacon</strong><br/><br/>“President Trump spent the first night of his convention working to expand his [base] with a <a href="https://theflipside.us15.list-manage.com/track/click?u=281c839c990f42b374467ae5f&amp;id=9858fdfd57&amp;e=6f16cb1c23" target="_blank">concerted appeal to African American voters</a>… It was powerful to hear a Black American such as [Herschel] Walker say: ‘I’ve known Donald Trump for 37 years … I take it as a personal insult that people would think I would have a 37-year friendship with a racist. … Growing up in the Deep South, I have seen racism up close. I know what it is. And it isn’t Donald Trump.’…<br/><br/>“Sen. Tim Scott (R-S.C.)… talked about his grandfather, who was forced out of school as a third-grader to pick cotton but lived to see his grandson become the first African American elected to both the House of Representatives and the Senate… He talked about Trump’s support for Opportunity Zones that are ‘bringing over $75 billion of private sector investment into distressed communities’ and the president’s unprecedented support for historically Black colleges and universities (HBCUs), including permanent funding for the first time.”<br/><strong>Marc A. Thiessen, Washington Post</strong><br/><br/>“Scott presented the Democrats not so much as threatening as simply unappealing. His message was not, ‘The barbarians are at the gates’ but, ‘Why would we choose the thin gruel the Democrats are offering over the bountiful feast of American freedom that our ancestors toiled to prepare for us?’…<br/><br/>“The story of racial progress that the senator told during his speech is a radically different alternative to the one offered up by Black Lives Matter. Instead of black people rising up against an inherently evil American state to expunge the polity that enslaved them, Scott’s story is one in which the better angels of our national nature are continually bringing light into the darkest recesses of the American soul with the passing of the years. <a href="https://theflipside.us15.list-manage.com/track/click?u=281c839c990f42b374467ae5f&amp;id=85ef2d1fe0&amp;e=6f16cb1c23" target="_blank">He is living proof of this racial progress</a>, as he proclaimed in his speech last night. A majority-white electorate in Charleston, S.C., the crucible of the confederacy, sent Scott, a black son of a single-parent home, to Congress.”<br/><strong>Cameron Hilditch, National Review</strong><br/><br/>“One of the most effective speakers was Maximo Alvarez… he gave his personal story and warning against socialism and communism. His parents escaped Spain and went to Cuba, only to have to flee Cuba for America. Maximo was born in Cuba and was 13 when he came to America. He said he was born in Cuba but he is 100% American. He said that today’s Democrats remind him of Communist Cuba…<br/><br/>“The RNC was smart to <a href="https://theflipside.us15.list-manage.com/track/click?u=281c839c990f42b374467ae5f&amp;id=c97ca02718&amp;e=6f16cb1c23" target="_blank">lead off the convention with so many personal stories</a> interwoven with speeches delivered by public figures. For example, one speaker expressed her gratitude to Trump for pushing the Right to Try legislation that allows terminal patients the opportunity to participate in drug trials. She is fighting terminal bone cancer. There was a small business owner from Billings, Montana who thanked the Trump administration for attention to helping businesses to stay afloat during coronavirus lockdowns. Her coffee shop has been spared thanks to the business loan she was able to secure.”<br/><strong>Karen Townsend, Hot Air</strong><br/><br/>“Trump’s convention is fighting the narrative that his presidency is so glitchy that America must simply unplug itself on election day and then plug back in to see if we’ve cleared up the problem. In fact, much of the opening-night presentation <a href="https://theflipside.us15.list-manage.com/track/click?u=281c839c990f42b374467ae5f&amp;id=5919b8ef3b&amp;e=6f16cb1c23" target="_blank">showed a decidedly normal president keeping his promises</a> and doing things you’d expect him to do, like rescuing people from overseas prisons and passing criminal justice reform… The Trump challenge now is to stop lurching from one 10-minute crisis to the next, and to start focusing on a four-year journey that will either take us back to a good economy and a normal life, or to a dark place where Democrats raise your taxes and coddle anti-American anarchists.”<br/><strong>Scott Jennings, Los Angeles Times</strong></p></div><div class="paragraph-6 left bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 left bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 left bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 left bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 left bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 left bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 left bullet w-dyn-bind-empty w-richtext"></div></div><div class="column-61 w-clearfix w-col w-col-6 w-col-small-6 w-col-tiny-tiny-stack"><h1 class="from-the-right-heading w-dyn-bind-empty"></h1><h1 class="from-the-right-heading sponsored">From the Left</h1><div style="border-color:#0050a7" class="paragraph-6 right intro w-hidden-tiny w-richtext"><p>The left criticizes the convention.</p></div><div class="paragraph-6 right intro w-hidden-main w-hidden-medium w-hidden-small w-richtext"><p>The left criticizes the convention.</p></div><div class="paragraph-6 right bullet first w-dyn-bind-empty w-richtext"></div><div style="border-color:#0050a7" class="paragraph-6 right bullet first sponsored w-richtext"><p>“One campaign-style video that aired during the convention hailed Trump as the ‘one leader’ who stood up to the virus while quoting Democratic figures who played down the severity of the virus in its early stages… <br/><br/>“It’s a <a href="https://theflipside.us15.list-manage.com/track/click?u=281c839c990f42b374467ae5f&amp;id=cbb27b2756&amp;e=6f16cb1c23" target="_blank">revisionist version of recent history </a>belied by hours of videotape in which the president minimized the threat of the virus for months, falsely predicted that it would ‘disappear’ with warmer weather, promoted several unproven miracle cures, pushed states to reopen before meeting federal government benchmarks, equivocated on mask-wearing, defied social distancing guidelines and repeatedly told Americans that everything was under control.”<br/><strong>Toluse Olorunnipa, Washington Post</strong><br/><br/>“The reality is that, under President Trump’s leadership, <a href="https://theflipside.us15.list-manage.com/track/click?u=281c839c990f42b374467ae5f&amp;id=d50bc35141&amp;e=6f16cb1c23" target="_blank">the United States has one of the highest rates of coronavirus in the world</a> — far higher than our peer nations. Indeed, Trump’s entire argument can be refuted in a single chart…<br/><br/>“In Taiwan and South Korea, cheering fans gather in stadiums to watch their favorite baseball team — over 10,000 fans watched a game in Taichung, Taiwan. In Germany, restaurants are thriving, and dine-in reservations have spiked, while many American states are imposing new restrictions on our bars and restaurants because it simply is not safe for them to host indoor dining. There are, in other words, world leaders who did take decisive action to save lives. Donald Trump isn’t one of them.”<br/><strong>Ian Millhiser, Vox</strong><br/><br/>“During Monday’s speeches, Trump was called pretty much everything but a messiah. Republican activist Charlie Kirk even described him as ‘the bodyguard of Western civilization.’ Over the course of the week, seven Trump family members — his wife, four adult children and two of his children’s significant others — are scheduled to speak… Consider the fact that <a href="https://theflipside.us15.list-manage.com/track/click?u=281c839c990f42b374467ae5f&amp;id=5d2d280439&amp;e=6f16cb1c23" target="_blank">this year’s convention will have no platform</a>. While it is easy to overstate the importance of platforms, they represent a chance for party regulars to have input, and they force parties to make decisions and compromises about complex issues. The absence of a platform shows that there is little distinction between the GOP and the whims of Donald Trump.”<br/><strong>Editorial Board, USA Today</strong><br/><br/>“Speech after speech followed the same template: How was America going to stop the coronavirus? By reelecting Donald Trump. How was it going to revive its economy? By reelecting Donald Trump. How was it going to ensure domestic harmony? By reelecting Donald Trump. The contradiction at the heart of the convention, of course, is that <a href="https://theflipside.us15.list-manage.com/track/click?u=281c839c990f42b374467ae5f&amp;id=ab86d35222&amp;e=6f16cb1c23" target="_blank">Donald Trump is currently president</a>… How would reelecting Trump resolve these crises that Trump has proven unable to resolve — and has, in many cases, worsened — in office?”<br/><strong>Ezra Klein, Vox</strong><br/><br/>“In Trump’s first three years through this past January, the economy added 6,585,000 jobs to a total of 158,714,000. That’s 394,000 fewer under Trump than under Obama during a similar time span… During Obama’s final three years in office through January 2017, hourly earnings adjusted for inflation grew 3.3%, according to BLS figures. During Trump’s first three years, inflation-adjusted hourly earnings grew an identical 3.2%…<br/><br/>“During Trump’s presidency, the S&amp;P 500 climbed 51%, from a close of 2,271.31 on Jan. 20, 2017, when he was inaugurated, to a record 3,431.28 on Monday. And under Obama? The S&amp;P 500, which was 805.22 on Jan. 20, 2009, grew 182% during his presidency; during his second term, it grew 52% (from 1,492.56 on Jan. 22, 2013)… <a href="https://theflipside.us15.list-manage.com/track/click?u=281c839c990f42b374467ae5f&amp;id=b2f395f18b&amp;e=6f16cb1c23" target="_blank">It’s important that we keep these records in mind</a> this week as we hear more Republican speakers extol the fabulous economy Trump orchestrated, and warn how the Democrats will destroy it if Biden is in the White House.”<br/><strong>Owen Ullmann, USA Today</strong><br/><br/>Regarding the naturalization ceremony, it’s worth noting that “<a href="https://theflipside.us15.list-manage.com/track/click?u=281c839c990f42b374467ae5f&amp;id=0f2b9deb71&amp;e=6f16cb1c23" target="_blank">Trump hasn’t made it easy to immigrate to the US</a>, even for those seeking to do so legally. Trump’s travel ban, first introduced in 2017 and upheld by the Supreme Court in 2018, now covers citizens of 13 countries. He has built impediments in Central America, at the border, in detention centers, and in the immigration courts that have made obtaining asylum nearly impossible for people fleeing violence in their home countries, who are legally entitled to humanitarian protections… <br/><br/>“For would-be migrants trying to obtain visas from abroad, he has imposed a wealth test that is currently facing legal challenges, nearly doubled the cost of naturalization and created the first-ever fee on US asylum applications. He has cut the total number of refugees the US accepts annually to just 18,000, the fewest in history, down from a cap of 110,000 when he took office.”<br/><strong>Nicole Narea, Vox</strong></p></div><div class="paragraph-6 right bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 right bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 right bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 right bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 right bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 right bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 right bullet w-dyn-bind-empty w-richtext"></div></div></div><div class="w-row"><div class="column-60 w-col w-col-6 w-col-small-6 w-col-tiny-tiny-stack"></div><div class="column-61 w-col w-col-6 w-col-small-6 w-col-tiny-tiny-stack"></div></div><div class="w-layout-grid grid-7 w-clearfix"><div id="w-node-c9ca80732245-d549fb85" class="paragraph-6 wide center w-dyn-bind-empty w-richtext"></div><div id="w-node-c9ca80732246-d549fb85" class="paragraph-6 wide libertarian w-dyn-bind-empty w-richtext"></div></div></div><div class="additional-closing w-dyn-bind-empty w-richtext"></div><div style="border-color:#453158" class="on-the-bright-side"><h4 class="heading-18">On the bright side...</h4><div class="rich-text-block-3 w-richtext"><p><a href="https://theflipside.us15.list-manage.com/track/click?u=281c839c990f42b374467ae5f&amp;id=8d3f4171be&amp;e=6f16cb1c23" target="_blank">A Group Of Krispy Kreme Employees Glazed A Doughnut 25 Times Just To See What Would Happen</a>.<br/><strong>Delish</strong></p></div></div></div></div><div class="trollcta archive w-row"><div class="w-col w-col-6 w-col-stack"><div class="div-block-26 archive"><img src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5bfee82bbe4cd8508983a309_bear-0.png" alt="" class="bearhead archive"/><h2 class="heading-cta archive">Get troll-free political news.</h2></div></div><div class="w-col w-col-6 w-col-stack"><div class="w-clearfix w-form"><form id="email-form-2" name="email-form-2" data-name="Email Form 2" class="newsletter-form-fields faq"><input type="email" class="email-address-field-grey hero faq archive w-input" maxlength="256" name="hero-optin-2" data-name="Hero Optin 2" placeholder="your email address" id="hero-optin-2" required=""/><input type="submit" value="I want the best points from both sides        &gt;" data-wait="Please wait..." class="submit-button hero home faq archive w-button"/></form><div class="w-form-done"><div>Thank you! Your submission has been received!</div></div><div class="w-form-fail"><div>Oops! Something went wrong while submitting the form.</div></div></div></div></div><footer class="footer"><div class="columns-6 top-footer w-row"><div class="column-11 w-col w-col-4"><img src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5c800f4179da156500bd15f4_TFS%20-%20logo.svg" width="125" alt="Logo of The Flip Side" class="image-22 logo"/></div><div class="column-12 top-footer w-col w-col-4"><a id="w-node-8ef170fc7709-70fc7704" href="/latest-issue" class="footer-link w-inline-block"><div>LATEST ISSUE</div></a><a id="w-node-8ef170fc770c-70fc7704" href="/archives" class="footer-link w-inline-block"><div>ARCHIVES</div></a><a id="w-node-8ef170fc770f-70fc7704" href="/about-us" class="footer-link w-inline-block"><div>ABOUT US</div></a><a id="w-node-8ef170fc7715-70fc7704" href="/media" class="footer-link w-inline-block"><div>MEDIA</div></a><a id="w-node-8ef170fc7712-70fc7704" href="/supporters" class="footer-link w-inline-block"><div>SUPPORTERS</div></a><a id="w-node-a3c8f39c81e0-70fc7704" href="/faq" class="footer-link w-inline-block"><div>FAQ</div></a></div><div class="column-13 top-footer w-col w-col-4"><a href="https://www.facebook.com/KnowTheFlipSide/" class="link-block w-inline-block"><img src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5ec52bd498978ddc3785cf6e_facebook.svg" width="30" height="30" alt="Facebook"/></a><a href="http://twitter.com/knowtheflipside" class="link-block-2 w-inline-block"><img src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5ec52bd48143fd994f2ed9d1_twitter.svg" width="30" height="30" alt="Twitter"/></a><a href="mailto:editor@theflipside.io?subject=%5BFlipSide%20Website%20Inquiry%5D" class="w-inline-block"><img src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5ec52bd493802b79cc062997_email.svg" width="30" height="30" alt="Email"/></a></div></div><div class="columns-6 bottom-footer w-row"><div class="column-11 bottom-footer w-col w-col-3"><div class="text-block-15">COPYRIGHT © 2020</div></div><div class="column-12 bottom-footer w-col w-col-5"></div><div class="column-13 bottom-footer w-col w-col-4"><a href="/terms" class="link-block-2 terms w-inline-block"><div class="text-block-31">PRIVACY POLICY</div></a><div class="link-block-2 terms divider">|</div><a href="https://www.functionlabs.com" class="link-block-2 terms function w-inline-block"><div class="text-block-32">WEBSITE BY FUNCTION LABS</div></a></div></div></footer><script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=5bfd76c121f9503755c665f9" type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script><script src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/js/the-flipside.c2b2a285b.js" type="text/javascript"></script><!--[if lte IE 9]><script src="//cdnjs.cloudflare.com/ajax/libs/placeholders/3.0.2/placeholders.min.js"></script><![endif]--><!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-58K3PC7"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<!-- UTM Passthrough Javascript -->
+
+<script type="text/javascript" charset="utf-8">
+var UtmCookie, UtmForm, _uf;
+UtmCookie = class {
+    constructor(options = {}) {
+        this._cookieNamePrefix = "_uc_", this._domain = options.domain, this._sessionLength = options.sessionLength || 1, this._cookieExpiryDays = options.cookieExpiryDays || 365, this._additionalParams = options.additionalParams || [], this._utmParams = ["utm_source", "utm_medium", "utm_campaign", "utm_term", "utm_content"], this.writeInitialReferrer(), this.writeLastReferrer(), this.writeInitialLandingPageUrl(), this.setCurrentSession(), this.additionalParamsPresentInUrl() && this.writeAdditionalParams(), this.utmPresentInUrl() && this.writeUtmCookieFromParams()
+    }
+    createCookie(name, value, days, path, domain, secure) {
+        var cookieDomain, cookieExpire, cookiePath, cookieSecure, date, expireDate;
+        expireDate = null, days && ((date = new Date).setTime(date.getTime() + 24 * days * 60 * 60 * 1e3), expireDate = date), cookieExpire = null != expireDate ? "; expires=" + expireDate.toGMTString() : "", cookiePath = null != path ? "; path=" + path : "; path=/", cookieDomain = null != domain ? "; domain=" + domain : "", cookieSecure = null != secure ? "; secure" : "", document.cookie = this._cookieNamePrefix + name + "=" + escape(value) + cookieExpire + cookiePath + cookieDomain + cookieSecure
+    }
+    readCookie(name) {
+        var c, ca, i, nameEQ;
+        for (nameEQ = this._cookieNamePrefix + name + "=", ca = document.cookie.split(";"), i = 0; i < ca.length;) {
+            for (c = ca[i];
+                " " === c.charAt(0);) c = c.substring(1, c.length);
+            if (0 === c.indexOf(nameEQ)) return c.substring(nameEQ.length, c.length);
+            i++
+        }
+        return null
+    }
+    eraseCookie(name) {
+        this.createCookie(name, "", -1, null, this._domain)
+    }
+    getParameterByName(name) {
+        var results;
+        return name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]"), (results = new RegExp("[\\?&]" + name + "=([^&#]*)").exec(window.location.search)) ? decodeURIComponent(results[1].replace(/\+/g, " ")) : ""
+    }
+    additionalParamsPresentInUrl() {
+        var j, len, param, ref;
+        for (j = 0, len = (ref = this._additionalParams).length; j < len; j++)
+            if (param = ref[j], this.getParameterByName(param)) return !0;
+        return !1
+    }
+    utmPresentInUrl() {
+        var j, len, param, ref;
+        for (j = 0, len = (ref = this._utmParams).length; j < len; j++)
+            if (param = ref[j], this.getParameterByName(param)) return !0;
+        return !1
+    }
+    writeCookie(name, value) {
+        this.createCookie(name, value, this._cookieExpiryDays, null, this._domain)
+    }
+    writeAdditionalParams() {
+        var j, len, param, ref, value;
+        for (j = 0, len = (ref = this._additionalParams).length; j < len; j++) param = ref[j], value = this.getParameterByName(param), this.writeCookie(param, value)
+    }
+    writeUtmCookieFromParams() {
+        var j, len, param, ref, value;
+        for (j = 0, len = (ref = this._utmParams).length; j < len; j++) param = ref[j], value = this.getParameterByName(param), this.writeCookie(param, value)
+    }
+    writeCookieOnce(name, value) {
+        this.readCookie(name) || this.writeCookie(name, value)
+    }
+    _sameDomainReferrer(referrer) {
+        var hostname;
+        return hostname = document.location.hostname, referrer.indexOf(this._domain) > -1 || referrer.indexOf(hostname) > -1
+    }
+    _isInvalidReferrer(referrer) {
+        return "" === referrer || void 0 === referrer
+    }
+    writeInitialReferrer() {
+        var value;
+        value = document.referrer, this._isInvalidReferrer(value) && (value = "direct"), this.writeCookieOnce("referrer", value)
+    }
+    writeLastReferrer() {
+        var value;
+        value = document.referrer, this._sameDomainReferrer(value) || (this._isInvalidReferrer(value) && (value = "direct"), this.writeCookie("last_referrer", value))
+    }
+    writeInitialLandingPageUrl() {
+        var value;
+        (value = this.cleanUrl()) && this.writeCookieOnce("initial_landing_page", value)
+    }
+    initialReferrer() {
+        return this.readCookie("referrer")
+    }
+    lastReferrer() {
+        return this.readCookie("last_referrer")
+    }
+    initialLandingPageUrl() {
+        return this.readCookie("initial_landing_page")
+    }
+    incrementVisitCount() {
+        var existingValue, newValue;
+        existingValue = parseInt(this.readCookie("visits"), 10), newValue = 1, newValue = isNaN(existingValue) ? 1 : existingValue + 1, this.writeCookie("visits", newValue)
+    }
+    visits() {
+        return this.readCookie("visits")
+    }
+    setCurrentSession() {
+        this.readCookie("current_session") || (this.createCookie("current_session", "true", this._sessionLength / 24, null, this._domain), this.incrementVisitCount())
+    }
+    cleanUrl() {
+        var cleanSearch;
+        return cleanSearch = window.location.search.replace(/utm_[^&]+&?/g, "").replace(/&$/, "").replace(/^\?$/, ""), window.location.origin + window.location.pathname + cleanSearch + window.location.hash
+    }
+}, UtmForm = class {
+    constructor(options = {}) {
+        this._utmParamsMap = {}, this._utmParamsMap.utm_source = options.utm_source_field || "USOURCE", this._utmParamsMap.utm_medium = options.utm_medium_field || "UMEDIUM", this._utmParamsMap.utm_campaign = options.utm_campaign_field || "UCAMPAIGN", this._utmParamsMap.utm_content = options.utm_content_field || "UCONTENT", this._utmParamsMap.utm_term = options.utm_term_field || "UTERM", this._additionalParamsMap = options.additional_params_map || {}, this._initialReferrerField = options.initial_referrer_field || "IREFERRER", this._lastReferrerField = options.last_referrer_field || "LREFERRER", this._initialLandingPageField = options.initial_landing_page_field || "ILANDPAGE", this._visitsField = options.visits_field || "VISITS", this._addToForm = options.add_to_form || "all", this._formQuerySelector = options.form_query_selector || "form", this._decodeURIs = options.decode_uris || !1, this.utmCookie = new UtmCookie({
+            domain: options.domain,
+            sessionLength: options.sessionLength,
+            cookieExpiryDays: options.cookieExpiryDays,
+            additionalParams: Object.getOwnPropertyNames(this._additionalParamsMap)
+        }), this.addAllFields()
+    }
+    addAllFields() {
+        var allForms, i, len;
+        for (allForms = document.querySelectorAll(this._formQuerySelector), len = "none" === this._addToForm ? 0 : "first" === this._addToForm ? Math.min(1, allForms.length) : allForms.length, i = 0; i < len;) this.addAllFieldsToForm(allForms[i]), i++
+    }
+    addAllFieldsToForm(form) {
+        var fieldName, param, ref, ref1;
+        if (form && !form._utm_tagged) {
+            for (param in form._utm_tagged = !0, ref = this._utmParamsMap) fieldName = ref[param], this.addFormElem(form, fieldName, this.utmCookie.readCookie(param));
+            for (param in ref1 = this._additionalParamsMap) fieldName = ref1[param], this.addFormElem(form, fieldName, this.utmCookie.readCookie(param));
+            this.addFormElem(form, this._initialReferrerField, this.utmCookie.initialReferrer()), this.addFormElem(form, this._lastReferrerField, this.utmCookie.lastReferrer()), this.addFormElem(form, this._initialLandingPageField, this.utmCookie.initialLandingPageUrl()), this.addFormElem(form, this._visitsField, this.utmCookie.visits())
+        }
+    }
+    addFormElem(form, fieldName, fieldValue) {
+        this.insertAfter(this.getFieldEl(fieldName, fieldValue), form.lastChild)
+    }
+    getFieldEl(fieldName, fieldValue) {
+        var fieldEl;
+        return (fieldEl = document.createElement("input")).type = "hidden", fieldEl.name = fieldName, fieldEl.value = this._decodeURIs ? decodeURIComponent(fieldValue) : fieldValue, fieldEl
+    }
+    insertAfter(newNode, referenceNode) {
+        return referenceNode.parentNode.insertBefore(newNode, referenceNode.nextSibling)
+    }
+}, _uf = window._uf || {}, window.UtmForm = new UtmForm(_uf);
+  
+</script>
+<!-- End UTM Passthrough Javascript --></body></html>
+
+
+

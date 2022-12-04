@@ -1,0 +1,221 @@
+WARC/1.0
+WARC-Type: response
+WARC-Date: 2021-09-22T14:37:39Z
+WARC-Record-ID: <urn:uuid:900682a8-0c4b-4cf4-b0e9-080a99a5a8c8>
+Content-Length: 36821
+Content-Type: application/http; msgtype=response
+WARC-Warcinfo-ID: <urn:uuid:db8d25c5-1491-4468-af41-4a86fc7eb41e>
+WARC-Concurrent-To: <urn:uuid:3d660ddb-57e5-4ecf-a936-cb563398b463>
+WARC-IP-Address: 34.197.10.15
+WARC-Target-URI: https://www.theflipside.io/archives/bipartisan-infrastructure-bill
+WARC-Payload-Digest: sha1:O7MLHTQKW72XE73AESC6I22SPAKZOHDG
+WARC-Block-Digest: sha1:A7XXQGIVU7VTPPTWTSQOWTERYWDF7FP4
+WARC-Identified-Payload-Type: text/html
+
+HTTP/1.1 200 OK
+Server: openresty
+Date: Wed, 22 Sep 2021 14:37:39 GMT
+Content-Type: text/html
+X-Crawler-Content-Length: 13208
+Content-Length: 36217
+Connection: keep-alive
+X-Crawler-Content-Encoding: gzip
+content-security-policy: frame-ancestors 'self'
+x-frame-options: SAMEORIGIN
+x-lambda-id: 4e86151e-7d29-402b-a926-eaa048e59068
+Via: 1.1 varnish, 1.1 varnish
+Accept-Ranges: bytes
+Age: 80823
+X-Served-By: cache-dca17778-DCA, cache-wdc5544-WDC
+X-Cache: MISS, HIT
+X-Cache-Hits: 0, 1
+X-Timer: S1632321459.168764,VS0,VE1
+Vary: Accept-Encoding
+X-Cluster-Name: us-east-1-prod-edge-eks-15
+
+<!DOCTYPE html><!-- Last Published: Mon Sep 20 2021 03:09:21 GMT+0000 (Coordinated Universal Time) --><html data-wf-domain="www.theflipside.io" data-wf-page="5c0affae2387a21ad549fb85" data-wf-site="5bfd76c121f9503755c665f9" lang="en"><head><meta charset="utf-8"/><title>Bipartisan Infrastructure Bill | The Flip Side</title><meta content="Bipartisan Infrastructure Bill" name="description"/><meta content="Bipartisan Infrastructure Bill | The Flip Side" property="og:title"/><meta content="Get the most intelligent quotes from both sides—in a free, 5-minute email a day." property="og:description"/><meta content="https://assets-global.website-files.com/5c01d9d275e85a6371ce6d1e/5c4e9148fe98b202812657bb_bears%20working%20together.png" property="og:image"/><meta content="Bipartisan Infrastructure Bill | The Flip Side" property="twitter:title"/><meta content="Get the most intelligent quotes from both sides—in a free, 5-minute email a day." property="twitter:description"/><meta content="https://assets-global.website-files.com/5c01d9d275e85a6371ce6d1e/5c4e9148fe98b202812657bb_bears%20working%20together.png" property="twitter:image"/><meta property="og:type" content="website"/><meta content="summary_large_image" name="twitter:card"/><meta content="width=device-width, initial-scale=1" name="viewport"/><link href="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/css/the-flipside.dbfe4cc48.min.css" rel="stylesheet" type="text/css"/><script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript"></script><script type="text/javascript">WebFont.load({  google: {    families: ["Lato:100,100italic,300,300italic,400,400italic,700,700italic,900,900italic"]  }});</script><script src="https://use.typekit.net/ief5vbu.js" type="text/javascript"></script><script type="text/javascript">try{Typekit.load();}catch(e){}</script><!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js" type="text/javascript"></script><![endif]--><script type="text/javascript">!function(o,c){var n=c.documentElement,t=" w-mod-";n.className+=t+"js",("ontouchstart"in o||o.DocumentTouch&&c instanceof DocumentTouch)&&(n.className+=t+"touch")}(window,document);</script><link href="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5c03871b75e85a9d2ecf243a_favicon-32x32.png" rel="shortcut icon" type="image/x-icon"/><link href="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5c038790f4cf11a559cd3a57_webclip256.png" rel="apple-touch-icon"/><link href="rss.xml" rel="alternate" title="RSS Feed" type="application/rss+xml"/><script type="text/javascript">!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.agent='plwebflow';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');fbq('init', '420932135099202');fbq('track', 'PageView');</script><!-- Async Anti-Flicker Code -->
+
+<style>.async-hide { opacity: 0 !important} </style>
+<script>(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+(a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+})(window,document.documentElement,'async-hide','dataLayer',4000,
+{'GTM-58K3PC7':true});</script>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-58K3PC7');</script>
+<!-- End Google Tag Manager -->
+
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<!-- Memberstack --> 
+<script src="https://api.memberstack.io/static/memberstack.js?webflow" data-memberstack-id="dd4b66b62c37ef91c54289827c1f3114"> </script>
+<meta name="facebook-domain-verification" content="iwu96sl48x7iyi5jym4ncc45zdaz8e" /><style>
+@media (max-width: 479px) {
+  .paragraph-div a {
+  	  font-size: 17px;
+    	line-height: 24px; }
+      
+  .on-the-bright-side a {
+  	  font-size: 17px;
+    	line-height: 24px; }
+}
+@media (max-width: 767px) {
+	.div-block-38 a {
+  	  font-size: 17px; 
+    	line-height: 24px; 
+}	
+  .paragraph-div a {
+  	  font-size: 17px;
+    	line-height: 26px; }
+      
+.on-the-bright-side a {
+  	  font-size: 17px;
+    	line-height: 26px; }
+}
+.w-nav-overlay {
+    z-index: 1002 !important;
+}
+</style></head><body class="body"><div data-collapse="medium" data-animation="over-right" data-duration="400" data-easing="ease" data-easing2="ease" data-no-scroll="1" role="banner" class="navbar w-nav"><nav role="navigation" class="nav-menu w-nav-menu"><div class="nav-open-menu-links"><a href="/latest-issue" class="nav-open-menu-item mobile latest-issue w-nav-link">Latest Issue</a><a href="/archives" class="nav-open-menu-item mobile w-nav-link">Archives</a><a href="/about-us" class="nav-open-menu-item mobile w-nav-link">About Us</a><a href="/faq" class="nav-open-menu-item mobile faq w-nav-link">FAQ</a></div><div class="nav-menu-newsletter"><div class="form-block mobile w-form"><form id="email-form" name="email-form" data-name="Email Form" redirect="/one-more-thing" data-redirect="/one-more-thing" action="https://theflipside.us15.list-manage.com/subscribe/post?u=281c839c990f42b374467ae5f&amp;amp;id=7566a2ca43&quot; method=&quot;post&quot; id=&quot;mc-embedded-subscribe-form&quot; name=&quot;mc-embedded-subscribe-form" method="post" class="form mobile"><div class="text-block">GET TROLL-FREE POLITICAL NEWS</div><input type="email" class="text-field mobile w-input" maxlength="256" name="email-2" data-name="Email 2" placeholder="your email address" id="email-2" required=""/><input type="submit" value="I want to keep up with both sides &gt;" data-wait="Please wait..." class="submit-button mobile w-button"/><div class="text-block-2">We never spam and only send awesome news digests. Unsubscribe any time.</div></form><div class="w-form-done"><div>Thank you! Your submission has been received!</div></div><div class="w-form-fail"><div>Oops! Something went wrong while submitting the form.</div></div></div></div></nav><div data-w-id="83b1dd7a-785a-0585-a0c0-e44f2b23d2b5" class="nav-bar navbarother"><a href="/home-2-0" class="nav-logo w-nav-brand"><img src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5c018cd0879ec8a3e5fc263b_TFS%20Logo-n.png" alt="Logo" width="125" class="image-22 logo"/></a><div class="div-right header w-hidden-medium w-hidden-small w-hidden-tiny"><div class="nav-menu-links flex"><a href="/latest-issue" class="nav-link small w-nav-link">LATEST ISSUE</a><a href="/archives" class="nav-link small w-nav-link">ARCHIVES</a><a href="/about-us" class="nav-link small w-nav-link">ABOUT US</a><a href="/faq" class="nav-link small faq w-nav-link">FAQ</a></div></div><div class="div-right header w-hidden-medium w-hidden-small w-hidden-tiny"><div class="header-form w-form"><form id="email-form-2" name="email-form-2" data-name="Email Form 2" method="post" action="https://theflipside.us15.list-manage.com/subscribe/post?u=281c839c990f42b374467ae5f&amp;amp;id=7566a2ca43&quot; method=&quot;post&quot; id=&quot;mc-embedded-subscribe-form&quot; name=&quot;mc-embedded-subscribe-form" redirect="/one-more-thing" data-redirect="/one-more-thing" class="form-3"><input type="email" class="email-address-field-grey header w-input" maxlength="256" name="hero-optin-2" data-name="Hero Optin 2" placeholder="your email address" id="hero-optin-2" required=""/><div class="w-embed"><input type="hidden" name="MMERGE1" value="desk-menu"/></div><input type="submit" value="Subscribe &gt;" data-wait="Please wait..." id="https-theflipside.us15.list-manage.com-subscribe-post-u-281c839c990f42b374467ae5f-id-a0c19d8bf4" class="submit-button hero header w-button"/></form><div class="w-form-done"><div>Thank you! Your submission has been received!</div></div><div class="w-form-fail"><div>Oops! Something went wrong while submitting the form.</div></div></div></div></div><div class="menu-button-nav w-nav-button" data-ix="hamburger-button"><div class="top-line"></div><div class="middle-line"></div><div class="bottom-line"></div></div></div><div class="section-3 wf-section"><div><h1 class="heading-16">August 3, 2021</h1><h1 class="heading-17">Bipartisan Infrastructure Bill</h1><div class="container-8 w-container"><div class="rich-text-block-4 w-dyn-bind-empty w-richtext"></div><img src="https://assets-global.website-files.com" alt="" class="image-48 w-dyn-bind-empty"/><div class="paragraph-div"><div class="rich-text-block-2 w-richtext"><p>“The U.S. Senate pushed ahead on Monday with a <a href="https://www.reuters.com/world/us/whats-us-senates-bipartisan-1-trillion-infrastructure-bill-2021-08-02/">roughly $1 trillion bipartisan infrastructure bill</a> to update America&#x27;s roads, bridges and broadband networks, clearing the way for a possible vote on the package later this week. The legislation includes $550 billion in new spending, while the rest of the $1 trillion is comprised of previously approved funding.” <strong>Reuters</strong><br/><br/>Here’s our recent coverage of the <a href="https://www.theflipside.io/archives/bipartisan-infrastructure-deal">bipartisan infrastructure deal</a>. <strong>The Flip Side</strong><br/></p></div><a href="/archives" class="link-6">See past issues</a></div></div><img src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5bfee82d95c45605590f6387_bear-badge.png" width="114" alt="" class="image archives"/><div class="columns w-row"><div class="blue-divider w-col w-col-6 w-col-small-6 w-col-tiny-6"><div class="div-block-2"></div></div><div class="red-divider w-col w-col-6 w-col-small-6 w-col-tiny-6"><div class="div-block-3"></div></div></div><div class="div-block-38"><div class="columns-15 w-row"><div class="column-60 w-clearfix w-col w-col-6 w-col-small-6 w-col-tiny-tiny-stack"><h1 class="from-the-left-heading">From the Left</h1><h1 class="from-the-left-heading sponsored w-dyn-bind-empty"></h1><div class="paragraph-6 left intro w-richtext"><p>The left is disappointed in the bill and urges substantially more spending through reconciliation.</p></div><div class="paragraph-6 left bullet first w-richtext"><p>“If you’re flying out of Singapore Changi, which aviation survey and research group Skytrax ranks as the world’s best airport, you can spend time before your flight in the airport’s tropical butterfly garden. At second-ranked Tokyo Haneda, you can enjoy one of several open-air rooftop restaurants and a rapid transit monorail system that links terminals. At Amsterdam Airport Schiphol, rated ninth, you can go to a free art museum annex before heading to one of 223 gates spread around a single-terminal concept… <br/><br/>“If the bipartisan framework does become law, airports’ budgetary needs are so severe — and their spatial challenges so significant — that $25 billion is likely not enough to be a cure-all for their infrastructure challenges. Still, that money would be of help — not necessarily to make US airports more luxurious, but to <a href="https://www.vox.com/22577659/bipartisan-infrastructure-framework-airports-biden-travel">increase efficiency during check-in, security screenings, and boarding</a>; make air travel a little greener; and to ensure that airports built before television was a thing can meet the needs of 21st-century travel.”<br/><strong>Gabby Birenbaum, Vox</strong></p></div><div class="paragraph-6 left bullet first sponsored w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 left bullet w-richtext"><p>“[Rep. Peter DeFazio (D-OR)] has proposed his own $715 billion surface transportation bill, which passed in the House in June. He argues that his measure is truly ‘the first twenty-first-century transportation bill,’ in that it includes policies ‘oriented toward reducing fossil fuel pollution, electrifying the national highway network, or using alternate fuels robustly.’ The bipartisan infrastructure plan does include several climate-related provisions, including funding for more electric vehicle charging stations and improvements to the nation’s electrical grid. <a href="https://newrepublic.com/article/163149/peter-defazio-infrastructure-bipartisan-deal">However, it dedicates significantly less funding to climate change than Biden originally sought</a> and still promotes the usage of fossil fuels.”<br/><strong>Grace Segers, New Republic</strong></p></div><div class="paragraph-6 left bullet w-richtext"><p>“The proposed investment in the power grid illuminates the pros and cons of the bipartisan infrastructure package. Increasing the capacity to transport and store energy is an essential prerequisite to expanding the use of wind, solar, and other clean power sources. Seventy-three billion dollars is less than the hundred billion that Biden originally proposed, but it’s a large sum. Some proponents of green energy hailed this element. Others pointed out that much more needs to be done to meet the Administration’s declared goal of achieving net zero emissions by 2050… <br/><br/>“The long and the short of all this is that Biden and other Democratic leaders are facing a dual challenge. If they don’t want to rely on Republican votes in the House to pass the infrastructure bill, they will have to somehow pair it with the big reconciliation package… As I wrote at the end of June, this will involve persuading Sinema; Manchin; Bernie Sanders, the head of the Senate Budget Committee; and A.O.C.—<a href="https://www.newyorker.com/news/our-columnists/its-crunch-time-for-joe-biden-and-the-democratic-party">a group with vastly different political priorities—to come together</a>.”<br/><strong>John Cassidy, New Yorker</strong></p></div><div class="paragraph-6 left bullet w-richtext"><p>Skeptics note that “The original bill had $387 billion for ‘housing, schools, and buildings.’ The bipartisan version has $0. The original infrastructure bill had $400 billion for ‘home- and community-based care.’ The bipartisan version has $0. Even ‘clean energy tax credits,’ an absurdly inadequate response to the climate crisis, plummeted from $363 billion to $0. Other climate measures were also scrapped. The gap between the bills is a catastrophe in human terms. What it has going for it is... bipartisanship… <br/><br/>“Democrats say they’ll pass a separate bill through the reconciliation process to address the areas where the infrastructure bill does nothing. We’ll see. Powerful players have promised they won’t vote on the infrastructure bill if the reconciliation bill isn’t approved, but <a href="https://jacobinmag.com/2021/08/bipartisan-gutted-infrastructure-bill-reconciliation-bill-democratic-congress-biden-administration/">it’s hard to avoid the sinking feeling that we’ve seen this movie before</a>. In 2009, for example, the House Progressive Caucus was vowing not to support any version of the Affordable Care Act that didn’t include a public option.”<br/><strong>Ben Burgis, Jacobin Magazine</strong></p></div><div class="paragraph-6 left bullet w-richtext"><p>“<a href="https://www.washingtonpost.com/opinions/2021/08/01/no-more-excuses-democrats-cant-risk-another-crisis/">The most important reason to act quickly [and pass both bills] is that the times demand it</a>. With the delta variant throwing many reopening plans for a loop, and with continued petulance from Republicans impeding the pandemic response, the faster stimulus and relief can arrive, the better. And with a tied Senate and a narrowly divided House, you never know when events can intervene and change the balance of power. Americans need help now. This is Democrats’ best chance to provide it — and the sooner they act, the better.”<br/><strong>James Downie, Washington Post</strong></p></div><div class="paragraph-6 left bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 left bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 left bullet w-dyn-bind-empty w-richtext"></div></div><div class="column-61 w-clearfix w-col w-col-6 w-col-small-6 w-col-tiny-tiny-stack"><h1 class="from-the-right-heading">From the Right</h1><h1 class="from-the-right-heading sponsored w-dyn-bind-empty"></h1><div class="paragraph-6 right intro w-hidden-tiny w-richtext"><p>The right is divided regarding both the bill’s merits and the political benefits from passing it.</p></div><div class="paragraph-6 right intro w-hidden-main w-hidden-medium w-hidden-small w-richtext"><p>The right is divided regarding both the bill’s merits and the political benefits from passing it.</p></div><div class="paragraph-6 right bullet first w-richtext"><p>“The bill would extend Medicare provider payment cuts by a year through 2031, just inside the 10-year budget window. Senators are counting that as saving $9 billion, but Congress is almost certain to override this provision once hospitals squawk, as they surely will… <br/><br/>“The bill also claims $53 billion from lower spending on unemployment benefits. Unemployment has fallen faster than the Congressional Budget Office projected in March, and 26 mostly Republican states are cutting the $300 federal unemployment bonus early. The savings, if they happen, will come from money that would never have been spent… <br/><br/>“Mr. Manchin insisted again on Sunday that ‘our infrastructure bill is all paid for.’ <a href="https://www.wsj.com/amp/articles/senate-infrastructure-deal-pay-fors-republicans-joe-manchin-11627940099">Only under fictional Beltway scoring</a>. Most Americans no doubt wish they could use Congress’s accounting rules when balancing their household books.”<br/><strong>Editorial Board, Wall Street Journal</strong></p></div><div class="paragraph-6 right bullet first sponsored w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 right bullet w-richtext"><p>“The decision of Republicans to collaborate with Democrats is both bad policy and makes little sense politically. As we have been saying for months, despite what the media (and evidently, some Republicans) will tell you, America’s infrastructure is not crumbling and is not deeply in need of repair… <br/><br/>“There is not an economic justification to spend money to stimulate an economy that will recover on its own as the nation emerges from the pandemic (growth accelerated at an annual rate of 6.5 percent in the second quarter, the Bureau of Economic Analysis announced on Thursday). Also, it is not as if the government is in the black. The Biden administration’s own estimates foresee debt as a share of the economy surpassing the World War II record this year… <br/><br/>“Some Republicans don’t want to be seen as obstructionists. But politically, <a href="https://www.nationalreview.com/2021/07/the-pathetic-republican-surrender/">obstructing the majority party’s agenda has never hurt the minority party</a>. Quite the contrary. Democrats benefited from obstruction in the 2006 and 2018 midterms, and it was crucial to Republican waves in 2010 and 2014. Giving Biden a big bipartisan victory is throwing him a life raft at a time when his presidency is being hurt by rising crime, increasing inflation, and the reemergence of COVID-19 restrictions.”<br/><strong>The Editors, National Review</strong></p></div><div class="paragraph-6 right bullet w-richtext"><p>Others, however, argue that “By agreeing to begin debate on infrastructure, Republicans have strengthened the ability of centrist Senate Democrats to say ‘no’ to President Joe Biden’s larger and more damaging $3.5 trillion bill. When constituents ask why they don’t support Biden’s larger spending plan, Democratic Sens. Kyrsten Sinema, of Arizona, and Joe Manchin, of West Virginia, can now say, ‘Look, I supported a $1.2 trillion bill that actually spent money on roads and bridges. This was bipartisan legislation that funded real infrastructure investments. It’s not my fault Speaker Pelosi chose to kill the bill in the House.’… <br/><br/>“If <a href="https://www.washingtonexaminer.com/opinion/in-defense-of-the-17-republicans-who-voted-to-advance-the-bipartisan-infrastructure-bill">Democratic centrists can point to a significant bipartisan deal</a>, like the bipartisan infrastructure bill, then it becomes much harder for liberals to argue that bipartisanship is impossible. Viewed in this way, a Republican vote for the bipartisan infrastructure deal is really a vote to preserve the filibuster.”<br/><strong>Conn Carroll, Washington Examiner</strong></p></div><div class="paragraph-6 right bullet w-richtext"><p>Sen. Rob Portman (R-OH) writes, “We can all agree that America’s roads, bridges, rails and ports need repair, and that without more investment in these long-term, hard assets, and the digital infrastructure needed to expand high-speed internet, we will continue to fall behind other countries. As a percentage of its economy, <a href="https://www.wsj.com/amp/articles/bipartisan-infrastructure-investment-and-jobs-act-inflation-taxes-11627575599">China spends nearly four times what the U.S. spends on infrastructure</a>… <br/><br/>“Our framework contains important permitting reforms, such as making permanent Title 41 of the Fixing America’s Surface Transportation Act, known as FAST-41. Since becoming law in 2015, the Federal Permitting Improvement Steering Council created by FAST-41 has helped more than 50 projects save more than a billion dollars combined, created more than 100,000 jobs, and sped up permitting process substantially… <br/><br/>“The Democrats’ coming partisan tax and spending spree must be opposed, but infrastructure is different. As Republicans, we can and should be for common-sense solutions to the most pressing needs working families face every day.”<br/><strong>Rob Portman, Wall Street Journal</strong></p></div><div class="paragraph-6 right bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 right bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 right bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 right bullet w-dyn-bind-empty w-richtext"></div></div></div><div class="w-row"><div class="column-60 w-col w-col-6 w-col-small-6 w-col-tiny-tiny-stack"></div><div class="column-61 w-col w-col-6 w-col-small-6 w-col-tiny-tiny-stack"></div></div><div class="w-layout-grid grid-7 w-clearfix"><div id="w-node-c982ddb1-5ced-6b21-8419-c9ca80732245-d549fb85" class="paragraph-6 wide center w-dyn-bind-empty w-richtext"></div><div id="w-node-c982ddb1-5ced-6b21-8419-c9ca80732246-d549fb85" class="paragraph-6 wide libertarian w-dyn-bind-empty w-richtext"></div></div></div><div class="additional-closing w-dyn-bind-empty w-richtext"></div><div style="border-color:#453158" class="on-the-bright-side"><h4 class="heading-18">On the bright side...</h4><div class="rich-text-block-3 w-richtext"><p><a href="https://www.boredpanda.com/animals-boar-in-a-box-yezhu-finds-home-sri-lanka-dora-ngai-dora2go/" target="_blank">Woman takes a wild baby boar into her family after she finds it in a box at her doorstep</a>.<br/><strong>Bored Panda</strong></p></div></div></div></div><div class="trollcta archive w-row"><div class="w-col w-col-6 w-col-stack"><div class="div-block-26 archive"><img src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5bfee82bbe4cd8508983a309_bear-0.png" alt="" class="bearhead archive"/><h2 class="heading-cta archive">Get troll-free political news.</h2></div></div><div class="w-col w-col-6 w-col-stack"><div class="w-clearfix w-form"><form id="email-form-2" name="email-form-2" data-name="Email Form 2" class="newsletter-form-fields faq"><input type="email" class="email-address-field-grey hero faq archive w-input" maxlength="256" name="hero-optin-2" data-name="Hero Optin 2" placeholder="your email address" id="hero-optin-2" required=""/><input type="submit" value="I want the best points from both sides        &gt;" data-wait="Please wait..." class="submit-button hero home faq archive w-button"/></form><div class="w-form-done"><div>Thank you! Your submission has been received!</div></div><div class="w-form-fail"><div>Oops! Something went wrong while submitting the form.</div></div></div></div></div><footer class="footer wf-section"><div class="columns-6 top-footer w-row"><div class="column-11 w-col w-col-4"><img src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5c800f4179da156500bd15f4_TFS%20-%20logo.svg" width="125" alt="Logo of The Flip Side" class="image-22 logo"/></div><div class="column-12 top-footer w-col w-col-4"><a id="w-node-f2f82e10-1a31-eb5f-ca00-8ef170fc7709-70fc7704" href="/latest-issue" class="footer-link w-inline-block"><div>LATEST ISSUE</div></a><a id="w-node-f2f82e10-1a31-eb5f-ca00-8ef170fc770c-70fc7704" href="/archives" class="footer-link w-inline-block"><div>ARCHIVES</div></a><a id="w-node-f2f82e10-1a31-eb5f-ca00-8ef170fc770f-70fc7704" href="/about-us" class="footer-link w-inline-block"><div>ABOUT US</div></a><a id="w-node-f2f82e10-1a31-eb5f-ca00-8ef170fc7715-70fc7704" href="/media" class="footer-link w-inline-block"><div>MEDIA</div></a><a id="w-node-f2f82e10-1a31-eb5f-ca00-8ef170fc7712-70fc7704" href="/supporters" class="footer-link w-inline-block"><div>SUPPORTERS</div></a><a id="w-node-_87649ec8-d9e2-88e8-e2f7-a3c8f39c81e0-70fc7704" href="/faq" class="footer-link w-inline-block"><div>FAQ</div></a></div><div class="column-13 top-footer w-col w-col-4"><a href="https://www.facebook.com/KnowTheFlipSide/" class="link-block w-inline-block"><img src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5ec52bd498978ddc3785cf6e_facebook.svg" width="30" height="30" alt="Facebook"/></a><a href="http://twitter.com/knowtheflipside" class="link-block-2 w-inline-block"><img src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5ec52bd48143fd994f2ed9d1_twitter.svg" width="30" height="30" alt="Twitter"/></a><a href="mailto:editor@theflipside.io?subject=%5BFlipSide%20Website%20Inquiry%5D" class="w-inline-block"><img src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5ec52bd493802b79cc062997_email.svg" width="30" height="30" alt="Email"/></a></div></div><div class="columns-6 bottom-footer w-row"><div class="column-11 bottom-footer w-col w-col-3"><div class="text-block-15">COPYRIGHT © 2020</div></div><div class="column-12 bottom-footer w-col w-col-5"></div><div class="column-13 bottom-footer w-col w-col-4"><a href="/terms" class="link-block-2 terms w-inline-block"><div class="text-block-31">PRIVACY POLICY</div></a><div class="link-block-2 terms divider">|</div><a href="https://www.functionlabs.com" class="link-block-2 terms function w-inline-block"><div class="text-block-32">WEBSITE BY FUNCTION LABS</div></a></div></div></footer><script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=5bfd76c121f9503755c665f9" type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script><script src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/js/the-flipside.233f08f1e.js" type="text/javascript"></script><!--[if lte IE 9]><script src="//cdnjs.cloudflare.com/ajax/libs/placeholders/3.0.2/placeholders.min.js"></script><![endif]--><!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-58K3PC7"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<!-- UTM Passthrough Javascript -->
+
+<script type="text/javascript" charset="utf-8">
+var UtmCookie, UtmForm, _uf;
+UtmCookie = class {
+    constructor(options = {}) {
+        this._cookieNamePrefix = "_uc_", this._domain = options.domain, this._sessionLength = options.sessionLength || 1, this._cookieExpiryDays = options.cookieExpiryDays || 365, this._additionalParams = options.additionalParams || [], this._utmParams = ["utm_source", "utm_medium", "utm_campaign", "utm_term", "utm_content"], this.writeInitialReferrer(), this.writeLastReferrer(), this.writeInitialLandingPageUrl(), this.setCurrentSession(), this.additionalParamsPresentInUrl() && this.writeAdditionalParams(), this.utmPresentInUrl() && this.writeUtmCookieFromParams()
+    }
+    createCookie(name, value, days, path, domain, secure) {
+        var cookieDomain, cookieExpire, cookiePath, cookieSecure, date, expireDate;
+        expireDate = null, days && ((date = new Date).setTime(date.getTime() + 24 * days * 60 * 60 * 1e3), expireDate = date), cookieExpire = null != expireDate ? "; expires=" + expireDate.toGMTString() : "", cookiePath = null != path ? "; path=" + path : "; path=/", cookieDomain = null != domain ? "; domain=" + domain : "", cookieSecure = null != secure ? "; secure" : "", document.cookie = this._cookieNamePrefix + name + "=" + escape(value) + cookieExpire + cookiePath + cookieDomain + cookieSecure
+    }
+    readCookie(name) {
+        var c, ca, i, nameEQ;
+        for (nameEQ = this._cookieNamePrefix + name + "=", ca = document.cookie.split(";"), i = 0; i < ca.length;) {
+            for (c = ca[i];
+                " " === c.charAt(0);) c = c.substring(1, c.length);
+            if (0 === c.indexOf(nameEQ)) return c.substring(nameEQ.length, c.length);
+            i++
+        }
+        return null
+    }
+    eraseCookie(name) {
+        this.createCookie(name, "", -1, null, this._domain)
+    }
+    getParameterByName(name) {
+        var results;
+        return name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]"), (results = new RegExp("[\\?&]" + name + "=([^&#]*)").exec(window.location.search)) ? decodeURIComponent(results[1].replace(/\+/g, " ")) : ""
+    }
+    additionalParamsPresentInUrl() {
+        var j, len, param, ref;
+        for (j = 0, len = (ref = this._additionalParams).length; j < len; j++)
+            if (param = ref[j], this.getParameterByName(param)) return !0;
+        return !1
+    }
+    utmPresentInUrl() {
+        var j, len, param, ref;
+        for (j = 0, len = (ref = this._utmParams).length; j < len; j++)
+            if (param = ref[j], this.getParameterByName(param)) return !0;
+        return !1
+    }
+    writeCookie(name, value) {
+        this.createCookie(name, value, this._cookieExpiryDays, null, this._domain)
+    }
+    writeAdditionalParams() {
+        var j, len, param, ref, value;
+        for (j = 0, len = (ref = this._additionalParams).length; j < len; j++) param = ref[j], value = this.getParameterByName(param), this.writeCookie(param, value)
+    }
+    writeUtmCookieFromParams() {
+        var j, len, param, ref, value;
+        for (j = 0, len = (ref = this._utmParams).length; j < len; j++) param = ref[j], value = this.getParameterByName(param), this.writeCookie(param, value)
+    }
+    writeCookieOnce(name, value) {
+        this.readCookie(name) || this.writeCookie(name, value)
+    }
+    _sameDomainReferrer(referrer) {
+        var hostname;
+        return hostname = document.location.hostname, referrer.indexOf(this._domain) > -1 || referrer.indexOf(hostname) > -1
+    }
+    _isInvalidReferrer(referrer) {
+        return "" === referrer || void 0 === referrer
+    }
+    writeInitialReferrer() {
+        var value;
+        value = document.referrer, this._isInvalidReferrer(value) && (value = "direct"), this.writeCookieOnce("referrer", value)
+    }
+    writeLastReferrer() {
+        var value;
+        value = document.referrer, this._sameDomainReferrer(value) || (this._isInvalidReferrer(value) && (value = "direct"), this.writeCookie("last_referrer", value))
+    }
+    writeInitialLandingPageUrl() {
+        var value;
+        (value = this.cleanUrl()) && this.writeCookieOnce("initial_landing_page", value)
+    }
+    initialReferrer() {
+        return this.readCookie("referrer")
+    }
+    lastReferrer() {
+        return this.readCookie("last_referrer")
+    }
+    initialLandingPageUrl() {
+        return this.readCookie("initial_landing_page")
+    }
+    incrementVisitCount() {
+        var existingValue, newValue;
+        existingValue = parseInt(this.readCookie("visits"), 10), newValue = 1, newValue = isNaN(existingValue) ? 1 : existingValue + 1, this.writeCookie("visits", newValue)
+    }
+    visits() {
+        return this.readCookie("visits")
+    }
+    setCurrentSession() {
+        this.readCookie("current_session") || (this.createCookie("current_session", "true", this._sessionLength / 24, null, this._domain), this.incrementVisitCount())
+    }
+    cleanUrl() {
+        var cleanSearch;
+        return cleanSearch = window.location.search.replace(/utm_[^&]+&?/g, "").replace(/&$/, "").replace(/^\?$/, ""), window.location.origin + window.location.pathname + cleanSearch + window.location.hash
+    }
+}, UtmForm = class {
+    constructor(options = {}) {
+        this._utmParamsMap = {}, this._utmParamsMap.utm_source = options.utm_source_field || "USOURCE", this._utmParamsMap.utm_medium = options.utm_medium_field || "UMEDIUM", this._utmParamsMap.utm_campaign = options.utm_campaign_field || "UCAMPAIGN", this._utmParamsMap.utm_content = options.utm_content_field || "UCONTENT", this._utmParamsMap.utm_term = options.utm_term_field || "UTERM", this._additionalParamsMap = options.additional_params_map || {}, this._initialReferrerField = options.initial_referrer_field || "IREFERRER", this._lastReferrerField = options.last_referrer_field || "LREFERRER", this._initialLandingPageField = options.initial_landing_page_field || "ILANDPAGE", this._visitsField = options.visits_field || "VISITS", this._addToForm = options.add_to_form || "all", this._formQuerySelector = options.form_query_selector || "form", this._decodeURIs = options.decode_uris || !1, this.utmCookie = new UtmCookie({
+            domain: options.domain,
+            sessionLength: options.sessionLength,
+            cookieExpiryDays: options.cookieExpiryDays,
+            additionalParams: Object.getOwnPropertyNames(this._additionalParamsMap)
+        }), this.addAllFields()
+    }
+    addAllFields() {
+        var allForms, i, len;
+        for (allForms = document.querySelectorAll(this._formQuerySelector), len = "none" === this._addToForm ? 0 : "first" === this._addToForm ? Math.min(1, allForms.length) : allForms.length, i = 0; i < len;) this.addAllFieldsToForm(allForms[i]), i++
+    }
+    addAllFieldsToForm(form) {
+        var fieldName, param, ref, ref1;
+        if (form && !form._utm_tagged) {
+            for (param in form._utm_tagged = !0, ref = this._utmParamsMap) fieldName = ref[param], this.addFormElem(form, fieldName, this.utmCookie.readCookie(param));
+            for (param in ref1 = this._additionalParamsMap) fieldName = ref1[param], this.addFormElem(form, fieldName, this.utmCookie.readCookie(param));
+            this.addFormElem(form, this._initialReferrerField, this.utmCookie.initialReferrer()), this.addFormElem(form, this._lastReferrerField, this.utmCookie.lastReferrer()), this.addFormElem(form, this._initialLandingPageField, this.utmCookie.initialLandingPageUrl()), this.addFormElem(form, this._visitsField, this.utmCookie.visits())
+        }
+    }
+    addFormElem(form, fieldName, fieldValue) {
+        this.insertAfter(this.getFieldEl(fieldName, fieldValue), form.lastChild)
+    }
+    getFieldEl(fieldName, fieldValue) {
+        var fieldEl;
+        return (fieldEl = document.createElement("input")).type = "hidden", fieldEl.name = fieldName, fieldEl.value = this._decodeURIs ? decodeURIComponent(fieldValue) : fieldValue, fieldEl
+    }
+    insertAfter(newNode, referenceNode) {
+        return referenceNode.parentNode.insertBefore(newNode, referenceNode.nextSibling)
+    }
+}, _uf = window._uf || {}, window.UtmForm = new UtmForm(_uf);
+  
+</script>
+<!-- End UTM Passthrough Javascript --></body></html>
+
+
+

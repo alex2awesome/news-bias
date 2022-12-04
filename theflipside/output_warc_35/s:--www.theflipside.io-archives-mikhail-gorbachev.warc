@@ -1,0 +1,219 @@
+WARC/1.0
+WARC-Type: response
+WARC-Date: 2022-10-07T18:51:04Z
+WARC-Record-ID: <urn:uuid:a2b59ebc-7033-4bf1-9526-f4d7bfbfbf48>
+Content-Length: 34312
+Content-Type: application/http; msgtype=response
+WARC-Warcinfo-ID: <urn:uuid:559a6269-f468-4f14-827e-0ed629809190>
+WARC-Concurrent-To: <urn:uuid:29fe3a5d-edef-418f-b1d5-8ad26c6d5dab>
+WARC-IP-Address: 44.207.78.112
+WARC-Target-URI: https://www.theflipside.io/archives/mikhail-gorbachev
+WARC-Payload-Digest: sha1:YCOLNURG46P3QOVRPB73YBOTCS4TDFRL
+WARC-Block-Digest: sha1:HZGI42OTNQFFQHBWL26QP2JOHZ6EA7NQ
+WARC-Identified-Payload-Type: text/html
+
+HTTP/1.1 200 OK
+Server: openresty
+Date: Fri, 07 Oct 2022 18:51:04 GMT
+Content-Type: text/html
+X-Crawler-Content-Length: 12011
+Content-Length: 33723
+Connection: keep-alive
+X-Crawler-Content-Encoding: gzip
+Content-Security-Policy: frame-ancestors 'self'
+X-Frame-Options: SAMEORIGIN
+X-Lambda-Id: 0328b5fe-8c11-4172-9d13-0c47d7d5ccd1
+Accept-Ranges: bytes
+Via: 1.1 varnish
+Age: 6881
+X-Served-By: cache-iad-kcgs7200054-IAD
+X-Cache: HIT
+X-Cache-Hits: 1
+X-Timer: S1665168665.889565,VS0,VE8
+Vary: x-wf-forwarded-proto, Accept-Encoding
+X-Cluster-Name: us-east-1-prod-edge-blue
+
+<!DOCTYPE html><!-- Last Published: Fri Oct 07 2022 16:34:36 GMT+0000 (Coordinated Universal Time) --><html data-wf-domain="www.theflipside.io" data-wf-page="633bcbad1d5c5e214041c073" data-wf-site="633bcbad1d5c5e339141c061" lang="en"><head><meta charset="utf-8"/><title>Mikhail Gorbachev | The Flip Side</title><meta content="Mikhail Gorbachev" name="description"/><meta content="Mikhail Gorbachev | The Flip Side" property="og:title"/><meta content="Get the most intelligent quotes from both sides—in a free, 5-minute email a day." property="og:description"/><meta content="https://global-uploads.webflow.com/633bcbad1d5c5e4ee641c065/633bcbad1d5c5e4e9041c293_bears%20working%20together.png" property="og:image"/><meta content="Mikhail Gorbachev | The Flip Side" property="twitter:title"/><meta content="Get the most intelligent quotes from both sides—in a free, 5-minute email a day." property="twitter:description"/><meta content="https://global-uploads.webflow.com/633bcbad1d5c5e4ee641c065/633bcbad1d5c5e4e9041c293_bears%20working%20together.png" property="twitter:image"/><meta property="og:type" content="website"/><meta content="summary_large_image" name="twitter:card"/><meta content="width=device-width, initial-scale=1" name="viewport"/><link href="https://global-uploads.webflow.com/633bcbad1d5c5e339141c061/css/the-flipside.webflow.4551ed993.min.css" rel="stylesheet" type="text/css"/><script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript"></script><script type="text/javascript">WebFont.load({  google: {    families: ["Lato:100,100italic,300,300italic,400,400italic,700,700italic,900,900italic"]  }});</script><script src="https://use.typekit.net/ief5vbu.js" type="text/javascript"></script><script type="text/javascript">try{Typekit.load();}catch(e){}</script><!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js" type="text/javascript"></script><![endif]--><script type="text/javascript">!function(o,c){var n=c.documentElement,t=" w-mod-";n.className+=t+"js",("ontouchstart"in o||o.DocumentTouch&&c instanceof DocumentTouch)&&(n.className+=t+"touch")}(window,document);</script><link href="https://global-uploads.webflow.com/633bcbad1d5c5e339141c061/633bcbad1d5c5e068241c0c6_favicon-32x32.png" rel="shortcut icon" type="image/x-icon"/><link href="https://global-uploads.webflow.com/633bcbad1d5c5e339141c061/633bcbad1d5c5e1be441c0ec_webclip256.png" rel="apple-touch-icon"/><link href="rss.xml" rel="alternate" title="RSS Feed" type="application/rss+xml"/><script type="text/javascript">!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.agent='plwebflow';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');fbq('init', '420932135099202');fbq('track', 'PageView');</script><!-- Async Anti-Flicker Code -->
+
+<style>.async-hide { opacity: 0 !important} </style>
+<script>(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+(a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+})(window,document.documentElement,'async-hide','dataLayer',4000,
+{'GTM-58K3PC7':true});</script>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-58K3PC7');</script>
+<!-- End Google Tag Manager -->
+
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<!-- Memberstack --> 
+<script src="https://api.memberstack.io/static/memberstack.js?webflow" data-memberstack-id="dd4b66b62c37ef91c54289827c1f3114"> </script>
+<meta name="facebook-domain-verification" content="iwu96sl48x7iyi5jym4ncc45zdaz8e" /><style>
+@media (max-width: 479px) {
+  .paragraph-div a {
+  	  font-size: 17px;
+    	line-height: 24px; }
+      
+  .on-the-bright-side a {
+  	  font-size: 17px;
+    	line-height: 24px; }
+}
+@media (max-width: 767px) {
+	.div-block-38 a {
+  	  font-size: 17px; 
+    	line-height: 24px; 
+}	
+  .paragraph-div a {
+  	  font-size: 17px;
+    	line-height: 26px; }
+      
+.on-the-bright-side a {
+  	  font-size: 17px;
+    	line-height: 26px; }
+}
+.w-nav-overlay {
+    z-index: 1002 !important;
+}
+</style></head><body class="body"><div data-collapse="medium" data-animation="over-right" data-duration="400" data-easing="ease" data-easing2="ease" data-no-scroll="1" role="banner" class="navbar w-nav"><nav role="navigation" class="nav-menu w-nav-menu"><div class="nav-open-menu-links"><a href="/latest-issue" class="nav-open-menu-item mobile latest-issue w-nav-link">Latest Issue</a><a href="/archives" class="nav-open-menu-item mobile w-nav-link">Archives</a><a href="/about-us" class="nav-open-menu-item mobile w-nav-link">About Us</a><a href="/faq" class="nav-open-menu-item mobile faq w-nav-link">FAQ</a></div><div class="nav-menu-newsletter"><div class="form-block mobile w-form"><form id="email-form" name="email-form" data-name="Email Form" redirect="/one-more-thing" data-redirect="/one-more-thing" action="https://theflipside.us15.list-manage.com/subscribe/post?u=281c839c990f42b374467ae5f&amp;amp;id=7566a2ca43&quot; method=&quot;post&quot; id=&quot;mc-embedded-subscribe-form&quot; name=&quot;mc-embedded-subscribe-form" method="post" class="form mobile"><div class="text-block">GET TROLL-FREE POLITICAL NEWS</div><input type="email" class="text-field mobile w-input" maxlength="256" name="email-2" data-name="Email 2" placeholder="your email address" id="email-2" required=""/><input type="submit" value="I want to keep up with both sides &gt;" data-wait="Please wait..." class="submit-button mobile w-button"/><div class="text-block-2">We never spam and only send awesome news digests. Unsubscribe any time.</div></form><div class="w-form-done"><div>Thank you! Your submission has been received!</div></div><div class="w-form-fail"><div>Oops! Something went wrong while submitting the form.</div></div></div></div></nav><div data-w-id="83b1dd7a-785a-0585-a0c0-e44f2b23d2b5" class="nav-bar navbarother"><a href="/home-2-0" class="nav-logo w-nav-brand"><img src="https://global-uploads.webflow.com/633bcbad1d5c5e339141c061/633bcbad1d5c5e9fed41c096_TFS%20Logo-n.png" alt="Logo" width="125" class="image-22 logo"/></a><div class="div-right header w-hidden-medium w-hidden-small w-hidden-tiny"><div class="nav-menu-links flex"><a href="/latest-issue" class="nav-link small w-nav-link">LATEST ISSUE</a><a href="/archives" class="nav-link small w-nav-link">ARCHIVES</a><a href="/about-us" class="nav-link small w-nav-link">ABOUT US</a><a href="/faq" class="nav-link small faq w-nav-link">FAQ</a></div></div><div class="div-right header w-hidden-medium w-hidden-small w-hidden-tiny"><div class="header-form w-form"><form id="email-form-2" name="email-form-2" data-name="Email Form 2" method="post" action="https://theflipside.us15.list-manage.com/subscribe/post?u=281c839c990f42b374467ae5f&amp;amp;id=7566a2ca43&quot; method=&quot;post&quot; id=&quot;mc-embedded-subscribe-form&quot; name=&quot;mc-embedded-subscribe-form" redirect="/one-more-thing" data-redirect="/one-more-thing" class="form-3"><input type="email" class="email-address-field-grey header w-input" maxlength="256" name="hero-optin-2" data-name="Hero Optin 2" placeholder="your email address" id="hero-optin-2" required=""/><div class="w-embed"><input type="hidden" name="MMERGE1" value="desk-menu"/></div><input type="submit" value="Subscribe &gt;" data-wait="Please wait..." id="https-theflipside.us15.list-manage.com-subscribe-post-u-281c839c990f42b374467ae5f-id-a0c19d8bf4" class="submit-button hero header w-button"/></form><div class="w-form-done"><div>Thank you! Your submission has been received!</div></div><div class="w-form-fail"><div>Oops! Something went wrong while submitting the form.</div></div></div></div></div><div class="menu-button-nav w-nav-button" data-ix="hamburger-button"><div class="top-line"></div><div class="middle-line"></div><div class="bottom-line"></div></div></div><div class="section-3 wf-section"><div><h1 class="heading-16">September 1, 2022</h1><h1 class="heading-17">Mikhail Gorbachev</h1><div class="container-8 w-container"><div class="rich-text-block-4 w-dyn-bind-empty w-richtext"></div><img src="" alt="" class="image-48 w-dyn-bind-empty"/><div class="paragraph-div"><div class="rich-text-block-2 w-richtext"><p>“Mikhail Gorbachev, who set out to revitalize the Soviet Union but ended up <a href="https://apnews.com/article/russia-ukraine-mikhail-gorbachev-obituaries-5cb7a604243668f08dfaed953c09559e">unleashing forces that led to the collapse of communism</a>, the breakup of the state and the end of the Cold War, died Tuesday. The last Soviet leader was 91.” <strong>AP News</strong><br/><br/><strong><em>Both sides are divided about Gorbachev’s legacy. </em></strong><br/><br/><strong><em>Those praising him argue:</em></strong><br/><br/>“When he entered office in 1985, Gorbachev had almost unlimited power. He could have presided indefinitely over the status quo. Instead, he destroyed what remained of Soviet totalitarianism; brought freedoms of speech, assembly and conscience to people who had never known them; and introduced free elections and genuine parliamentary institutions. More than anyone else, it was he who <a href="https://www.wsj.com/amp/articles/the-man-who-almost-made-russia-democratic-mikhail-gorbachev-free-speech-elections-cold-war-soviet-empire-leader-11661896483">ended the Cold War and reduced the danger of a nuclear holocaust</a>. He acquiesced in the dismemberment of the Soviet empire without the violence that accompanied the collapse of most other empires… <br/><br/>“Gorbachev leaves an uncertain legacy. Russia has abandoned his path and reverted to its traditional authoritarian, anti-Western norm. The old Cold War has given way to a new one, and a hot one in Ukraine… One day Russia may resume its tramp toward democracy, and the world may find its way beyond cold war. If and when that happens, Gorbachev will deserve to be hailed as the leader who was present at the creation.”<br/><strong>William Taubman, Wall Street Journal</strong><br/><br/>“Responding to later Russian criticism that he had given up the countries of the Soviet bloc without a fight, his response was, ‘To whom did we surrender them? To their own people.’… Anyone who thinks that Soviet leaders had no option but to accept the end of their hegemony in East-Central Europe and then the interconnected dissolution of the Soviet Union (East European countries gaining their independence raised the expectations of the most disaffected nations within the Soviet Union itself) need look no further than Ukraine in 2022. The brutal war being waged there is a reminder that the militarily stronger Soviet Union did have the option of preserving their statehood by force. It is confirmation that <a href="https://time.com/6209992/mikhail-gorbachev-end-cold-war/">the values of political leaders—a Gorbachev or a Putin—still matter</a>.”<br/><strong>Archie Brown, Time</strong><br/><br/>“Mr. Gorbachev often miscalculated, including a failure to foresee how his rapid opening would undermine faith in the Communist system and intensify the ambitions of even more radical reformers — as well as fire up the nationalities that yearned for independence.<a href="https://www.washingtonpost.com/opinions/2022/08/30/we-cant-go-living-like-this-gorbachev-lost-his-country-changed-world/"> But his legacy was to make the world safer</a>. He helped brake the speeding locomotive of the arms race and allowed a peaceful revolution to unfold in Europe. For these and other accomplishments, he deserved and won the Nobel Peace Prize. He also deserves thanks for being the wide-eyed village boy who paid attention to all he saw around him — and acted upon it.”<br/><strong>Editorial Board, Washington Post</strong><br/><br/>“Because Gorbachev took power when he did, an untold number of lives were saved from destruction, and <a href="https://www.washingtonexaminer.com/opinion/one-and-three-quarters-cheers-for-the-late-mikhail-gorbachev">hundreds of millions lived in a freedom</a> they would not have otherwise enjoyed. That’s quite a legacy for a geopolitical loser devoted to a rotten ideology. Gorbachev’s life teaches us that humanity can trump ideology if, under pressure, we make the right choice.”<br/><strong>Quin Hillyer, Washington Examiner</strong><br/><br/><strong><em>Critics of Gorbachev argue:</em></strong><br/><br/>“Gorbachev’s entire record atop the Soviet hierarchy was that of a flailing, clueless loser, always one step behind the times. He started out as Communist Party leader in 1985 with a campaign to eradicate drunkenness, which created endless lines for vodka and ruined winemaking in Moldova for decades to come because vines were mowed down. Russians only drank more and more as the Soviet economy collapsed. [He] launched an economic ‘acceleration’ drive that sank like a lead balloon… Shortages were atrocious. I remember a year without toilet paper in Moscow, the capital… <br/><br/>“Amid the economic mismanagement, the Chernobyl nuclear power plant blew up in 1986; and Gorbachev, the originator of <em>glasnost</em> — that is, his policy of ‘openness’ —  waited 18 days to address the nation about it, allowing hundreds of thousands of people to be exposed to the fallout… When people in the former Soviet republics began rebelling and demanding independence, he — to put it generously — did little to prevent bloody crackdowns… In 2015, he defended the annexation of Crimea. <a href="https://www.bloomberg.com/opinion/articles/2022-08-31/mikhail-gorbachev-s-failures-contribute-to-putin-s-resurgent-imperialist-russia">He remained confused about the meaning of his own legacy</a>.”<br/><strong>Leonid Bershidsky, Bloomberg</strong><br/><br/>“Many tributes to Gorbachev have credited him with presiding over the ‘bloodless’ dissolution of the Soviet Union—forgetting that blood was and, in some cases, continues to be shed in conflicts in Armenia, Azerbaijan, Moldova, Tajikistan, and elsewhere… In the end, he was the most un-Soviet of all Soviet leaders, but he remained the flesh and blood of the Soviet system. <a href="https://www.newyorker.com/news/postscript/mikhail-gorbachev-the-fundamentally-soviet-man">He was limited by his imagination</a>, not the beliefs and institutions of his youth, which had crumbled quickly. But, even as Russia waged an aggressive colonial war, Gorbachev seemed unable to imagine what his country could be, if it wasn’t an empire.”<br/><strong>Masha Gessen, New Yorker</strong><br/><br/>“[Gorbachev] wanted to keep the Soviet Union intact; he just wanted to modernize it. He was more akin to Deng Xiaoping or China’s current ruler, Xi Jinping, than Walesa or Vaclav Havel or Natan Sharansky (whom Gorbachev considered a filthy traitor). The key difference between Gorbachev and his Chinese analogues isn’t that he loved democracy and freedom more, but that he wasn’t as capable as them… <br/><br/>“Saying that Gorbachev liberated Eastern Europe is like saying an incompetent warden liberated his prisoners when he failed in his effort to spruce up the prison. We can acknowledge that the warden’s efforts were laudable given the context and we can even credit his refusal to murder the escapees in an effort to cover up his mess. But <a href="https://gfile.thedispatch.com/p/grading-gorby-on-a-curve">refusing to commit mass murder</a> deserves an A+ only when the rest of the classroom is full of mass murderers.”<br/><strong>Jonah Goldberg, The Dispatch</strong><br/><br/>“It was Hungarian Prime Minister <a href="https://thefederalist.com/2022/08/31/the-real-hero-of-the-soviet-fall-wasnt-gorbachev/">Miklos Nemeth who deserved to win the Nobel</a> Peace Prize and whose actions in 1989 hastened the end of the Iron Curtain and Berlin Wall. In March of 1989, Nemeth informed Gorbachev — not the other way around — that the small nation was going to ‘remove completely the electronic and technological protection from the Western and Southern borders of Hungary.’ A few months later, East German tourists began testing the Hungarian border and succeeded in escaping to the West. By August of 1989, the Hungarians had opened the Austria frontier, allowing 13,000 East Germans [to] join the West. Tens of thousands would follow… <br/><br/>“On September 11, 1989, the Associated Press reported that, ‘thousands of East Germans, crying, laughing and shouting with happiness, poured into Austria from Hungary early today en route to freedom in West Germany…’ (I was lucky enough to be in both Austria and Hungary that summer, watching hundreds of rickety Trabants streaming west.) This was the largest breach of the Iron Curtain since [the] Soviets had crushed Hungarian hopes for freedom in 1956. In 11 weeks, the Berlin Wall would fall. And, by his own admission, none of it would have happened if Gorbachev had his way.”<br/><strong>David Harsanyi, The Federalist</strong></p></div><a href="/archives" class="link-6">See past issues</a></div></div><img src="https://global-uploads.webflow.com/633bcbad1d5c5e339141c061/633bcbad1d5c5e4a0a41c0ad_bear-badge.png" width="114" alt="" class="image archives"/><div class="columns w-row"><div class="blue-divider w-col w-col-6 w-col-small-6 w-col-tiny-6"><div class="div-block-2"></div></div><div class="red-divider w-col w-col-6 w-col-small-6 w-col-tiny-6"><div class="div-block-3"></div></div></div><div class="div-block-38"><div class="columns-15 w-row"><div class="column-60 w-clearfix w-col w-col-6 w-col-small-6 w-col-tiny-tiny-stack"><h1 class="from-the-left-heading w-dyn-bind-empty"></h1><h1 class="from-the-left-heading sponsored w-dyn-bind-empty"></h1><div class="paragraph-6 left intro w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 left bullet first w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 left bullet first sponsored w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 left bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 left bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 left bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 left bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 left bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 left bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 left bullet w-dyn-bind-empty w-richtext"></div></div><div class="column-61 w-clearfix w-col w-col-6 w-col-small-6 w-col-tiny-tiny-stack"><h1 class="from-the-right-heading w-dyn-bind-empty"></h1><h1 class="from-the-right-heading sponsored w-dyn-bind-empty"></h1><div class="paragraph-6 right intro w-hidden-tiny w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 right intro w-hidden-main w-hidden-medium w-hidden-small w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 right bullet first w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 right bullet first sponsored w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 right bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 right bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 right bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 right bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 right bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 right bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 right bullet w-dyn-bind-empty w-richtext"></div></div></div><div class="w-row"><div class="column-60 w-col w-col-6 w-col-small-6 w-col-tiny-tiny-stack"></div><div class="column-61 w-col w-col-6 w-col-small-6 w-col-tiny-tiny-stack"></div></div><div class="w-layout-grid grid-7 w-clearfix"><div id="w-node-c982ddb1-5ced-6b21-8419-c9ca80732245-4041c073" class="paragraph-6 wide center w-dyn-bind-empty w-richtext"></div><div id="w-node-c982ddb1-5ced-6b21-8419-c9ca80732246-4041c073" class="paragraph-6 wide libertarian w-dyn-bind-empty w-richtext"></div></div></div><div class="additional-closing w-dyn-bind-empty w-richtext"></div><div style="border-color:#453158" class="on-the-bright-side"><h4 class="heading-18">On the bright side...</h4><div class="rich-text-block-3 w-richtext"><p><a href="https://www.thedodo.com/daily-dodo/professional-good-girl-becomes-home-depots-pawssociate-of-the-month" target="_blank">Professional Good Girl Becomes Home Depot&#x27;s &#x27;Pawssociate Of The Month&#x27;</a>.<br/><strong>The Dodo</strong></p></div></div></div></div><div class="trollcta archive w-row"><div class="w-col w-col-6 w-col-stack"><div class="div-block-26 archive"><img src="https://global-uploads.webflow.com/633bcbad1d5c5e339141c061/633bcbad1d5c5ee21241c092_bear-0.png" alt="" class="bearhead archive"/><h2 class="heading-cta archive">Get troll-free political news.</h2></div></div><div class="w-col w-col-6 w-col-stack"><div class="w-clearfix w-form"><form id="email-form-2" name="email-form-2" data-name="Email Form 2" method="get" class="newsletter-form-fields faq"><input type="email" class="email-address-field-grey hero faq archive w-input" maxlength="256" name="hero-optin-2" data-name="Hero Optin 2" placeholder="your email address" id="hero-optin-2" required=""/><input type="submit" value="I want the best points from both sides        &gt;" data-wait="Please wait..." class="submit-button hero home faq archive w-button"/></form><div class="w-form-done"><div>Thank you! Your submission has been received!</div></div><div class="w-form-fail"><div>Oops! Something went wrong while submitting the form.</div></div></div></div></div><footer class="footer wf-section"><div class="columns-6 top-footer w-row"><div class="column-11 w-col w-col-4"><img src="https://global-uploads.webflow.com/633bcbad1d5c5e339141c061/633bcbad1d5c5ed9c641c107_TFS%20-%20logo.svg" width="125" alt="Logo of The Flip Side" class="image-22 logo"/></div><div class="column-12 top-footer w-col w-col-4"><a id="w-node-f2f82e10-1a31-eb5f-ca00-8ef170fc7709-70fc7704" href="/latest-issue" class="footer-link w-inline-block"><div>LATEST ISSUE</div></a><a id="w-node-f2f82e10-1a31-eb5f-ca00-8ef170fc770c-70fc7704" href="/archives" class="footer-link w-inline-block"><div>ARCHIVES</div></a><a id="w-node-f2f82e10-1a31-eb5f-ca00-8ef170fc770f-70fc7704" href="/about-us" class="footer-link w-inline-block"><div>ABOUT US</div></a><a id="w-node-f2f82e10-1a31-eb5f-ca00-8ef170fc7715-70fc7704" href="/media" class="footer-link w-inline-block"><div>MEDIA</div></a><a id="w-node-f2f82e10-1a31-eb5f-ca00-8ef170fc7712-70fc7704" href="/supporters" class="footer-link w-inline-block"><div>SUPPORTERS</div></a><a id="w-node-_87649ec8-d9e2-88e8-e2f7-a3c8f39c81e0-70fc7704" href="/faq" class="footer-link w-inline-block"><div>FAQ</div></a></div><div class="column-13 top-footer w-col w-col-4"><a href="https://www.facebook.com/KnowTheFlipSide/" class="link-block w-inline-block"><img src="https://global-uploads.webflow.com/633bcbad1d5c5e339141c061/633bcbad1d5c5efd2c41c211_facebook.svg" width="30" height="30" alt="Facebook"/></a><a href="http://twitter.com/knowtheflipside" class="link-block-2 w-inline-block"><img src="https://global-uploads.webflow.com/633bcbad1d5c5e339141c061/633bcbad1d5c5ef74741c212_twitter.svg" width="30" height="30" alt="Twitter"/></a><a href="mailto:editor@theflipside.io?subject=%5BFlipSide%20Website%20Inquiry%5D" class="w-inline-block"><img src="https://global-uploads.webflow.com/633bcbad1d5c5e339141c061/633bcbad1d5c5e6ec341c210_email.svg" width="30" height="30" alt="Email"/></a></div></div><div class="columns-6 bottom-footer w-row"><div class="column-11 bottom-footer w-col w-col-3"><div class="text-block-15">COPYRIGHT © 2022</div></div><div class="column-12 bottom-footer w-col w-col-5"></div><div class="column-13 bottom-footer w-col w-col-4"><a href="/terms" class="link-block-2 terms w-inline-block"><div class="text-block-31">PRIVACY POLICY</div></a><div class="link-block-2 terms divider">|</div><a href="https://www.functionlabs.com" class="link-block-2 terms function w-inline-block"><div class="text-block-32">WEBSITE BY FUNCTION LABS</div></a></div></div></footer><script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=633bcbad1d5c5e339141c061" type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script><script src="https://global-uploads.webflow.com/633bcbad1d5c5e339141c061/js/webflow.9d80ca628.js" type="text/javascript"></script><!--[if lte IE 9]><script src="//cdnjs.cloudflare.com/ajax/libs/placeholders/3.0.2/placeholders.min.js"></script><![endif]--><!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-58K3PC7"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<!-- UTM Passthrough Javascript -->
+
+<script type="text/javascript" charset="utf-8">
+var UtmCookie, UtmForm, _uf;
+UtmCookie = class {
+    constructor(options = {}) {
+        this._cookieNamePrefix = "_uc_", this._domain = options.domain, this._sessionLength = options.sessionLength || 1, this._cookieExpiryDays = options.cookieExpiryDays || 365, this._additionalParams = options.additionalParams || [], this._utmParams = ["utm_source", "utm_medium", "utm_campaign", "utm_term", "utm_content"], this.writeInitialReferrer(), this.writeLastReferrer(), this.writeInitialLandingPageUrl(), this.setCurrentSession(), this.additionalParamsPresentInUrl() && this.writeAdditionalParams(), this.utmPresentInUrl() && this.writeUtmCookieFromParams()
+    }
+    createCookie(name, value, days, path, domain, secure) {
+        var cookieDomain, cookieExpire, cookiePath, cookieSecure, date, expireDate;
+        expireDate = null, days && ((date = new Date).setTime(date.getTime() + 24 * days * 60 * 60 * 1e3), expireDate = date), cookieExpire = null != expireDate ? "; expires=" + expireDate.toGMTString() : "", cookiePath = null != path ? "; path=" + path : "; path=/", cookieDomain = null != domain ? "; domain=" + domain : "", cookieSecure = null != secure ? "; secure" : "", document.cookie = this._cookieNamePrefix + name + "=" + escape(value) + cookieExpire + cookiePath + cookieDomain + cookieSecure
+    }
+    readCookie(name) {
+        var c, ca, i, nameEQ;
+        for (nameEQ = this._cookieNamePrefix + name + "=", ca = document.cookie.split(";"), i = 0; i < ca.length;) {
+            for (c = ca[i];
+                " " === c.charAt(0);) c = c.substring(1, c.length);
+            if (0 === c.indexOf(nameEQ)) return c.substring(nameEQ.length, c.length);
+            i++
+        }
+        return null
+    }
+    eraseCookie(name) {
+        this.createCookie(name, "", -1, null, this._domain)
+    }
+    getParameterByName(name) {
+        var results;
+        return name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]"), (results = new RegExp("[\\?&]" + name + "=([^&#]*)").exec(window.location.search)) ? decodeURIComponent(results[1].replace(/\+/g, " ")) : ""
+    }
+    additionalParamsPresentInUrl() {
+        var j, len, param, ref;
+        for (j = 0, len = (ref = this._additionalParams).length; j < len; j++)
+            if (param = ref[j], this.getParameterByName(param)) return !0;
+        return !1
+    }
+    utmPresentInUrl() {
+        var j, len, param, ref;
+        for (j = 0, len = (ref = this._utmParams).length; j < len; j++)
+            if (param = ref[j], this.getParameterByName(param)) return !0;
+        return !1
+    }
+    writeCookie(name, value) {
+        this.createCookie(name, value, this._cookieExpiryDays, null, this._domain)
+    }
+    writeAdditionalParams() {
+        var j, len, param, ref, value;
+        for (j = 0, len = (ref = this._additionalParams).length; j < len; j++) param = ref[j], value = this.getParameterByName(param), this.writeCookie(param, value)
+    }
+    writeUtmCookieFromParams() {
+        var j, len, param, ref, value;
+        for (j = 0, len = (ref = this._utmParams).length; j < len; j++) param = ref[j], value = this.getParameterByName(param), this.writeCookie(param, value)
+    }
+    writeCookieOnce(name, value) {
+        this.readCookie(name) || this.writeCookie(name, value)
+    }
+    _sameDomainReferrer(referrer) {
+        var hostname;
+        return hostname = document.location.hostname, referrer.indexOf(this._domain) > -1 || referrer.indexOf(hostname) > -1
+    }
+    _isInvalidReferrer(referrer) {
+        return "" === referrer || void 0 === referrer
+    }
+    writeInitialReferrer() {
+        var value;
+        value = document.referrer, this._isInvalidReferrer(value) && (value = "direct"), this.writeCookieOnce("referrer", value)
+    }
+    writeLastReferrer() {
+        var value;
+        value = document.referrer, this._sameDomainReferrer(value) || (this._isInvalidReferrer(value) && (value = "direct"), this.writeCookie("last_referrer", value))
+    }
+    writeInitialLandingPageUrl() {
+        var value;
+        (value = this.cleanUrl()) && this.writeCookieOnce("initial_landing_page", value)
+    }
+    initialReferrer() {
+        return this.readCookie("referrer")
+    }
+    lastReferrer() {
+        return this.readCookie("last_referrer")
+    }
+    initialLandingPageUrl() {
+        return this.readCookie("initial_landing_page")
+    }
+    incrementVisitCount() {
+        var existingValue, newValue;
+        existingValue = parseInt(this.readCookie("visits"), 10), newValue = 1, newValue = isNaN(existingValue) ? 1 : existingValue + 1, this.writeCookie("visits", newValue)
+    }
+    visits() {
+        return this.readCookie("visits")
+    }
+    setCurrentSession() {
+        this.readCookie("current_session") || (this.createCookie("current_session", "true", this._sessionLength / 24, null, this._domain), this.incrementVisitCount())
+    }
+    cleanUrl() {
+        var cleanSearch;
+        return cleanSearch = window.location.search.replace(/utm_[^&]+&?/g, "").replace(/&$/, "").replace(/^\?$/, ""), window.location.origin + window.location.pathname + cleanSearch + window.location.hash
+    }
+}, UtmForm = class {
+    constructor(options = {}) {
+        this._utmParamsMap = {}, this._utmParamsMap.utm_source = options.utm_source_field || "USOURCE", this._utmParamsMap.utm_medium = options.utm_medium_field || "UMEDIUM", this._utmParamsMap.utm_campaign = options.utm_campaign_field || "UCAMPAIGN", this._utmParamsMap.utm_content = options.utm_content_field || "UCONTENT", this._utmParamsMap.utm_term = options.utm_term_field || "UTERM", this._additionalParamsMap = options.additional_params_map || {}, this._initialReferrerField = options.initial_referrer_field || "IREFERRER", this._lastReferrerField = options.last_referrer_field || "LREFERRER", this._initialLandingPageField = options.initial_landing_page_field || "ILANDPAGE", this._visitsField = options.visits_field || "VISITS", this._addToForm = options.add_to_form || "all", this._formQuerySelector = options.form_query_selector || "form", this._decodeURIs = options.decode_uris || !1, this.utmCookie = new UtmCookie({
+            domain: options.domain,
+            sessionLength: options.sessionLength,
+            cookieExpiryDays: options.cookieExpiryDays,
+            additionalParams: Object.getOwnPropertyNames(this._additionalParamsMap)
+        }), this.addAllFields()
+    }
+    addAllFields() {
+        var allForms, i, len;
+        for (allForms = document.querySelectorAll(this._formQuerySelector), len = "none" === this._addToForm ? 0 : "first" === this._addToForm ? Math.min(1, allForms.length) : allForms.length, i = 0; i < len;) this.addAllFieldsToForm(allForms[i]), i++
+    }
+    addAllFieldsToForm(form) {
+        var fieldName, param, ref, ref1;
+        if (form && !form._utm_tagged) {
+            for (param in form._utm_tagged = !0, ref = this._utmParamsMap) fieldName = ref[param], this.addFormElem(form, fieldName, this.utmCookie.readCookie(param));
+            for (param in ref1 = this._additionalParamsMap) fieldName = ref1[param], this.addFormElem(form, fieldName, this.utmCookie.readCookie(param));
+            this.addFormElem(form, this._initialReferrerField, this.utmCookie.initialReferrer()), this.addFormElem(form, this._lastReferrerField, this.utmCookie.lastReferrer()), this.addFormElem(form, this._initialLandingPageField, this.utmCookie.initialLandingPageUrl()), this.addFormElem(form, this._visitsField, this.utmCookie.visits())
+        }
+    }
+    addFormElem(form, fieldName, fieldValue) {
+        this.insertAfter(this.getFieldEl(fieldName, fieldValue), form.lastChild)
+    }
+    getFieldEl(fieldName, fieldValue) {
+        var fieldEl;
+        return (fieldEl = document.createElement("input")).type = "hidden", fieldEl.name = fieldName, fieldEl.value = this._decodeURIs ? decodeURIComponent(fieldValue) : fieldValue, fieldEl
+    }
+    insertAfter(newNode, referenceNode) {
+        return referenceNode.parentNode.insertBefore(newNode, referenceNode.nextSibling)
+    }
+}, _uf = window._uf || {}, window.UtmForm = new UtmForm(_uf);
+  
+</script>
+<!-- End UTM Passthrough Javascript --></body></html>
+

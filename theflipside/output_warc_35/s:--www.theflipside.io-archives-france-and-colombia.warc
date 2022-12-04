@@ -1,0 +1,219 @@
+WARC/1.0
+WARC-Type: response
+WARC-Date: 2022-10-07T18:55:38Z
+WARC-Record-ID: <urn:uuid:a9f799ea-79ef-4f04-8ad7-2ea2f87bcc21>
+Content-Length: 34600
+Content-Type: application/http; msgtype=response
+WARC-Warcinfo-ID: <urn:uuid:45b7940d-c906-4cf5-a8bf-073b8ef98a16>
+WARC-Concurrent-To: <urn:uuid:6a4dd115-0422-47aa-911f-d95356c9e57b>
+WARC-IP-Address: 44.207.21.146
+WARC-Target-URI: https://www.theflipside.io/archives/france-and-colombia
+WARC-Payload-Digest: sha1:FNNCZBZUT7EJO74Q4NPSCC4U4KB4XTQ5
+WARC-Block-Digest: sha1:Z4CKL65B6YL5IT2XR2T7P623GNVEQF52
+WARC-Identified-Payload-Type: text/html
+
+HTTP/1.1 200 OK
+Server: openresty
+Date: Fri, 07 Oct 2022 18:55:38 GMT
+Content-Type: text/html
+X-Crawler-Content-Length: 12136
+Content-Length: 34011
+Connection: keep-alive
+X-Crawler-Content-Encoding: gzip
+Content-Security-Policy: frame-ancestors 'self'
+X-Frame-Options: SAMEORIGIN
+X-Lambda-Id: d101b07c-ccc6-44cf-9f51-c508e7b629fa
+Accept-Ranges: bytes
+Via: 1.1 varnish
+Age: 3373
+X-Served-By: cache-iad-kcgs7200078-IAD
+X-Cache: HIT
+X-Cache-Hits: 1
+X-Timer: S1665168939.743390,VS0,VE2
+Vary: x-wf-forwarded-proto, Accept-Encoding
+X-Cluster-Name: us-east-1-prod-edge-blue
+
+<!DOCTYPE html><!-- Last Published: Fri Oct 07 2022 16:34:36 GMT+0000 (Coordinated Universal Time) --><html data-wf-domain="www.theflipside.io" data-wf-page="633bcbad1d5c5e214041c073" data-wf-site="633bcbad1d5c5e339141c061" lang="en"><head><meta charset="utf-8"/><title>France and Colombia | The Flip Side</title><meta content="France and Colombia" name="description"/><meta content="France and Colombia | The Flip Side" property="og:title"/><meta content="Get the most intelligent quotes from both sides—in a free, 5-minute email a day." property="og:description"/><meta content="https://global-uploads.webflow.com/633bcbad1d5c5e4ee641c065/633bcbad1d5c5e4e9041c293_bears%20working%20together.png" property="og:image"/><meta content="France and Colombia | The Flip Side" property="twitter:title"/><meta content="Get the most intelligent quotes from both sides—in a free, 5-minute email a day." property="twitter:description"/><meta content="https://global-uploads.webflow.com/633bcbad1d5c5e4ee641c065/633bcbad1d5c5e4e9041c293_bears%20working%20together.png" property="twitter:image"/><meta property="og:type" content="website"/><meta content="summary_large_image" name="twitter:card"/><meta content="width=device-width, initial-scale=1" name="viewport"/><link href="https://global-uploads.webflow.com/633bcbad1d5c5e339141c061/css/the-flipside.webflow.4551ed993.min.css" rel="stylesheet" type="text/css"/><script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript"></script><script type="text/javascript">WebFont.load({  google: {    families: ["Lato:100,100italic,300,300italic,400,400italic,700,700italic,900,900italic"]  }});</script><script src="https://use.typekit.net/ief5vbu.js" type="text/javascript"></script><script type="text/javascript">try{Typekit.load();}catch(e){}</script><!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js" type="text/javascript"></script><![endif]--><script type="text/javascript">!function(o,c){var n=c.documentElement,t=" w-mod-";n.className+=t+"js",("ontouchstart"in o||o.DocumentTouch&&c instanceof DocumentTouch)&&(n.className+=t+"touch")}(window,document);</script><link href="https://global-uploads.webflow.com/633bcbad1d5c5e339141c061/633bcbad1d5c5e068241c0c6_favicon-32x32.png" rel="shortcut icon" type="image/x-icon"/><link href="https://global-uploads.webflow.com/633bcbad1d5c5e339141c061/633bcbad1d5c5e1be441c0ec_webclip256.png" rel="apple-touch-icon"/><link href="rss.xml" rel="alternate" title="RSS Feed" type="application/rss+xml"/><script type="text/javascript">!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.agent='plwebflow';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');fbq('init', '420932135099202');fbq('track', 'PageView');</script><!-- Async Anti-Flicker Code -->
+
+<style>.async-hide { opacity: 0 !important} </style>
+<script>(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+(a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+})(window,document.documentElement,'async-hide','dataLayer',4000,
+{'GTM-58K3PC7':true});</script>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-58K3PC7');</script>
+<!-- End Google Tag Manager -->
+
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<!-- Memberstack --> 
+<script src="https://api.memberstack.io/static/memberstack.js?webflow" data-memberstack-id="dd4b66b62c37ef91c54289827c1f3114"> </script>
+<meta name="facebook-domain-verification" content="iwu96sl48x7iyi5jym4ncc45zdaz8e" /><style>
+@media (max-width: 479px) {
+  .paragraph-div a {
+  	  font-size: 17px;
+    	line-height: 24px; }
+      
+  .on-the-bright-side a {
+  	  font-size: 17px;
+    	line-height: 24px; }
+}
+@media (max-width: 767px) {
+	.div-block-38 a {
+  	  font-size: 17px; 
+    	line-height: 24px; 
+}	
+  .paragraph-div a {
+  	  font-size: 17px;
+    	line-height: 26px; }
+      
+.on-the-bright-side a {
+  	  font-size: 17px;
+    	line-height: 26px; }
+}
+.w-nav-overlay {
+    z-index: 1002 !important;
+}
+</style></head><body class="body"><div data-collapse="medium" data-animation="over-right" data-duration="400" data-easing="ease" data-easing2="ease" data-no-scroll="1" role="banner" class="navbar w-nav"><nav role="navigation" class="nav-menu w-nav-menu"><div class="nav-open-menu-links"><a href="/latest-issue" class="nav-open-menu-item mobile latest-issue w-nav-link">Latest Issue</a><a href="/archives" class="nav-open-menu-item mobile w-nav-link">Archives</a><a href="/about-us" class="nav-open-menu-item mobile w-nav-link">About Us</a><a href="/faq" class="nav-open-menu-item mobile faq w-nav-link">FAQ</a></div><div class="nav-menu-newsletter"><div class="form-block mobile w-form"><form id="email-form" name="email-form" data-name="Email Form" redirect="/one-more-thing" data-redirect="/one-more-thing" action="https://theflipside.us15.list-manage.com/subscribe/post?u=281c839c990f42b374467ae5f&amp;amp;id=7566a2ca43&quot; method=&quot;post&quot; id=&quot;mc-embedded-subscribe-form&quot; name=&quot;mc-embedded-subscribe-form" method="post" class="form mobile"><div class="text-block">GET TROLL-FREE POLITICAL NEWS</div><input type="email" class="text-field mobile w-input" maxlength="256" name="email-2" data-name="Email 2" placeholder="your email address" id="email-2" required=""/><input type="submit" value="I want to keep up with both sides &gt;" data-wait="Please wait..." class="submit-button mobile w-button"/><div class="text-block-2">We never spam and only send awesome news digests. Unsubscribe any time.</div></form><div class="w-form-done"><div>Thank you! Your submission has been received!</div></div><div class="w-form-fail"><div>Oops! Something went wrong while submitting the form.</div></div></div></div></nav><div data-w-id="83b1dd7a-785a-0585-a0c0-e44f2b23d2b5" class="nav-bar navbarother"><a href="/home-2-0" class="nav-logo w-nav-brand"><img src="https://global-uploads.webflow.com/633bcbad1d5c5e339141c061/633bcbad1d5c5e9fed41c096_TFS%20Logo-n.png" alt="Logo" width="125" class="image-22 logo"/></a><div class="div-right header w-hidden-medium w-hidden-small w-hidden-tiny"><div class="nav-menu-links flex"><a href="/latest-issue" class="nav-link small w-nav-link">LATEST ISSUE</a><a href="/archives" class="nav-link small w-nav-link">ARCHIVES</a><a href="/about-us" class="nav-link small w-nav-link">ABOUT US</a><a href="/faq" class="nav-link small faq w-nav-link">FAQ</a></div></div><div class="div-right header w-hidden-medium w-hidden-small w-hidden-tiny"><div class="header-form w-form"><form id="email-form-2" name="email-form-2" data-name="Email Form 2" method="post" action="https://theflipside.us15.list-manage.com/subscribe/post?u=281c839c990f42b374467ae5f&amp;amp;id=7566a2ca43&quot; method=&quot;post&quot; id=&quot;mc-embedded-subscribe-form&quot; name=&quot;mc-embedded-subscribe-form" redirect="/one-more-thing" data-redirect="/one-more-thing" class="form-3"><input type="email" class="email-address-field-grey header w-input" maxlength="256" name="hero-optin-2" data-name="Hero Optin 2" placeholder="your email address" id="hero-optin-2" required=""/><div class="w-embed"><input type="hidden" name="MMERGE1" value="desk-menu"/></div><input type="submit" value="Subscribe &gt;" data-wait="Please wait..." id="https-theflipside.us15.list-manage.com-subscribe-post-u-281c839c990f42b374467ae5f-id-a0c19d8bf4" class="submit-button hero header w-button"/></form><div class="w-form-done"><div>Thank you! Your submission has been received!</div></div><div class="w-form-fail"><div>Oops! Something went wrong while submitting the form.</div></div></div></div></div><div class="menu-button-nav w-nav-button" data-ix="hamburger-button"><div class="top-line"></div><div class="middle-line"></div><div class="bottom-line"></div></div></div><div class="section-3 wf-section"><div><h1 class="heading-16">June 23, 2022</h1><h1 class="heading-17">France and Colombia</h1><div class="container-8 w-container"><div class="rich-text-block-4 w-dyn-bind-empty w-richtext"></div><img src="" alt="" class="image-48 w-dyn-bind-empty"/><div class="paragraph-div"><div class="rich-text-block-2 w-richtext"><p>“<a href="https://apnews.com/article/france-macron-marine-le-pen-government-and-politics-803ae9ade935cd451b8b444a649ab31d">French President Emmanuel Macron</a> proposed Wednesday to ‘legislate in a different way’ based on compromises between diverse political forces, three days after he suffered a major political blow when his party lost its parliamentary majority… His centrist Together! alliance won the most seats — 245 — but still fell 44 lawmakers short of a majority in France’s most powerful house of parliament.” <strong>AP News</strong></p><p><strong>‍</strong></p><p><strong>‍</strong>“<a href="https://apnews.com/article/politics-ap-top-news-gustavo-petro-colombia-elections-0d60db5f1fb0c03fc413b0fbd6b5add6">Colombia will be governed by a leftist president</a> for the first time after former rebel Gustavo Petro narrowly defeated a real estate tycoon in a runoff election… The election came as Colombians struggle with rising inequality, inflation and violence — factors that led voters in the election’s first round last month to punish long-governing centrist and right-leaning politicians and pick two outsiders for the runoff contest.” <strong>AP News</strong>‍</p><p>‍</p><p>‍<strong><em>Both sides see the result as a major setback for Macron:</em></strong></p><p><strong><em>‍</em></strong></p><p><strong><em>‍</em></strong>&quot;<a href="https://spectatorworld.com/topic/emmanuel-macrons-nightmare-is-complete/">The result of the election is much worse for Macron than almost anyone anticipated</a>. For the first time in the fifth republic, the president has failed to win a parliamentary majority. He lost crucial parliamentary allies, including Richard Ferrand, the president of the National Assembly, Christophe Castaner, his former interior minister who presided over the brutal repression of the <em>gilets jaunes</em>, Amélie de Montchalin, the environment minister, Justine Bénin, a secretary of state for the sea and Brigitte Bourguignon, minister of health and social solidarity… </p><p>“Macron won the presidency in April because a majority of voters thought Le Pen would be even worse. But he commands little to no affection. Now he is doomed to preside over escalating chaos as France faces a cost of living and debt crisis, a budget deficit untamed by Europe’s highest taxes, an energy crisis, crises in the schools and hospitals, and a law and order crisis, all amid the most serious European military conflict since 1945.”</p><p>‍<strong>Jonathan Miller, Spectator World</strong></p><p><strong>‍</strong></p><p><strong>‍</strong>“The dynamics of [Macron’s] second term will be utterly different from those of his first. Across-the-board successes in the elections of 2017 meant that Mr Macron could indulge in a sometimes high-handed, ‘hyper-presidential’ political style. This alienated much of the electorate, which has now dramatically clipped his wings. These results mean Mr Macron will need to work to make new allies and to accept compromises. The fate of his proposals to raise the retirement age and introduce welfare reforms will probably depend on an ability to woo deputies from the centre-right Républicains party… </p><p>“From being a mere sideshow rubber-stamping the Élysée’s decisions, the National Assembly has been <a href="https://www.theguardian.com/commentisfree/2022/jun/20/the-guardian-view-on-macrons-bad-night-a-rocky-road-ahead">transformed overnight into an institution that matters</a>. This is, broadly speaking, a good thing for French democracy. But the risk of fractious paralysis is real, at a time when urgent challenges need to be addressed on issues such as the cost of living crisis, the war in Ukraine and the climate emergency. A rocky road lies ahead for a chastened Mr Macron, and a parliament that must find a way to act in the national interest in treacherous times.”</p><p>‍<strong>Editorial Board, The Guardian</strong>‍</p><p>‍</p><p>‍<strong><em>Opinions about the Colombian election below.</em></strong></p></div><a href="/archives" class="link-6">See past issues</a></div></div><img src="https://global-uploads.webflow.com/633bcbad1d5c5e339141c061/633bcbad1d5c5e4a0a41c0ad_bear-badge.png" width="114" alt="" class="image archives"/><div class="columns w-row"><div class="blue-divider w-col w-col-6 w-col-small-6 w-col-tiny-6"><div class="div-block-2"></div></div><div class="red-divider w-col w-col-6 w-col-small-6 w-col-tiny-6"><div class="div-block-3"></div></div></div><div class="div-block-38"><div class="columns-15 w-row"><div class="column-60 w-clearfix w-col w-col-6 w-col-small-6 w-col-tiny-tiny-stack"><h1 class="from-the-left-heading">From the Left</h1><h1 class="from-the-left-heading sponsored w-dyn-bind-empty"></h1><div class="paragraph-6 left intro w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 left bullet first w-richtext"><p>“There is much cause for concern in the policy direction Mr. Petro has articulated, in particular his call for an end to new oil exploration, a potential blow to the country’s industry likely to do much damage to export revenue and little good for the global environment. Still, it must be acknowledged that Mr. Petro (and indeed Mr. Hernández) tapped discontent with the country’s traditional parties that was rooted in real issues, such as chronic corruption and an uptick of economic inequality over the past four years… </p><p>“For the United States, the rise of Mr. Petro probably means it can no longer count on Colombia to help isolate next-door Venezuela’s leftist dictatorship; Mr. Petro is also likely to pursue warmer relations with Cuba and Nicaragua. However, that does not mean Colombia — or other left-leaning elected governments — would necessarily harm the long-term cause of democracy in the region. To the contrary, that cause might benefit from the rise of left-wing governments, as long as both they and their opponents on the populist right <a href="https://www.washingtonpost.com/opinions/2022/06/20/colombia-election-gustavo-petro-democracy-might-hold/">pursue their political conflicts within constitutional checks and balances</a>.”</p><p>‍<strong>Editorial Board, Washington Post</strong></p></div><div class="paragraph-6 left bullet first sponsored w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 left bullet w-richtext"><p>“To have any hope of succeeding in the face of global inflation and other hard-to-control headwinds, <a href="https://www.bloomberg.com/opinion/articles/2022-06-22/for-colombia-s-gustavo-petro-winning-the-election-was-the-easy-part">Petro must inject a dose of realism into an electoral program that verges on the naive</a>. Protectionism won’t solve any of Colombia’s problems. His tax changes will struggle to meet spending promises that include wider pensions coverage and state jobs for those without work, even as unemployment is running at about 11%. He is right to focus on the energy transition, but how exactly will he fill the revenue hole left by hydrocarbons, once new exploration is halted and energy outfit Ecopetrol turned into a wind and solar producer? Crude is still Colombia’s biggest export… </p><p>“When confronted with the realities of government, leftwing leaders in Latin America have in fact been reasonably austere and, importantly, allowed central banks to do their job, William Jackson at Capital Economics points out. Even so, as Jackson notes, the risk of deepening polarization and rising debt is easy to see.”</p><p>‍<strong>Clara Ferreira Marques, Bloomberg</strong></p></div><div class="paragraph-6 left bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 left bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 left bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 left bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 left bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 left bullet w-dyn-bind-empty w-richtext"></div></div><div class="column-61 w-clearfix w-col w-col-6 w-col-small-6 w-col-tiny-tiny-stack"><h1 class="from-the-right-heading">From the Right</h1><h1 class="from-the-right-heading sponsored w-dyn-bind-empty"></h1><div class="paragraph-6 right intro w-hidden-tiny w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 right intro w-hidden-main w-hidden-medium w-hidden-small w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 right bullet first w-richtext"><p>“Mr. Petro is feared by many Colombians because he was a member of M-19—a guerrilla group funded by Pablo Escobar—in the 1970s and ’80s. He was a close adviser to Hugo Chávez in the early 2000s, as the Venezuelan strongman was consolidating power. The authoritarian streak Mr. Petro displayed when he was mayor of Bogotá from 2012 to 2015 alarmed even his allies. When he lost his third run for presidency in May 2018, he told his supporters to take their politics to the streets… </p><p>“Colombians will be lucky if counterproductive economic ideas are Mr. Petro’s worst contribution to public policy. A greater—and legitimate—worry is that by choosing an executive with an unbounded appetite for power and links to political factions that sympathize with criminal groups, <a href="https://www.wsj.com/articles/colombia-elections-gustavo-petro-rodolfo-hernandez-democracy-rule-of-law-corruption-11655746341">Colombians have signed their democracy’s death sentence</a>.”</p><p>‍<strong>Mary Anastasia O’Grady, Wall Street Journal</strong></p></div><div class="paragraph-6 right bullet first sponsored w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 right bullet w-richtext"><p>“In France, President Emmanuel Macron has now lost his majority in the National Assembly; his party holds 245 seats in the lower house, but the Right holds 150 and the Left 131. In Colombia, former M-19 guerrilla and Marxist Gustavo Petro has now become the president of the country, replacing more establishment, Keynesian liberal rule. In the United States, the supposed center within both parties has been increasingly <a href="https://www.creators.com/read/ben-shapiro/06/22/the-death-of-the-elite-center">supplanted by anti-establishment forces on both sides</a>… </p><p>“Our institutional elites rely on the power of civilizational foundations that long predate them — free markets, religious values, military strength — to prop up failing ideas that undermine those foundations. The result is failure… </p><p>“The Left looks at the prevailing elite consensus and declares it dishonest: If the elites&#x27; principles mattered, they would fight free markets, religious values and military strength. The Right looks at the prevailing elite consensus and feels the same way: If the elites put aside their ideological commitments to leftism, they&#x27;d cement our civilizational foundations rather than keep eroding them. Perhaps the center isn&#x27;t holding because it <em>shouldn&#x27;t </em>hold.”</p><p>‍<strong>Ben Shapiro, Creators</strong></p></div><div class="paragraph-6 right bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 right bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 right bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 right bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 right bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 right bullet w-dyn-bind-empty w-richtext"></div></div></div><div class="w-row"><div class="column-60 w-col w-col-6 w-col-small-6 w-col-tiny-tiny-stack"></div><div class="column-61 w-col w-col-6 w-col-small-6 w-col-tiny-tiny-stack"></div></div><div class="w-layout-grid grid-7 w-clearfix"><div id="w-node-c982ddb1-5ced-6b21-8419-c9ca80732245-4041c073" class="paragraph-6 wide center w-dyn-bind-empty w-richtext"></div><div id="w-node-c982ddb1-5ced-6b21-8419-c9ca80732246-4041c073" class="paragraph-6 wide libertarian w-dyn-bind-empty w-richtext"></div></div></div><div class="additional-closing w-dyn-bind-empty w-richtext"></div><div style="border-color:#453158" class="on-the-bright-side"><h4 class="heading-18">On the bright side...</h4><div class="rich-text-block-3 w-richtext"><p><a href="https://www.cbc.ca/radio/asithappens/as-it-happens-the-monday-edition-1.6495076/an-eagle-snatched-a-baby-hawk-for-dinner-then-ended-up-adopting-it-1.6495246" target="_blank">An eagle snatched a baby hawk for dinner, then ended up adopting it</a>.<br/><strong>CBC</strong></p></div></div></div></div><div class="trollcta archive w-row"><div class="w-col w-col-6 w-col-stack"><div class="div-block-26 archive"><img src="https://global-uploads.webflow.com/633bcbad1d5c5e339141c061/633bcbad1d5c5ee21241c092_bear-0.png" alt="" class="bearhead archive"/><h2 class="heading-cta archive">Get troll-free political news.</h2></div></div><div class="w-col w-col-6 w-col-stack"><div class="w-clearfix w-form"><form id="email-form-2" name="email-form-2" data-name="Email Form 2" method="get" class="newsletter-form-fields faq"><input type="email" class="email-address-field-grey hero faq archive w-input" maxlength="256" name="hero-optin-2" data-name="Hero Optin 2" placeholder="your email address" id="hero-optin-2" required=""/><input type="submit" value="I want the best points from both sides        &gt;" data-wait="Please wait..." class="submit-button hero home faq archive w-button"/></form><div class="w-form-done"><div>Thank you! Your submission has been received!</div></div><div class="w-form-fail"><div>Oops! Something went wrong while submitting the form.</div></div></div></div></div><footer class="footer wf-section"><div class="columns-6 top-footer w-row"><div class="column-11 w-col w-col-4"><img src="https://global-uploads.webflow.com/633bcbad1d5c5e339141c061/633bcbad1d5c5ed9c641c107_TFS%20-%20logo.svg" width="125" alt="Logo of The Flip Side" class="image-22 logo"/></div><div class="column-12 top-footer w-col w-col-4"><a id="w-node-f2f82e10-1a31-eb5f-ca00-8ef170fc7709-70fc7704" href="/latest-issue" class="footer-link w-inline-block"><div>LATEST ISSUE</div></a><a id="w-node-f2f82e10-1a31-eb5f-ca00-8ef170fc770c-70fc7704" href="/archives" class="footer-link w-inline-block"><div>ARCHIVES</div></a><a id="w-node-f2f82e10-1a31-eb5f-ca00-8ef170fc770f-70fc7704" href="/about-us" class="footer-link w-inline-block"><div>ABOUT US</div></a><a id="w-node-f2f82e10-1a31-eb5f-ca00-8ef170fc7715-70fc7704" href="/media" class="footer-link w-inline-block"><div>MEDIA</div></a><a id="w-node-f2f82e10-1a31-eb5f-ca00-8ef170fc7712-70fc7704" href="/supporters" class="footer-link w-inline-block"><div>SUPPORTERS</div></a><a id="w-node-_87649ec8-d9e2-88e8-e2f7-a3c8f39c81e0-70fc7704" href="/faq" class="footer-link w-inline-block"><div>FAQ</div></a></div><div class="column-13 top-footer w-col w-col-4"><a href="https://www.facebook.com/KnowTheFlipSide/" class="link-block w-inline-block"><img src="https://global-uploads.webflow.com/633bcbad1d5c5e339141c061/633bcbad1d5c5efd2c41c211_facebook.svg" width="30" height="30" alt="Facebook"/></a><a href="http://twitter.com/knowtheflipside" class="link-block-2 w-inline-block"><img src="https://global-uploads.webflow.com/633bcbad1d5c5e339141c061/633bcbad1d5c5ef74741c212_twitter.svg" width="30" height="30" alt="Twitter"/></a><a href="mailto:editor@theflipside.io?subject=%5BFlipSide%20Website%20Inquiry%5D" class="w-inline-block"><img src="https://global-uploads.webflow.com/633bcbad1d5c5e339141c061/633bcbad1d5c5e6ec341c210_email.svg" width="30" height="30" alt="Email"/></a></div></div><div class="columns-6 bottom-footer w-row"><div class="column-11 bottom-footer w-col w-col-3"><div class="text-block-15">COPYRIGHT © 2022</div></div><div class="column-12 bottom-footer w-col w-col-5"></div><div class="column-13 bottom-footer w-col w-col-4"><a href="/terms" class="link-block-2 terms w-inline-block"><div class="text-block-31">PRIVACY POLICY</div></a><div class="link-block-2 terms divider">|</div><a href="https://www.functionlabs.com" class="link-block-2 terms function w-inline-block"><div class="text-block-32">WEBSITE BY FUNCTION LABS</div></a></div></div></footer><script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=633bcbad1d5c5e339141c061" type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script><script src="https://global-uploads.webflow.com/633bcbad1d5c5e339141c061/js/webflow.9d80ca628.js" type="text/javascript"></script><!--[if lte IE 9]><script src="//cdnjs.cloudflare.com/ajax/libs/placeholders/3.0.2/placeholders.min.js"></script><![endif]--><!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-58K3PC7"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<!-- UTM Passthrough Javascript -->
+
+<script type="text/javascript" charset="utf-8">
+var UtmCookie, UtmForm, _uf;
+UtmCookie = class {
+    constructor(options = {}) {
+        this._cookieNamePrefix = "_uc_", this._domain = options.domain, this._sessionLength = options.sessionLength || 1, this._cookieExpiryDays = options.cookieExpiryDays || 365, this._additionalParams = options.additionalParams || [], this._utmParams = ["utm_source", "utm_medium", "utm_campaign", "utm_term", "utm_content"], this.writeInitialReferrer(), this.writeLastReferrer(), this.writeInitialLandingPageUrl(), this.setCurrentSession(), this.additionalParamsPresentInUrl() && this.writeAdditionalParams(), this.utmPresentInUrl() && this.writeUtmCookieFromParams()
+    }
+    createCookie(name, value, days, path, domain, secure) {
+        var cookieDomain, cookieExpire, cookiePath, cookieSecure, date, expireDate;
+        expireDate = null, days && ((date = new Date).setTime(date.getTime() + 24 * days * 60 * 60 * 1e3), expireDate = date), cookieExpire = null != expireDate ? "; expires=" + expireDate.toGMTString() : "", cookiePath = null != path ? "; path=" + path : "; path=/", cookieDomain = null != domain ? "; domain=" + domain : "", cookieSecure = null != secure ? "; secure" : "", document.cookie = this._cookieNamePrefix + name + "=" + escape(value) + cookieExpire + cookiePath + cookieDomain + cookieSecure
+    }
+    readCookie(name) {
+        var c, ca, i, nameEQ;
+        for (nameEQ = this._cookieNamePrefix + name + "=", ca = document.cookie.split(";"), i = 0; i < ca.length;) {
+            for (c = ca[i];
+                " " === c.charAt(0);) c = c.substring(1, c.length);
+            if (0 === c.indexOf(nameEQ)) return c.substring(nameEQ.length, c.length);
+            i++
+        }
+        return null
+    }
+    eraseCookie(name) {
+        this.createCookie(name, "", -1, null, this._domain)
+    }
+    getParameterByName(name) {
+        var results;
+        return name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]"), (results = new RegExp("[\\?&]" + name + "=([^&#]*)").exec(window.location.search)) ? decodeURIComponent(results[1].replace(/\+/g, " ")) : ""
+    }
+    additionalParamsPresentInUrl() {
+        var j, len, param, ref;
+        for (j = 0, len = (ref = this._additionalParams).length; j < len; j++)
+            if (param = ref[j], this.getParameterByName(param)) return !0;
+        return !1
+    }
+    utmPresentInUrl() {
+        var j, len, param, ref;
+        for (j = 0, len = (ref = this._utmParams).length; j < len; j++)
+            if (param = ref[j], this.getParameterByName(param)) return !0;
+        return !1
+    }
+    writeCookie(name, value) {
+        this.createCookie(name, value, this._cookieExpiryDays, null, this._domain)
+    }
+    writeAdditionalParams() {
+        var j, len, param, ref, value;
+        for (j = 0, len = (ref = this._additionalParams).length; j < len; j++) param = ref[j], value = this.getParameterByName(param), this.writeCookie(param, value)
+    }
+    writeUtmCookieFromParams() {
+        var j, len, param, ref, value;
+        for (j = 0, len = (ref = this._utmParams).length; j < len; j++) param = ref[j], value = this.getParameterByName(param), this.writeCookie(param, value)
+    }
+    writeCookieOnce(name, value) {
+        this.readCookie(name) || this.writeCookie(name, value)
+    }
+    _sameDomainReferrer(referrer) {
+        var hostname;
+        return hostname = document.location.hostname, referrer.indexOf(this._domain) > -1 || referrer.indexOf(hostname) > -1
+    }
+    _isInvalidReferrer(referrer) {
+        return "" === referrer || void 0 === referrer
+    }
+    writeInitialReferrer() {
+        var value;
+        value = document.referrer, this._isInvalidReferrer(value) && (value = "direct"), this.writeCookieOnce("referrer", value)
+    }
+    writeLastReferrer() {
+        var value;
+        value = document.referrer, this._sameDomainReferrer(value) || (this._isInvalidReferrer(value) && (value = "direct"), this.writeCookie("last_referrer", value))
+    }
+    writeInitialLandingPageUrl() {
+        var value;
+        (value = this.cleanUrl()) && this.writeCookieOnce("initial_landing_page", value)
+    }
+    initialReferrer() {
+        return this.readCookie("referrer")
+    }
+    lastReferrer() {
+        return this.readCookie("last_referrer")
+    }
+    initialLandingPageUrl() {
+        return this.readCookie("initial_landing_page")
+    }
+    incrementVisitCount() {
+        var existingValue, newValue;
+        existingValue = parseInt(this.readCookie("visits"), 10), newValue = 1, newValue = isNaN(existingValue) ? 1 : existingValue + 1, this.writeCookie("visits", newValue)
+    }
+    visits() {
+        return this.readCookie("visits")
+    }
+    setCurrentSession() {
+        this.readCookie("current_session") || (this.createCookie("current_session", "true", this._sessionLength / 24, null, this._domain), this.incrementVisitCount())
+    }
+    cleanUrl() {
+        var cleanSearch;
+        return cleanSearch = window.location.search.replace(/utm_[^&]+&?/g, "").replace(/&$/, "").replace(/^\?$/, ""), window.location.origin + window.location.pathname + cleanSearch + window.location.hash
+    }
+}, UtmForm = class {
+    constructor(options = {}) {
+        this._utmParamsMap = {}, this._utmParamsMap.utm_source = options.utm_source_field || "USOURCE", this._utmParamsMap.utm_medium = options.utm_medium_field || "UMEDIUM", this._utmParamsMap.utm_campaign = options.utm_campaign_field || "UCAMPAIGN", this._utmParamsMap.utm_content = options.utm_content_field || "UCONTENT", this._utmParamsMap.utm_term = options.utm_term_field || "UTERM", this._additionalParamsMap = options.additional_params_map || {}, this._initialReferrerField = options.initial_referrer_field || "IREFERRER", this._lastReferrerField = options.last_referrer_field || "LREFERRER", this._initialLandingPageField = options.initial_landing_page_field || "ILANDPAGE", this._visitsField = options.visits_field || "VISITS", this._addToForm = options.add_to_form || "all", this._formQuerySelector = options.form_query_selector || "form", this._decodeURIs = options.decode_uris || !1, this.utmCookie = new UtmCookie({
+            domain: options.domain,
+            sessionLength: options.sessionLength,
+            cookieExpiryDays: options.cookieExpiryDays,
+            additionalParams: Object.getOwnPropertyNames(this._additionalParamsMap)
+        }), this.addAllFields()
+    }
+    addAllFields() {
+        var allForms, i, len;
+        for (allForms = document.querySelectorAll(this._formQuerySelector), len = "none" === this._addToForm ? 0 : "first" === this._addToForm ? Math.min(1, allForms.length) : allForms.length, i = 0; i < len;) this.addAllFieldsToForm(allForms[i]), i++
+    }
+    addAllFieldsToForm(form) {
+        var fieldName, param, ref, ref1;
+        if (form && !form._utm_tagged) {
+            for (param in form._utm_tagged = !0, ref = this._utmParamsMap) fieldName = ref[param], this.addFormElem(form, fieldName, this.utmCookie.readCookie(param));
+            for (param in ref1 = this._additionalParamsMap) fieldName = ref1[param], this.addFormElem(form, fieldName, this.utmCookie.readCookie(param));
+            this.addFormElem(form, this._initialReferrerField, this.utmCookie.initialReferrer()), this.addFormElem(form, this._lastReferrerField, this.utmCookie.lastReferrer()), this.addFormElem(form, this._initialLandingPageField, this.utmCookie.initialLandingPageUrl()), this.addFormElem(form, this._visitsField, this.utmCookie.visits())
+        }
+    }
+    addFormElem(form, fieldName, fieldValue) {
+        this.insertAfter(this.getFieldEl(fieldName, fieldValue), form.lastChild)
+    }
+    getFieldEl(fieldName, fieldValue) {
+        var fieldEl;
+        return (fieldEl = document.createElement("input")).type = "hidden", fieldEl.name = fieldName, fieldEl.value = this._decodeURIs ? decodeURIComponent(fieldValue) : fieldValue, fieldEl
+    }
+    insertAfter(newNode, referenceNode) {
+        return referenceNode.parentNode.insertBefore(newNode, referenceNode.nextSibling)
+    }
+}, _uf = window._uf || {}, window.UtmForm = new UtmForm(_uf);
+  
+</script>
+<!-- End UTM Passthrough Javascript --></body></html>
+

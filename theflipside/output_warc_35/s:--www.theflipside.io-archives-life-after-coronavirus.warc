@@ -1,0 +1,221 @@
+WARC/1.0
+WARC-Type: response
+WARC-Date: 2020-08-05T13:59:59Z
+WARC-Record-ID: <urn:uuid:43ae531a-f1ce-418e-b779-ef36fb1f5cc9>
+Content-Length: 38110
+Content-Type: application/http; msgtype=response
+WARC-Warcinfo-ID: <urn:uuid:27bb98ee-83fe-4a6f-9366-1bb7f4a8e2dc>
+WARC-Concurrent-To: <urn:uuid:32ab103d-57a4-4135-b059-6833030886e6>
+WARC-IP-Address: 54.157.174.158
+WARC-Target-URI: https://www.theflipside.io/archives/life-after-coronavirus
+WARC-Payload-Digest: sha1:5WFRID7LBHE5MZ2JJM2BC3ASEOBGNAZW
+WARC-Block-Digest: sha1:WK3AWAWNU4N3TKP6IBPWOKAZMXTGRG4B
+WARC-Identified-Payload-Type: text/html
+
+HTTP/1.1 200 OK
+Server: openresty
+Date: Wed, 05 Aug 2020 13:59:59 GMT
+Content-Type: text/html
+X-Crawler-Content-Length: 14025
+Content-Length: 37502
+Connection: keep-alive
+X-Crawler-Content-Encoding: gzip
+Content-Security-Policy: frame-ancestors 'self'
+X-Frame-Options: SAMEORIGIN
+x-lambda-id: 4a38b19c-0fd1-4267-bae0-c1da97891cce
+Via: 1.1 varnish
+Accept-Ranges: bytes
+Via: 1.1 varnish
+Age: 0
+X-Served-By: cache-dca17756-DCA, cache-wdc5548-WDC
+X-Cache: MISS, MISS
+X-Cache-Hits: 0, 0
+X-Timer: S1596635999.325464,VS0,VE355
+Vary: Accept-Encoding
+X-Cluster-Name: us-east-1-prod-edge-eks-15
+
+<!DOCTYPE html><!-- Last Published: Wed Aug 05 2020 06:48:23 GMT+0000 (Coordinated Universal Time) --><html data-wf-domain="www.theflipside.io" data-wf-page="5c0affae2387a21ad549fb85" data-wf-site="5bfd76c121f9503755c665f9" lang="en"><head><meta charset="utf-8"/><title>Life After Coronavirus | The Flip Side</title><meta content="Life After Coronavirus" name="description"/><meta content="Life After Coronavirus | The Flip Side" property="og:title"/><meta content="Get the most intelligent quotes from both sides—in a free, 5-minute email a day." property="og:description"/><meta content="https://assets-global.website-files.com/5c01d9d275e85a6371ce6d1e/5c4e9148fe98b202812657bb_bears%20working%20together.png" property="og:image"/><meta content="Life After Coronavirus | The Flip Side" property="twitter:title"/><meta content="Get the most intelligent quotes from both sides—in a free, 5-minute email a day." property="twitter:description"/><meta content="https://assets-global.website-files.com/5c01d9d275e85a6371ce6d1e/5c4e9148fe98b202812657bb_bears%20working%20together.png" property="twitter:image"/><meta property="og:type" content="website"/><meta content="summary_large_image" name="twitter:card"/><meta content="width=device-width, initial-scale=1" name="viewport"/><link href="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/css/the-flipside.9720be48d.min.css" rel="stylesheet" type="text/css"/><script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript"></script><script type="text/javascript">WebFont.load({  google: {    families: ["Lato:100,100italic,300,300italic,400,400italic,700,700italic,900,900italic"]  }});</script><script src="https://use.typekit.net/ief5vbu.js" type="text/javascript"></script><script type="text/javascript">try{Typekit.load();}catch(e){}</script><!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js" type="text/javascript"></script><![endif]--><script type="text/javascript">!function(o,c){var n=c.documentElement,t=" w-mod-";n.className+=t+"js",("ontouchstart"in o||o.DocumentTouch&&c instanceof DocumentTouch)&&(n.className+=t+"touch")}(window,document);</script><link href="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5c03871b75e85a9d2ecf243a_favicon-32x32.png" rel="shortcut icon" type="image/x-icon"/><link href="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5c038790f4cf11a559cd3a57_webclip256.png" rel="apple-touch-icon"/><link href="rss.xml" rel="alternate" title="RSS Feed" type="application/rss+xml"/><script type="text/javascript">!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.agent='plwebflow';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');fbq('init', '420932135099202');fbq('track', 'PageView');</script><!-- Async Anti-Flicker Code -->
+
+<style>.async-hide { opacity: 0 !important} </style>
+<script>(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+(a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+})(window,document.documentElement,'async-hide','dataLayer',4000,
+{'GTM-58K3PC7':true});</script>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-58K3PC7');</script>
+<!-- End Google Tag Manager -->
+
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<!-- Memberstack --> 
+<script src="https://api.memberstack.io/static/memberstack.js?webflow" data-memberstack-id="dd4b66b62c37ef91c54289827c1f3114"> </script><style>
+@media (max-width: 479px) {
+  .paragraph-div a {
+  	  font-size: 17px;
+    	line-height: 24px; }
+      
+  .on-the-bright-side a {
+  	  font-size: 17px;
+    	line-height: 24px; }
+}
+@media (max-width: 767px) {
+	.div-block-38 a {
+  	  font-size: 17px; 
+    	line-height: 24px; 
+}	
+  .paragraph-div a {
+  	  font-size: 17px;
+    	line-height: 26px; }
+      
+.on-the-bright-side a {
+  	  font-size: 17px;
+    	line-height: 26px; }
+}
+.w-nav-overlay {
+    z-index: 1002 !important;
+}
+</style></head><body class="body"><div data-collapse="medium" data-animation="over-right" data-duration="400" role="banner" class="navbar w-nav"><nav role="navigation" class="nav-menu w-nav-menu"><div class="nav-open-menu-links"><a href="/latest-issue" class="nav-open-menu-item mobile latest-issue w-nav-link">Latest Issue</a><a href="/archives" class="nav-open-menu-item mobile w-nav-link">Archives</a><a href="/about-us" class="nav-open-menu-item mobile w-nav-link">About Us</a><a href="/faq" class="nav-open-menu-item mobile faq w-nav-link">FAQ</a></div><div class="nav-menu-newsletter"><div class="form-block mobile w-form"><form id="email-form" name="email-form" data-name="Email Form" redirect="/one-more-thing" data-redirect="/one-more-thing" action="https://theflipside.us15.list-manage.com/subscribe/post?u=281c839c990f42b374467ae5f&amp;amp;id=7566a2ca43&quot; method=&quot;post&quot; id=&quot;mc-embedded-subscribe-form&quot; name=&quot;mc-embedded-subscribe-form" method="post" class="form mobile"><div class="text-block">GET TROLL-FREE POLITICAL NEWS</div><input type="email" class="text-field mobile w-input" maxlength="256" name="email-2" data-name="Email 2" placeholder="your email address" id="email-2" required=""/><input type="submit" value="I want to keep up with both sides &gt;" data-wait="Please wait..." class="submit-button mobile w-button"/><div class="text-block-2">We never spam and only send awesome news digests. Unsubscribe any time.</div></form><div class="w-form-done"><div>Thank you! Your submission has been received!</div></div><div class="w-form-fail"><div>Oops! Something went wrong while submitting the form.</div></div></div></div></nav><div data-w-id="83b1dd7a-785a-0585-a0c0-e44f2b23d2b5" class="nav-bar navbarother"><a href="/home-2-0" class="nav-logo w-nav-brand"><img src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5c018cd0879ec8a3e5fc263b_TFS%20Logo-n.png" alt="Logo" width="125" class="image-22 logo"/></a><div class="div-right header w-hidden-medium w-hidden-small w-hidden-tiny"><div class="nav-menu-links flex"><a href="/latest-issue" class="nav-link small w-nav-link">LATEST ISSUE</a><a href="/archives" class="nav-link small w-nav-link">ARCHIVES</a><a href="/about-us" class="nav-link small w-nav-link">ABOUT US</a><a href="/faq" class="nav-link small faq w-nav-link">FAQ</a></div></div><div class="div-right header w-hidden-medium w-hidden-small w-hidden-tiny"><div class="header-form w-form"><form id="email-form-2" name="email-form-2" data-name="Email Form 2" method="post" action="https://theflipside.us15.list-manage.com/subscribe/post?u=281c839c990f42b374467ae5f&amp;amp;id=7566a2ca43&quot; method=&quot;post&quot; id=&quot;mc-embedded-subscribe-form&quot; name=&quot;mc-embedded-subscribe-form" redirect="/one-more-thing" data-redirect="/one-more-thing" class="form-3"><input type="email" class="email-address-field-grey header w-input" maxlength="256" name="hero-optin-2" data-name="Hero Optin 2" placeholder="your email address" id="hero-optin-2" required=""/><div class="w-embed"><input type="hidden" name="MMERGE1" value="desk-menu"/></div><input type="submit" value="Subscribe &gt;" data-wait="Please wait..." id="https-theflipside.us15.list-manage.com-subscribe-post-u-281c839c990f42b374467ae5f-id-a0c19d8bf4" class="submit-button hero header w-button"/></form><div class="w-form-done"><div>Thank you! Your submission has been received!</div></div><div class="w-form-fail"><div>Oops! Something went wrong while submitting the form.</div></div></div></div></div><div class="menu-button-nav w-nav-button" data-ix="hamburger-button"><div class="top-line"></div><div class="middle-line"></div><div class="bottom-line"></div></div></div><div class="section-3"><div><h1 class="heading-16">March 30, 2020</h1><h1 class="heading-17">Life After Coronavirus</h1><div class="container-8 w-container"><div class="rich-text-block-4 w-dyn-bind-empty w-richtext"></div><img src="" alt="" class="image-48 w-dyn-bind-empty"/><div class="paragraph-div"><div class="rich-text-block-2 w-richtext"><p>“President Donald Trump on Sunday <a href="https://apnews.com/7d851c87c07a7e0f67c245abe0d86e56" target="_blank">extended restrictive social distancing guidelines through April</a>.” <strong>AP News</strong><br/><br/>Both sides are reflecting on the long-term impact of the pandemic.</p></div><a href="/archives" class="link-6">See past issues</a></div></div><img src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5bfee82d95c45605590f6387_bear-badge.png" width="114" alt="" class="image archives"/><div class="columns w-row"><div class="blue-divider w-col w-col-6 w-col-small-6 w-col-tiny-6"><div class="div-block-2"></div></div><div class="red-divider w-col w-col-6 w-col-small-6 w-col-tiny-6"><div class="div-block-3"></div></div></div><div class="div-block-38"><div class="columns-15 w-row"><div class="column-60 w-clearfix w-col w-col-6 w-col-small-6 w-col-tiny-tiny-stack"><h1 class="from-the-left-heading">From the Left</h1><h1 class="from-the-left-heading sponsored w-dyn-bind-empty"></h1><div class="paragraph-6 left intro w-richtext"><p>The left is focused on the lack of a strong social safety net and the future of technological surveillance and climate change initiatives.</p></div><div class="paragraph-6 left bullet first w-richtext"><p>“Fine dining and owner-operated restaurants were already struggling in New York City… Chefs I’ve spoken to say profit margins have shrunk to about 2 percent from around 8 percent over the past decade. Customers are willing to pay only so much for food, yet rent, utilities, insurances, taxes and food costs keep going up. We’ve survived by cutting our labor costs to the bone… <br/><br/>“New Yorkers need to ask themselves if [they would] be willing to pay $8 for a latte instead of $5 if it means their barista has health care. Will they pay $100 instead of $75 for a couple of burgers and a few beers if it means the person serving them doesn’t have to rattle the cup the next time there’s a disaster?… When the seas were smooth, we could all scrape by. But now we know what a storm looks like. And <a href="https://www.nytimes.com/2020/03/26/opinion/restaurants-covid-amanda-cohen.html" target="_blank">we have to decide if scraping by is good enough</a>.”<br/><strong>Amanda Cohen, New York Times</strong></p></div><div class="paragraph-6 left bullet first sponsored w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 left bullet w-richtext"><p>“About one in five people in the United States have lost working hours or jobs. Hotels are empty. Airlines are grounding flights. Restaurants and other small businesses are closing. Inequalities will widen: People with low incomes will be hardest-hit by social-distancing measures… After infections begin ebbing, a secondary pandemic of mental-health problems will follow…<br/><br/>“Pandemics are democratizing experiences. People whose privilege and power would normally shield them from a crisis are facing quarantines, testing positive, and losing loved ones. Senators are falling sick. The consequences of defunding public-health agencies, losing expertise, and stretching hospitals are no longer manifesting as angry opinion pieces, but as faltering lungs… Perhaps the nation will learn that preparedness isn’t just about masks, vaccines, and tests, but also about <a href="https://www.theatlantic.com/health/archive/2020/03/how-will-coronavirus-end/608719/" target="_blank">fair labor policies and a stable and equal health-care system</a>. Perhaps it will appreciate that health-care workers and public-health specialists compose America’s social immune system, and that this system has been suppressed.”<br/><strong>Ed Yong, The Atlantic</strong></p></div><div class="paragraph-6 left bullet w-richtext"><p>“One of the outcomes of private insurance is that you can only choose the doctors and hospitals associated with your insurance — an insurance that you didn’t choose in the first place, as it came with your or your partner’s job. This situation has not only reinforced inequalities among Americans, but also between hospitals attracting the wealthiest clients, and understaffed clinics dealing with poor and sicker patients. This system looks strange in most countries outside the United States — particularly as <a href="https://jacobinmag.com/2020/03/coronavirus-covid-19-capitalism-free-market-crisis/" target="_blank">public health-care systems generally offer the best of both worlds</a>: guaranteed care <em>and</em> choice… <br/><br/>“In Belgium, for example, there is no restriction on the hospital, doctor, or specialist you’d like to consult. Any patient is free to choose whatever doctor they want without having to pay more… Doctors can also choose to work wherever they want, either in public or private hospitals or as independents. Moreover, the system does not require that all hospitals are public (even if most are)… The current crisis has made one thing clear: the virus doesn’t care about your insurance plan. In contrast, it forces us to think about health care as a collective right, which requires strong health-care systems that can be accessed universally and for free by all citizens.”<br/><strong>Niklas Olsen and Daniel Zamora, Jacobin Magazine</strong></p></div><div class="paragraph-6 left bullet w-richtext"><p>Regarding the role of technology, “[In countries like South Korea] surveillance has been used to track the spread of the disease, where a sophisticated mix of tracking credit or debit card purchases and CCTV cameras have been used to trace and prevent spread of the disease. Given the way those countries have succeeded in flattening the curve, should we then also consider something similar?… Here&#x27;s the problem: the experience of the post-9/11 surveillance apparatus suggests that once enacted, <a href="https://theweek.com/articles/904651/temptation-coronavirus-surveillance" target="_blank">new regimes are almost impossible to pull back</a>… <br/><br/>“COVID-19 is best addressed through collective action: social distancing, mass testing, quarantining, and isolation. If we were in a situation in which the only way to combat the virus were draconian measures, then it acquiescing to the demands for surveillance might make sense. But it isn&#x27;t, and that makes the calls for surveillance misleading and misguided… Technology is always ambivalent, and always has both benefits and drawbacks. But surveillance in particular is a dimension of tech that is explicitly about enacting power. And power, once given, is not only hard to take back, it is immensely difficult to wield fairly.”<br/><strong>Navneet Alang, The Week</strong></p></div><div class="paragraph-6 left bullet w-richtext"><p>Finally, “The short-term positive effects on the climate that we’re seeing today serve as a dramatic reminder that changing personal consumption habits will mean very little going forward if we also <a href="https://www.nytimes.com/2020/03/27/opinion/sunday/coronavirus-climate-change.html" target="_blank">fail to decarbonize the global economy</a>…<br/><br/>“There is [a] world in which policymakers and politicians planning for economic recovery decide to make building a carbon-neutral society a priority. Because while the new reality could easily drain political will and funding from efforts to address the climate crisis, it could also inject a sense of urgency at a time when politicians are suddenly willing to spend vast sums of money. In this world, governments would create meaningful jobs in areas such as education, medical care, housing and clean energy.”<br/><strong>Meehan Crist, New York Times</strong></p></div><div class="paragraph-6 left bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 left bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 left bullet w-dyn-bind-empty w-richtext"></div></div><div class="column-61 w-clearfix w-col w-col-6 w-col-small-6 w-col-tiny-tiny-stack"><h1 class="from-the-right-heading">From the Right</h1><h1 class="from-the-right-heading sponsored w-dyn-bind-empty"></h1><div class="paragraph-6 right intro w-hidden-tiny w-richtext"><p>The right is focused on individual efforts and the future of remote work, homeschooling, and foreign policy.</p></div><div class="paragraph-6 right intro w-hidden-main w-hidden-medium w-hidden-small w-richtext"><p>The right is focused on individual efforts and the future of remote work, homeschooling, and foreign policy.</p></div><div class="paragraph-6 right bullet first w-richtext"><p>“Facing a struggle that’s already affecting millions of people, we need to <a href="https://www.usatoday.com/story/opinion/2020/03/28/american-way-fight-coronavirus-find-creative-ways-contribute-column/2928017001/" target="_blank">empower every person to contribute in their own way</a>… Distilleries are converting their kettles and stills to make hand sanitizer. Technology companies are applying data analytics to track the spread of the virus and keep the public informed… Café Momentum, a Dallas-based restaurant that employs kids from the juvenile justice system, can no longer serve customers for dinner. So they’re now making 16,000 packaged meals per week for kids who depend on school lunches… <br/><br/>“[Policymakers] have a critical role to play in a crisis like this. By acting to empower those in a position to help, their decisions have undoubtedly saved lives. Many acted fast to break down barriers standing in the way of an effective medical response. At least 18 states and D.C. have removed restrictions on telemedicine. Others are relaxing licensing laws that prevent qualified medical professionals from assisting patients. These are examples of the right response in this difficult time: Creating an environment in which people can help solve the problems in their communities, in cooperation with others.”<br/><strong>Charles Koch and Brian Hooks, USA Today</strong></p></div><div class="paragraph-6 right bullet first sponsored w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 right bullet w-richtext"><p>“Capitalism only functions in a context of moral restraint… Amidst all of the panic, we have lost sight of the critical question: what is the <em>purpose</em> of growth? Since 1950, the United States has nearly quadrupled its per-capita GDP, yet our household, corporate, and government balance sheets are as fragile as ever… <br/><br/>“In Japan, there are nearly 4,000 companies that are more than 200 years old, and a number of companies that have been in continuous operation for a millennium. They have survived war, famine, empire, conquest, disease, and depression. We might take this small reality check as a thought-exercise: what can we do to <a href="https://americanmind.org/features/the-coronacrisis-and-our-future-discontents/growth-without-virtue/" target="_blank">extend our institutions far into the future</a>? What should our nation look like in a thousand years? And can our existing leaders even imagine it?”<br/><strong>Christopher Rufo, American Mind</strong></p></div><div class="paragraph-6 right bullet w-richtext"><p>“One bright spot in this medical and economic catastrophe is that millions of workers will find that working from home is not only possible, but preferable… <a href="https://thefederalist.com/2020/03/26/the-wuhan-virus-may-finally-bring-about-a-work-from-home-revolution/" target="_blank">Working from home produces a variety of savings</a>. Right away, workers get back all the time they spend commuting. For many people, that’s a significant time savings… There is also money to be saved. Every gallon of gas or train fare you don’t have to buy puts money in your pocket. Working at home becomes an instant salary raise… <br/><br/>“A permanent shift [to telework] would introduce more widespread benefits… If the jobs are no longer tied to big cities… if they can exist anywhere with an internet connection, everything changes. Affordable houses in smaller cities and towns across America now become a feasible option for people whose careers once tied them to more expensive venues. Moreover, the salaries from those big-city jobs go a lot further outside them, even beyond the difference in housing costs. All of a sudden, the rest of the country would have a comparative advantage… for millions of Americans, remote workplaces offer a range of choices none of us have known before.”<br/><strong>Kyle Sammin, The Federalist</strong></p></div><div class="paragraph-6 right bullet w-richtext"><p>“An economy of high-quality online educational materials has sprouted in the past decade. All you need is a laptop, headphones and a quiet corner of the house, and your kid can study everything from calculus to ancient Greek… It’s possible for a teenager to do college-prep work in a comfortable, low-pressure environment free of vaping, bullying, emotional warfare, peer pressure and the other social dysfunctions that thrive wherever the young congregate… <br/><br/>“<a href="https://www.wsj.com/articles/coronavirus-makes-homeschoolers-of-us-all-11585503297" target="_blank">Our lives are far different today than 25 or 50 years ago, but schools haven’t changed much</a>… Children are divided by age group into grades, seated in rows, and taught by a credentialed teacher who stands facing them like an orchestra conductor. Lessons are delivered in 35-minute morsels. Never mind if things are going well—when the bell rings the learning is over. This is an Industrial Age model of education. It’s a poor fit for the Internet Era.”<br/><strong>Matthew Hennessey, Wall Street Journal</strong></p></div><div class="paragraph-6 right bullet w-richtext"><p>“The coronavirus pandemic is the <a href="https://townhall.com/columnists/patbuchanan/2020/03/27/can-this-pandemic-usher-in-a-new-era-n2565819" target="_blank">greatest crisis since the Cuban missile confrontation of 1962</a>. After that crisis, John F. Kennedy sought to use the world&#x27;s brush with Armageddon to establish a detente with the Soviet Union of the Communist dictator who had put the missiles in Cuba. Following our Cold War victory, we have not done that. Instead, we plunged into wars that were none of our business to deal with imagined threats and advance utopian causes like establishing Jeffersonian democracy… <br/><br/>“When, if ever, will there be a better time to make good on Trump&#x27;s campaign pledge to extricate America from the wars in Syria, Iraq and Afghanistan? Consider also the Korean Peninsula… We should make a final offer to Kim Jong Un to pull our U.S. forces from South Korea and lift sanctions for verifiable reductions and restraints on his nuclear arsenal. We are ready for a deal. But If Pyongyang refuses to talk, we should tell him we are going home and are allowing South Korea and Japan to develop their own nuclear weapons. And let Kim deal with them… [Trump should] seize this crisis to do what he was elected to do -- impose a new foreign policy.”<br/><strong>Patrick Buchanan, Townhall</strong></p></div><div class="paragraph-6 right bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 right bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 right bullet w-dyn-bind-empty w-richtext"></div></div></div><div class="w-row"><div class="column-60 w-col w-col-6 w-col-small-6 w-col-tiny-tiny-stack"></div><div class="column-61 w-col w-col-6 w-col-small-6 w-col-tiny-tiny-stack"></div></div><div class="w-layout-grid grid-7 w-clearfix"><div id="w-node-c9ca80732245-d549fb85" class="paragraph-6 wide center w-dyn-bind-empty w-richtext"></div><div id="w-node-c9ca80732246-d549fb85" class="paragraph-6 wide libertarian w-dyn-bind-empty w-richtext"></div></div></div><div class="additional-closing w-dyn-bind-empty w-richtext"></div><div style="border-color:#453158" class="on-the-bright-side"><h4 class="heading-18">On the bright side...</h4><div class="rich-text-block-3 w-richtext"><p><a href="https://www.cbsnews.com/amp/news/coronavirus-social-distancing-work-from-home-walmart-tops-pants-sales/" target="_blank">As population works from home, Walmart reports increased sales for tops but not pants</a>.<br/><strong>CBS News</strong></p></div></div></div></div><div class="trollcta archive w-row"><div class="w-col w-col-6 w-col-stack"><div class="div-block-26 archive"><img src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5bfee82bbe4cd8508983a309_bear-0.png" alt="" class="bearhead archive"/><h2 class="heading-cta archive">Get troll-free political news.</h2></div></div><div class="w-col w-col-6 w-col-stack"><div class="w-clearfix w-form"><form id="email-form-2" name="email-form-2" data-name="Email Form 2" class="newsletter-form-fields faq"><input type="email" class="email-address-field-grey hero faq archive w-input" maxlength="256" name="hero-optin-2" data-name="Hero Optin 2" placeholder="your email address" id="hero-optin-2" required=""/><input type="submit" value="I want the best points from both sides        &gt;" data-wait="Please wait..." class="submit-button hero home faq archive w-button"/></form><div class="w-form-done"><div>Thank you! Your submission has been received!</div></div><div class="w-form-fail"><div>Oops! Something went wrong while submitting the form.</div></div></div></div></div><footer class="footer"><div class="columns-6 top-footer w-row"><div class="column-11 w-col w-col-4"><img src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5c800f4179da156500bd15f4_TFS%20-%20logo.svg" width="125" alt="Logo of The Flip Side" class="image-22 logo"/></div><div class="column-12 top-footer w-col w-col-4"><a id="w-node-8ef170fc7709-70fc7704" href="/latest-issue" class="footer-link w-inline-block"><div>LATEST ISSUE</div></a><a id="w-node-8ef170fc770c-70fc7704" href="/archives" class="footer-link w-inline-block"><div>ARCHIVES</div></a><a id="w-node-8ef170fc770f-70fc7704" href="/about-us" class="footer-link w-inline-block"><div>ABOUT US</div></a><a id="w-node-8ef170fc7715-70fc7704" href="/media" class="footer-link w-inline-block"><div>MEDIA</div></a><a id="w-node-8ef170fc7712-70fc7704" href="/supporters" class="footer-link w-inline-block"><div>SUPPORTERS</div></a><a id="w-node-a3c8f39c81e0-70fc7704" href="/faq" class="footer-link w-inline-block"><div>FAQ</div></a></div><div class="column-13 top-footer w-col w-col-4"><a href="https://www.facebook.com/KnowTheFlipSide/" class="link-block w-inline-block"><img src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5ec52bd498978ddc3785cf6e_facebook.svg" width="30" height="30" alt="Facebook"/></a><a href="http://twitter.com/knowtheflipside" class="link-block-2 w-inline-block"><img src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5ec52bd48143fd994f2ed9d1_twitter.svg" width="30" height="30" alt="Twitter"/></a><a href="mailto:editor@theflipside.io?subject=%5BFlipSide%20Website%20Inquiry%5D" class="w-inline-block"><img src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5ec52bd493802b79cc062997_email.svg" width="30" height="30" alt="Email"/></a></div></div><div class="columns-6 bottom-footer w-row"><div class="column-11 bottom-footer w-col w-col-3"><div class="text-block-15">COPYRIGHT © 2020</div></div><div class="column-12 bottom-footer w-col w-col-5"></div><div class="column-13 bottom-footer w-col w-col-4"><a href="/terms" class="link-block-2 terms w-inline-block"><div class="text-block-31">PRIVACY POLICY</div></a><div class="link-block-2 terms divider">|</div><a href="https://www.functionlabs.com" class="link-block-2 terms function w-inline-block"><div class="text-block-32">WEBSITE BY FUNCTION LABS</div></a></div></div></footer><script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.4.1.min.220afd743d.js?site=5bfd76c121f9503755c665f9" type="text/javascript" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script><script src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/js/the-flipside.369c6577a.js" type="text/javascript"></script><!--[if lte IE 9]><script src="//cdnjs.cloudflare.com/ajax/libs/placeholders/3.0.2/placeholders.min.js"></script><![endif]--><!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-58K3PC7"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<!-- UTM Passthrough Javascript -->
+
+<script type="text/javascript" charset="utf-8">
+var UtmCookie, UtmForm, _uf;
+UtmCookie = class {
+    constructor(options = {}) {
+        this._cookieNamePrefix = "_uc_", this._domain = options.domain, this._sessionLength = options.sessionLength || 1, this._cookieExpiryDays = options.cookieExpiryDays || 365, this._additionalParams = options.additionalParams || [], this._utmParams = ["utm_source", "utm_medium", "utm_campaign", "utm_term", "utm_content"], this.writeInitialReferrer(), this.writeLastReferrer(), this.writeInitialLandingPageUrl(), this.setCurrentSession(), this.additionalParamsPresentInUrl() && this.writeAdditionalParams(), this.utmPresentInUrl() && this.writeUtmCookieFromParams()
+    }
+    createCookie(name, value, days, path, domain, secure) {
+        var cookieDomain, cookieExpire, cookiePath, cookieSecure, date, expireDate;
+        expireDate = null, days && ((date = new Date).setTime(date.getTime() + 24 * days * 60 * 60 * 1e3), expireDate = date), cookieExpire = null != expireDate ? "; expires=" + expireDate.toGMTString() : "", cookiePath = null != path ? "; path=" + path : "; path=/", cookieDomain = null != domain ? "; domain=" + domain : "", cookieSecure = null != secure ? "; secure" : "", document.cookie = this._cookieNamePrefix + name + "=" + escape(value) + cookieExpire + cookiePath + cookieDomain + cookieSecure
+    }
+    readCookie(name) {
+        var c, ca, i, nameEQ;
+        for (nameEQ = this._cookieNamePrefix + name + "=", ca = document.cookie.split(";"), i = 0; i < ca.length;) {
+            for (c = ca[i];
+                " " === c.charAt(0);) c = c.substring(1, c.length);
+            if (0 === c.indexOf(nameEQ)) return c.substring(nameEQ.length, c.length);
+            i++
+        }
+        return null
+    }
+    eraseCookie(name) {
+        this.createCookie(name, "", -1, null, this._domain)
+    }
+    getParameterByName(name) {
+        var results;
+        return name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]"), (results = new RegExp("[\\?&]" + name + "=([^&#]*)").exec(window.location.search)) ? decodeURIComponent(results[1].replace(/\+/g, " ")) : ""
+    }
+    additionalParamsPresentInUrl() {
+        var j, len, param, ref;
+        for (j = 0, len = (ref = this._additionalParams).length; j < len; j++)
+            if (param = ref[j], this.getParameterByName(param)) return !0;
+        return !1
+    }
+    utmPresentInUrl() {
+        var j, len, param, ref;
+        for (j = 0, len = (ref = this._utmParams).length; j < len; j++)
+            if (param = ref[j], this.getParameterByName(param)) return !0;
+        return !1
+    }
+    writeCookie(name, value) {
+        this.createCookie(name, value, this._cookieExpiryDays, null, this._domain)
+    }
+    writeAdditionalParams() {
+        var j, len, param, ref, value;
+        for (j = 0, len = (ref = this._additionalParams).length; j < len; j++) param = ref[j], value = this.getParameterByName(param), this.writeCookie(param, value)
+    }
+    writeUtmCookieFromParams() {
+        var j, len, param, ref, value;
+        for (j = 0, len = (ref = this._utmParams).length; j < len; j++) param = ref[j], value = this.getParameterByName(param), this.writeCookie(param, value)
+    }
+    writeCookieOnce(name, value) {
+        this.readCookie(name) || this.writeCookie(name, value)
+    }
+    _sameDomainReferrer(referrer) {
+        var hostname;
+        return hostname = document.location.hostname, referrer.indexOf(this._domain) > -1 || referrer.indexOf(hostname) > -1
+    }
+    _isInvalidReferrer(referrer) {
+        return "" === referrer || void 0 === referrer
+    }
+    writeInitialReferrer() {
+        var value;
+        value = document.referrer, this._isInvalidReferrer(value) && (value = "direct"), this.writeCookieOnce("referrer", value)
+    }
+    writeLastReferrer() {
+        var value;
+        value = document.referrer, this._sameDomainReferrer(value) || (this._isInvalidReferrer(value) && (value = "direct"), this.writeCookie("last_referrer", value))
+    }
+    writeInitialLandingPageUrl() {
+        var value;
+        (value = this.cleanUrl()) && this.writeCookieOnce("initial_landing_page", value)
+    }
+    initialReferrer() {
+        return this.readCookie("referrer")
+    }
+    lastReferrer() {
+        return this.readCookie("last_referrer")
+    }
+    initialLandingPageUrl() {
+        return this.readCookie("initial_landing_page")
+    }
+    incrementVisitCount() {
+        var existingValue, newValue;
+        existingValue = parseInt(this.readCookie("visits"), 10), newValue = 1, newValue = isNaN(existingValue) ? 1 : existingValue + 1, this.writeCookie("visits", newValue)
+    }
+    visits() {
+        return this.readCookie("visits")
+    }
+    setCurrentSession() {
+        this.readCookie("current_session") || (this.createCookie("current_session", "true", this._sessionLength / 24, null, this._domain), this.incrementVisitCount())
+    }
+    cleanUrl() {
+        var cleanSearch;
+        return cleanSearch = window.location.search.replace(/utm_[^&]+&?/g, "").replace(/&$/, "").replace(/^\?$/, ""), window.location.origin + window.location.pathname + cleanSearch + window.location.hash
+    }
+}, UtmForm = class {
+    constructor(options = {}) {
+        this._utmParamsMap = {}, this._utmParamsMap.utm_source = options.utm_source_field || "USOURCE", this._utmParamsMap.utm_medium = options.utm_medium_field || "UMEDIUM", this._utmParamsMap.utm_campaign = options.utm_campaign_field || "UCAMPAIGN", this._utmParamsMap.utm_content = options.utm_content_field || "UCONTENT", this._utmParamsMap.utm_term = options.utm_term_field || "UTERM", this._additionalParamsMap = options.additional_params_map || {}, this._initialReferrerField = options.initial_referrer_field || "IREFERRER", this._lastReferrerField = options.last_referrer_field || "LREFERRER", this._initialLandingPageField = options.initial_landing_page_field || "ILANDPAGE", this._visitsField = options.visits_field || "VISITS", this._addToForm = options.add_to_form || "all", this._formQuerySelector = options.form_query_selector || "form", this._decodeURIs = options.decode_uris || !1, this.utmCookie = new UtmCookie({
+            domain: options.domain,
+            sessionLength: options.sessionLength,
+            cookieExpiryDays: options.cookieExpiryDays,
+            additionalParams: Object.getOwnPropertyNames(this._additionalParamsMap)
+        }), this.addAllFields()
+    }
+    addAllFields() {
+        var allForms, i, len;
+        for (allForms = document.querySelectorAll(this._formQuerySelector), len = "none" === this._addToForm ? 0 : "first" === this._addToForm ? Math.min(1, allForms.length) : allForms.length, i = 0; i < len;) this.addAllFieldsToForm(allForms[i]), i++
+    }
+    addAllFieldsToForm(form) {
+        var fieldName, param, ref, ref1;
+        if (form && !form._utm_tagged) {
+            for (param in form._utm_tagged = !0, ref = this._utmParamsMap) fieldName = ref[param], this.addFormElem(form, fieldName, this.utmCookie.readCookie(param));
+            for (param in ref1 = this._additionalParamsMap) fieldName = ref1[param], this.addFormElem(form, fieldName, this.utmCookie.readCookie(param));
+            this.addFormElem(form, this._initialReferrerField, this.utmCookie.initialReferrer()), this.addFormElem(form, this._lastReferrerField, this.utmCookie.lastReferrer()), this.addFormElem(form, this._initialLandingPageField, this.utmCookie.initialLandingPageUrl()), this.addFormElem(form, this._visitsField, this.utmCookie.visits())
+        }
+    }
+    addFormElem(form, fieldName, fieldValue) {
+        this.insertAfter(this.getFieldEl(fieldName, fieldValue), form.lastChild)
+    }
+    getFieldEl(fieldName, fieldValue) {
+        var fieldEl;
+        return (fieldEl = document.createElement("input")).type = "hidden", fieldEl.name = fieldName, fieldEl.value = this._decodeURIs ? decodeURIComponent(fieldValue) : fieldValue, fieldEl
+    }
+    insertAfter(newNode, referenceNode) {
+        return referenceNode.parentNode.insertBefore(newNode, referenceNode.nextSibling)
+    }
+}, _uf = window._uf || {}, window.UtmForm = new UtmForm(_uf);
+  
+</script>
+<!-- End UTM Passthrough Javascript --></body></html>
+
+
+

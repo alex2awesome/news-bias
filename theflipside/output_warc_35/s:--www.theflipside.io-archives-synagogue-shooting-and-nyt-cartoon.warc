@@ -1,0 +1,221 @@
+WARC/1.0
+WARC-Type: response
+WARC-Date: 2020-08-08T05:29:50Z
+WARC-Record-ID: <urn:uuid:76b0373a-6cf8-4828-a481-c7ba8eec270a>
+Content-Length: 35929
+Content-Type: application/http; msgtype=response
+WARC-Warcinfo-ID: <urn:uuid:2392e1db-fc38-4515-a27b-136d74d3726d>
+WARC-Concurrent-To: <urn:uuid:84781808-2284-4bd2-a829-5e9031690808>
+WARC-IP-Address: 54.157.174.158
+WARC-Target-URI: https://www.theflipside.io/archives/synagogue-shooting-and-nyt-cartoon
+WARC-Payload-Digest: sha1:R7LPCBJ27AODICWZAVBHEKWD4T7CBZNU
+WARC-Block-Digest: sha1:UMIY7ANFBZDX5TMYJFBQKTXWSSM6BKSV
+WARC-Identified-Payload-Type: text/html
+
+HTTP/1.1 200 OK
+Server: openresty
+Date: Sat, 08 Aug 2020 05:29:50 GMT
+Content-Type: text/html
+X-Crawler-Content-Length: 12646
+Content-Length: 35320
+Connection: keep-alive
+X-Crawler-Content-Encoding: gzip
+Content-Security-Policy: frame-ancestors 'self'
+X-Frame-Options: SAMEORIGIN
+x-lambda-id: 5348885b-7798-4260-a9c6-9d247748a784
+Via: 1.1 varnish
+Accept-Ranges: bytes
+Via: 1.1 varnish
+Age: 75827
+X-Served-By: cache-dca17721-DCA, cache-wdc5552-WDC
+X-Cache: MISS, HIT
+X-Cache-Hits: 0, 1
+X-Timer: S1596864591.616448,VS0,VE1
+Vary: Accept-Encoding
+X-Cluster-Name: us-east-1-prod-edge-eks-15
+
+<!DOCTYPE html><!-- Last Published: Fri Aug 07 2020 06:06:24 GMT+0000 (Coordinated Universal Time) --><html data-wf-domain="www.theflipside.io" data-wf-page="5c0affae2387a21ad549fb85" data-wf-site="5bfd76c121f9503755c665f9" lang="en"><head><meta charset="utf-8"/><title>Synagogue Shooting, and NYT Cartoon | The Flip Side</title><meta content="Synagogue Shooting, and NYT Cartoon" name="description"/><meta content="Synagogue Shooting, and NYT Cartoon | The Flip Side" property="og:title"/><meta content="Get the most intelligent quotes from both sides—in a free, 5-minute email a day." property="og:description"/><meta content="https://assets-global.website-files.com/5c01d9d275e85a6371ce6d1e/5c4e9148fe98b202812657bb_bears%20working%20together.png" property="og:image"/><meta content="Synagogue Shooting, and NYT Cartoon | The Flip Side" property="twitter:title"/><meta content="Get the most intelligent quotes from both sides—in a free, 5-minute email a day." property="twitter:description"/><meta content="https://assets-global.website-files.com/5c01d9d275e85a6371ce6d1e/5c4e9148fe98b202812657bb_bears%20working%20together.png" property="twitter:image"/><meta property="og:type" content="website"/><meta content="summary_large_image" name="twitter:card"/><meta content="width=device-width, initial-scale=1" name="viewport"/><link href="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/css/the-flipside.ff16e2438.min.css" rel="stylesheet" type="text/css"/><script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript"></script><script type="text/javascript">WebFont.load({  google: {    families: ["Lato:100,100italic,300,300italic,400,400italic,700,700italic,900,900italic"]  }});</script><script src="https://use.typekit.net/ief5vbu.js" type="text/javascript"></script><script type="text/javascript">try{Typekit.load();}catch(e){}</script><!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js" type="text/javascript"></script><![endif]--><script type="text/javascript">!function(o,c){var n=c.documentElement,t=" w-mod-";n.className+=t+"js",("ontouchstart"in o||o.DocumentTouch&&c instanceof DocumentTouch)&&(n.className+=t+"touch")}(window,document);</script><link href="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5c03871b75e85a9d2ecf243a_favicon-32x32.png" rel="shortcut icon" type="image/x-icon"/><link href="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5c038790f4cf11a559cd3a57_webclip256.png" rel="apple-touch-icon"/><link href="rss.xml" rel="alternate" title="RSS Feed" type="application/rss+xml"/><script type="text/javascript">!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.agent='plwebflow';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');fbq('init', '420932135099202');fbq('track', 'PageView');</script><!-- Async Anti-Flicker Code -->
+
+<style>.async-hide { opacity: 0 !important} </style>
+<script>(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+(a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+})(window,document.documentElement,'async-hide','dataLayer',4000,
+{'GTM-58K3PC7':true});</script>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-58K3PC7');</script>
+<!-- End Google Tag Manager -->
+
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<!-- Memberstack --> 
+<script src="https://api.memberstack.io/static/memberstack.js?webflow" data-memberstack-id="dd4b66b62c37ef91c54289827c1f3114"> </script><style>
+@media (max-width: 479px) {
+  .paragraph-div a {
+  	  font-size: 17px;
+    	line-height: 24px; }
+      
+  .on-the-bright-side a {
+  	  font-size: 17px;
+    	line-height: 24px; }
+}
+@media (max-width: 767px) {
+	.div-block-38 a {
+  	  font-size: 17px; 
+    	line-height: 24px; 
+}	
+  .paragraph-div a {
+  	  font-size: 17px;
+    	line-height: 26px; }
+      
+.on-the-bright-side a {
+  	  font-size: 17px;
+    	line-height: 26px; }
+}
+.w-nav-overlay {
+    z-index: 1002 !important;
+}
+</style></head><body class="body"><div data-collapse="medium" data-animation="over-right" data-duration="400" role="banner" class="navbar w-nav"><nav role="navigation" class="nav-menu w-nav-menu"><div class="nav-open-menu-links"><a href="/latest-issue" class="nav-open-menu-item mobile latest-issue w-nav-link">Latest Issue</a><a href="/archives" class="nav-open-menu-item mobile w-nav-link">Archives</a><a href="/about-us" class="nav-open-menu-item mobile w-nav-link">About Us</a><a href="/faq" class="nav-open-menu-item mobile faq w-nav-link">FAQ</a></div><div class="nav-menu-newsletter"><div class="form-block mobile w-form"><form id="email-form" name="email-form" data-name="Email Form" redirect="/one-more-thing" data-redirect="/one-more-thing" action="https://theflipside.us15.list-manage.com/subscribe/post?u=281c839c990f42b374467ae5f&amp;amp;id=7566a2ca43&quot; method=&quot;post&quot; id=&quot;mc-embedded-subscribe-form&quot; name=&quot;mc-embedded-subscribe-form" method="post" class="form mobile"><div class="text-block">GET TROLL-FREE POLITICAL NEWS</div><input type="email" class="text-field mobile w-input" maxlength="256" name="email-2" data-name="Email 2" placeholder="your email address" id="email-2" required=""/><input type="submit" value="I want to keep up with both sides &gt;" data-wait="Please wait..." class="submit-button mobile w-button"/><div class="text-block-2">We never spam and only send awesome news digests. Unsubscribe any time.</div></form><div class="w-form-done"><div>Thank you! Your submission has been received!</div></div><div class="w-form-fail"><div>Oops! Something went wrong while submitting the form.</div></div></div></div></nav><div data-w-id="83b1dd7a-785a-0585-a0c0-e44f2b23d2b5" class="nav-bar navbarother"><a href="/home-2-0" class="nav-logo w-nav-brand"><img src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5c018cd0879ec8a3e5fc263b_TFS%20Logo-n.png" alt="Logo" width="125" class="image-22 logo"/></a><div class="div-right header w-hidden-medium w-hidden-small w-hidden-tiny"><div class="nav-menu-links flex"><a href="/latest-issue" class="nav-link small w-nav-link">LATEST ISSUE</a><a href="/archives" class="nav-link small w-nav-link">ARCHIVES</a><a href="/about-us" class="nav-link small w-nav-link">ABOUT US</a><a href="/faq" class="nav-link small faq w-nav-link">FAQ</a></div></div><div class="div-right header w-hidden-medium w-hidden-small w-hidden-tiny"><div class="header-form w-form"><form id="email-form-2" name="email-form-2" data-name="Email Form 2" method="post" action="https://theflipside.us15.list-manage.com/subscribe/post?u=281c839c990f42b374467ae5f&amp;amp;id=7566a2ca43&quot; method=&quot;post&quot; id=&quot;mc-embedded-subscribe-form&quot; name=&quot;mc-embedded-subscribe-form" redirect="/one-more-thing" data-redirect="/one-more-thing" class="form-3"><input type="email" class="email-address-field-grey header w-input" maxlength="256" name="hero-optin-2" data-name="Hero Optin 2" placeholder="your email address" id="hero-optin-2" required=""/><div class="w-embed"><input type="hidden" name="MMERGE1" value="desk-menu"/></div><input type="submit" value="Subscribe &gt;" data-wait="Please wait..." id="https-theflipside.us15.list-manage.com-subscribe-post-u-281c839c990f42b374467ae5f-id-a0c19d8bf4" class="submit-button hero header w-button"/></form><div class="w-form-done"><div>Thank you! Your submission has been received!</div></div><div class="w-form-fail"><div>Oops! Something went wrong while submitting the form.</div></div></div></div></div><div class="menu-button-nav w-nav-button" data-ix="hamburger-button"><div class="top-line"></div><div class="middle-line"></div><div class="bottom-line"></div></div></div><div class="section-3"><div><h1 class="heading-16">April 30, 2019</h1><h1 class="heading-17">Synagogue Shooting, and NYT Cartoon</h1><div class="container-8 w-container"><div class="rich-text-block-4 w-dyn-bind-empty w-richtext"></div><img src="" alt="" class="image-48 w-dyn-bind-empty"/><div class="paragraph-div"><div class="rich-text-block-2 w-richtext"><p>On Saturday, “<a href="https://uk.reuters.com/article/uk-california-shooting/san-diego-area-synagogue-shooting-leaves-one-dead-several-wounded-authorities-idUKKCN1S30K6" target="_blank" data-rt-link-type="external">a gunman walked into a San Diego-area synagogue crowded with Sabbath worshippers on Saturday and opened fire</a> with an assault-style rifle, killing one woman inside and wounding three others.” <strong>Reuters</strong><br><br>On Sunday, the <em>New York Times</em> editorial staff stated that they are “<a href="https://twitter.com/nytopinion/status/1122567972973944832" target="_blank" data-rt-link-type="external">deeply sorry for the publication of an anti-Semitic cartoon</a>” that was <a href="https://www.axios.com/nyt-apologizes-anti-semitic-cartoon-featuring-trump-4242525d-3bbd-446e-960e-6d7759b7586e.html" target="_blank" data-rt-link-type="external">published last Thursday</a> in the international edition of the paper. <strong>New York Times, Axios</strong></p></div><a href="/archives" class="link-6">See past issues</a></div></div><img src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5bfee82d95c45605590f6387_bear-badge.png" width="114" alt="" class="image archives"/><div class="columns w-row"><div class="blue-divider w-col w-col-6 w-col-small-6 w-col-tiny-6"><div class="div-block-2"></div></div><div class="red-divider w-col w-col-6 w-col-small-6 w-col-tiny-6"><div class="div-block-3"></div></div></div><div class="div-block-38"><div class="columns-15 w-row"><div class="column-60 w-clearfix w-col w-col-6 w-col-small-6 w-col-tiny-tiny-stack"><h1 class="from-the-left-heading">From the Left</h1><h1 class="from-the-left-heading sponsored w-dyn-bind-empty"></h1><div class="paragraph-6 left intro w-richtext"><p>The left is focused on the shooting -- condemning white nationalism, and criticizing Trump for his divisive rhetoric and once again defending the Charlottesville protestors.</p></div><div class="paragraph-6 left bullet first w-richtext"><p data-w-id="5aa8f7ff-1101-6e28-1b38-526339b91b4f">“Saturday's attack came just a few weeks after reports emerged that the Department of Homeland Security had disbanded its group of analysts who focused on stopping such attacks. That occurred even though domestic terrorism is arguably one of the biggest threats to American national security: In 2017, 150 Americans were arrested for plotting attacks in the United States, compared to 110 arrests of international suspects. That commitment requires action by the Trump administration — which seems <a data-w-id="2d788ef3-7c84-545b-0310-75c0046dd656" href="https://theweek.com/articles/838133/americas-deadly-surge-antisemitism" target="_blank" data-rt-link-type="external">uninterested in this growing threat</a>.”<br data-w-id="5ab9de30-62a7-54b5-6df8-11ecde2f8320"><strong data-w-id="a7c7798d-c81c-68af-e977-d4c2c6efb6ff">Joel Mathis, The Week</strong><br data-w-id="2ebb0eb2-0ee0-aa38-816a-1ea72a50d42b"></p></div><div class="paragraph-6 left bullet first sponsored w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 left bullet w-richtext"><p data-w-id="0045d07d-5f58-6f7d-d752-de5d8ebd8f59">“The fact is that anti-Semitism and Islamophobia in the West flow from one source: <a data-w-id="1e41de97-67dc-d1bd-be03-ba2986091bcf" href="https://theintercept.com/2019/04/28/san-diego-synagogue-attack-new-zealand-anti-semitism-islamophobia/" target="_blank" data-rt-link-type="external">the quest for ethnic purity</a>. Those who accept one bigotry while thinking they will be safe from the other are living a delusion… both minority groups are today threatened by the emergence of far-right movements utterly hostile to diversity… History has already shown us where this road leads.”<br data-w-id="aa2b97d1-7494-add8-9b87-f7f05ae9d944"><strong data-w-id="5a8fd4ec-0b81-5d0a-eb83-5979ec068ea0">Murtaza Hussain, The Intercept</strong></p></div><div class="paragraph-6 left bullet w-richtext"><p>“At the core of the white nationalist movement is the anxiety of ‘the great replacement,’ a conspiracy theory that posits Jews, black people, and Muslims will ultimately replace white people and force them into subordination. Jews are viewed by those who ascribe to these set of beliefs as the master manipulators behind this elaborate plan, trafficking in non-white immigrants and refugees… <a href="https://thinkprogress.org/california-synagogue-shooting-chabad-poway-anti-semitic-rhetoric-and-anti-immigrant-violence-go-hand-in-hand-2c25d757b564/" target="_blank" data-rt-link-type="external">anti-Semitic rhetoric and anti-immigrant violence go hand in hand</a>.”<br><strong>Rebekah Entralgo, ThinkProgress</strong></p></div><div class="paragraph-6 left bullet w-richtext"><p>“During a question-and-answer session with reporters on Friday, Trump was asked if he still thinks there were ‘very fine people’ on both sides of the Charlottesville rallies… Trump responded to the question by defending the widely denounced false equivalency he drew between white supremacists and people who were in Charlottesville protesting white supremacy… <br><br>“While it may have been the case that some people were in Charlottesville demonstrating that weekend merely because they felt aggrieved about a Confederate monument being taken down, many others walked through the streets chanting ‘Jews will not replace us’... <a href="https://www.vox.com/2019/4/27/18520810/trump-poway-synagogue-shooting-response-green-bay" target="_blank" data-rt-link-type="external">what ‘Unite the Right’ was really about was never in doubt</a>.”<br><strong>Aaron Rupar, Vox</strong></p></div><div class="paragraph-6 left bullet w-richtext"><p>“It takes away nothing from the horror of the [recent] crime to say that it feels familiar, following not just the October 2018 massacre at a synagogue in Pittsburgh but also a rise in reports of anti-Semitic incidents overall. <a href="https://www.theatlantic.com/ideas/archive/2019/04/trump-biden-and-charlottesville/588274/" target="_blank" data-rt-link-type="external">None of this felt nearly so normal before the march in Charlottesville</a>… the consequences of shrugging off anti-Semitic violence remain with the nation… The weekend of August 12, 2017, may well have been a turning point in recent American history.”<br><strong>David A. Graham, The Atlantic</strong></p></div><div class="paragraph-6 left bullet w-richtext"><p data-w-id="bc6a165f-d0d0-2f24-5087-75d8c413af58">Regarding the <em data-w-id="b5f72151-2eb7-654b-fbce-d817b21161c0">Times</em> cartoon, “Before San Diego &amp; Pittsburgh, deadly attacks on Jews in synagogues happened in other countries. Before Charlottesville, violent nationalists marching with torches screaming ‘Jews will not replace us’ happened in other countries… before the NYT made its terrible decision, the publishing of <a data-w-id="6fb29abb-51f2-e885-7ec5-06f130988660" href="https://twitter.com/RepTedDeutch/status/1122850330113392640" target="_blank" data-rt-link-type="external">outrageously anti-Semitic cartoons</a> by leading national newspapers also happened only in other countries… We must confront the anti-Semitism in America.”<br data-w-id="79ae15b0-4c82-8a29-88dc-d54e36548bea"><strong data-w-id="8ae689ca-56f4-ebe3-8a7d-a2da1f2ff873">Rep. Ted Deutch (D-FL), Twitter</strong></p></div><div class="paragraph-6 left bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 left bullet w-dyn-bind-empty w-richtext"></div></div><div class="column-61 w-clearfix w-col w-col-6 w-col-small-6 w-col-tiny-tiny-stack"><h1 class="from-the-right-heading">From the Right</h1><h1 class="from-the-right-heading sponsored w-dyn-bind-empty"></h1><div class="paragraph-6 right intro w-hidden-tiny w-richtext"><p>The right rejects attempts to blame Trump for the shooting, and argues that the<em>Times</em> cartoon exemplifies growing acceptance of anti-Semitism on the left.</p></div><div class="paragraph-6 right intro w-hidden-main w-hidden-medium w-hidden-small w-richtext"><p>The right rejects attempts to blame Trump for the shooting, and argues that the<em>Times</em> cartoon exemplifies growing acceptance of anti-Semitism on the left.</p></div><div class="paragraph-6 right bullet first w-richtext"><p>“Because everything must be about President Trump, the left blames him for Pittsburgh and San Diego. His critics point to his shabby response to Charlottesville (Trump actually did condemn the white nationalists and neo-Nazis, but posited ‘fine people’ on their side who didn’t exist). Yet, <a href="https://nypost.com/2019/04/29/todays-anti-semitism-festers-in-online-sewers-and-the-pages-of-the-new-york-times/" target="_blank" data-rt-link-type="external">Trump was explicitly ­rejected by the San Diego and Pittsburgh shooters</a>, precisely ­because he’s so pro-Israel.”<br><strong>Rich Lowry, New York Post</strong></p></div><div class="paragraph-6 right bullet first sponsored w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 right bullet w-richtext"><p>“<a href="https://thefederalist.com/2019/04/29/its-a-hatred-of-israel-that-unites-all-anti-semites/" target="_blank" data-rt-link-type="external">A hatred of Israel is the one thing all anti-Semites have in common</a>… The [shooter] hadn’t cooked up his ugly ideas reading ‘Mein Kampf’ in a cabin in the deep wilderness of Red America, but in a comfortable home in Southern California using the internet. The shooter wasn’t raised under the shadow of a Robert E. Lee statue or a Confederate flag, but in a substantially diverse area in a deeply liberal state… The shooter’s manifesto makes clear that he didn’t kill because of Donald Trump or some alleged dog whistle or a New York Times cartoon or any concerted ideological cause other than racial hatred.”<br><strong>David Harsanyi, The Federalist</strong></p></div><div class="paragraph-6 right bullet w-richtext"><p>At the same time, “the distance between the offices of The New York Times international edition and the Chabad synagogue in San Diego, which a gunman attacked on Saturday, is growing smaller as the reach of the internet is growing larger…<br><br>“Jews have been killed by extremist right wingers and by extremist Muslims, but not by hard left haters, at least not yet. Why focus so much attention on the ‘benign’ anti-Semitism of anti-Israel extremists on the hard left? For one obvious important reason: The violent anti-Semitism of the hard right, as represented by the murders of Jews at prayer in San Diego and Pittsburgh, is universally condemned by all decent people, including conservatives. <a href="https://thehill.com/opinion/civil-rights/441112-dershowitz-anti-semitic-cartoons-anti-semitic-synagogue-shootings" target="_blank" data-rt-link-type="external">The ‘benign’ anti-Semitism of the hard left</a>, which often is disguised as anti-Zionism, [gets] a pass from many liberals.”<br><strong>Alan Dershowitz, The Hill</strong></p></div><div class="paragraph-6 right bullet w-richtext"><p>“Here was an image that, in another age, might have been published in the pages of Der Stürmer. The Jew in the form of a dog. The small but wily Jew leading the dumb and trusting American. The hated Trump being Judaized with a skullcap. The nominal servant acting as the true master. The cartoon checked so many anti-Semitic boxes that the only thing missing was a dollar sign… <br><br>“[But] the problem with the cartoon isn’t that its publication was a willful act of anti-Semitism. It wasn’t. The problem is that its publication was an astonishing act of ignorance of anti-Semitism — and that, at <a href="https://www.nytimes.com/2019/04/28/opinion/cartoon-nytimes.html" target="_blank" data-rt-link-type="external">a publication that is otherwise hyper-alert to nearly every conceivable expression of prejudice</a>, from mansplaining to racial microaggressions to transphobia.”<br><strong>Bret Stephens, New York Times</strong><br></p></div><div class="paragraph-6 right bullet w-richtext"><p>“If the <em>Times </em>management was as horrified by the international edition’s transgression as they should be, they would engage in the same deep repentance — meaning a sincere and articulated apology combined with a commitment to change — that the paper would demand of other publications (particularly conservative) that committed similar wrongdoing… <a href="https://www.nationalreview.com/corner/the-new-york-times-inadequate-apology-for-its-anti-semitic-cartoon/" target="_blank" data-rt-link-type="external">the paper should explain in detail how the cartoon came to be published</a>. It should explain what — if any — disciplinary actions were taken against those that made the decision to print it, and what steps the paper is taking to ensure there are no repeat performances.”<br><strong>Wesley J. Smith, National Review</strong></p></div><div class="paragraph-6 right bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 right bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 right bullet w-dyn-bind-empty w-richtext"></div></div></div><div class="w-row"><div class="column-60 w-col w-col-6 w-col-small-6 w-col-tiny-tiny-stack"></div><div class="column-61 w-col w-col-6 w-col-small-6 w-col-tiny-tiny-stack"></div></div><div class="w-layout-grid grid-7 w-clearfix"><div id="w-node-c9ca80732245-d549fb85" class="paragraph-6 wide center w-dyn-bind-empty w-richtext"></div><div id="w-node-c9ca80732246-d549fb85" class="paragraph-6 wide libertarian w-dyn-bind-empty w-richtext"></div></div></div><div class="additional-closing w-dyn-bind-empty w-richtext"></div><div class="on-the-bright-side"><h4 class="heading-18 w-dyn-bind-empty"></h4><div class="rich-text-block-3 w-richtext"><p>Crocs <a href="https://rare.us/rare-humor/crocs-with-fanny-packs/" target="_blank" data-rt-link-type="external">with miniature fanny packs actually exist</a>, and we have so many questions.<br><strong>Rare</strong></p></div></div></div></div><div class="trollcta archive w-row"><div class="w-col w-col-6 w-col-stack"><div class="div-block-26 archive"><img src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5bfee82bbe4cd8508983a309_bear-0.png" alt="" class="bearhead archive"/><h2 class="heading-cta archive">Get troll-free political news.</h2></div></div><div class="w-col w-col-6 w-col-stack"><div class="w-clearfix w-form"><form id="email-form-2" name="email-form-2" data-name="Email Form 2" class="newsletter-form-fields faq"><input type="email" class="email-address-field-grey hero faq archive w-input" maxlength="256" name="hero-optin-2" data-name="Hero Optin 2" placeholder="your email address" id="hero-optin-2" required=""/><input type="submit" value="I want the best points from both sides        &gt;" data-wait="Please wait..." class="submit-button hero home faq archive w-button"/></form><div class="w-form-done"><div>Thank you! Your submission has been received!</div></div><div class="w-form-fail"><div>Oops! Something went wrong while submitting the form.</div></div></div></div></div><footer class="footer"><div class="columns-6 top-footer w-row"><div class="column-11 w-col w-col-4"><img src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5c800f4179da156500bd15f4_TFS%20-%20logo.svg" width="125" alt="Logo of The Flip Side" class="image-22 logo"/></div><div class="column-12 top-footer w-col w-col-4"><a id="w-node-8ef170fc7709-70fc7704" href="/latest-issue" class="footer-link w-inline-block"><div>LATEST ISSUE</div></a><a id="w-node-8ef170fc770c-70fc7704" href="/archives" class="footer-link w-inline-block"><div>ARCHIVES</div></a><a id="w-node-8ef170fc770f-70fc7704" href="/about-us" class="footer-link w-inline-block"><div>ABOUT US</div></a><a id="w-node-8ef170fc7715-70fc7704" href="/media" class="footer-link w-inline-block"><div>MEDIA</div></a><a id="w-node-8ef170fc7712-70fc7704" href="/supporters" class="footer-link w-inline-block"><div>SUPPORTERS</div></a><a id="w-node-a3c8f39c81e0-70fc7704" href="/faq" class="footer-link w-inline-block"><div>FAQ</div></a></div><div class="column-13 top-footer w-col w-col-4"><a href="https://www.facebook.com/KnowTheFlipSide/" class="link-block w-inline-block"><img src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5ec52bd498978ddc3785cf6e_facebook.svg" width="30" height="30" alt="Facebook"/></a><a href="http://twitter.com/knowtheflipside" class="link-block-2 w-inline-block"><img src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5ec52bd48143fd994f2ed9d1_twitter.svg" width="30" height="30" alt="Twitter"/></a><a href="mailto:editor@theflipside.io?subject=%5BFlipSide%20Website%20Inquiry%5D" class="w-inline-block"><img src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5ec52bd493802b79cc062997_email.svg" width="30" height="30" alt="Email"/></a></div></div><div class="columns-6 bottom-footer w-row"><div class="column-11 bottom-footer w-col w-col-3"><div class="text-block-15">COPYRIGHT © 2020</div></div><div class="column-12 bottom-footer w-col w-col-5"></div><div class="column-13 bottom-footer w-col w-col-4"><a href="/terms" class="link-block-2 terms w-inline-block"><div class="text-block-31">PRIVACY POLICY</div></a><div class="link-block-2 terms divider">|</div><a href="https://www.functionlabs.com" class="link-block-2 terms function w-inline-block"><div class="text-block-32">WEBSITE BY FUNCTION LABS</div></a></div></div></footer><script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.4.1.min.220afd743d.js?site=5bfd76c121f9503755c665f9" type="text/javascript" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script><script src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/js/the-flipside.a4f27a610.js" type="text/javascript"></script><!--[if lte IE 9]><script src="//cdnjs.cloudflare.com/ajax/libs/placeholders/3.0.2/placeholders.min.js"></script><![endif]--><!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-58K3PC7"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<!-- UTM Passthrough Javascript -->
+
+<script type="text/javascript" charset="utf-8">
+var UtmCookie, UtmForm, _uf;
+UtmCookie = class {
+    constructor(options = {}) {
+        this._cookieNamePrefix = "_uc_", this._domain = options.domain, this._sessionLength = options.sessionLength || 1, this._cookieExpiryDays = options.cookieExpiryDays || 365, this._additionalParams = options.additionalParams || [], this._utmParams = ["utm_source", "utm_medium", "utm_campaign", "utm_term", "utm_content"], this.writeInitialReferrer(), this.writeLastReferrer(), this.writeInitialLandingPageUrl(), this.setCurrentSession(), this.additionalParamsPresentInUrl() && this.writeAdditionalParams(), this.utmPresentInUrl() && this.writeUtmCookieFromParams()
+    }
+    createCookie(name, value, days, path, domain, secure) {
+        var cookieDomain, cookieExpire, cookiePath, cookieSecure, date, expireDate;
+        expireDate = null, days && ((date = new Date).setTime(date.getTime() + 24 * days * 60 * 60 * 1e3), expireDate = date), cookieExpire = null != expireDate ? "; expires=" + expireDate.toGMTString() : "", cookiePath = null != path ? "; path=" + path : "; path=/", cookieDomain = null != domain ? "; domain=" + domain : "", cookieSecure = null != secure ? "; secure" : "", document.cookie = this._cookieNamePrefix + name + "=" + escape(value) + cookieExpire + cookiePath + cookieDomain + cookieSecure
+    }
+    readCookie(name) {
+        var c, ca, i, nameEQ;
+        for (nameEQ = this._cookieNamePrefix + name + "=", ca = document.cookie.split(";"), i = 0; i < ca.length;) {
+            for (c = ca[i];
+                " " === c.charAt(0);) c = c.substring(1, c.length);
+            if (0 === c.indexOf(nameEQ)) return c.substring(nameEQ.length, c.length);
+            i++
+        }
+        return null
+    }
+    eraseCookie(name) {
+        this.createCookie(name, "", -1, null, this._domain)
+    }
+    getParameterByName(name) {
+        var results;
+        return name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]"), (results = new RegExp("[\\?&]" + name + "=([^&#]*)").exec(window.location.search)) ? decodeURIComponent(results[1].replace(/\+/g, " ")) : ""
+    }
+    additionalParamsPresentInUrl() {
+        var j, len, param, ref;
+        for (j = 0, len = (ref = this._additionalParams).length; j < len; j++)
+            if (param = ref[j], this.getParameterByName(param)) return !0;
+        return !1
+    }
+    utmPresentInUrl() {
+        var j, len, param, ref;
+        for (j = 0, len = (ref = this._utmParams).length; j < len; j++)
+            if (param = ref[j], this.getParameterByName(param)) return !0;
+        return !1
+    }
+    writeCookie(name, value) {
+        this.createCookie(name, value, this._cookieExpiryDays, null, this._domain)
+    }
+    writeAdditionalParams() {
+        var j, len, param, ref, value;
+        for (j = 0, len = (ref = this._additionalParams).length; j < len; j++) param = ref[j], value = this.getParameterByName(param), this.writeCookie(param, value)
+    }
+    writeUtmCookieFromParams() {
+        var j, len, param, ref, value;
+        for (j = 0, len = (ref = this._utmParams).length; j < len; j++) param = ref[j], value = this.getParameterByName(param), this.writeCookie(param, value)
+    }
+    writeCookieOnce(name, value) {
+        this.readCookie(name) || this.writeCookie(name, value)
+    }
+    _sameDomainReferrer(referrer) {
+        var hostname;
+        return hostname = document.location.hostname, referrer.indexOf(this._domain) > -1 || referrer.indexOf(hostname) > -1
+    }
+    _isInvalidReferrer(referrer) {
+        return "" === referrer || void 0 === referrer
+    }
+    writeInitialReferrer() {
+        var value;
+        value = document.referrer, this._isInvalidReferrer(value) && (value = "direct"), this.writeCookieOnce("referrer", value)
+    }
+    writeLastReferrer() {
+        var value;
+        value = document.referrer, this._sameDomainReferrer(value) || (this._isInvalidReferrer(value) && (value = "direct"), this.writeCookie("last_referrer", value))
+    }
+    writeInitialLandingPageUrl() {
+        var value;
+        (value = this.cleanUrl()) && this.writeCookieOnce("initial_landing_page", value)
+    }
+    initialReferrer() {
+        return this.readCookie("referrer")
+    }
+    lastReferrer() {
+        return this.readCookie("last_referrer")
+    }
+    initialLandingPageUrl() {
+        return this.readCookie("initial_landing_page")
+    }
+    incrementVisitCount() {
+        var existingValue, newValue;
+        existingValue = parseInt(this.readCookie("visits"), 10), newValue = 1, newValue = isNaN(existingValue) ? 1 : existingValue + 1, this.writeCookie("visits", newValue)
+    }
+    visits() {
+        return this.readCookie("visits")
+    }
+    setCurrentSession() {
+        this.readCookie("current_session") || (this.createCookie("current_session", "true", this._sessionLength / 24, null, this._domain), this.incrementVisitCount())
+    }
+    cleanUrl() {
+        var cleanSearch;
+        return cleanSearch = window.location.search.replace(/utm_[^&]+&?/g, "").replace(/&$/, "").replace(/^\?$/, ""), window.location.origin + window.location.pathname + cleanSearch + window.location.hash
+    }
+}, UtmForm = class {
+    constructor(options = {}) {
+        this._utmParamsMap = {}, this._utmParamsMap.utm_source = options.utm_source_field || "USOURCE", this._utmParamsMap.utm_medium = options.utm_medium_field || "UMEDIUM", this._utmParamsMap.utm_campaign = options.utm_campaign_field || "UCAMPAIGN", this._utmParamsMap.utm_content = options.utm_content_field || "UCONTENT", this._utmParamsMap.utm_term = options.utm_term_field || "UTERM", this._additionalParamsMap = options.additional_params_map || {}, this._initialReferrerField = options.initial_referrer_field || "IREFERRER", this._lastReferrerField = options.last_referrer_field || "LREFERRER", this._initialLandingPageField = options.initial_landing_page_field || "ILANDPAGE", this._visitsField = options.visits_field || "VISITS", this._addToForm = options.add_to_form || "all", this._formQuerySelector = options.form_query_selector || "form", this._decodeURIs = options.decode_uris || !1, this.utmCookie = new UtmCookie({
+            domain: options.domain,
+            sessionLength: options.sessionLength,
+            cookieExpiryDays: options.cookieExpiryDays,
+            additionalParams: Object.getOwnPropertyNames(this._additionalParamsMap)
+        }), this.addAllFields()
+    }
+    addAllFields() {
+        var allForms, i, len;
+        for (allForms = document.querySelectorAll(this._formQuerySelector), len = "none" === this._addToForm ? 0 : "first" === this._addToForm ? Math.min(1, allForms.length) : allForms.length, i = 0; i < len;) this.addAllFieldsToForm(allForms[i]), i++
+    }
+    addAllFieldsToForm(form) {
+        var fieldName, param, ref, ref1;
+        if (form && !form._utm_tagged) {
+            for (param in form._utm_tagged = !0, ref = this._utmParamsMap) fieldName = ref[param], this.addFormElem(form, fieldName, this.utmCookie.readCookie(param));
+            for (param in ref1 = this._additionalParamsMap) fieldName = ref1[param], this.addFormElem(form, fieldName, this.utmCookie.readCookie(param));
+            this.addFormElem(form, this._initialReferrerField, this.utmCookie.initialReferrer()), this.addFormElem(form, this._lastReferrerField, this.utmCookie.lastReferrer()), this.addFormElem(form, this._initialLandingPageField, this.utmCookie.initialLandingPageUrl()), this.addFormElem(form, this._visitsField, this.utmCookie.visits())
+        }
+    }
+    addFormElem(form, fieldName, fieldValue) {
+        this.insertAfter(this.getFieldEl(fieldName, fieldValue), form.lastChild)
+    }
+    getFieldEl(fieldName, fieldValue) {
+        var fieldEl;
+        return (fieldEl = document.createElement("input")).type = "hidden", fieldEl.name = fieldName, fieldEl.value = this._decodeURIs ? decodeURIComponent(fieldValue) : fieldValue, fieldEl
+    }
+    insertAfter(newNode, referenceNode) {
+        return referenceNode.parentNode.insertBefore(newNode, referenceNode.nextSibling)
+    }
+}, _uf = window._uf || {}, window.UtmForm = new UtmForm(_uf);
+  
+</script>
+<!-- End UTM Passthrough Javascript --></body></html>
+
+
+

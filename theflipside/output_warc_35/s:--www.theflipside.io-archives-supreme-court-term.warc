@@ -1,0 +1,219 @@
+WARC/1.0
+WARC-Type: response
+WARC-Date: 2022-08-16T22:22:15Z
+WARC-Record-ID: <urn:uuid:39b2680a-0043-47c7-8b81-7b6d9f0e1331>
+Content-Length: 37406
+Content-Type: application/http; msgtype=response
+WARC-Warcinfo-ID: <urn:uuid:7a840a44-769e-42d4-9bad-1182a0b0deae>
+WARC-Concurrent-To: <urn:uuid:d78d5043-2d88-453d-8bf8-cd0f1977c927>
+WARC-IP-Address: 44.207.21.146
+WARC-Target-URI: https://www.theflipside.io/archives/supreme-court-term
+WARC-Payload-Digest: sha1:MFVYLHZJJSHPZKND7V4NPSMFNVOXHIUK
+WARC-Block-Digest: sha1:DID3QKKYTPPT74KN4NB2MAGU3FWNO5MU
+WARC-Identified-Payload-Type: text/html
+
+HTTP/1.1 200 OK
+Server: openresty
+Date: Tue, 16 Aug 2022 22:22:15 GMT
+Content-Type: text/html
+X-Crawler-Content-Length: 13249
+Content-Length: 36817
+Connection: keep-alive
+X-Crawler-Content-Encoding: gzip
+Content-Security-Policy: frame-ancestors 'self'
+X-Frame-Options: SAMEORIGIN
+X-Lambda-Id: 8da909ad-c2d9-4946-8b27-dcea6fa7d4f5
+Accept-Ranges: bytes
+Via: 1.1 varnish
+Age: 0
+X-Served-By: cache-iad-kcgs7200031-IAD
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1660688535.529082,VS0,VE537
+Vary: x-wf-forwarded-proto, Accept-Encoding
+X-Cluster-Name: us-east-1-prod-edge-blue
+
+<!DOCTYPE html><!-- Last Published: Tue Aug 16 2022 06:46:36 GMT+0000 (Coordinated Universal Time) --><html data-wf-domain="www.theflipside.io" data-wf-page="5c0affae2387a21ad549fb85" data-wf-site="5bfd76c121f9503755c665f9" lang="en"><head><meta charset="utf-8"/><title>Supreme Court Term | The Flip Side</title><meta content="Supreme Court Term" name="description"/><meta content="Supreme Court Term | The Flip Side" property="og:title"/><meta content="Get the most intelligent quotes from both sides—in a free, 5-minute email a day." property="og:description"/><meta content="https://assets-global.website-files.com/5c01d9d275e85a6371ce6d1e/5c4e9148fe98b202812657bb_bears%20working%20together.png" property="og:image"/><meta content="Supreme Court Term | The Flip Side" property="twitter:title"/><meta content="Get the most intelligent quotes from both sides—in a free, 5-minute email a day." property="twitter:description"/><meta content="https://assets-global.website-files.com/5c01d9d275e85a6371ce6d1e/5c4e9148fe98b202812657bb_bears%20working%20together.png" property="twitter:image"/><meta property="og:type" content="website"/><meta content="summary_large_image" name="twitter:card"/><meta content="width=device-width, initial-scale=1" name="viewport"/><link href="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/css/the-flipside.937d0091e.min.css" rel="stylesheet" type="text/css"/><script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript"></script><script type="text/javascript">WebFont.load({  google: {    families: ["Lato:100,100italic,300,300italic,400,400italic,700,700italic,900,900italic"]  }});</script><script src="https://use.typekit.net/ief5vbu.js" type="text/javascript"></script><script type="text/javascript">try{Typekit.load();}catch(e){}</script><!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js" type="text/javascript"></script><![endif]--><script type="text/javascript">!function(o,c){var n=c.documentElement,t=" w-mod-";n.className+=t+"js",("ontouchstart"in o||o.DocumentTouch&&c instanceof DocumentTouch)&&(n.className+=t+"touch")}(window,document);</script><link href="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5c03871b75e85a9d2ecf243a_favicon-32x32.png" rel="shortcut icon" type="image/x-icon"/><link href="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5c038790f4cf11a559cd3a57_webclip256.png" rel="apple-touch-icon"/><link href="rss.xml" rel="alternate" title="RSS Feed" type="application/rss+xml"/><script type="text/javascript">!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.agent='plwebflow';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');fbq('init', '420932135099202');fbq('track', 'PageView');</script><!-- Async Anti-Flicker Code -->
+
+<style>.async-hide { opacity: 0 !important} </style>
+<script>(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+(a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+})(window,document.documentElement,'async-hide','dataLayer',4000,
+{'GTM-58K3PC7':true});</script>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-58K3PC7');</script>
+<!-- End Google Tag Manager -->
+
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<!-- Memberstack --> 
+<script src="https://api.memberstack.io/static/memberstack.js?webflow" data-memberstack-id="dd4b66b62c37ef91c54289827c1f3114"> </script>
+<meta name="facebook-domain-verification" content="iwu96sl48x7iyi5jym4ncc45zdaz8e" /><style>
+@media (max-width: 479px) {
+  .paragraph-div a {
+  	  font-size: 17px;
+    	line-height: 24px; }
+      
+  .on-the-bright-side a {
+  	  font-size: 17px;
+    	line-height: 24px; }
+}
+@media (max-width: 767px) {
+	.div-block-38 a {
+  	  font-size: 17px; 
+    	line-height: 24px; 
+}	
+  .paragraph-div a {
+  	  font-size: 17px;
+    	line-height: 26px; }
+      
+.on-the-bright-side a {
+  	  font-size: 17px;
+    	line-height: 26px; }
+}
+.w-nav-overlay {
+    z-index: 1002 !important;
+}
+</style></head><body class="body"><div data-collapse="medium" data-animation="over-right" data-duration="400" data-easing="ease" data-easing2="ease" data-no-scroll="1" role="banner" class="navbar w-nav"><nav role="navigation" class="nav-menu w-nav-menu"><div class="nav-open-menu-links"><a href="/latest-issue" class="nav-open-menu-item mobile latest-issue w-nav-link">Latest Issue</a><a href="/archives" class="nav-open-menu-item mobile w-nav-link">Archives</a><a href="/about-us" class="nav-open-menu-item mobile w-nav-link">About Us</a><a href="/faq" class="nav-open-menu-item mobile faq w-nav-link">FAQ</a></div><div class="nav-menu-newsletter"><div class="form-block mobile w-form"><form id="email-form" name="email-form" data-name="Email Form" redirect="/one-more-thing" data-redirect="/one-more-thing" action="https://theflipside.us15.list-manage.com/subscribe/post?u=281c839c990f42b374467ae5f&amp;amp;id=7566a2ca43&quot; method=&quot;post&quot; id=&quot;mc-embedded-subscribe-form&quot; name=&quot;mc-embedded-subscribe-form" method="post" class="form mobile"><div class="text-block">GET TROLL-FREE POLITICAL NEWS</div><input type="email" class="text-field mobile w-input" maxlength="256" name="email-2" data-name="Email 2" placeholder="your email address" id="email-2" required=""/><input type="submit" value="I want to keep up with both sides &gt;" data-wait="Please wait..." class="submit-button mobile w-button"/><div class="text-block-2">We never spam and only send awesome news digests. Unsubscribe any time.</div></form><div class="w-form-done"><div>Thank you! Your submission has been received!</div></div><div class="w-form-fail"><div>Oops! Something went wrong while submitting the form.</div></div></div></div></nav><div data-w-id="83b1dd7a-785a-0585-a0c0-e44f2b23d2b5" class="nav-bar navbarother"><a href="/home-2-0" class="nav-logo w-nav-brand"><img src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5c018cd0879ec8a3e5fc263b_TFS%20Logo-n.png" alt="Logo" width="125" class="image-22 logo"/></a><div class="div-right header w-hidden-medium w-hidden-small w-hidden-tiny"><div class="nav-menu-links flex"><a href="/latest-issue" class="nav-link small w-nav-link">LATEST ISSUE</a><a href="/archives" class="nav-link small w-nav-link">ARCHIVES</a><a href="/about-us" class="nav-link small w-nav-link">ABOUT US</a><a href="/faq" class="nav-link small faq w-nav-link">FAQ</a></div></div><div class="div-right header w-hidden-medium w-hidden-small w-hidden-tiny"><div class="header-form w-form"><form id="email-form-2" name="email-form-2" data-name="Email Form 2" method="post" action="https://theflipside.us15.list-manage.com/subscribe/post?u=281c839c990f42b374467ae5f&amp;amp;id=7566a2ca43&quot; method=&quot;post&quot; id=&quot;mc-embedded-subscribe-form&quot; name=&quot;mc-embedded-subscribe-form" redirect="/one-more-thing" data-redirect="/one-more-thing" class="form-3"><input type="email" class="email-address-field-grey header w-input" maxlength="256" name="hero-optin-2" data-name="Hero Optin 2" placeholder="your email address" id="hero-optin-2" required=""/><div class="w-embed"><input type="hidden" name="MMERGE1" value="desk-menu"/></div><input type="submit" value="Subscribe &gt;" data-wait="Please wait..." id="https-theflipside.us15.list-manage.com-subscribe-post-u-281c839c990f42b374467ae5f-id-a0c19d8bf4" class="submit-button hero header w-button"/></form><div class="w-form-done"><div>Thank you! Your submission has been received!</div></div><div class="w-form-fail"><div>Oops! Something went wrong while submitting the form.</div></div></div></div></div><div class="menu-button-nav w-nav-button" data-ix="hamburger-button"><div class="top-line"></div><div class="middle-line"></div><div class="bottom-line"></div></div></div><div class="section-3 wf-section"><div><h1 class="heading-16">October 4, 2021</h1><h1 class="heading-17">Supreme Court Term</h1><div class="container-8 w-container"><div class="rich-text-block-4 w-richtext"><p><strong>Sponsored by</strong></p><figure class="w-richtext-align-center w-richtext-figure-type-image"><div><img src="https://assets-global.website-files.com/5c01d9d275e85a6371ce6d1e/605da04d111b46a6f17da8bd_c0245ebe-bd6d-463f-9b0f-636be69528cf.png" alt=""/></div></figure><p>One thing&#x27;s certain- if you are reading The Flip Side, you value getting crisp analysis with an unbiased view. The Daily Upside, founded by a team of former scholars, journalists, and investment bankers, is The Flip Side but for business news. Packed with equal doses of charm and insight, they bring you premium investing news that&#x27;s actually useful and written without the mainstream jargon you are used to. Want to know if rising inflation will erode the cash in your bank accout? Or if Congress will ban individual stocks of Federal Reserve officials (hint: they won&#x27;t)? Yea, us too. It&#x27;s why we subscribe to The Daily Upside. And why you should, too. Plus, it&#x27;s free.<br/><br/><a href="https://www.thedailyupside.com/?utm_source=The%20Flip%20Side&amp;utm_medium=Newsletter&amp;utm_campaign=Promotion" target="_blank"><strong>The New Way to Get Investing Insights</strong></a></p></div><img src="" alt="" class="image-48 w-dyn-bind-empty"/><div class="paragraph-div"><div class="rich-text-block-2 w-richtext"><p>“The <a href="https://www.reuters.com/world/us/abortion-gun-rights-religion-agenda-us-supreme-court-2021-10-01/">U.S. Supreme Court&#x27;s new nine-month term</a>, which begins on Monday, promises to be among the most momentous in generations. The justices are poised to decide major cases that could roll back abortion rights and broaden gun and religious rights.” <strong>Reuters</strong><br/><br/>On December 1, <a href="https://www.scotusblog.com/2021/09/major-abortion-case-set-for-argument-on-dec-1/">the Court will hear</a><em>Dobbs v. Jackson Women’s Health Organization</em>, “a challenge to a Mississippi law that bans almost all abortions after the 15th week of pregnancy.” <strong>SCOTUSblog</strong><br/><br/>“<a href="https://apnews.com/article/religion-amy-coney-barrett-courts-us-supreme-court-judiciary-208d93c503545713964fe8f171a2679a">Three Supreme Court justices</a> delivered the same plea in rapid succession in recent days: Don’t view justices as politicians… The call by justices Clarence Thomas, Stephen Breyer and Amy Coney Barrett for the public not to see court decisions as just an extension of partisan politics isn’t new. But the timing of the recent comments is significant, just after a summer in which conservative majorities on the court prevailed over liberal dissents on abortion, immigration and evictions, and at the start of a blockbuster term.” <strong>AP News</strong><br/><br/>“Democratic senators argued [last] Wednesday that rulings on the Supreme Court’s ‘shadow docket’ are inconsistent and overly politicized. Republicans called the shadow docket ordinary and said the term itself is designed to make the court’s emergency orders seem nefarious… The shadow docket is the informal term for <a href="https://www.scotusblog.com/2021/09/senators-spar-over-shadow-docket-in-wake-of-courts-order-allowing-texas-abortion-law-to-take-effect/">expedited rulings that the Supreme Court issues</a> outside its typical process of hearing arguments and handing down lengthy opinions.” <strong>SCOTUSblog</strong><br/><br/>Here’s our <a href="https://www.theflipside.io/archives/texas-abortion-law">recent coverage of the Texas abortion law</a>. <strong>The Flip Side</strong></p></div><a href="/archives" class="link-6">See past issues</a></div></div><img src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5bfee82d95c45605590f6387_bear-badge.png" width="114" alt="" class="image archives"/><div class="columns w-row"><div class="blue-divider w-col w-col-6 w-col-small-6 w-col-tiny-6"><div style="background-color:#453158" class="div-block-2"></div></div><div class="red-divider w-col w-col-6 w-col-small-6 w-col-tiny-6"><div style="background-color:#453158" class="div-block-3"></div></div></div><div class="div-block-38"><div class="columns-15 w-row"><div class="column-60 w-clearfix w-col w-col-6 w-col-small-6 w-col-tiny-tiny-stack"><h1 class="from-the-left-heading w-dyn-bind-empty"></h1><h1 class="from-the-left-heading sponsored">From the Left</h1><div style="border-color:#0050a7" class="paragraph-6 left intro w-richtext"><p>The left criticizes the judges for claiming to be apolitical and worries that the Supreme Court will strike down <em>Roe v. Wade</em>.</p></div><div class="paragraph-6 left bullet first w-dyn-bind-empty w-richtext"></div><div style="border-color:#0050a7" class="paragraph-6 left bullet first sponsored w-richtext"><p>“In past eras, the court has benefited from a veil of mystery. We don&#x27;t often see (and only relatively recently have been able to hear) the justices at work: There are no cameras in the courtroom; deliberations take place behind closed doors; and printed opinions are usually handed down with little or no comment, as if from on high. These political defenses let the veil slip. ‘If [Justice] Alito is concerned about public perceptions of the Supreme Court,’ MSNBC&#x27;s Steve Benen observes, ‘perhaps he should stop delivering speeches like these that adversely affect public perceptions of the Supreme Court.’ <a href="https://theweek.com/politics/1005584/justice-alitos-political-case-for-scotus-transcendence-of-politics">If justices want to be aloof from politics, they should stay aloof from politics</a>.”<br/><strong>Joel Mathis, The Week</strong><br/><br/>“The justices are not <em>mere</em> partisans. They occasionally diverge from one another on matters of legal philosophy and political preferences (this is also true of, say, senators). Roberts, in particular, evinces a concern for procedure and the Court’s legitimacy that leads him to occasionally side with the Democratic appointees. Justice Neil Gorsuch’s textualism can lead him to unusual places, such as his decision to uphold the Civil Rights Act’s protections for transgender people. <a href="https://www.theatlantic.com/ideas/archive/2021/09/lie-about-supreme-court-everyone-pretends-believe/620198/">In the majority of big cases, however, the justices do what they are expected to do</a>…<br/><br/>“Make no mistake, I am not criticizing the justices or the conservative legal movement for pursuing their political project with zeal… What I take exception to is the demand from judges and justices that the public acquiesce to their self-delusion that they are wise sages who hold themselves above the vulgarities of partisan politics, even as they deliver sweeping victories to a conservative movement and Republican Party that have worked for half a century to achieve those victories.”<br/><strong>Adam Serwer, The Atlantic</strong><br/><br/>“Though the justices’ docket is almost entirely discretionary, they are probably unlikely to heed warnings against making sweeping rulings on major social issues that could further alienate or inflame Americans, especially through the shadow docket. [Justices] Thomas and Barrett also appear unconcerned that they’re undercutting their claims of nonpartisanship by simultaneously taking public victory laps with Mitch McConnell. But if the justices are so alarmed with how the public sees them, maybe they should rethink whether <a href="https://newrepublic.com/article/163799/supreme-court-gallup-approval-rating">one of the most important parts of our constitutional system should be so needlessly opaque</a>.”<br/><strong>Matt Ford, New Republic</strong><br/><br/>Regarding the abortion case, “Navigating a post-<em>Roe</em> country will be anything but simple. Perhaps the only certainty to expect is that <a href="https://www.theatlantic.com/ideas/archive/2021/09/after-roe-legal-mess-future-abortion-rights/620134">a post-<em>Roe</em> country will be one of inequity</a>. A little fewer than half of U.S. states, mostly concentrated in the South and the Midwest, are poised to ban abortion in almost all cases if the Supreme Court overrules <em>Roe</em>… <br/><br/>“Some of these bans will start immediately, either because of pre-<em>Roe</em> laws still on the books or new ‘trigger laws’ that will take effect the moment <em>Roe</em> is overturned. Scholars and activists have long noted that wealthy women in those states will be able to travel to other states to obtain abortions. But three-quarters of people seeking abortions are low-income, a group that is disproportionately people of color, and they will face barriers that will make it almost impossible to get to another state.” <br/><strong>Greer Donley, David S. Cohen, and Rachel Rebouché, The Atlantic</strong></p></div><div class="paragraph-6 left bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 left bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 left bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 left bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 left bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 left bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 left bullet w-dyn-bind-empty w-richtext"></div></div><div class="column-61 w-clearfix w-col w-col-6 w-col-small-6 w-col-tiny-tiny-stack"><h1 class="from-the-right-heading w-dyn-bind-empty"></h1><h1 class="from-the-right-heading sponsored">From the Right</h1><div style="border-color:#e20f22" class="paragraph-6 right intro w-hidden-tiny w-richtext"><p>The right pushes back against criticism of the shadow docket and is hopeful that the Supreme Court will strike down <em>Roe v. Wade</em>.</p></div><div class="paragraph-6 right intro w-hidden-main w-hidden-medium w-hidden-small w-richtext"><p>The right pushes back against criticism of the shadow docket and is hopeful that the Supreme Court will strike down <em>Roe v. Wade</em>.</p></div><div class="paragraph-6 right bullet first w-dyn-bind-empty w-richtext"></div><div style="border-color:#e20f22" class="paragraph-6 right bullet first sponsored w-richtext"><p>“Since about 2014 the Court’s emergency orders have become more frequent, despite the Justices’ preference that cases be resolved through the regular briefing and argument process. But the reasons for this have almost nothing to do with the Court’s ideological makeup, and almost everything to do with the <a href="https://www.wsj.com/articles/the-shadow-docket-diversion-supreme-court-samuel-alito-11633123922">increasing polarization in American society</a>… <br/><br/>“The increasing trend of unilateral governance by the executive, rather than legislatures, [has] kicked cases to the Court on shorter timelines… The explosion of high-profile nationwide injunctions by lower courts has also forced the Supreme Court’s hand. Such injunctions started to climb in response to President Obama’s ‘pen and a phone’ governance in his second term, and accelerated as liberal district judges blocked President Trump’s policies… <br/><br/>“The Justices surely wish they weren’t jammed as often with emergency appeals on tight deadlines, but that’s a feature of polarized politics. Partisans are exploiting that polarization to coax the justices into delivering outcomes they prefer. But a judge’s job is to interpret the law, and the current Court’s relatively few ‘shadow’ orders don’t deserve the partisan attacks they’ve received.”<br/><strong>Editorial Board, Wall Street Journal</strong><br/><br/>Regarding the abortion case, “There’s still a good chance the justices choose to just chip away at the court’s past abortion precedent rather than overturn it altogether. Knowing Chief Justice John Roberts, this is a very likely outcome. But there are <a href="https://www.washingtonexaminer.com/opinion/the-pro-life-movements-best-chance-at-overturning-roe-v-wade-heads-to-the-supreme-court">three new conservative justices on the bench</a>, each of whom, I believe, finds <em>Roe</em> and <em>Casey</em> legally flawed and devoid of constitutional merit. (Indeed, there are many liberal legal scholars who, despite their personal beliefs on abortion, would agree with them)… <br/><br/>“This case will force our new justices to choose between their own judicial philosophies and abortion precedent that has no value at all outside of keeping the liberal mob happy. And if there’s one thing we know these conservative justices value, it’s the independence of the court and the ability to issue rulings in line with the constitutional text rather than the politics of the day…<br/><br/><em>“Dobbs </em>might make each of them into the next John Roberts, looking to split the difference. But I still hope, as does the rest of the pro-life movement, that this case will be a turning point for the Supreme Court and this country.”<br/><strong>Kaylee McGhee White, Washington Examiner</strong><br/><br/>“Progressives are understandably worried about the direction that the Supreme Court could take in coming years, with arguably the strongest conservative majority since the election of Franklin D. Roosevelt in 1932. For well over half a century, the Supreme Court seemed an endless fount of progressive achievement, and some of those decisions could now be overturned…  <br/><br/>“Naturally, progressives have become vehement proponents of <em>stare decisis</em> and now commonly argue that if the Supreme Court overturns any progressive precedents, it is ipso facto acting out of purely political motives and is therefore illegitimate. It’s worth remembering that <a href="https://www.nationalreview.com/2021/09/a-preemptive-attack-on-the-supreme-court/">most progressive judicial victories of the past century</a> were decisions by courts that showed little regard for the precedents binding on them. ”<br/><strong>Mario Loyola, National Review</strong></p></div><div class="paragraph-6 right bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 right bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 right bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 right bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 right bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 right bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 right bullet w-dyn-bind-empty w-richtext"></div></div></div><div class="w-row"><div class="column-60 w-col w-col-6 w-col-small-6 w-col-tiny-tiny-stack"></div><div class="column-61 w-col w-col-6 w-col-small-6 w-col-tiny-tiny-stack"></div></div><div class="w-layout-grid grid-7 w-clearfix"><div id="w-node-c982ddb1-5ced-6b21-8419-c9ca80732245-d549fb85" class="paragraph-6 wide center w-dyn-bind-empty w-richtext"></div><div id="w-node-c982ddb1-5ced-6b21-8419-c9ca80732246-d549fb85" class="paragraph-6 wide libertarian w-dyn-bind-empty w-richtext"></div></div></div><div class="additional-closing w-dyn-bind-empty w-richtext"></div><div style="border-color:#453158" class="on-the-bright-side"><h4 class="heading-18">On the bright side...</h4><div class="rich-text-block-3 w-richtext"><p><a href="https://www.theverge.com/2021/9/29/22700522/stack-overflow-macropad-mechanical-keyboard-specs" target="_blank">You can now buy a keyboard that only copies and pastes</a>.<br/><strong>The Verge</strong></p></div></div></div></div><div class="trollcta archive w-row"><div class="w-col w-col-6 w-col-stack"><div class="div-block-26 archive"><img src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5bfee82bbe4cd8508983a309_bear-0.png" alt="" class="bearhead archive"/><h2 class="heading-cta archive">Get troll-free political news.</h2></div></div><div class="w-col w-col-6 w-col-stack"><div class="w-clearfix w-form"><form id="email-form-2" name="email-form-2" data-name="Email Form 2" method="get" class="newsletter-form-fields faq"><input type="email" class="email-address-field-grey hero faq archive w-input" maxlength="256" name="hero-optin-2" data-name="Hero Optin 2" placeholder="your email address" id="hero-optin-2" required=""/><input type="submit" value="I want the best points from both sides        &gt;" data-wait="Please wait..." class="submit-button hero home faq archive w-button"/></form><div class="w-form-done"><div>Thank you! Your submission has been received!</div></div><div class="w-form-fail"><div>Oops! Something went wrong while submitting the form.</div></div></div></div></div><footer class="footer wf-section"><div class="columns-6 top-footer w-row"><div class="column-11 w-col w-col-4"><img src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5c800f4179da156500bd15f4_TFS%20-%20logo.svg" width="125" alt="Logo of The Flip Side" class="image-22 logo"/></div><div class="column-12 top-footer w-col w-col-4"><a id="w-node-f2f82e10-1a31-eb5f-ca00-8ef170fc7709-70fc7704" href="/latest-issue" class="footer-link w-inline-block"><div>LATEST ISSUE</div></a><a id="w-node-f2f82e10-1a31-eb5f-ca00-8ef170fc770c-70fc7704" href="/archives" class="footer-link w-inline-block"><div>ARCHIVES</div></a><a id="w-node-f2f82e10-1a31-eb5f-ca00-8ef170fc770f-70fc7704" href="/about-us" class="footer-link w-inline-block"><div>ABOUT US</div></a><a id="w-node-f2f82e10-1a31-eb5f-ca00-8ef170fc7715-70fc7704" href="/media" class="footer-link w-inline-block"><div>MEDIA</div></a><a id="w-node-f2f82e10-1a31-eb5f-ca00-8ef170fc7712-70fc7704" href="/supporters" class="footer-link w-inline-block"><div>SUPPORTERS</div></a><a id="w-node-_87649ec8-d9e2-88e8-e2f7-a3c8f39c81e0-70fc7704" href="/faq" class="footer-link w-inline-block"><div>FAQ</div></a></div><div class="column-13 top-footer w-col w-col-4"><a href="https://www.facebook.com/KnowTheFlipSide/" class="link-block w-inline-block"><img src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5ec52bd498978ddc3785cf6e_facebook.svg" width="30" height="30" alt="Facebook"/></a><a href="http://twitter.com/knowtheflipside" class="link-block-2 w-inline-block"><img src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5ec52bd48143fd994f2ed9d1_twitter.svg" width="30" height="30" alt="Twitter"/></a><a href="mailto:editor@theflipside.io?subject=%5BFlipSide%20Website%20Inquiry%5D" class="w-inline-block"><img src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5ec52bd493802b79cc062997_email.svg" width="30" height="30" alt="Email"/></a></div></div><div class="columns-6 bottom-footer w-row"><div class="column-11 bottom-footer w-col w-col-3"><div class="text-block-15">COPYRIGHT © 2020</div></div><div class="column-12 bottom-footer w-col w-col-5"></div><div class="column-13 bottom-footer w-col w-col-4"><a href="/terms" class="link-block-2 terms w-inline-block"><div class="text-block-31">PRIVACY POLICY</div></a><div class="link-block-2 terms divider">|</div><a href="https://www.functionlabs.com" class="link-block-2 terms function w-inline-block"><div class="text-block-32">WEBSITE BY FUNCTION LABS</div></a></div></div></footer><script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=5bfd76c121f9503755c665f9" type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script><script src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/js/the-flipside.aea8a5c35.js" type="text/javascript"></script><!--[if lte IE 9]><script src="//cdnjs.cloudflare.com/ajax/libs/placeholders/3.0.2/placeholders.min.js"></script><![endif]--><!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-58K3PC7"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<!-- UTM Passthrough Javascript -->
+
+<script type="text/javascript" charset="utf-8">
+var UtmCookie, UtmForm, _uf;
+UtmCookie = class {
+    constructor(options = {}) {
+        this._cookieNamePrefix = "_uc_", this._domain = options.domain, this._sessionLength = options.sessionLength || 1, this._cookieExpiryDays = options.cookieExpiryDays || 365, this._additionalParams = options.additionalParams || [], this._utmParams = ["utm_source", "utm_medium", "utm_campaign", "utm_term", "utm_content"], this.writeInitialReferrer(), this.writeLastReferrer(), this.writeInitialLandingPageUrl(), this.setCurrentSession(), this.additionalParamsPresentInUrl() && this.writeAdditionalParams(), this.utmPresentInUrl() && this.writeUtmCookieFromParams()
+    }
+    createCookie(name, value, days, path, domain, secure) {
+        var cookieDomain, cookieExpire, cookiePath, cookieSecure, date, expireDate;
+        expireDate = null, days && ((date = new Date).setTime(date.getTime() + 24 * days * 60 * 60 * 1e3), expireDate = date), cookieExpire = null != expireDate ? "; expires=" + expireDate.toGMTString() : "", cookiePath = null != path ? "; path=" + path : "; path=/", cookieDomain = null != domain ? "; domain=" + domain : "", cookieSecure = null != secure ? "; secure" : "", document.cookie = this._cookieNamePrefix + name + "=" + escape(value) + cookieExpire + cookiePath + cookieDomain + cookieSecure
+    }
+    readCookie(name) {
+        var c, ca, i, nameEQ;
+        for (nameEQ = this._cookieNamePrefix + name + "=", ca = document.cookie.split(";"), i = 0; i < ca.length;) {
+            for (c = ca[i];
+                " " === c.charAt(0);) c = c.substring(1, c.length);
+            if (0 === c.indexOf(nameEQ)) return c.substring(nameEQ.length, c.length);
+            i++
+        }
+        return null
+    }
+    eraseCookie(name) {
+        this.createCookie(name, "", -1, null, this._domain)
+    }
+    getParameterByName(name) {
+        var results;
+        return name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]"), (results = new RegExp("[\\?&]" + name + "=([^&#]*)").exec(window.location.search)) ? decodeURIComponent(results[1].replace(/\+/g, " ")) : ""
+    }
+    additionalParamsPresentInUrl() {
+        var j, len, param, ref;
+        for (j = 0, len = (ref = this._additionalParams).length; j < len; j++)
+            if (param = ref[j], this.getParameterByName(param)) return !0;
+        return !1
+    }
+    utmPresentInUrl() {
+        var j, len, param, ref;
+        for (j = 0, len = (ref = this._utmParams).length; j < len; j++)
+            if (param = ref[j], this.getParameterByName(param)) return !0;
+        return !1
+    }
+    writeCookie(name, value) {
+        this.createCookie(name, value, this._cookieExpiryDays, null, this._domain)
+    }
+    writeAdditionalParams() {
+        var j, len, param, ref, value;
+        for (j = 0, len = (ref = this._additionalParams).length; j < len; j++) param = ref[j], value = this.getParameterByName(param), this.writeCookie(param, value)
+    }
+    writeUtmCookieFromParams() {
+        var j, len, param, ref, value;
+        for (j = 0, len = (ref = this._utmParams).length; j < len; j++) param = ref[j], value = this.getParameterByName(param), this.writeCookie(param, value)
+    }
+    writeCookieOnce(name, value) {
+        this.readCookie(name) || this.writeCookie(name, value)
+    }
+    _sameDomainReferrer(referrer) {
+        var hostname;
+        return hostname = document.location.hostname, referrer.indexOf(this._domain) > -1 || referrer.indexOf(hostname) > -1
+    }
+    _isInvalidReferrer(referrer) {
+        return "" === referrer || void 0 === referrer
+    }
+    writeInitialReferrer() {
+        var value;
+        value = document.referrer, this._isInvalidReferrer(value) && (value = "direct"), this.writeCookieOnce("referrer", value)
+    }
+    writeLastReferrer() {
+        var value;
+        value = document.referrer, this._sameDomainReferrer(value) || (this._isInvalidReferrer(value) && (value = "direct"), this.writeCookie("last_referrer", value))
+    }
+    writeInitialLandingPageUrl() {
+        var value;
+        (value = this.cleanUrl()) && this.writeCookieOnce("initial_landing_page", value)
+    }
+    initialReferrer() {
+        return this.readCookie("referrer")
+    }
+    lastReferrer() {
+        return this.readCookie("last_referrer")
+    }
+    initialLandingPageUrl() {
+        return this.readCookie("initial_landing_page")
+    }
+    incrementVisitCount() {
+        var existingValue, newValue;
+        existingValue = parseInt(this.readCookie("visits"), 10), newValue = 1, newValue = isNaN(existingValue) ? 1 : existingValue + 1, this.writeCookie("visits", newValue)
+    }
+    visits() {
+        return this.readCookie("visits")
+    }
+    setCurrentSession() {
+        this.readCookie("current_session") || (this.createCookie("current_session", "true", this._sessionLength / 24, null, this._domain), this.incrementVisitCount())
+    }
+    cleanUrl() {
+        var cleanSearch;
+        return cleanSearch = window.location.search.replace(/utm_[^&]+&?/g, "").replace(/&$/, "").replace(/^\?$/, ""), window.location.origin + window.location.pathname + cleanSearch + window.location.hash
+    }
+}, UtmForm = class {
+    constructor(options = {}) {
+        this._utmParamsMap = {}, this._utmParamsMap.utm_source = options.utm_source_field || "USOURCE", this._utmParamsMap.utm_medium = options.utm_medium_field || "UMEDIUM", this._utmParamsMap.utm_campaign = options.utm_campaign_field || "UCAMPAIGN", this._utmParamsMap.utm_content = options.utm_content_field || "UCONTENT", this._utmParamsMap.utm_term = options.utm_term_field || "UTERM", this._additionalParamsMap = options.additional_params_map || {}, this._initialReferrerField = options.initial_referrer_field || "IREFERRER", this._lastReferrerField = options.last_referrer_field || "LREFERRER", this._initialLandingPageField = options.initial_landing_page_field || "ILANDPAGE", this._visitsField = options.visits_field || "VISITS", this._addToForm = options.add_to_form || "all", this._formQuerySelector = options.form_query_selector || "form", this._decodeURIs = options.decode_uris || !1, this.utmCookie = new UtmCookie({
+            domain: options.domain,
+            sessionLength: options.sessionLength,
+            cookieExpiryDays: options.cookieExpiryDays,
+            additionalParams: Object.getOwnPropertyNames(this._additionalParamsMap)
+        }), this.addAllFields()
+    }
+    addAllFields() {
+        var allForms, i, len;
+        for (allForms = document.querySelectorAll(this._formQuerySelector), len = "none" === this._addToForm ? 0 : "first" === this._addToForm ? Math.min(1, allForms.length) : allForms.length, i = 0; i < len;) this.addAllFieldsToForm(allForms[i]), i++
+    }
+    addAllFieldsToForm(form) {
+        var fieldName, param, ref, ref1;
+        if (form && !form._utm_tagged) {
+            for (param in form._utm_tagged = !0, ref = this._utmParamsMap) fieldName = ref[param], this.addFormElem(form, fieldName, this.utmCookie.readCookie(param));
+            for (param in ref1 = this._additionalParamsMap) fieldName = ref1[param], this.addFormElem(form, fieldName, this.utmCookie.readCookie(param));
+            this.addFormElem(form, this._initialReferrerField, this.utmCookie.initialReferrer()), this.addFormElem(form, this._lastReferrerField, this.utmCookie.lastReferrer()), this.addFormElem(form, this._initialLandingPageField, this.utmCookie.initialLandingPageUrl()), this.addFormElem(form, this._visitsField, this.utmCookie.visits())
+        }
+    }
+    addFormElem(form, fieldName, fieldValue) {
+        this.insertAfter(this.getFieldEl(fieldName, fieldValue), form.lastChild)
+    }
+    getFieldEl(fieldName, fieldValue) {
+        var fieldEl;
+        return (fieldEl = document.createElement("input")).type = "hidden", fieldEl.name = fieldName, fieldEl.value = this._decodeURIs ? decodeURIComponent(fieldValue) : fieldValue, fieldEl
+    }
+    insertAfter(newNode, referenceNode) {
+        return referenceNode.parentNode.insertBefore(newNode, referenceNode.nextSibling)
+    }
+}, _uf = window._uf || {}, window.UtmForm = new UtmForm(_uf);
+  
+</script>
+<!-- End UTM Passthrough Javascript --></body></html>
+

@@ -1,0 +1,31 @@
+WARC/1.0
+WARC-Type: response
+WARC-Date: 2022-07-04T14:46:51Z
+WARC-Record-ID: <urn:uuid:89ff0e71-80c3-413c-8926-4c1055566776>
+Content-Length: 359
+Content-Type: application/http; msgtype=response
+WARC-Warcinfo-ID: <urn:uuid:f6dd896e-5219-4137-bf4a-af8da64a18f2>
+WARC-Concurrent-To: <urn:uuid:75025167-2053-4e3f-b029-9b5540470b28>
+WARC-IP-Address: 52.55.54.43
+WARC-Target-URI: https://www.theflipside.io/archives/virginia-governors-race
+WARC-Payload-Digest: sha1:QLEP64HPDAK75HITJ5T3AB5M3R5KEBOK
+WARC-Block-Digest: sha1:UB6DCKEAAUUGOGDPPEGHE27A2WEZQU7D
+WARC-Identified-Payload-Type: text/html
+
+HTTP/1.1 406 Not Acceptable
+Server: openresty
+Date: Mon, 04 Jul 2022 14:46:51 GMT
+Content-Type: text/html
+Content-Length: 160
+Connection: keep-alive
+X-Cluster-Name: us-east-1-prod-edge-blue
+
+<html>
+<head><title>406 Not Acceptable</title></head>
+<body>
+<center><h1>406 Not Acceptable</h1></center>
+<hr><center>openresty</center>
+</body>
+</html>
+
+

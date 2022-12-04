@@ -1,0 +1,223 @@
+WARC/1.0
+WARC-Type: response
+WARC-Date: 2020-03-31T19:23:03Z
+WARC-Record-ID: <urn:uuid:de4a39f2-693a-48c3-b0dd-f2ef94d714b5>
+Content-Length: 36745
+Content-Type: application/http; msgtype=response
+WARC-Warcinfo-ID: <urn:uuid:7f567cf8-3b07-4950-bf79-8f066a128bdb>
+WARC-Concurrent-To: <urn:uuid:bd321bc4-3736-40be-aefb-e665ab864d51>
+WARC-IP-Address: 76.223.9.102
+WARC-Target-URI: https://www.theflipside.io/archives/usmca-2
+WARC-Payload-Digest: sha1:ZVVIU5RRLWAZUV2VKAR4VQDP3C743IHF
+WARC-Block-Digest: sha1:O6EI53H4S5UDTM67FGPSY4RK7RHKURRW
+WARC-Identified-Payload-Type: text/html
+
+HTTP/1.1 200 OK
+Server: openresty
+Date: Tue, 31 Mar 2020 19:23:03 GMT
+Content-Type: text/html
+X-Crawler-Content-Length: 12733
+Content-Length: 36128
+Connection: keep-alive
+X-Crawler-Content-Encoding: gzip
+Content-Security-Policy: frame-ancestors 'self'
+X-Frame-Options: SAMEORIGIN
+x-lambda-id: b01c59c8-fac6-4a50-90fd-42d076b2572b
+Via: 1.1 varnish
+Via: 1.1 varnish
+Age: 0
+X-Served-By: cache-iad2145-IAD, cache-bwi5054-BWI
+X-Cache: MISS, MISS
+X-Cache-Hits: 0, 0
+X-Timer: S1585682583.862232,VS0,VE809
+Vary: Accept-Encoding
+X-Cache-Status: MISS
+X-Cluster-Name: us-east-1-prod
+Accept-Ranges: bytes
+
+<!DOCTYPE html><!-- Last Published: Tue Mar 31 2020 15:30:29 GMT+0000 (Coordinated Universal Time) --><html data-wf-domain="www.theflipside.io" data-wf-page="5c0affae2387a21ad549fb85" data-wf-site="5bfd76c121f9503755c665f9"><head><meta charset="utf-8"/><title>USMCA | The Flip Side</title><meta content="USMCA" name="description"/><meta content="USMCA | The Flip Side" property="og:title"/><meta content="Get the most intelligent quotes from both sides—in a free, 5-minute email a day." property="og:description"/><meta content="https://assets-global.website-files.com/5c01d9d275e85a6371ce6d1e/5c4e9148fe98b202812657bb_bears%20working%20together.png" property="og:image"/><meta content="summary" name="twitter:card"/><meta content="width=device-width, initial-scale=1" name="viewport"/><link href="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/css/the-flipside.0027fca42.min.css" rel="stylesheet" type="text/css"/><script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript"></script><script type="text/javascript">WebFont.load({  google: {    families: ["Lato:100,100italic,300,300italic,400,400italic,700,700italic,900,900italic","Open Sans:300,300italic,400,400italic,600,600italic,700,700italic,800,800italic"]  }});</script><script src="https://use.typekit.net/ief5vbu.js" type="text/javascript"></script><script type="text/javascript">try{Typekit.load();}catch(e){}</script><!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js" type="text/javascript"></script><![endif]--><script type="text/javascript">!function(o,c){var n=c.documentElement,t=" w-mod-";n.className+=t+"js",("ontouchstart"in o||o.DocumentTouch&&c instanceof DocumentTouch)&&(n.className+=t+"touch")}(window,document);</script><link href="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5c03871b75e85a9d2ecf243a_favicon-32x32.png" rel="shortcut icon" type="image/x-icon"/><link href="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5c038790f4cf11a559cd3a57_webclip256.png" rel="apple-touch-icon"/><link href="rss.xml" rel="alternate" title="RSS Feed" type="application/rss+xml"/><script type="text/javascript">!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.agent='plwebflow';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');fbq('init', '420932135099202');fbq('track', 'PageView');</script><!-- Async Anti-Flicker Code -->
+
+<style>.async-hide { opacity: 0 !important} </style>
+<script>(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+(a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+})(window,document.documentElement,'async-hide','dataLayer',4000,
+{'GTM-58K3PC7':true});</script>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-58K3PC7');</script>
+<!-- End Google Tag Manager -->
+
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+
+<!-- Viral Loops -->
+<script>!function(){var a=window.VL=window.VL||{};return a.instances=a.instances||{},a.invoked?void(window.console&&console.error&&console.error("VL snippet loaded twice.")):(a.invoked=!0,void(a.load=function(b,c,d){var e={};e.publicToken=b,e.config=c||{};var f=document.createElement("script");f.type="text/javascript",f.id="vrlps-js",f.defer=!0,f.src="https://app.viral-loops.com/client/vl/vl.min.js";var g=document.getElementsByTagName("script")[0];return g.parentNode.insertBefore(f,g),f.onload=function(){a.setup(e),a.instances[b]=e},e.identify=e.identify||function(a,b){e.afterLoad={identify:{userData:a,cb:b}}},e.pendingEvents=[],e.track=e.track||function(a,b){e.pendingEvents.push({event:a,cb:b})},e.pendingHooks=[],e.addHook=e.addHook||function(a,b){e.pendingHooks.push({name:a,cb:b})},e.$=e.$||function(a){e.pendingHooks.push({name:"ready",cb:a})},e}))}();var campaign=VL.load("EU2E59TTa4UOlRB7A5I8Ytbt92k",{autoLoadWidgets:!0});</script><style>
+@media (max-width: 479px) {
+  .paragraph-div a {
+  	  font-size: 17px;
+    	line-height: 24px; }
+      
+  .on-the-bright-side a {
+  	  font-size: 17px;
+    	line-height: 24px; }
+}
+@media (max-width: 767px) {
+	.div-block-38 a {
+  	  font-size: 17px; 
+    	line-height: 24px; 
+}	
+  .paragraph-div a {
+  	  font-size: 17px;
+    	line-height: 26px; }
+      
+.on-the-bright-side a {
+  	  font-size: 17px;
+    	line-height: 26px; }
+}
+.w-nav-overlay {
+    z-index: 1002 !important;
+}
+</style></head><body class="body"><div data-collapse="medium" data-animation="over-right" data-duration="400" class="navbar w-nav"><nav role="navigation" class="nav-menu w-nav-menu"><div class="div-block-5"><a href="/latest-issue" class="nav-menu-item mobile latest-issue w-nav-link">Latest Issue</a><a href="/archives" class="nav-menu-item mobile w-nav-link">Archives</a><a href="/about-us" class="nav-menu-item mobile w-nav-link">About Us</a><a href="/faq" class="nav-menu-item mobile faq w-nav-link">FAQ</a></div><div class="div-block-6"><div class="form-block mobile w-form"><form id="email-form" name="email-form" data-name="Email Form" redirect="/one-more-thing" data-redirect="/one-more-thing" action="https://theflipside.us15.list-manage.com/subscribe/post?u=281c839c990f42b374467ae5f&amp;amp;id=7566a2ca43&quot; method=&quot;post&quot; id=&quot;mc-embedded-subscribe-form&quot; name=&quot;mc-embedded-subscribe-form" method="post" class="form mobile"><div class="text-block">GET TROLL-FREE POLITICAL NEWS</div><input type="email" class="text-field mobile w-input" maxlength="256" name="email-2" data-name="Email 2" placeholder="your email address" id="email-2" required=""/><input type="submit" value="I want to keep up with both sides &gt;" data-wait="Please wait..." class="submit-button mobile w-button"/><div class="text-block-2">We never spam and only send awesome news digests. Unsubscribe any time.</div></form><div class="w-form-done"><div>Thank you! Your submission has been received!</div></div><div class="w-form-fail"><div>Oops! Something went wrong while submitting the form.</div></div></div></div></nav><div data-w-id="83b1dd7a-785a-0585-a0c0-e44f2b23d2b5" class="div-block navbarother"><a href="/" class="brand-2 w-nav-brand"><img src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5c018cd0879ec8a3e5fc263b_TFS%20Logo-n.png" alt="Logo" width="125" class="image-22 logo"/></a><div class="div-right header w-hidden-medium w-hidden-small w-hidden-tiny"><div class="nav-menu-links flex"><a href="/latest-issue" class="nav-link small w-nav-link">LATEST ISSUE</a><a href="/archives" class="nav-link small w-nav-link">ARCHIVES</a><a href="/about-us" class="nav-link small w-nav-link">ABOUT US</a><a href="/faq" class="nav-link small faq w-nav-link">FAQ</a></div></div><div class="div-right header w-hidden-medium w-hidden-small w-hidden-tiny"><div class="header-form w-form"><form id="email-form-2" name="email-form-2" data-name="Email Form 2" method="post" action="https://theflipside.us15.list-manage.com/subscribe/post?u=281c839c990f42b374467ae5f&amp;amp;id=7566a2ca43&quot; method=&quot;post&quot; id=&quot;mc-embedded-subscribe-form&quot; name=&quot;mc-embedded-subscribe-form" redirect="/one-more-thing" data-redirect="/one-more-thing" class="form-3"><input type="email" class="email-address-field-grey header w-input" maxlength="256" name="hero-optin-2" data-name="Hero Optin 2" placeholder="your email address" id="hero-optin-2" required=""/><div class="w-embed"><input type="hidden" name="MMERGE1" value="desk-menu"/></div><input type="submit" value="Subscribe &gt;" data-wait="Please wait..." id="https-theflipside.us15.list-manage.com-subscribe-post-u-281c839c990f42b374467ae5f-id-a0c19d8bf4" class="submit-button hero header w-button"/></form><div class="w-form-done"><div>Thank you! Your submission has been received!</div></div><div class="w-form-fail"><div>Oops! Something went wrong while submitting the form.</div></div></div></div></div><div class="menu-button-nav w-nav-button" data-ix="hamburger-button"><div class="top-line"></div><div class="middle-line"></div><div class="bottom-line"></div></div></div><div class="section-3"><div><h1 class="heading-16">December 17, 2019</h1><h1 class="heading-17">USMCA</h1><div class="container-8 w-container"><div class="rich-text-block-4 w-dyn-bind-empty w-richtext"></div><div class="paragraph-div"><div class="rich-text-block-2 w-richtext"><p>“House Democrats and the White House announced a deal Tuesday on a modified North American trade pact… They said the revamped U.S.-Mexico-Canada Agreement [USMCA] was a <a href="https://theflipside.us15.list-manage.com/track/click?u=281c839c990f42b374467ae5f&amp;id=fb0421bf20&amp;e=3b34384e6b" target="_blank">significant improvement over the original North American Free Trade Agreement</a>, with Democrats crowing about winning stronger provisions on enforcing the agreement while Republicans said it will help keep the economy humming along.” <strong>AP News</strong></p></div><a href="/archives" class="link-6">See past issues</a></div></div><img src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5bfee82d95c45605590f6387_bear-badge.png" width="114" alt="" class="image archives"/><div class="columns w-row"><div class="blue-divider w-col w-col-6 w-col-small-6 w-col-tiny-6"><div class="div-block-2"></div></div><div class="red-divider w-col w-col-6 w-col-small-6 w-col-tiny-6"><div class="div-block-3"></div></div></div><div class="div-block-38"><div class="columns-15 w-row"><div class="column-60 w-clearfix w-col w-col-6 w-col-small-6 w-col-tiny-tiny-stack"><h1 class="from-the-left-heading">From the Left</h1><h1 class="from-the-left-heading sponsored w-dyn-bind-empty"></h1><div class="paragraph-6 left intro w-richtext"><p>The left generally supports the deal as a marginal improvement on NAFTA and a win for organized labor.</p></div><div class="paragraph-6 left bullet first w-richtext"><p>“While this measure has some things not to like, it has others that are worthy. The USMCA would do away with a back-channel dispute resolution mechanism that corporations have used to demand concessions from the member governments. And the pact includes significant provisions on e-commerce, which was in its infancy when NAFTA was passed, as well as protections for U.S. copyright holders. The simple truth is that <a href="https://theflipside.us15.list-manage.com/track/click?u=281c839c990f42b374467ae5f&amp;id=af04b5effc&amp;e=3b34384e6b" target="_blank">NAFTA has been a success, so a modest update is not a bad thing</a>. Critics point to job losses in manufacturing since it went into effect. But most of the losses were from technological change or trade with countries like China… While not perfect, and leaving out some crucial areas like climate change, the USMCA is worth passing.”<br/><strong>Editorial Board, USA Today</strong></p></div><div class="paragraph-6 left bullet first sponsored w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 left bullet w-richtext"><p>“The most important improvement — the one for which workers’ advocates fought for hardest — is the facility-specific labor enforcement measures, because without those, the improved labor standards mean nothing. For the first time in any trade agreement, tariffs and fines can be imposed against specific products produced in facilities that are determined to deny workers collective-bargaining rights. <a href="https://theflipside.us15.list-manage.com/track/click?u=281c839c990f42b374467ae5f&amp;id=e995a72243&amp;e=3b34384e6b" target="_blank">If there are repeated violations, goods can be blocked at the border</a>…<br/><br/>“The AFL-CIO has vehemently opposed almost every significant trade deal since NAFTA, but after playing an active role in the USMCA negotiations and forcing labor standards and enforcement improvements in Trump’s 2018 deal, they told their members, ‘We have secured an agreement that working people can proudly support.’”<br/><strong>Jared Bernstein, Washington Post</strong></p></div><div class="paragraph-6 left bullet w-richtext"><p>“<a href="https://theflipside.us15.list-manage.com/track/click?u=281c839c990f42b374467ae5f&amp;id=b37896fea7&amp;e=3b34384e6b" target="_blank">Democrats seem to have secured other important concessions in the deal</a>. The original USMCA was widely considered a giveaway to pharmaceutical companies because it guaranteed the makers of expensive biologic drugs 10 years of protection from cheaper competition. That provision, which could have made it harder for the U.S. to lower its own drug costs, is out. The new agreement also adds more enforcement on environmental rules. The deal isn’t perfect: Nancy Pelosi failed to remove protections for internet companies that could make it more difficult for the U.S. to amend its own laws…<br/><br/>“But, at first glance, it looks like an improvement over both the original-recipe NAFTA and the first draft of the USMCA, and it could help set better standards for America’s future trade deals.”<br/><strong>Jordan Weissmann, Slate</strong></p></div><div class="paragraph-6 left bullet w-richtext"><p>Critics, however, contend that “The United States International Trade Commission predicts the measures will succeed in the narrow purpose of shifting work to the United States, but only at a high cost: <a href="https://theflipside.us15.list-manage.com/track/click?u=281c839c990f42b374467ae5f&amp;id=113e1a9c58&amp;e=3b34384e6b" target="_blank">Consumers will pay more for new vehicles, resulting in fewer sales</a>, and economic growth will suffer. There is a broader threat, too. Shifting work to Mexico has allowed American car companies to reduce costs, and to compete more effectively with foreign producers. Without NAFTA, there might be even fewer car-making jobs in the United States today. And as a result of the changes, there may be fewer in the future… <br/><br/>“The best argument for passage is prophylactic. President Trump has threatened to abandon NAFTA in the absence of a new deal, and the changes are less important than the part that would stay the same: a free-trade area for most goods encompassing the three largest nations of North America.”<br/><strong>Editorial Board, New York Times</strong></p></div><div class="paragraph-6 left bullet w-richtext"><p>“<a href="https://theflipside.us15.list-manage.com/track/click?u=281c839c990f42b374467ae5f&amp;id=a354abca96&amp;e=3b34384e6b" target="_blank">Just what would the USMCA do for the economy in 2020? Not much, it turns out</a>… One of the two big economic projections on the deal, performed by the U.S. International Trade Commission (ITC), estimated it would add 176,000 jobs to the economy over the next six years. For context, that&#x27;s about as many jobs as we add in any single month of decent economic growth… <br/><br/>“The USMCA will add 51,000 new jobs to manufacturing, mining, and farming over its first six years of operation. For context, those three industries employ something in the vicinity of 14 million people. That&#x27;s an increase of less than one percent — and not even in 2020, but spread out over six years. Similarly, employment in the auto sector would increase by about three percent over the deal&#x27;s first six years. The idea that such minute changes will lead to meaningful differences that workers in Michigan, Ohio, Pennsylvania, Indiana, Iowa, and Wisconsin would see and feel in their lives and communities before November 2020 seems like a stretch.”<br/><strong>Jeff Spross, The Week</strong></p></div><div class="paragraph-6 left bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 left bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 left bullet w-dyn-bind-empty w-richtext"></div></div><div class="column-61 w-clearfix w-col w-col-6 w-col-small-6 w-col-tiny-tiny-stack"><h1 class="from-the-right-heading">From the Right</h1><h1 class="from-the-right-heading sponsored w-dyn-bind-empty"></h1><div class="paragraph-6 right intro w-hidden-tiny w-richtext"><p>The right celebrates the deal as a marginal improvement on NAFTA and a win for President Trump.</p></div><div class="paragraph-6 right intro w-hidden-main w-hidden-medium w-hidden-small w-richtext"><p>The right celebrates the deal as a marginal improvement on NAFTA and a win for President Trump.</p></div><div class="paragraph-6 right bullet first w-richtext"><p>“The agreement is far from revolutionary: <a href="https://theflipside.us15.list-manage.com/track/click?u=281c839c990f42b374467ae5f&amp;id=eca1da24b9&amp;e=3b34384e6b" target="_blank">90 percent of its provisions read just like NAFTA</a>, and the changes it implements grow out of compromise and negotiation… The biggest win is simply that an agreement appears to have been made. Now that businesses in Mexico, Canada, and the U.S. have rules around which they can plan, they will allocate resources more aggressively than when they faced uncertainties, a positive factor for economic growth and employment… <br/><br/>“Moreover, specific USMCA provisions should help U.S. manufacturing. The deal appears to mandate that 75 percent of a motor vehicle must be made in North America to avoid duties—up from 62.5 percent under NAFTA. This new standard would limit the ability of Asian and European automakers to enter North America duty-free. The USMCA also stipulates that 40 percent to 45 percent of any vehicle must be manufactured by workers earning at least $16 an hour. (The average for manufacturing workers in the United States is $22 an hour.) This provision would likely shift some of the assembly north from relatively low-wage Mexico.”<br/><strong>Milton Ezrati, City Journal</strong></p></div><div class="paragraph-6 right bullet first sponsored w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 right bullet w-richtext"><p>“<a href="https://theflipside.us15.list-manage.com/track/click?u=281c839c990f42b374467ae5f&amp;id=fa44843f1c&amp;e=3b34384e6b" target="_blank">USMCA is a direct improvement on NAFTA</a> in that it will help U.S. exports of agricultural products, primarily dairy, as Canada has agreed in the USMCA to limit the degree to which they continue to subsidize their own farmers…<br/><br/>“Many of the perceived negatives of USMCA, relative to NAFTA, around restrictions on textiles, apparel and automobiles, are small when put in perspective. For example, the production of motor vehicles accounts for roughly 2 percent of overall output and the production of apparel accounts for less than half a percent as of 2018. Meanwhile, the digital economy is rapidly expanding, growing nearly four times as fast as the rest… USMCA offers a new framework for protecting digital services and promoting the digital economy in the 21st century.”<br/><strong>Jon Hartley and Christos Makridis, Fox News</strong></p></div><div class="paragraph-6 right bullet w-richtext"><p>“Rules on digital trade alone make USMCA better than the 26-year old NAFTA (which lacked any, for the obvious reason). USMCA is also far better than nothing at all, where NAFTA being abandoned in 2020 or 2021 is otherwise a live possibility. Critics are performing a service in pointing out USMCA’s original weaknesses, as well as flaws in the labor provisions just added by House Democrats. But right now there is no politically realistic path forward to much freer trade. Ratifying USMCA will show <a href="https://theflipside.us15.list-manage.com/track/click?u=281c839c990f42b374467ae5f&amp;id=f8e348b85a&amp;e=3b34384e6b" target="_blank">Washington can reach binding agreements even in the shadow of a Presidential election</a>, making negotiating with the US more attractive.”<br/><strong>Derek Scissors, American Enterprise Institute</strong></p></div><div class="paragraph-6 right bullet w-richtext"><p>“In 1993, the year before the North American Free Trade Agreement took effect, the United States exported to Mexico almost $73 billion in today’s dollars worth of goods. This year, U.S. firms will export roughly four times that amount to Mexico… Free trade has become unfashionable in the Trump era, with even conservatives talking up the value of industrial policy and trade barriers as economic or national security measures. But this welcome deal for passage of the USMCA serves as a reminder that even though NAFTA was not perfect, it dramatically improved the lives of the average Mexican, Canadian, and American alike… <br/><br/>“<a href="https://theflipside.us15.list-manage.com/track/click?u=281c839c990f42b374467ae5f&amp;id=7d784cd8b3&amp;e=3b34384e6b" target="_blank">Trump should continue to negotiate more such deals</a> — with China, with the Pacific nations, with continental Europe, and with post-Brexit Britain. As a candidate, Trump claimed during the 2016 election that he is not against trade deals, only <em>dumb</em> trade deals. Here is his chance to make good on that promise and to make his own reelection more likely in the process.”<br/><strong>Editorial Board, Washington Examiner</strong></p></div><div class="paragraph-6 right bullet w-richtext"><p>“Trump has been waiting more than a year for the House to act on the deal, and until recently it appeared that Nancy Pelosi was content to run out the clock on the agreement rather than give Trump a win. Now, however, voters are asking why Democrats aren’t getting anything done except impeachment, especially in the key swing states that gave Trump his victory in 2016. Pelosi might need this more than Trump does at this point, especially now that she has fully committed to getting articles of impeachment to the House floor by Christmas. <a href="https://theflipside.us15.list-manage.com/track/click?u=281c839c990f42b374467ae5f&amp;id=c273e2fb7b&amp;e=3b34384e6b" target="_blank">If that’s all she has to show for 2019</a>, Pelosi is going to lose some of her freshmen in the next election and Democrats might not win back Michigan, Pennsylvania, or Wisconsin in 2020 either.”<br/><strong>Ed Morrissey, Hot Air</strong></p></div><div class="paragraph-6 right bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 right bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 right bullet w-dyn-bind-empty w-richtext"></div></div></div><div class="w-row"><div class="column-60 w-col w-col-6 w-col-small-6 w-col-tiny-tiny-stack"></div><div class="column-61 w-col w-col-6 w-col-small-6 w-col-tiny-tiny-stack"></div></div><div class="w-layout-grid grid-7 w-clearfix"><div id="w-node-c9ca80732245-d549fb85" class="paragraph-6 wide center w-dyn-bind-empty w-richtext"></div><div id="w-node-c9ca80732246-d549fb85" class="paragraph-6 wide libertarian w-dyn-bind-empty w-richtext"></div></div></div><div class="additional-closing w-dyn-bind-empty w-richtext"></div><div class="on-the-bright-side"><h4 class="heading-18 w-dyn-bind-empty"></h4><div class="rich-text-block-3 w-richtext"><p><a href="https://theflipside.us15.list-manage.com/track/click?u=281c839c990f42b374467ae5f&amp;id=af99af5d46&amp;e=3b34384e6b" target="_blank">Hasbro releases nightmarish ‘longer’ version of Monopoly</a>.<br/><strong>New York Post</strong></p></div></div></div></div><div class="trollcta archive w-row"><div class="w-col w-col-6 w-col-stack"><div class="div-block-26 archive"><img src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5bfee82bbe4cd8508983a309_bear-0.png" alt="" class="bearhead archive"/><h2 class="heading-cta archive">Get troll-free political news.</h2></div></div><div class="w-col w-col-6 w-col-stack"><div class="w-clearfix w-form"><form id="email-form-2" name="email-form-2" data-name="Email Form 2" class="form-4 faq"><input type="email" class="email-address-field-grey hero faq archive w-input" maxlength="256" name="hero-optin-2" data-name="Hero Optin 2" placeholder="your email address" id="hero-optin-2" required=""/><input type="submit" value="I want the best points from both sides        &gt;" data-wait="Please wait..." class="submit-button hero home faq archive w-button"/></form><div class="w-form-done"><div>Thank you! Your submission has been received!</div></div><div class="w-form-fail"><div>Oops! Something went wrong while submitting the form.</div></div></div></div></div><div class="footer"><div class="columns-6 top-footer w-row"><div class="column-11 w-col w-col-4"><img src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5c01f607fb1b866834b382d6_tfs-logo-bwfull.png" width="125" alt="" class="image-22 logo"/></div><div class="column-12 top-footer w-col w-col-4"><a id="w-node-8ef170fc7709-70fc7704" href="/latest-issue" class="footer-link w-inline-block"><div>LATEST ISSUE</div></a><a id="w-node-8ef170fc770c-70fc7704" href="/archives" class="footer-link w-inline-block"><div>ARCHIVES</div></a><a id="w-node-8ef170fc770f-70fc7704" href="/about-us" class="footer-link w-inline-block"><div>ABOUT US</div></a><a id="w-node-8ef170fc7715-70fc7704" href="/media" class="footer-link w-inline-block"><div>MEDIA</div></a><a id="w-node-8ef170fc7712-70fc7704" href="/faq" class="footer-link w-inline-block"><div>FAQ</div></a></div><div class="column-13 top-footer w-col w-col-4"><a href="https://www.facebook.com/KnowTheFlipSide/" class="link-block w-inline-block"><img src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5bfee840bb9d243b33057924_fb.png" width="30" height="30" alt="Facebook"/></a><a href="http://twitter.com/knowtheflipside" class="link-block-2 w-inline-block"><img src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5bfee8404b33c859eabe7665_tw.png" width="30" height="30" alt="Twitter"/></a><a href="mailto:editor@theflipside.io?subject=%5BFlipSide%20Website%20Inquiry%5D" class="w-inline-block"><img src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5bfee8404b33c84e62be7664_email.png" width="30" height="30" alt="Email"/></a></div></div><div class="columns-6 bottom-footer w-row"><div class="column-11 bottom-footer w-col w-col-3"><div class="text-block-15">COPYRIGHT © 2020</div></div><div class="column-12 bottom-footer w-col w-col-5"></div><div class="column-13 bottom-footer w-col w-col-4"><a href="/terms" class="link-block-2 terms w-inline-block"><div class="text-block-31">PRIVACY POLICY</div></a><div class="link-block-2 terms divider">|</div><a href="https://www.functionlabs.com" class="link-block-2 terms function w-inline-block"><div class="text-block-32">WEBSITE BY FUNCTION LABS</div></a></div></div></div><script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.4.1.min.220afd743d.js?site=5bfd76c121f9503755c665f9" type="text/javascript" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script><script src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/js/the-flipside.cc10b0cd1.js" type="text/javascript"></script><!--[if lte IE 9]><script src="//cdnjs.cloudflare.com/ajax/libs/placeholders/3.0.2/placeholders.min.js"></script><![endif]--><!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-58K3PC7"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<!-- UTM Passthrough Javascript -->
+
+<script type="text/javascript" charset="utf-8">
+var UtmCookie, UtmForm, _uf;
+UtmCookie = class {
+    constructor(options = {}) {
+        this._cookieNamePrefix = "_uc_", this._domain = options.domain, this._sessionLength = options.sessionLength || 1, this._cookieExpiryDays = options.cookieExpiryDays || 365, this._additionalParams = options.additionalParams || [], this._utmParams = ["utm_source", "utm_medium", "utm_campaign", "utm_term", "utm_content"], this.writeInitialReferrer(), this.writeLastReferrer(), this.writeInitialLandingPageUrl(), this.setCurrentSession(), this.additionalParamsPresentInUrl() && this.writeAdditionalParams(), this.utmPresentInUrl() && this.writeUtmCookieFromParams()
+    }
+    createCookie(name, value, days, path, domain, secure) {
+        var cookieDomain, cookieExpire, cookiePath, cookieSecure, date, expireDate;
+        expireDate = null, days && ((date = new Date).setTime(date.getTime() + 24 * days * 60 * 60 * 1e3), expireDate = date), cookieExpire = null != expireDate ? "; expires=" + expireDate.toGMTString() : "", cookiePath = null != path ? "; path=" + path : "; path=/", cookieDomain = null != domain ? "; domain=" + domain : "", cookieSecure = null != secure ? "; secure" : "", document.cookie = this._cookieNamePrefix + name + "=" + escape(value) + cookieExpire + cookiePath + cookieDomain + cookieSecure
+    }
+    readCookie(name) {
+        var c, ca, i, nameEQ;
+        for (nameEQ = this._cookieNamePrefix + name + "=", ca = document.cookie.split(";"), i = 0; i < ca.length;) {
+            for (c = ca[i];
+                " " === c.charAt(0);) c = c.substring(1, c.length);
+            if (0 === c.indexOf(nameEQ)) return c.substring(nameEQ.length, c.length);
+            i++
+        }
+        return null
+    }
+    eraseCookie(name) {
+        this.createCookie(name, "", -1, null, this._domain)
+    }
+    getParameterByName(name) {
+        var results;
+        return name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]"), (results = new RegExp("[\\?&]" + name + "=([^&#]*)").exec(window.location.search)) ? decodeURIComponent(results[1].replace(/\+/g, " ")) : ""
+    }
+    additionalParamsPresentInUrl() {
+        var j, len, param, ref;
+        for (j = 0, len = (ref = this._additionalParams).length; j < len; j++)
+            if (param = ref[j], this.getParameterByName(param)) return !0;
+        return !1
+    }
+    utmPresentInUrl() {
+        var j, len, param, ref;
+        for (j = 0, len = (ref = this._utmParams).length; j < len; j++)
+            if (param = ref[j], this.getParameterByName(param)) return !0;
+        return !1
+    }
+    writeCookie(name, value) {
+        this.createCookie(name, value, this._cookieExpiryDays, null, this._domain)
+    }
+    writeAdditionalParams() {
+        var j, len, param, ref, value;
+        for (j = 0, len = (ref = this._additionalParams).length; j < len; j++) param = ref[j], value = this.getParameterByName(param), this.writeCookie(param, value)
+    }
+    writeUtmCookieFromParams() {
+        var j, len, param, ref, value;
+        for (j = 0, len = (ref = this._utmParams).length; j < len; j++) param = ref[j], value = this.getParameterByName(param), this.writeCookie(param, value)
+    }
+    writeCookieOnce(name, value) {
+        this.readCookie(name) || this.writeCookie(name, value)
+    }
+    _sameDomainReferrer(referrer) {
+        var hostname;
+        return hostname = document.location.hostname, referrer.indexOf(this._domain) > -1 || referrer.indexOf(hostname) > -1
+    }
+    _isInvalidReferrer(referrer) {
+        return "" === referrer || void 0 === referrer
+    }
+    writeInitialReferrer() {
+        var value;
+        value = document.referrer, this._isInvalidReferrer(value) && (value = "direct"), this.writeCookieOnce("referrer", value)
+    }
+    writeLastReferrer() {
+        var value;
+        value = document.referrer, this._sameDomainReferrer(value) || (this._isInvalidReferrer(value) && (value = "direct"), this.writeCookie("last_referrer", value))
+    }
+    writeInitialLandingPageUrl() {
+        var value;
+        (value = this.cleanUrl()) && this.writeCookieOnce("initial_landing_page", value)
+    }
+    initialReferrer() {
+        return this.readCookie("referrer")
+    }
+    lastReferrer() {
+        return this.readCookie("last_referrer")
+    }
+    initialLandingPageUrl() {
+        return this.readCookie("initial_landing_page")
+    }
+    incrementVisitCount() {
+        var existingValue, newValue;
+        existingValue = parseInt(this.readCookie("visits"), 10), newValue = 1, newValue = isNaN(existingValue) ? 1 : existingValue + 1, this.writeCookie("visits", newValue)
+    }
+    visits() {
+        return this.readCookie("visits")
+    }
+    setCurrentSession() {
+        this.readCookie("current_session") || (this.createCookie("current_session", "true", this._sessionLength / 24, null, this._domain), this.incrementVisitCount())
+    }
+    cleanUrl() {
+        var cleanSearch;
+        return cleanSearch = window.location.search.replace(/utm_[^&]+&?/g, "").replace(/&$/, "").replace(/^\?$/, ""), window.location.origin + window.location.pathname + cleanSearch + window.location.hash
+    }
+}, UtmForm = class {
+    constructor(options = {}) {
+        this._utmParamsMap = {}, this._utmParamsMap.utm_source = options.utm_source_field || "USOURCE", this._utmParamsMap.utm_medium = options.utm_medium_field || "UMEDIUM", this._utmParamsMap.utm_campaign = options.utm_campaign_field || "UCAMPAIGN", this._utmParamsMap.utm_content = options.utm_content_field || "UCONTENT", this._utmParamsMap.utm_term = options.utm_term_field || "UTERM", this._additionalParamsMap = options.additional_params_map || {}, this._initialReferrerField = options.initial_referrer_field || "IREFERRER", this._lastReferrerField = options.last_referrer_field || "LREFERRER", this._initialLandingPageField = options.initial_landing_page_field || "ILANDPAGE", this._visitsField = options.visits_field || "VISITS", this._addToForm = options.add_to_form || "all", this._formQuerySelector = options.form_query_selector || "form", this._decodeURIs = options.decode_uris || !1, this.utmCookie = new UtmCookie({
+            domain: options.domain,
+            sessionLength: options.sessionLength,
+            cookieExpiryDays: options.cookieExpiryDays,
+            additionalParams: Object.getOwnPropertyNames(this._additionalParamsMap)
+        }), this.addAllFields()
+    }
+    addAllFields() {
+        var allForms, i, len;
+        for (allForms = document.querySelectorAll(this._formQuerySelector), len = "none" === this._addToForm ? 0 : "first" === this._addToForm ? Math.min(1, allForms.length) : allForms.length, i = 0; i < len;) this.addAllFieldsToForm(allForms[i]), i++
+    }
+    addAllFieldsToForm(form) {
+        var fieldName, param, ref, ref1;
+        if (form && !form._utm_tagged) {
+            for (param in form._utm_tagged = !0, ref = this._utmParamsMap) fieldName = ref[param], this.addFormElem(form, fieldName, this.utmCookie.readCookie(param));
+            for (param in ref1 = this._additionalParamsMap) fieldName = ref1[param], this.addFormElem(form, fieldName, this.utmCookie.readCookie(param));
+            this.addFormElem(form, this._initialReferrerField, this.utmCookie.initialReferrer()), this.addFormElem(form, this._lastReferrerField, this.utmCookie.lastReferrer()), this.addFormElem(form, this._initialLandingPageField, this.utmCookie.initialLandingPageUrl()), this.addFormElem(form, this._visitsField, this.utmCookie.visits())
+        }
+    }
+    addFormElem(form, fieldName, fieldValue) {
+        this.insertAfter(this.getFieldEl(fieldName, fieldValue), form.lastChild)
+    }
+    getFieldEl(fieldName, fieldValue) {
+        var fieldEl;
+        return (fieldEl = document.createElement("input")).type = "hidden", fieldEl.name = fieldName, fieldEl.value = this._decodeURIs ? decodeURIComponent(fieldValue) : fieldValue, fieldEl
+    }
+    insertAfter(newNode, referenceNode) {
+        return referenceNode.parentNode.insertBefore(newNode, referenceNode.nextSibling)
+    }
+}, _uf = window._uf || {}, window.UtmForm = new UtmForm(_uf);
+  
+</script>
+<!-- End UTM Passthrough Javascript --></body></html>
+
+
+

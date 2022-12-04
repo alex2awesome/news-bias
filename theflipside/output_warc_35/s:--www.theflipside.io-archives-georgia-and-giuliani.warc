@@ -1,0 +1,220 @@
+WARC/1.0
+WARC-Type: response
+WARC-Date: 2021-03-04T08:29:14Z
+WARC-Record-ID: <urn:uuid:4da28cc1-2890-4c6b-a0a6-552c7a7ba0f4>
+Content-Length: 43098
+Content-Type: application/http; msgtype=response
+WARC-Warcinfo-ID: <urn:uuid:bf1d2fe1-5358-4638-be68-d9fa088185ff>
+WARC-Concurrent-To: <urn:uuid:60eacd5b-4807-4018-ba8b-c2aa859f32fa>
+WARC-IP-Address: 54.157.174.158
+WARC-Target-URI: https://www.theflipside.io/archives/georgia-and-giuliani
+WARC-Payload-Digest: sha1:2B23GEQO5WKJSN4QOGMC4LZ4KRPPMVHF
+WARC-Block-Digest: sha1:G6VKABAPP5IOQSVFWDYPXFQM4WXC42PI
+WARC-Identified-Payload-Type: text/html
+
+HTTP/1.1 200 OK
+Server: openresty
+Date: Thu, 04 Mar 2021 08:29:14 GMT
+Content-Type: text/html
+X-Crawler-Content-Length: 15289
+Content-Length: 42495
+Connection: keep-alive
+X-Crawler-Content-Encoding: gzip
+content-security-policy: frame-ancestors 'self'
+x-frame-options: SAMEORIGIN
+x-lambda-id: d8770caf-efb7-43c4-a249-06dbf9125b1d
+Via: 1.1 varnish, 1.1 varnish
+Accept-Ranges: bytes
+Age: 0
+X-Served-By: cache-dca17740-DCA, cache-bwi5047-BWI
+X-Cache: MISS, MISS
+X-Cache-Hits: 0, 0
+X-Timer: S1614846554.426161,VS0,VE432
+Vary: Accept-Encoding
+X-Cluster-Name: us-east-1-prod-edge-eks-15
+
+<!DOCTYPE html><!-- Last Published: Tue Mar 02 2021 19:54:28 GMT+0000 (Coordinated Universal Time) --><html data-wf-domain="www.theflipside.io" data-wf-page="5c0affae2387a21ad549fb85" data-wf-site="5bfd76c121f9503755c665f9" lang="en"><head><meta charset="utf-8"/><title>Georgia and Giuliani | The Flip Side</title><meta content="Georgia and Giuliani" name="description"/><meta content="Georgia and Giuliani | The Flip Side" property="og:title"/><meta content="Get the most intelligent quotes from both sides—in a free, 5-minute email a day." property="og:description"/><meta content="https://assets-global.website-files.com/5c01d9d275e85a6371ce6d1e/5c4e9148fe98b202812657bb_bears%20working%20together.png" property="og:image"/><meta content="Georgia and Giuliani | The Flip Side" property="twitter:title"/><meta content="Get the most intelligent quotes from both sides—in a free, 5-minute email a day." property="twitter:description"/><meta content="https://assets-global.website-files.com/5c01d9d275e85a6371ce6d1e/5c4e9148fe98b202812657bb_bears%20working%20together.png" property="twitter:image"/><meta property="og:type" content="website"/><meta content="summary_large_image" name="twitter:card"/><meta content="width=device-width, initial-scale=1" name="viewport"/><link href="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/css/the-flipside.e9deb7684.min.css" rel="stylesheet" type="text/css"/><script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript"></script><script type="text/javascript">WebFont.load({  google: {    families: ["Lato:100,100italic,300,300italic,400,400italic,700,700italic,900,900italic"]  }});</script><script src="https://use.typekit.net/ief5vbu.js" type="text/javascript"></script><script type="text/javascript">try{Typekit.load();}catch(e){}</script><!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js" type="text/javascript"></script><![endif]--><script type="text/javascript">!function(o,c){var n=c.documentElement,t=" w-mod-";n.className+=t+"js",("ontouchstart"in o||o.DocumentTouch&&c instanceof DocumentTouch)&&(n.className+=t+"touch")}(window,document);</script><link href="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5c03871b75e85a9d2ecf243a_favicon-32x32.png" rel="shortcut icon" type="image/x-icon"/><link href="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5c038790f4cf11a559cd3a57_webclip256.png" rel="apple-touch-icon"/><link href="rss.xml" rel="alternate" title="RSS Feed" type="application/rss+xml"/><script type="text/javascript">!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.agent='plwebflow';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');fbq('init', '420932135099202');fbq('track', 'PageView');</script><!-- Async Anti-Flicker Code -->
+
+<style>.async-hide { opacity: 0 !important} </style>
+<script>(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+(a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+})(window,document.documentElement,'async-hide','dataLayer',4000,
+{'GTM-58K3PC7':true});</script>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-58K3PC7');</script>
+<!-- End Google Tag Manager -->
+
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<!-- Memberstack --> 
+<script src="https://api.memberstack.io/static/memberstack.js?webflow" data-memberstack-id="dd4b66b62c37ef91c54289827c1f3114"> </script><style>
+@media (max-width: 479px) {
+  .paragraph-div a {
+  	  font-size: 17px;
+    	line-height: 24px; }
+      
+  .on-the-bright-side a {
+  	  font-size: 17px;
+    	line-height: 24px; }
+}
+@media (max-width: 767px) {
+	.div-block-38 a {
+  	  font-size: 17px; 
+    	line-height: 24px; 
+}	
+  .paragraph-div a {
+  	  font-size: 17px;
+    	line-height: 26px; }
+      
+.on-the-bright-side a {
+  	  font-size: 17px;
+    	line-height: 26px; }
+}
+.w-nav-overlay {
+    z-index: 1002 !important;
+}
+</style></head><body class="body"><div data-collapse="medium" data-animation="over-right" data-duration="400" role="banner" class="navbar w-nav"><nav role="navigation" class="nav-menu w-nav-menu"><div class="nav-open-menu-links"><a href="/latest-issue" class="nav-open-menu-item mobile latest-issue w-nav-link">Latest Issue</a><a href="/archives" class="nav-open-menu-item mobile w-nav-link">Archives</a><a href="/about-us" class="nav-open-menu-item mobile w-nav-link">About Us</a><a href="/faq" class="nav-open-menu-item mobile faq w-nav-link">FAQ</a></div><div class="nav-menu-newsletter"><div class="form-block mobile w-form"><form id="email-form" name="email-form" data-name="Email Form" redirect="/one-more-thing" data-redirect="/one-more-thing" action="https://theflipside.us15.list-manage.com/subscribe/post?u=281c839c990f42b374467ae5f&amp;amp;id=7566a2ca43&quot; method=&quot;post&quot; id=&quot;mc-embedded-subscribe-form&quot; name=&quot;mc-embedded-subscribe-form" method="post" class="form mobile"><div class="text-block">GET TROLL-FREE POLITICAL NEWS</div><input type="email" class="text-field mobile w-input" maxlength="256" name="email-2" data-name="Email 2" placeholder="your email address" id="email-2" required=""/><input type="submit" value="I want to keep up with both sides &gt;" data-wait="Please wait..." class="submit-button mobile w-button"/><div class="text-block-2">We never spam and only send awesome news digests. Unsubscribe any time.</div></form><div class="w-form-done"><div>Thank you! Your submission has been received!</div></div><div class="w-form-fail"><div>Oops! Something went wrong while submitting the form.</div></div></div></div></nav><div data-w-id="83b1dd7a-785a-0585-a0c0-e44f2b23d2b5" class="nav-bar navbarother"><a href="/home-2-0" class="nav-logo w-nav-brand"><img src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5c018cd0879ec8a3e5fc263b_TFS%20Logo-n.png" alt="Logo" width="125" class="image-22 logo"/></a><div class="div-right header w-hidden-medium w-hidden-small w-hidden-tiny"><div class="nav-menu-links flex"><a href="/latest-issue" class="nav-link small w-nav-link">LATEST ISSUE</a><a href="/archives" class="nav-link small w-nav-link">ARCHIVES</a><a href="/about-us" class="nav-link small w-nav-link">ABOUT US</a><a href="/faq" class="nav-link small faq w-nav-link">FAQ</a></div></div><div class="div-right header w-hidden-medium w-hidden-small w-hidden-tiny"><div class="header-form w-form"><form id="email-form-2" name="email-form-2" data-name="Email Form 2" method="post" action="https://theflipside.us15.list-manage.com/subscribe/post?u=281c839c990f42b374467ae5f&amp;amp;id=7566a2ca43&quot; method=&quot;post&quot; id=&quot;mc-embedded-subscribe-form&quot; name=&quot;mc-embedded-subscribe-form" redirect="/one-more-thing" data-redirect="/one-more-thing" class="form-3"><input type="email" class="email-address-field-grey header w-input" maxlength="256" name="hero-optin-2" data-name="Hero Optin 2" placeholder="your email address" id="hero-optin-2" required=""/><div class="w-embed"><input type="hidden" name="MMERGE1" value="desk-menu"/></div><input type="submit" value="Subscribe &gt;" data-wait="Please wait..." id="https-theflipside.us15.list-manage.com-subscribe-post-u-281c839c990f42b374467ae5f-id-a0c19d8bf4" class="submit-button hero header w-button"/></form><div class="w-form-done"><div>Thank you! Your submission has been received!</div></div><div class="w-form-fail"><div>Oops! Something went wrong while submitting the form.</div></div></div></div></div><div class="menu-button-nav w-nav-button" data-ix="hamburger-button"><div class="top-line"></div><div class="middle-line"></div><div class="bottom-line"></div></div></div><div class="section-3"><div><h1 class="heading-16">November 20, 2020</h1><h1 class="heading-17">Georgia and Giuliani</h1><div class="container-8 w-container"><div class="rich-text-block-4 w-dyn-bind-empty w-richtext"></div><img src="" alt="" class="image-48 w-dyn-bind-empty"/><div class="paragraph-div"><div class="rich-text-block-2 w-richtext"><p>“A hand tally of ballots cast in Georgia for the presidential race has been completed, and it <a href="https://theflipside.us15.list-manage.com/track/click?u=281c839c990f42b374467ae5f&amp;id=bee381cc79&amp;e=6f16cb1c23" target="_blank">affirms Democrat Joe Biden’s narrow lead</a> over Republican President Donald Trump, according to results released Thursday by the secretary of state’s office.” <strong>AP News</strong><br/><br/>“President Trump and his legal team on Thursday <a href="https://theflipside.us15.list-manage.com/track/click?u=281c839c990f42b374467ae5f&amp;id=4f4ba676f9&amp;e=6f16cb1c23" target="_blank">stepped up their campaign</a> to shift the outcome of the presidential election, with the president reaching out directly to Michigan officials and Trump attorney Rudy Giuliani holding a combative press conference.” <strong>The Hill</strong></p></div><a href="/archives" class="link-6">See past issues</a></div></div><img src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5bfee82d95c45605590f6387_bear-badge.png" width="114" alt="" class="image archives"/><div class="columns w-row"><div class="blue-divider w-col w-col-6 w-col-small-6 w-col-tiny-6"><div style="background-color:#453158" class="div-block-2"></div></div><div class="red-divider w-col w-col-6 w-col-small-6 w-col-tiny-6"><div style="background-color:#453158" class="div-block-3"></div></div></div><div class="div-block-38"><div class="columns-15 w-row"><div class="column-60 w-clearfix w-col w-col-6 w-col-small-6 w-col-tiny-tiny-stack"><h1 class="from-the-left-heading w-dyn-bind-empty"></h1><h1 class="from-the-left-heading sponsored">From the Right</h1><div style="border-color:#e20f22" class="paragraph-6 left intro w-richtext"><p>The right is skeptical that Biden’s victory will be overturned but calls for a thorough investigation of allegations of fraud.</p></div><div class="paragraph-6 left bullet first w-dyn-bind-empty w-richtext"></div><div style="border-color:#e20f22" class="paragraph-6 left bullet first sponsored w-richtext"><p>“The margin of victory in <em>this</em> race is at least 44,872 votes across three states (Arizona, Wisconsin, and Georgia)… Fraud on that scale across multiple jurisdictions simultaneously is <a href="https://theflipside.us15.list-manage.com/track/click?u=281c839c990f42b374467ae5f&amp;id=a2fe38cb8e&amp;e=6f16cb1c23" target="_blank">mind-bogglingly difficult to pull off without leaving significant footprints</a>. The 1982 Illinois governor’s race — almost stolen by Democrats by virtue of 100,000 fraudulent votes in Chicago — was still concentrated in a single city with a well-oiled machine with many decades of experience in such shenanigans. It was still not truly that well-hidden… <br/><br/>“And yet, this supposed fraud in 2020 failed to save numerous Democrats below the presidential level. In Arizona, for example, you can complain about the Democrat who serves as Maricopa County recorder, but if he was in on the fix, you might also ask why <em>he lost his own reelection race</em>. In Pennsylvania, Democrats lost two out of the three statewide races, both by agonizingly small margins…<br/><br/>“In Georgia, the Republican secretary of state fought to ensure a hand recount and other protections for the integrity of this election; it does not seem likely that he and his predecessor, the state’s Republican governor (Brian Kemp, a longtime hate figure on the left), are in on the conspiracy… The reality is that Joe Biden will be sworn in on January 20, and nothing anybody does can prevent that. Our job is to plan for what comes next.”<br/><strong>Dan McLaughlin, National Review</strong><br/><br/>“Given how close the election was in key battlegrounds, and how the vote count shifted against Trump after election night, it was inevitable Republicans would have suspicions about the process. But it’s wrong for Trump to fuel the doubts with a constant flow of bad information and conspiracy theories — just as elected Democrats and the media never should have played up the cockamamie idea that the Russians stole the election in 2016… <br/><br/>“In Wayne County, the discrepancies that motivated the GOP canvassers were vanishingly small. According to The Detroit Free Press, the majority of Election Day precincts and absent voter boards with mismatches had discrepancies of three or fewer votes, amounting to roughly 387 votes. <a href="https://theflipside.us15.list-manage.com/track/click?u=281c839c990f42b374467ae5f&amp;id=01f66baf9a&amp;e=6f16cb1c23" target="_blank">Trump lost Michigan by about 150,000 votes — and slightly overperformed in Wayne County</a>…<br/><br/>“The slogan of counting every ‘legal vote’ is a safe harbor that all Republicans can hew to, but it should go without saying that it must mean counting — and certifying — valid votes for Joe Biden.”<br/><strong>Rich Lowry, New York Post</strong><br/><br/>“For more than a week, [Trump lawyer Sidney] Powell has been all over conservative media with the following story: This election was stolen by a collection of international leftists who manipulated vote tabulating software in order to flip millions of votes from Donald Trump to Joe Biden… <br/><br/>“But she never sent us any evidence, despite a lot of polite requests. When we kept pressing, she got angry and told us to stop contacting her. When we checked with others around the Trump campaign, people in positions of authority, they also told us Powell had never given them any evidence to prove anything she claimed today at the press conference. Powell did say that electronic voting is dangerous, and she&#x27;s right, but she <a href="https://theflipside.us15.list-manage.com/track/click?u=281c839c990f42b374467ae5f&amp;id=d8c758860c&amp;e=6f16cb1c23" target="_blank">never demonstrated that a single actual vote was moved illegitimately</a> by software from one candidate to another. Not one… <br/><br/>“Why are we telling you this? We&#x27;re telling you this because it&#x27;s true, and in the end, that&#x27;s all that matters. The truth is our only hope and our best defense… Maybe Sidney Powell will come forward soon with details on exactly how this happened and precisely who did it. We are certainly hopeful that she will. What happened with the vote counting this month and at the polling places in Detroit and the polling places in Philadelphia and so much else actually matters. It matters no matter who you voted for.”<br/><strong>Tucker Carlson, Fox News</strong><br/><br/>“Before all else, we must go to the <a href="https://theflipside.us15.list-manage.com/track/click?u=281c839c990f42b374467ae5f&amp;id=c1773d6929&amp;e=6f16cb1c23" target="_blank">source of distrust over this election</a>. Whereas Florida finished counting votes on election night, and has a system that knows roughly how many votes are outstanding and will be counted before election night is over, in key states like Pennsylvania, Michigan, and Wisconsin an unknown number of ballots could come in at the last second. And they did. For that, thank Democrat lawsuits to overturn state voting laws at the last second, using COVID as a pretext. For those who doubt that the suits were nakedly political, note that they looked like a wish list based on a bill Democrat House Speaker Nancy Pelosi authored in 2019 to accomplish nationwide mail-in voting… <br/><br/>“Regardless of the existence or level of fraud in the 2020 election, it is a <em>fact</em> that mail-in balloting opens elections to the <em>likelihood</em> of massive fraud and chaos. First, there’s an easy opportunity for cheating, given the unknown number of ballots that can come in. Because ballots can be accepted after election day, an unscrupulous faction that lags in earlier counting can come up with the votes to make the difference… <br/><br/>“The obvious problems with mail-in voting are not a rightwing conspiracy. France banned mail-in voting in the 1970s for these very reasons. In a recent New Jersey mail-in election, about 20 percent of the ballots cast were found to be fraudulent. A local New York election this year saw huge delays in processing ballots. A 2012 article in the New York Times warns that regular old absentee voting could screw up the electoral process, let alone allowing ballots to come in after election day.”<br/><strong>Willis L. Krumholz, The Federalist</strong><br/><br/>“Successful vote-by-mail requires secure ballot returns with strict and bipartisan chains of custody… [In Colorado] each county has drop boxes and statute mandates that they are lit, locked, and monitored 24/7 by camera surveillance. Moreover, in Colorado, a bipartisan team of election judges collects ballots and takes them to counting rooms with additional cameras and bipartisan teams of judges. Every step of the way includes surveillance and bipartisan judges who have passed criminal background checks, ensuring a consistent chain of custody. Colorado voters can also track their ballot online throughout its life cycle. The parties appoint the election judges to guarantee authentic representation… <br/><br/>“Voters in other states are right to be skeptical of drop boxes and to ask officials if theirs had 24/7 video surveillance and if ballots were picked up with bipartisan judges… Vote-by-mail must [also] include a robust signature verification system… In Pennsylvania, the Democrat majority of the state’s partisan-elected Supreme Court threw out signature verification requirements for mail-ballots only… <a href="https://theflipside.us15.list-manage.com/track/click?u=281c839c990f42b374467ae5f&amp;id=c56cc178b1&amp;e=6f16cb1c23" target="_blank">States that expanded vote-by-mail had a duty to ensure proper controls and safeguards</a> to catch corrupt acts and real mistakes when they happened. Those states that did not do an adequate job ought to concern every American, regardless of party.”<br/><strong>Suzanne Taheri and Jimmy Sengenberger, The Federalist</strong></p></div><div class="paragraph-6 left bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 left bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 left bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 left bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 left bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 left bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 left bullet w-dyn-bind-empty w-richtext"></div></div><div class="column-61 w-clearfix w-col w-col-6 w-col-small-6 w-col-tiny-tiny-stack"><h1 class="from-the-right-heading w-dyn-bind-empty"></h1><h1 class="from-the-right-heading sponsored">From the Left</h1><div style="border-color:#0050a7" class="paragraph-6 right intro w-hidden-tiny w-richtext"><p>The left dismisses allegations of fraud and criticizes Trump for casting doubt on the integrity of the election.</p></div><div class="paragraph-6 right intro w-hidden-main w-hidden-medium w-hidden-small w-richtext"><p>The left dismisses allegations of fraud and criticizes Trump for casting doubt on the integrity of the election.</p></div><div class="paragraph-6 right bullet first w-dyn-bind-empty w-richtext"></div><div style="border-color:#0050a7" class="paragraph-6 right bullet first sponsored w-richtext"><p>“[Georgia Secretary of State Brad Raffensperger (R)] is expected to certify the statewide result Friday, as required by law. The certification then goes to Gov. Brian Kemp, another Republican, for his signature. Kemp told reporters last week that he was glad Raffensperger ordered the hand-counted audit of the presidential vote. ‘Let’s let that happen and let the chips fall where they may,’ he said. Yet Trump has for the past several days been <a href="https://theflipside.us15.list-manage.com/track/click?u=281c839c990f42b374467ae5f&amp;id=2092d1f144&amp;e=6f16cb1c23" target="_blank">publicly badgering Kemp to intervene in the recount to reject ballots and ‘flip’ the result</a>, which currently has Biden winning by 12,284 votes. ‘Republicans must get tough!’ Trump tweeted at Kemp on Thursday morning… <br/><br/>“The president earlier this week called a Republican member of Wayne County’s Board of Canvassers, after which she attempted to rescind her vote to certify Biden’s win in Wayne, which is where Detroit is located and is the state’s most populous county. Trump then invited the leaders of Michigan’s Republican-controlled state Senate and House to meet him Friday at the White House ahead of next Monday’s state canvassing board meeting to certify results…<br/><br/>“Trump also is consulting with advisers about how he might get Wisconsin ballots discarded… These are the words and actions of an attempted coup, according to historians and other experts.”<br/><strong>Philip Rucker, Amy Gardner and Josh Dawsey, Washington Post</strong><br/><br/>“Palmer and Hartmann’s stated reason [for wanting to rescind their certification of the election results in Wayne County] was that there were discrepancies between precincts’ counts of how many named people voted and the actual count of votes. This is known as precincts being ‘out of balance.’ But though many precincts were out of balance, the discrepancies were usually very small. ‘Most of the unbalanced Wayne County precincts reported to the board Tuesday were off by three or four votes,’ Zahra Ahmad and Lauren Gibbons of MLive reported. <a href="https://theflipside.us15.list-manage.com/track/click?u=281c839c990f42b374467ae5f&amp;id=4670c42925&amp;e=6f16cb1c23" target="_blank">Small mistakes like that suggest clerical error rather than a massive fraud scheme</a> — and certainly they don’t add up to anything close to Biden’s lead in the state… <br/><br/>“It was lost on few that the two Republicans who voted against certification are white and were alleging problems in the mostly Black city of Detroit. Indeed, Palmer even suggested that all of Wayne County’s results except for Detroit could be certified — even though the most out-of-balance precinct, with a 27-vote discrepancy, was in the mostly white city of Livonia.”<br/><strong>Andrew Prokop, Vox</strong><br/><br/>“Baseless claims about mass voter fraud were thrown out of a Michigan court last week, when a judge blocked Trump&#x27;s attempt to stop certification of Biden&#x27;s win by declaring accusations of widespread election fraud ‘incorrect and not credible.’ Not deterred by legal reasoning, facts or judicial decisions, Trump simply blurted out fantasies of a Michigan victory, declaring on Wednesday: ‘The Great State of Michigan, with votes being far greater than the number of people who voted, cannot certify the election. The Democrats cheated big time, and got caught. A Republican WIN!’… <br/><br/>“President Trump [further] highlighted his autocratic impulses by firing his director of the Cybersecurity and Infrastructure Security Agency, Chris Krebs, for the sin of doing his job and telling the truth, when he said ‘there is no evidence that any voting system deleted or lost votes, changed votes, or was in any way compromised.’ Trump&#x27;s baseless and failed legal claims of mass voter fraud depend on denying that reality. As a result, telling the truth is a firing offense. None of this is normal or consistent with the character of our democracy. <a href="https://theflipside.us15.list-manage.com/track/click?u=281c839c990f42b374467ae5f&amp;id=c791de700d&amp;e=6f16cb1c23" target="_blank">When Trump carried Michigan in 2016 by just over 10,000 votes, there was not this kind of skullduggery by Democrats</a>. There certainly should not be with a Biden vote total 14 times larger.”<br/><strong>John Avlon, CNN</strong><br/><br/>“Appearing in a Pennsylvania courtroom Tuesday in the state’s biggest case, <a href="https://theflipside.us15.list-manage.com/track/click?u=281c839c990f42b374467ae5f&amp;id=78b7522a89&amp;e=6f16cb1c23" target="_blank">Trump lawyer Rudolph W. Giuliani conceded, ‘This is not a fraud case.’</a> In the same case, a judge asked Trump lawyer Linda Kerns whether she would ‘agree with me that you are not proceeding based on allegations of fraud or misconduct; is that correct?’ Kerns responded, ‘I am not proceeding on those allegations.’ In Montgomery County, Pa., Trump lawyer Jonathan S. Goldstein was asked by a judge, ‘Are you claiming that there is any fraud in connection with these 592 disputed ballots?’ Goldstein responded: ‘To my knowledge at present, no.’… <br/><br/>“In Maricopa County, Ariz., home to Phoenix, Trump lawyer Kory Langhofer said, ‘We are not alleging fraud in this lawsuit. … This is not about fraud.’… In the joint stipulation in Bucks County, the Trump legal team conceded, ‘Petitioners do not allege, and there is no evidence, that any of the challenged ballots were cast by, or on behalf of, a deceased person.’… Trump’s own lawyers keep undermining his voter fraud claims.”<br/><strong>Aaron Blake, Washington Post</strong><br/><br/>“[Giuliani] claimed that he had more than 100 affidavits alleging voting improprieties in a federal lawsuit the campaign filed in Michigan, Donald J. Trump for President Inc. v. Benson. But the campaign’s own lawyers voluntarily dismissed that suit just hours before Mr. Giuliani held his news conference. Mr. Giuliani further said that the Trump campaign had affidavits proving that nearly 700,000 mail-in ballots in Pennsylvania had been tainted. But <a href="https://theflipside.us15.list-manage.com/track/click?u=281c839c990f42b374467ae5f&amp;id=ef9e43f86f&amp;e=6f16cb1c23" target="_blank">no such affidavits have been filed in the campaign’s federal lawsuit</a> in Pennsylvania that is seeking to halt the certification of the vote there… <br/><br/>“Sidney Powell, another lawyer for Mr. Trump, baselessly warned of ‘massive influence of communist money through Venezuela, Cuba and likely China and the interference with our elections here in the United States.’ She claimed that tabulating software used by Dominion and Smartmatic, two voting machine companies, was ‘created by Hugo Chavez.’… The Trump campaign has not yet included allegations about Dominion machines in any of its more than 30 lawsuits where the accusations would have to be proven in front of a judge.”<br/><strong>Alan Feuer and Linda Qiu, New York Times</strong><br/><br/>“The longer the presser went on, the more it became clear that the Trump campaign was relying not so much on affidavits of misconduct or statistical demonstrations of altered results but rather the broadest sorts of conspiracy theories, most of them inherently absurd or previously exploded…<br/><br/>“<a href="https://theflipside.us15.list-manage.com/track/click?u=281c839c990f42b374467ae5f&amp;id=7a258234d2&amp;e=6f16cb1c23" target="_blank">Giuliani repeatedly spoke of mail ballots as though they are some sort of sinister new invention</a> rather than a method of voting that has been available in one form or another in every state for years. He also with a straight face argued that the reversal of early Trump leads in many states as mail ballots were counted was prima facie evidence of fraud, rather than a reflection of his own client’s loud, constant, and successful efforts to convince Republicans not to vote by mail – and of Republican legislators’ decision to ban the counting of mail ballots until Election Day or immediately before it.”<br/><strong>Ed Kilgore, New York Magazine</strong></p></div><div class="paragraph-6 right bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 right bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 right bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 right bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 right bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 right bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 right bullet w-dyn-bind-empty w-richtext"></div></div></div><div class="w-row"><div class="column-60 w-col w-col-6 w-col-small-6 w-col-tiny-tiny-stack"></div><div class="column-61 w-col w-col-6 w-col-small-6 w-col-tiny-tiny-stack"></div></div><div class="w-layout-grid grid-7 w-clearfix"><div id="w-node-c982ddb1-5ced-6b21-8419-c9ca80732245-d549fb85" class="paragraph-6 wide center w-dyn-bind-empty w-richtext"></div><div id="w-node-c982ddb1-5ced-6b21-8419-c9ca80732246-d549fb85" class="paragraph-6 wide libertarian w-dyn-bind-empty w-richtext"></div></div></div><div class="additional-closing w-dyn-bind-empty w-richtext"></div><div style="border-color:#453158" class="on-the-bright-side"><h4 class="heading-18">On the bright side...</h4><div class="rich-text-block-3 w-richtext"><p><a href="https://theflipside.us15.list-manage.com/track/click?u=281c839c990f42b374467ae5f&amp;id=ee316e557c&amp;e=6f16cb1c23" target="_blank">LEGO Unveils 9,036-Piece Roman Colosseum—Its Largest Set Ever</a>!<br/><strong>My Modern Met</strong></p></div></div></div></div><div class="trollcta archive w-row"><div class="w-col w-col-6 w-col-stack"><div class="div-block-26 archive"><img src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5bfee82bbe4cd8508983a309_bear-0.png" alt="" class="bearhead archive"/><h2 class="heading-cta archive">Get troll-free political news.</h2></div></div><div class="w-col w-col-6 w-col-stack"><div class="w-clearfix w-form"><form id="email-form-2" name="email-form-2" data-name="Email Form 2" class="newsletter-form-fields faq"><input type="email" class="email-address-field-grey hero faq archive w-input" maxlength="256" name="hero-optin-2" data-name="Hero Optin 2" placeholder="your email address" id="hero-optin-2" required=""/><input type="submit" value="I want the best points from both sides        &gt;" data-wait="Please wait..." class="submit-button hero home faq archive w-button"/></form><div class="w-form-done"><div>Thank you! Your submission has been received!</div></div><div class="w-form-fail"><div>Oops! Something went wrong while submitting the form.</div></div></div></div></div><footer class="footer"><div class="columns-6 top-footer w-row"><div class="column-11 w-col w-col-4"><img src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5c800f4179da156500bd15f4_TFS%20-%20logo.svg" width="125" alt="Logo of The Flip Side" class="image-22 logo"/></div><div class="column-12 top-footer w-col w-col-4"><a id="w-node-f2f82e10-1a31-eb5f-ca00-8ef170fc7709-70fc7704" href="/latest-issue" class="footer-link w-inline-block"><div>LATEST ISSUE</div></a><a id="w-node-f2f82e10-1a31-eb5f-ca00-8ef170fc770c-70fc7704" href="/archives" class="footer-link w-inline-block"><div>ARCHIVES</div></a><a id="w-node-f2f82e10-1a31-eb5f-ca00-8ef170fc770f-70fc7704" href="/about-us" class="footer-link w-inline-block"><div>ABOUT US</div></a><a id="w-node-f2f82e10-1a31-eb5f-ca00-8ef170fc7715-70fc7704" href="/media" class="footer-link w-inline-block"><div>MEDIA</div></a><a id="w-node-f2f82e10-1a31-eb5f-ca00-8ef170fc7712-70fc7704" href="/supporters" class="footer-link w-inline-block"><div>SUPPORTERS</div></a><a id="w-node-_87649ec8-d9e2-88e8-e2f7-a3c8f39c81e0-70fc7704" href="/faq" class="footer-link w-inline-block"><div>FAQ</div></a></div><div class="column-13 top-footer w-col w-col-4"><a href="https://www.facebook.com/KnowTheFlipSide/" class="link-block w-inline-block"><img src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5ec52bd498978ddc3785cf6e_facebook.svg" width="30" height="30" alt="Facebook"/></a><a href="http://twitter.com/knowtheflipside" class="link-block-2 w-inline-block"><img src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5ec52bd48143fd994f2ed9d1_twitter.svg" width="30" height="30" alt="Twitter"/></a><a href="mailto:editor@theflipside.io?subject=%5BFlipSide%20Website%20Inquiry%5D" class="w-inline-block"><img src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5ec52bd493802b79cc062997_email.svg" width="30" height="30" alt="Email"/></a></div></div><div class="columns-6 bottom-footer w-row"><div class="column-11 bottom-footer w-col w-col-3"><div class="text-block-15">COPYRIGHT © 2020</div></div><div class="column-12 bottom-footer w-col w-col-5"></div><div class="column-13 bottom-footer w-col w-col-4"><a href="/terms" class="link-block-2 terms w-inline-block"><div class="text-block-31">PRIVACY POLICY</div></a><div class="link-block-2 terms divider">|</div><a href="https://www.functionlabs.com" class="link-block-2 terms function w-inline-block"><div class="text-block-32">WEBSITE BY FUNCTION LABS</div></a></div></div></footer><script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=5bfd76c121f9503755c665f9" type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script><script src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/js/the-flipside.4c2258926.js" type="text/javascript"></script><!--[if lte IE 9]><script src="//cdnjs.cloudflare.com/ajax/libs/placeholders/3.0.2/placeholders.min.js"></script><![endif]--><!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-58K3PC7"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<!-- UTM Passthrough Javascript -->
+
+<script type="text/javascript" charset="utf-8">
+var UtmCookie, UtmForm, _uf;
+UtmCookie = class {
+    constructor(options = {}) {
+        this._cookieNamePrefix = "_uc_", this._domain = options.domain, this._sessionLength = options.sessionLength || 1, this._cookieExpiryDays = options.cookieExpiryDays || 365, this._additionalParams = options.additionalParams || [], this._utmParams = ["utm_source", "utm_medium", "utm_campaign", "utm_term", "utm_content"], this.writeInitialReferrer(), this.writeLastReferrer(), this.writeInitialLandingPageUrl(), this.setCurrentSession(), this.additionalParamsPresentInUrl() && this.writeAdditionalParams(), this.utmPresentInUrl() && this.writeUtmCookieFromParams()
+    }
+    createCookie(name, value, days, path, domain, secure) {
+        var cookieDomain, cookieExpire, cookiePath, cookieSecure, date, expireDate;
+        expireDate = null, days && ((date = new Date).setTime(date.getTime() + 24 * days * 60 * 60 * 1e3), expireDate = date), cookieExpire = null != expireDate ? "; expires=" + expireDate.toGMTString() : "", cookiePath = null != path ? "; path=" + path : "; path=/", cookieDomain = null != domain ? "; domain=" + domain : "", cookieSecure = null != secure ? "; secure" : "", document.cookie = this._cookieNamePrefix + name + "=" + escape(value) + cookieExpire + cookiePath + cookieDomain + cookieSecure
+    }
+    readCookie(name) {
+        var c, ca, i, nameEQ;
+        for (nameEQ = this._cookieNamePrefix + name + "=", ca = document.cookie.split(";"), i = 0; i < ca.length;) {
+            for (c = ca[i];
+                " " === c.charAt(0);) c = c.substring(1, c.length);
+            if (0 === c.indexOf(nameEQ)) return c.substring(nameEQ.length, c.length);
+            i++
+        }
+        return null
+    }
+    eraseCookie(name) {
+        this.createCookie(name, "", -1, null, this._domain)
+    }
+    getParameterByName(name) {
+        var results;
+        return name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]"), (results = new RegExp("[\\?&]" + name + "=([^&#]*)").exec(window.location.search)) ? decodeURIComponent(results[1].replace(/\+/g, " ")) : ""
+    }
+    additionalParamsPresentInUrl() {
+        var j, len, param, ref;
+        for (j = 0, len = (ref = this._additionalParams).length; j < len; j++)
+            if (param = ref[j], this.getParameterByName(param)) return !0;
+        return !1
+    }
+    utmPresentInUrl() {
+        var j, len, param, ref;
+        for (j = 0, len = (ref = this._utmParams).length; j < len; j++)
+            if (param = ref[j], this.getParameterByName(param)) return !0;
+        return !1
+    }
+    writeCookie(name, value) {
+        this.createCookie(name, value, this._cookieExpiryDays, null, this._domain)
+    }
+    writeAdditionalParams() {
+        var j, len, param, ref, value;
+        for (j = 0, len = (ref = this._additionalParams).length; j < len; j++) param = ref[j], value = this.getParameterByName(param), this.writeCookie(param, value)
+    }
+    writeUtmCookieFromParams() {
+        var j, len, param, ref, value;
+        for (j = 0, len = (ref = this._utmParams).length; j < len; j++) param = ref[j], value = this.getParameterByName(param), this.writeCookie(param, value)
+    }
+    writeCookieOnce(name, value) {
+        this.readCookie(name) || this.writeCookie(name, value)
+    }
+    _sameDomainReferrer(referrer) {
+        var hostname;
+        return hostname = document.location.hostname, referrer.indexOf(this._domain) > -1 || referrer.indexOf(hostname) > -1
+    }
+    _isInvalidReferrer(referrer) {
+        return "" === referrer || void 0 === referrer
+    }
+    writeInitialReferrer() {
+        var value;
+        value = document.referrer, this._isInvalidReferrer(value) && (value = "direct"), this.writeCookieOnce("referrer", value)
+    }
+    writeLastReferrer() {
+        var value;
+        value = document.referrer, this._sameDomainReferrer(value) || (this._isInvalidReferrer(value) && (value = "direct"), this.writeCookie("last_referrer", value))
+    }
+    writeInitialLandingPageUrl() {
+        var value;
+        (value = this.cleanUrl()) && this.writeCookieOnce("initial_landing_page", value)
+    }
+    initialReferrer() {
+        return this.readCookie("referrer")
+    }
+    lastReferrer() {
+        return this.readCookie("last_referrer")
+    }
+    initialLandingPageUrl() {
+        return this.readCookie("initial_landing_page")
+    }
+    incrementVisitCount() {
+        var existingValue, newValue;
+        existingValue = parseInt(this.readCookie("visits"), 10), newValue = 1, newValue = isNaN(existingValue) ? 1 : existingValue + 1, this.writeCookie("visits", newValue)
+    }
+    visits() {
+        return this.readCookie("visits")
+    }
+    setCurrentSession() {
+        this.readCookie("current_session") || (this.createCookie("current_session", "true", this._sessionLength / 24, null, this._domain), this.incrementVisitCount())
+    }
+    cleanUrl() {
+        var cleanSearch;
+        return cleanSearch = window.location.search.replace(/utm_[^&]+&?/g, "").replace(/&$/, "").replace(/^\?$/, ""), window.location.origin + window.location.pathname + cleanSearch + window.location.hash
+    }
+}, UtmForm = class {
+    constructor(options = {}) {
+        this._utmParamsMap = {}, this._utmParamsMap.utm_source = options.utm_source_field || "USOURCE", this._utmParamsMap.utm_medium = options.utm_medium_field || "UMEDIUM", this._utmParamsMap.utm_campaign = options.utm_campaign_field || "UCAMPAIGN", this._utmParamsMap.utm_content = options.utm_content_field || "UCONTENT", this._utmParamsMap.utm_term = options.utm_term_field || "UTERM", this._additionalParamsMap = options.additional_params_map || {}, this._initialReferrerField = options.initial_referrer_field || "IREFERRER", this._lastReferrerField = options.last_referrer_field || "LREFERRER", this._initialLandingPageField = options.initial_landing_page_field || "ILANDPAGE", this._visitsField = options.visits_field || "VISITS", this._addToForm = options.add_to_form || "all", this._formQuerySelector = options.form_query_selector || "form", this._decodeURIs = options.decode_uris || !1, this.utmCookie = new UtmCookie({
+            domain: options.domain,
+            sessionLength: options.sessionLength,
+            cookieExpiryDays: options.cookieExpiryDays,
+            additionalParams: Object.getOwnPropertyNames(this._additionalParamsMap)
+        }), this.addAllFields()
+    }
+    addAllFields() {
+        var allForms, i, len;
+        for (allForms = document.querySelectorAll(this._formQuerySelector), len = "none" === this._addToForm ? 0 : "first" === this._addToForm ? Math.min(1, allForms.length) : allForms.length, i = 0; i < len;) this.addAllFieldsToForm(allForms[i]), i++
+    }
+    addAllFieldsToForm(form) {
+        var fieldName, param, ref, ref1;
+        if (form && !form._utm_tagged) {
+            for (param in form._utm_tagged = !0, ref = this._utmParamsMap) fieldName = ref[param], this.addFormElem(form, fieldName, this.utmCookie.readCookie(param));
+            for (param in ref1 = this._additionalParamsMap) fieldName = ref1[param], this.addFormElem(form, fieldName, this.utmCookie.readCookie(param));
+            this.addFormElem(form, this._initialReferrerField, this.utmCookie.initialReferrer()), this.addFormElem(form, this._lastReferrerField, this.utmCookie.lastReferrer()), this.addFormElem(form, this._initialLandingPageField, this.utmCookie.initialLandingPageUrl()), this.addFormElem(form, this._visitsField, this.utmCookie.visits())
+        }
+    }
+    addFormElem(form, fieldName, fieldValue) {
+        this.insertAfter(this.getFieldEl(fieldName, fieldValue), form.lastChild)
+    }
+    getFieldEl(fieldName, fieldValue) {
+        var fieldEl;
+        return (fieldEl = document.createElement("input")).type = "hidden", fieldEl.name = fieldName, fieldEl.value = this._decodeURIs ? decodeURIComponent(fieldValue) : fieldValue, fieldEl
+    }
+    insertAfter(newNode, referenceNode) {
+        return referenceNode.parentNode.insertBefore(newNode, referenceNode.nextSibling)
+    }
+}, _uf = window._uf || {}, window.UtmForm = new UtmForm(_uf);
+  
+</script>
+<!-- End UTM Passthrough Javascript --></body></html>
+
+
+

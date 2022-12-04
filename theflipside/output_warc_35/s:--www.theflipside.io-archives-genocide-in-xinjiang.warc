@@ -1,0 +1,221 @@
+WARC/1.0
+WARC-Type: response
+WARC-Date: 2021-07-24T14:38:57Z
+WARC-Record-ID: <urn:uuid:74683953-ef00-401f-ad98-20204375b8b0>
+Content-Length: 37594
+Content-Type: application/http; msgtype=response
+WARC-Warcinfo-ID: <urn:uuid:365ea13c-ea3f-4764-a9b5-554dcf64b9c4>
+WARC-Concurrent-To: <urn:uuid:1a1e6578-0b1f-48bb-b318-9e31202c4998>
+WARC-IP-Address: 184.73.183.75
+WARC-Target-URI: https://www.theflipside.io/archives/genocide-in-xinjiang
+WARC-Payload-Digest: sha1:X7JW7K6VNVLWIN4SOB5EMQXPRMCCJYT6
+WARC-Block-Digest: sha1:VIAMZDD6OYWUN4OUAWVAFVUZLL6YQDBM
+WARC-Identified-Payload-Type: text/html
+
+HTTP/1.1 200 OK
+Server: openresty
+Date: Sat, 24 Jul 2021 14:38:57 GMT
+Content-Type: text/html
+X-Crawler-Content-Length: 13493
+Content-Length: 36991
+Connection: keep-alive
+X-Crawler-Content-Encoding: gzip
+content-security-policy: frame-ancestors 'self'
+x-frame-options: SAMEORIGIN
+x-lambda-id: f673aedf-0b13-4055-b9f8-6e83f3d1deab
+Via: 1.1 varnish, 1.1 varnish
+Accept-Ranges: bytes
+Age: 0
+X-Served-By: cache-dca17744-DCA, cache-bwi5029-BWI
+X-Cache: MISS, MISS
+X-Cache-Hits: 0, 0
+X-Timer: S1627137537.443505,VS0,VE395
+Vary: Accept-Encoding
+X-Cluster-Name: us-east-1-prod-edge-eks-15
+
+<!DOCTYPE html><!-- Last Published: Fri Jul 16 2021 13:54:28 GMT+0000 (Coordinated Universal Time) --><html data-wf-domain="www.theflipside.io" data-wf-page="5c0affae2387a21ad549fb85" data-wf-site="5bfd76c121f9503755c665f9" lang="en"><head><meta charset="utf-8"/><title>Genocide in Xinjiang | The Flip Side</title><meta content="Genocide in Xinjiang" name="description"/><meta content="Genocide in Xinjiang | The Flip Side" property="og:title"/><meta content="Get the most intelligent quotes from both sides—in a free, 5-minute email a day." property="og:description"/><meta content="https://assets-global.website-files.com/5c01d9d275e85a6371ce6d1e/5c4e9148fe98b202812657bb_bears%20working%20together.png" property="og:image"/><meta content="Genocide in Xinjiang | The Flip Side" property="twitter:title"/><meta content="Get the most intelligent quotes from both sides—in a free, 5-minute email a day." property="twitter:description"/><meta content="https://assets-global.website-files.com/5c01d9d275e85a6371ce6d1e/5c4e9148fe98b202812657bb_bears%20working%20together.png" property="twitter:image"/><meta property="og:type" content="website"/><meta content="summary_large_image" name="twitter:card"/><meta content="width=device-width, initial-scale=1" name="viewport"/><link href="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/css/the-flipside.fbc9acc7e.min.css" rel="stylesheet" type="text/css"/><script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript"></script><script type="text/javascript">WebFont.load({  google: {    families: ["Lato:100,100italic,300,300italic,400,400italic,700,700italic,900,900italic"]  }});</script><script src="https://use.typekit.net/ief5vbu.js" type="text/javascript"></script><script type="text/javascript">try{Typekit.load();}catch(e){}</script><!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js" type="text/javascript"></script><![endif]--><script type="text/javascript">!function(o,c){var n=c.documentElement,t=" w-mod-";n.className+=t+"js",("ontouchstart"in o||o.DocumentTouch&&c instanceof DocumentTouch)&&(n.className+=t+"touch")}(window,document);</script><link href="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5c03871b75e85a9d2ecf243a_favicon-32x32.png" rel="shortcut icon" type="image/x-icon"/><link href="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5c038790f4cf11a559cd3a57_webclip256.png" rel="apple-touch-icon"/><link href="rss.xml" rel="alternate" title="RSS Feed" type="application/rss+xml"/><script type="text/javascript">!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.agent='plwebflow';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');fbq('init', '420932135099202');fbq('track', 'PageView');</script><!-- Async Anti-Flicker Code -->
+
+<style>.async-hide { opacity: 0 !important} </style>
+<script>(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+(a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+})(window,document.documentElement,'async-hide','dataLayer',4000,
+{'GTM-58K3PC7':true});</script>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-58K3PC7');</script>
+<!-- End Google Tag Manager -->
+
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<!-- Memberstack --> 
+<script src="https://api.memberstack.io/static/memberstack.js?webflow" data-memberstack-id="dd4b66b62c37ef91c54289827c1f3114"> </script>
+<meta name="facebook-domain-verification" content="iwu96sl48x7iyi5jym4ncc45zdaz8e" /><style>
+@media (max-width: 479px) {
+  .paragraph-div a {
+  	  font-size: 17px;
+    	line-height: 24px; }
+      
+  .on-the-bright-side a {
+  	  font-size: 17px;
+    	line-height: 24px; }
+}
+@media (max-width: 767px) {
+	.div-block-38 a {
+  	  font-size: 17px; 
+    	line-height: 24px; 
+}	
+  .paragraph-div a {
+  	  font-size: 17px;
+    	line-height: 26px; }
+      
+.on-the-bright-side a {
+  	  font-size: 17px;
+    	line-height: 26px; }
+}
+.w-nav-overlay {
+    z-index: 1002 !important;
+}
+</style></head><body class="body"><div data-collapse="medium" data-animation="over-right" data-duration="400" role="banner" class="navbar w-nav"><nav role="navigation" class="nav-menu w-nav-menu"><div class="nav-open-menu-links"><a href="/latest-issue" class="nav-open-menu-item mobile latest-issue w-nav-link">Latest Issue</a><a href="/archives" class="nav-open-menu-item mobile w-nav-link">Archives</a><a href="/about-us" class="nav-open-menu-item mobile w-nav-link">About Us</a><a href="/faq" class="nav-open-menu-item mobile faq w-nav-link">FAQ</a></div><div class="nav-menu-newsletter"><div class="form-block mobile w-form"><form id="email-form" name="email-form" data-name="Email Form" redirect="/one-more-thing" data-redirect="/one-more-thing" action="https://theflipside.us15.list-manage.com/subscribe/post?u=281c839c990f42b374467ae5f&amp;amp;id=7566a2ca43&quot; method=&quot;post&quot; id=&quot;mc-embedded-subscribe-form&quot; name=&quot;mc-embedded-subscribe-form" method="post" class="form mobile"><div class="text-block">GET TROLL-FREE POLITICAL NEWS</div><input type="email" class="text-field mobile w-input" maxlength="256" name="email-2" data-name="Email 2" placeholder="your email address" id="email-2" required=""/><input type="submit" value="I want to keep up with both sides &gt;" data-wait="Please wait..." class="submit-button mobile w-button"/><div class="text-block-2">We never spam and only send awesome news digests. Unsubscribe any time.</div></form><div class="w-form-done"><div>Thank you! Your submission has been received!</div></div><div class="w-form-fail"><div>Oops! Something went wrong while submitting the form.</div></div></div></div></nav><div data-w-id="83b1dd7a-785a-0585-a0c0-e44f2b23d2b5" class="nav-bar navbarother"><a href="/home-2-0" class="nav-logo w-nav-brand"><img src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5c018cd0879ec8a3e5fc263b_TFS%20Logo-n.png" alt="Logo" width="125" class="image-22 logo"/></a><div class="div-right header w-hidden-medium w-hidden-small w-hidden-tiny"><div class="nav-menu-links flex"><a href="/latest-issue" class="nav-link small w-nav-link">LATEST ISSUE</a><a href="/archives" class="nav-link small w-nav-link">ARCHIVES</a><a href="/about-us" class="nav-link small w-nav-link">ABOUT US</a><a href="/faq" class="nav-link small faq w-nav-link">FAQ</a></div></div><div class="div-right header w-hidden-medium w-hidden-small w-hidden-tiny"><div class="header-form w-form"><form id="email-form-2" name="email-form-2" data-name="Email Form 2" method="post" action="https://theflipside.us15.list-manage.com/subscribe/post?u=281c839c990f42b374467ae5f&amp;amp;id=7566a2ca43&quot; method=&quot;post&quot; id=&quot;mc-embedded-subscribe-form&quot; name=&quot;mc-embedded-subscribe-form" redirect="/one-more-thing" data-redirect="/one-more-thing" class="form-3"><input type="email" class="email-address-field-grey header w-input" maxlength="256" name="hero-optin-2" data-name="Hero Optin 2" placeholder="your email address" id="hero-optin-2" required=""/><div class="w-embed"><input type="hidden" name="MMERGE1" value="desk-menu"/></div><input type="submit" value="Subscribe &gt;" data-wait="Please wait..." id="https-theflipside.us15.list-manage.com-subscribe-post-u-281c839c990f42b374467ae5f-id-a0c19d8bf4" class="submit-button hero header w-button"/></form><div class="w-form-done"><div>Thank you! Your submission has been received!</div></div><div class="w-form-fail"><div>Oops! Something went wrong while submitting the form.</div></div></div></div></div><div class="menu-button-nav w-nav-button" data-ix="hamburger-button"><div class="top-line"></div><div class="middle-line"></div><div class="bottom-line"></div></div></div><div class="section-3 wf-section"><div><h1 class="heading-16">January 20, 2021</h1><h1 class="heading-17">Genocide in Xinjiang</h1><div class="container-8 w-container"><div class="rich-text-block-4 w-dyn-bind-empty w-richtext"></div><img src="https://assets-global.website-files.com" alt="" class="image-48 w-dyn-bind-empty"/><div class="paragraph-div"><div class="rich-text-block-2 w-richtext"><p>“The Trump administration has determined that <a href="https://www.reuters.com/article/usa-china-genocide/in-parting-shot-trump-administration-declares-chinas-repression-of-uighurs-genocide-idUSL8N2JS00K" target="_blank">China has committed ‘genocide and crimes against humanity’</a> in its repression of Uighur Muslims in its Xinjiang region, U.S. Secretary of State Mike Pompeo said on Tuesday.” <strong>Reuters</strong><br/><br/><strong><em>Both sides agree that China’s actions amount to genocide and call for a strong response:</em></strong><br/><br/>Secretary of State Michael Pompeo writes, “The facts are chilling. Since 2017, the Communist Party has <a href="https://www.wsj.com/articles/genocide-in-xinjiang-11611078180" target="_blank">forced more than a million people into internment camps</a> in the Xinjiang region, on the pretext that they need ‘re-education.’ Arbitrary and indefinite detentions lasting months or years at a time are common inside this modern gulag. Survivors tell of torture, sexual abuse including rape, forced labor, the use of electric shock to extract false confessions, and unexplained deaths… <br/><br/>“Of particular repugnance… is the Communist Party’s efforts to stop Uighur women from giving birth via forced abortion and sterilization. Involuntary contraception measures, such as forced insertions of intrauterine devices, are also deployed. ‘They want to destroy us as a people,’ said one such victim. The party has coerced Uighur women to marry non-Uighur men, and separated Uighur children from their families. Birthrates in Xinjiang dropped roughly 24% from 2018 to 2019, compared with a 4.2% decline across China overall. Not every campaign of genocide involves gas chambers or firing squads.”<br/><strong>Michael R. Pompeo, Wall Street Journal</strong><br/><br/>“There’s no legal requirement for the new administration to do anything. But the Biden team will have a moral responsibility and a national security imperative to act. Ignoring a genocide would only lead to expanded repression, which will lead to more instability and more extremism by the victims. The Biden team should impose more sanctions on the perpetrators and initiate more international diplomacy to bring others on board… <br/><br/>“That will surely anger the Chinese Communist Party and further complicate efforts to have smooth relations, but <a href="https://www.washingtonpost.com/opinions/2021/01/19/trump-state-departments-final-act-calling-out-china-genocide/" target="_blank">Beijing is always angry and relations are going to be complicated</a> anyway. The Biden administration won’t be able to ignore the ongoing genocide in China — so it might as well do the right thing and try to stop it.”<br/><strong>Josh Rogin, Washington Post</strong><br/><br/>“The Trump administration took several important steps that preceded the issuance of the determination, including the sanctioning of Chen Quanguo and other Chinese Communist Party leaders and entities responsible for carrying out these human rights violations. The administration has also prioritized stopping goods produced with forced labor in Xinjiang from entering the U.S. market. Last week, U.S. Customs and Border Protection expanded its withhold release orders to all cotton and tomatoes produced in Xinjiang, effectively banning them from U.S. markets… <br/><br/>“Next steps can and should include extending priority-2 refugee status to Uighurs, continuing to combat and upping the ante on efforts to combat forced labor, and identifying additional individuals and entities in the Chinese Communist Party ripe for sanctioning. Today’s atrocity determination should not be seen as an apex of policy achievements, but rather as a <a href="https://www.dailysignal.com/2021/01/19/how-the-us-should-respond-to-genocide-in-xinjiang/" target="_blank">call to action for other countries to join the U.S.</a> in responding to a crisis that will go down in history as among the worst.”<br/><strong>Olivia Enos, Daily Signal</strong><br/><br/>“State surveillance in Xinjiang is so pervasive that witnesses are unlikely to tell the truth even when they haven’t been actively intimidated out of speaking. Forced labor is deeply integrated in the local economy, and sometimes mixed with unforced labor. This is convenient for U.S. manufacturers who can boast of audits coming out clean — even as they’re aware that little produced in the region is actually untainted… <br/><br/>“The Uyghur Forced Labor Prevention Act, which passed the House of Representatives 403 to 6 this fall and whose fate now lies with the Senate, would flip the burden of proof to line up with reality. Firms would have to demonstrate that their imports from Xinjiang are <em>not </em>made with forced labor… <br/><br/>“Companies whose products depend on inputs such as cotton, tomatoes and polysilicon, reportedly including Coca-Cola and Nike, are lobbying the Senate to dilute the measure: Providing proof of the absence of forced labor in a region riddled with it will prove costly in some cases and impossible in most others, they argue. These corporations may simply cease sourcing from Xinjiang altogether. But <a href="https://www.washingtonpost.com/opinions/congress-has-a-chance-to-strike-a-blow-against-chinese-forced-labor/2020/12/04/d1f80f48-3584-11eb-8d38-6aea1adb3839_story.html" target="_blank">would that be such a bad thing?</a> At best, the Chinese regime will feel the pain in time and alter its practices, especially if allied countries follow suit. At worst, this country’s companies won’t be complicit in crimes against humanity.”<br/><strong>Editorial Board, Washington Post</strong><br/><br/><strong><em>Other opinions below.</em></strong></p></div><a href="/archives" class="link-6">See past issues</a></div></div><img src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5bfee82d95c45605590f6387_bear-badge.png" width="114" alt="" class="image archives"/><div class="columns w-row"><div class="blue-divider w-col w-col-6 w-col-small-6 w-col-tiny-6"><div class="div-block-2"></div></div><div class="red-divider w-col w-col-6 w-col-small-6 w-col-tiny-6"><div class="div-block-3"></div></div></div><div class="div-block-38"><div class="columns-15 w-row"><div class="column-60 w-clearfix w-col w-col-6 w-col-small-6 w-col-tiny-tiny-stack"><h1 class="from-the-left-heading">From the Left</h1><h1 class="from-the-left-heading sponsored w-dyn-bind-empty"></h1><div class="paragraph-6 left intro w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 left bullet first w-richtext"><p>“Human rights activists and media outlets have been urging the international community to describe what’s happening in Xinjiang as ‘genocide’ for some time now… <br/><br/>“Still—it’s hard not to view Pompeo’s declaration with some cynicism. It’s true that the Trump administration has slapped harsh sanctions on Chinese officials and government entities for their involvement in abuses in Xinjiang in recent months and just last week banned imports of tomatoes and cotton from the region. But Trump has also been very open about the fact that he held off on such sanctions while he was negotiating a trade deal with China… And it’s not exactly a profile in courage for Pompeo to level this inflammatory charge at Beijing when he won’t have to deal with the fallout. <a href="https://slate.com/news-and-politics/2021/01/china-genocide-uighurs-pompeo-trump-biden.html" target="_blank">This feels less like a principled stand than yet another last-minute effort to box Biden in</a>.”<br/><strong>Joshua Keating, Slate</strong></p></div><div class="paragraph-6 left bullet first sponsored w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 left bullet w-richtext"><p>“The fact that so many people seem to be turning a blind eye to what’s happening to the Uighurs, the fact that the Chinese government feels emboldened to crow about declining Uighur birth rates on social media, demonstrates the extent to which Muslims have been dehumanized by the ‘war on terror.’… <br/><br/>“<a href="https://www.theguardian.com/commentisfree/2021/jan/09/china-forced-sterilizations-feminist-rebrand" target="_blank">The west must hold China to account for what is happening to the Uighurs but it must also hold itself accountable</a>. After 9/11 you could infringe civil liberties with impunity in the name of combating extremism. Michael Bloomberg, for example, has never apologized for an unconstitutional mass surveillance program targeting Muslims after 9/11; indeed, he’s justified it. ‘Of course we’re supposed to do that,’ he said. Treat a huge group of people as if every single one of them is a potential terrorist? That’s what you’re supposed to do? Because that’s exactly what is happening in Xinjiang.”<br/><strong>Arwa Mahdawi, The Guardian</strong></p></div><div class="paragraph-6 left bullet w-richtext"><p>Finally, “The re-education camps are inseparable from <a href="https://www.thenation.com/article/world/xinjiang-uigher-camps/" target="_blank">a corporate and government-led drive to capitalize on Xinjiang’s resources and people</a>. The region supplies about 20 percent of the nation’s oil and gas and about 20 percent of the world’s tomatoes and cotton… <br/><br/>“For all the talk by US politicians of promoting human rights and decoupling from China, they know that US companies profit from this race-to-the-bottom globalization and that separating the US economy from China’s will not happen anytime soon. From this perspective, the re-education camps implicate more than just the Chinese state… The ultimate agency, of course, lies with Chinese companies and institutions. But it is also impossible to understand why these problems are so endemic without looking at global economic dynamics.”<br/><strong>A. Liu, The Nation</strong></p></div><div class="paragraph-6 left bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 left bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 left bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 left bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 left bullet w-dyn-bind-empty w-richtext"></div></div><div class="column-61 w-clearfix w-col w-col-6 w-col-small-6 w-col-tiny-tiny-stack"><h1 class="from-the-right-heading">From the Right</h1><h1 class="from-the-right-heading sponsored w-dyn-bind-empty"></h1><div class="paragraph-6 right intro w-hidden-tiny w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 right intro w-hidden-main w-hidden-medium w-hidden-small w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 right bullet first w-richtext"><p>“The barbaric conduct that Pompeo has now deemed crimes against humanity and genocide stems from the Communist Party’s desire to annihilate the Uyghurs and other Turkic Muslims it has sought to supplant with Han Chinese settlers. As senior administration officials put it this afternoon, China’s actions aren’t at first blush the same as the mass killings at Srebrenica and in Rwanda. They are instead ‘a very patient evil,’ <a href="https://www.nationalreview.com/2021/01/the-u-s-officially-recognizes-chinas-uyghur-genocide/" target="_blank">designed to erase the Uyghurs over time</a> through methods both tried-and-true and experimental…  [yesterday’s] decision is the world’s most significant step yet toward holding the CCP accountable for its actions.”<br/><strong>Jimmy Quinn, National Review</strong></p></div><div class="paragraph-6 right bullet first sponsored w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 right bullet w-richtext"><p>“Unfortunately, what China is doing to the Uighurs is just one example of how it approaches international trade. If Beijing is willing to turn its own people into slaves, we should have no delusions as to why it treats the rest of us so poorly. The evidence is clear. What China can make with slaves, it makes. What intellectual property China cannot access with legitimate contracts, it steals. What China cannot outcompete, it overwhelms with political pressure. When China is challenged on such actions, it feigns outrage… <br/><br/>“We should not stand for China’s abuses at home and its arrogance abroad — especially when, as with the Uighurs, the consequence is destroyed lives, not simple economics. As it was right to end the domestic cotton slave trade in the 19th century, the U.S. is right to oppose the foreign slave trade in the 21st century. <a href="https://www.washingtonexaminer.com/opinion/editorials/welcome-the-uighur-cotton-ban" target="_blank">Let our democratic allies take example</a>.”<br/><strong>Editorial Board, Washington Examiner</strong></p></div><div class="paragraph-6 right bullet w-richtext"><p>Former national security adviser H.R. McMaster writes, “[it is a misunderstanding to think] that the United States has eschewed international cooperation to counter CCP aggression in favor of an ‘America alone’ approach… <br/><br/>“The [‘U.S. Strategic Framework for the Indo-Pacific’ from February 2018] cited alliances and partnerships as essential, with an emphasis on a ‘shared vision for a free and open Indo-Pacific.’ Cooperation has grown since 2017, as can be seen in the invigoration of ‘the Quad’ format (India, Japan, Australia and the United States), and growing law enforcement and intelligence cooperation against Chinese cyberwarfare and cyberespionage… <br/><br/>“The Chinese military in the past year has bludgeoned Indian soldiers to death along the Himalayan frontier, rammed and sunk a Vietnamese fishing boat in the South China Sea, and menaced Taiwan with its aircraft and naval vessels… <a href="https://www.washingtonpost.com/opinions/2021/01/18/mcmaster-biden-trump-china/" target="_blank">The CCP is a threat to the free world</a>: The choice for other nations is not between Washington and Beijing but between sovereignty and servitude.”<br/><strong>H.R. McMaster, Washington Post</strong></p></div><div class="paragraph-6 right bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 right bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 right bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 right bullet w-dyn-bind-empty w-richtext"></div><div class="paragraph-6 right bullet w-dyn-bind-empty w-richtext"></div></div></div><div class="w-row"><div class="column-60 w-col w-col-6 w-col-small-6 w-col-tiny-tiny-stack"></div><div class="column-61 w-col w-col-6 w-col-small-6 w-col-tiny-tiny-stack"></div></div><div class="w-layout-grid grid-7 w-clearfix"><div id="w-node-c982ddb1-5ced-6b21-8419-c9ca80732245-d549fb85" class="paragraph-6 wide center w-dyn-bind-empty w-richtext"></div><div id="w-node-c982ddb1-5ced-6b21-8419-c9ca80732246-d549fb85" class="paragraph-6 wide libertarian w-dyn-bind-empty w-richtext"></div></div></div><div class="additional-closing w-dyn-bind-empty w-richtext"></div><div style="border-color:#453158" class="on-the-bright-side"><h4 class="heading-18">On the bright side...</h4><div class="rich-text-block-3 w-richtext"><p><a href="https://www.boredpanda.com/dog-copy-injured-owner-limping" target="_blank">Injured dog owner spends $400 on vet for his limping dog only to find out he was copying the owner out of sympathy</a>.<br/><strong>Bored Panda</strong></p></div></div></div></div><div class="trollcta archive w-row"><div class="w-col w-col-6 w-col-stack"><div class="div-block-26 archive"><img src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5bfee82bbe4cd8508983a309_bear-0.png" alt="" class="bearhead archive"/><h2 class="heading-cta archive">Get troll-free political news.</h2></div></div><div class="w-col w-col-6 w-col-stack"><div class="w-clearfix w-form"><form id="email-form-2" name="email-form-2" data-name="Email Form 2" class="newsletter-form-fields faq"><input type="email" class="email-address-field-grey hero faq archive w-input" maxlength="256" name="hero-optin-2" data-name="Hero Optin 2" placeholder="your email address" id="hero-optin-2" required=""/><input type="submit" value="I want the best points from both sides        &gt;" data-wait="Please wait..." class="submit-button hero home faq archive w-button"/></form><div class="w-form-done"><div>Thank you! Your submission has been received!</div></div><div class="w-form-fail"><div>Oops! Something went wrong while submitting the form.</div></div></div></div></div><footer class="footer wf-section"><div class="columns-6 top-footer w-row"><div class="column-11 w-col w-col-4"><img src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5c800f4179da156500bd15f4_TFS%20-%20logo.svg" width="125" alt="Logo of The Flip Side" class="image-22 logo"/></div><div class="column-12 top-footer w-col w-col-4"><a id="w-node-f2f82e10-1a31-eb5f-ca00-8ef170fc7709-70fc7704" href="/latest-issue" class="footer-link w-inline-block"><div>LATEST ISSUE</div></a><a id="w-node-f2f82e10-1a31-eb5f-ca00-8ef170fc770c-70fc7704" href="/archives" class="footer-link w-inline-block"><div>ARCHIVES</div></a><a id="w-node-f2f82e10-1a31-eb5f-ca00-8ef170fc770f-70fc7704" href="/about-us" class="footer-link w-inline-block"><div>ABOUT US</div></a><a id="w-node-f2f82e10-1a31-eb5f-ca00-8ef170fc7715-70fc7704" href="/media" class="footer-link w-inline-block"><div>MEDIA</div></a><a id="w-node-f2f82e10-1a31-eb5f-ca00-8ef170fc7712-70fc7704" href="/supporters" class="footer-link w-inline-block"><div>SUPPORTERS</div></a><a id="w-node-_87649ec8-d9e2-88e8-e2f7-a3c8f39c81e0-70fc7704" href="/faq" class="footer-link w-inline-block"><div>FAQ</div></a></div><div class="column-13 top-footer w-col w-col-4"><a href="https://www.facebook.com/KnowTheFlipSide/" class="link-block w-inline-block"><img src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5ec52bd498978ddc3785cf6e_facebook.svg" width="30" height="30" alt="Facebook"/></a><a href="http://twitter.com/knowtheflipside" class="link-block-2 w-inline-block"><img src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5ec52bd48143fd994f2ed9d1_twitter.svg" width="30" height="30" alt="Twitter"/></a><a href="mailto:editor@theflipside.io?subject=%5BFlipSide%20Website%20Inquiry%5D" class="w-inline-block"><img src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/5ec52bd493802b79cc062997_email.svg" width="30" height="30" alt="Email"/></a></div></div><div class="columns-6 bottom-footer w-row"><div class="column-11 bottom-footer w-col w-col-3"><div class="text-block-15">COPYRIGHT © 2020</div></div><div class="column-12 bottom-footer w-col w-col-5"></div><div class="column-13 bottom-footer w-col w-col-4"><a href="/terms" class="link-block-2 terms w-inline-block"><div class="text-block-31">PRIVACY POLICY</div></a><div class="link-block-2 terms divider">|</div><a href="https://www.functionlabs.com" class="link-block-2 terms function w-inline-block"><div class="text-block-32">WEBSITE BY FUNCTION LABS</div></a></div></div></footer><script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=5bfd76c121f9503755c665f9" type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script><script src="https://assets-global.website-files.com/5bfd76c121f9503755c665f9/js/the-flipside.d9a9cbed5.js" type="text/javascript"></script><!--[if lte IE 9]><script src="//cdnjs.cloudflare.com/ajax/libs/placeholders/3.0.2/placeholders.min.js"></script><![endif]--><!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-58K3PC7"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<!-- UTM Passthrough Javascript -->
+
+<script type="text/javascript" charset="utf-8">
+var UtmCookie, UtmForm, _uf;
+UtmCookie = class {
+    constructor(options = {}) {
+        this._cookieNamePrefix = "_uc_", this._domain = options.domain, this._sessionLength = options.sessionLength || 1, this._cookieExpiryDays = options.cookieExpiryDays || 365, this._additionalParams = options.additionalParams || [], this._utmParams = ["utm_source", "utm_medium", "utm_campaign", "utm_term", "utm_content"], this.writeInitialReferrer(), this.writeLastReferrer(), this.writeInitialLandingPageUrl(), this.setCurrentSession(), this.additionalParamsPresentInUrl() && this.writeAdditionalParams(), this.utmPresentInUrl() && this.writeUtmCookieFromParams()
+    }
+    createCookie(name, value, days, path, domain, secure) {
+        var cookieDomain, cookieExpire, cookiePath, cookieSecure, date, expireDate;
+        expireDate = null, days && ((date = new Date).setTime(date.getTime() + 24 * days * 60 * 60 * 1e3), expireDate = date), cookieExpire = null != expireDate ? "; expires=" + expireDate.toGMTString() : "", cookiePath = null != path ? "; path=" + path : "; path=/", cookieDomain = null != domain ? "; domain=" + domain : "", cookieSecure = null != secure ? "; secure" : "", document.cookie = this._cookieNamePrefix + name + "=" + escape(value) + cookieExpire + cookiePath + cookieDomain + cookieSecure
+    }
+    readCookie(name) {
+        var c, ca, i, nameEQ;
+        for (nameEQ = this._cookieNamePrefix + name + "=", ca = document.cookie.split(";"), i = 0; i < ca.length;) {
+            for (c = ca[i];
+                " " === c.charAt(0);) c = c.substring(1, c.length);
+            if (0 === c.indexOf(nameEQ)) return c.substring(nameEQ.length, c.length);
+            i++
+        }
+        return null
+    }
+    eraseCookie(name) {
+        this.createCookie(name, "", -1, null, this._domain)
+    }
+    getParameterByName(name) {
+        var results;
+        return name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]"), (results = new RegExp("[\\?&]" + name + "=([^&#]*)").exec(window.location.search)) ? decodeURIComponent(results[1].replace(/\+/g, " ")) : ""
+    }
+    additionalParamsPresentInUrl() {
+        var j, len, param, ref;
+        for (j = 0, len = (ref = this._additionalParams).length; j < len; j++)
+            if (param = ref[j], this.getParameterByName(param)) return !0;
+        return !1
+    }
+    utmPresentInUrl() {
+        var j, len, param, ref;
+        for (j = 0, len = (ref = this._utmParams).length; j < len; j++)
+            if (param = ref[j], this.getParameterByName(param)) return !0;
+        return !1
+    }
+    writeCookie(name, value) {
+        this.createCookie(name, value, this._cookieExpiryDays, null, this._domain)
+    }
+    writeAdditionalParams() {
+        var j, len, param, ref, value;
+        for (j = 0, len = (ref = this._additionalParams).length; j < len; j++) param = ref[j], value = this.getParameterByName(param), this.writeCookie(param, value)
+    }
+    writeUtmCookieFromParams() {
+        var j, len, param, ref, value;
+        for (j = 0, len = (ref = this._utmParams).length; j < len; j++) param = ref[j], value = this.getParameterByName(param), this.writeCookie(param, value)
+    }
+    writeCookieOnce(name, value) {
+        this.readCookie(name) || this.writeCookie(name, value)
+    }
+    _sameDomainReferrer(referrer) {
+        var hostname;
+        return hostname = document.location.hostname, referrer.indexOf(this._domain) > -1 || referrer.indexOf(hostname) > -1
+    }
+    _isInvalidReferrer(referrer) {
+        return "" === referrer || void 0 === referrer
+    }
+    writeInitialReferrer() {
+        var value;
+        value = document.referrer, this._isInvalidReferrer(value) && (value = "direct"), this.writeCookieOnce("referrer", value)
+    }
+    writeLastReferrer() {
+        var value;
+        value = document.referrer, this._sameDomainReferrer(value) || (this._isInvalidReferrer(value) && (value = "direct"), this.writeCookie("last_referrer", value))
+    }
+    writeInitialLandingPageUrl() {
+        var value;
+        (value = this.cleanUrl()) && this.writeCookieOnce("initial_landing_page", value)
+    }
+    initialReferrer() {
+        return this.readCookie("referrer")
+    }
+    lastReferrer() {
+        return this.readCookie("last_referrer")
+    }
+    initialLandingPageUrl() {
+        return this.readCookie("initial_landing_page")
+    }
+    incrementVisitCount() {
+        var existingValue, newValue;
+        existingValue = parseInt(this.readCookie("visits"), 10), newValue = 1, newValue = isNaN(existingValue) ? 1 : existingValue + 1, this.writeCookie("visits", newValue)
+    }
+    visits() {
+        return this.readCookie("visits")
+    }
+    setCurrentSession() {
+        this.readCookie("current_session") || (this.createCookie("current_session", "true", this._sessionLength / 24, null, this._domain), this.incrementVisitCount())
+    }
+    cleanUrl() {
+        var cleanSearch;
+        return cleanSearch = window.location.search.replace(/utm_[^&]+&?/g, "").replace(/&$/, "").replace(/^\?$/, ""), window.location.origin + window.location.pathname + cleanSearch + window.location.hash
+    }
+}, UtmForm = class {
+    constructor(options = {}) {
+        this._utmParamsMap = {}, this._utmParamsMap.utm_source = options.utm_source_field || "USOURCE", this._utmParamsMap.utm_medium = options.utm_medium_field || "UMEDIUM", this._utmParamsMap.utm_campaign = options.utm_campaign_field || "UCAMPAIGN", this._utmParamsMap.utm_content = options.utm_content_field || "UCONTENT", this._utmParamsMap.utm_term = options.utm_term_field || "UTERM", this._additionalParamsMap = options.additional_params_map || {}, this._initialReferrerField = options.initial_referrer_field || "IREFERRER", this._lastReferrerField = options.last_referrer_field || "LREFERRER", this._initialLandingPageField = options.initial_landing_page_field || "ILANDPAGE", this._visitsField = options.visits_field || "VISITS", this._addToForm = options.add_to_form || "all", this._formQuerySelector = options.form_query_selector || "form", this._decodeURIs = options.decode_uris || !1, this.utmCookie = new UtmCookie({
+            domain: options.domain,
+            sessionLength: options.sessionLength,
+            cookieExpiryDays: options.cookieExpiryDays,
+            additionalParams: Object.getOwnPropertyNames(this._additionalParamsMap)
+        }), this.addAllFields()
+    }
+    addAllFields() {
+        var allForms, i, len;
+        for (allForms = document.querySelectorAll(this._formQuerySelector), len = "none" === this._addToForm ? 0 : "first" === this._addToForm ? Math.min(1, allForms.length) : allForms.length, i = 0; i < len;) this.addAllFieldsToForm(allForms[i]), i++
+    }
+    addAllFieldsToForm(form) {
+        var fieldName, param, ref, ref1;
+        if (form && !form._utm_tagged) {
+            for (param in form._utm_tagged = !0, ref = this._utmParamsMap) fieldName = ref[param], this.addFormElem(form, fieldName, this.utmCookie.readCookie(param));
+            for (param in ref1 = this._additionalParamsMap) fieldName = ref1[param], this.addFormElem(form, fieldName, this.utmCookie.readCookie(param));
+            this.addFormElem(form, this._initialReferrerField, this.utmCookie.initialReferrer()), this.addFormElem(form, this._lastReferrerField, this.utmCookie.lastReferrer()), this.addFormElem(form, this._initialLandingPageField, this.utmCookie.initialLandingPageUrl()), this.addFormElem(form, this._visitsField, this.utmCookie.visits())
+        }
+    }
+    addFormElem(form, fieldName, fieldValue) {
+        this.insertAfter(this.getFieldEl(fieldName, fieldValue), form.lastChild)
+    }
+    getFieldEl(fieldName, fieldValue) {
+        var fieldEl;
+        return (fieldEl = document.createElement("input")).type = "hidden", fieldEl.name = fieldName, fieldEl.value = this._decodeURIs ? decodeURIComponent(fieldValue) : fieldValue, fieldEl
+    }
+    insertAfter(newNode, referenceNode) {
+        return referenceNode.parentNode.insertBefore(newNode, referenceNode.nextSibling)
+    }
+}, _uf = window._uf || {}, window.UtmForm = new UtmForm(_uf);
+  
+</script>
+<!-- End UTM Passthrough Javascript --></body></html>
+
+
+
